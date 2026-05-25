@@ -9,12 +9,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2025-34291,"Langflow Langflow, kev","Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
-2026-05-18,threatfox,URL,http://188.137.241.213/get.php,"unknown, url",
-2026-05-18,threatfox,URL,https://policiacivilmg.com/zto/,"unknown, url",
-2026-05-18,threatfox,URL,http://144.31.203.24/,"win.smokeloader, url",
-2026-05-18,threatfox,URL,http://144.31.203.12/,"win.smokeloader, url",
-2026-05-18,threatfox,URL,https://marinaradom.cfd/,"unknown, url",
-2026-05-18,threatfox,URL,http://144.31.158.255/,"win.smokeloader, url",
 2026-05-18,threatfox,URL,http://cdntestconnect.com/ed54b97a570943999715.php,"win.stealc, url",
 2026-05-18,threatfox,URL,http://108.59.252.214/9290546939c94eebbdb2.php,"win.stealc, url",
 2026-05-18,threatfox,URL,http://95.85.236.66/cd44fb36ede645bf842e.php,"win.stealc, url",
@@ -430,23 +424,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,https://sites.google.com/view/clau-ver-un-v25,"unknown_stealer, url",
 2026-05-25,threatfox,URL,https://schluter.lol/api/v1/session,"js.kongtuke, url",
 2026-05-25,threatfox,URL,https://schluter.lol/api/v1/verify,"js.kongtuke, url",
-2026-05-18,threatfox,DOMAIN,activitymeal.space,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,pcapshay-bute-gard-source.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,sinkwash.space,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,wilder-flow-work-lmsystem.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,kittenschalk.xyz,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,governmentyard.cfd,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,isellchildren.online,"elf.mirai, domain",
-2026-05-18,threatfox,DOMAIN,distributiontheory.cfd,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,ttcxdljiue.cn,"win.valley_rat, domain",
-2026-05-18,threatfox,DOMAIN,volcanopin.xyz,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,rosegrip.xyz,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,slashbob-distrib-plat-form.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,whistlebook.cfd,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,doorsoap.cfd,"unknown_loader, domain",
-2026-05-18,threatfox,DOMAIN,q41liphc.packet-vector.digital,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,c5ylbfsw.packet-vector.digital,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,packet-vector.digital,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,vbytelot-mead-automation-form.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,porthot-irr-gation-menthub.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,radiopin-botn-monitor-in-gengine.garden,"js.clearfake, domain",
@@ -2298,6 +2275,12 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,schluter.lol,"js.kongtuke, domain",
 2026-05-25,threatfox,DOMAIN,vdbkti.ispilates.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,dogqal.ispilates.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,ycmztd.kokeny.com,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,nqdscr.kokeny.com,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,glsvuu.knminerals.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,spbbay.knminerals.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,htfnjw.jatekotmindenkinek.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,cqwaew.jatekotmindenkinek.hu,"js.clearfake, domain",
 2026-05-18,threatfox,HASH_SHA256,f581012ea6faaff213d79db7ea93194a423a419870d0db664b90a0db6ae4088b,"js.kongtuke, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,3aaae158a84409dbc3202b174005ed9acf39ca7f3785dbff07c56be928ff011f,"js.kongtuke, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,833a0e0ed8bc34a1af0fbb43c56f7bea2c73dde2295f4df2e2c27011d70f52fa,"js.kongtuke, sha256_hash",
@@ -4200,6 +4183,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,URL,https://www.ocn.webmail.convertauth.icu,,
 2026-05-25,tweetfeed,URL,https://fseitalia.es/c/abf99046-6f6c-42d0-bf73-c003eb244993,,
 2026-05-25,tweetfeed,URL,http://updates-check-microsoft.ddns.net:443,,
+2026-05-25,tweetfeed,URL,http://expegesterstay-hotel3check.com,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5705,6 +5689,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,ocn.webmail.convertauth.icu,,
 2026-05-25,tweetfeed,DOMAIN,fseitalia.es,,
 2026-05-25,tweetfeed,DOMAIN,dfreygr.cewwq.xyz,,
+2026-05-25,tweetfeed,DOMAIN,expegesterstay-hotel3check.com,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
