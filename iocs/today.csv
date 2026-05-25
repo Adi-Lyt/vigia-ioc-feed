@@ -25,6 +25,8 @@ date,user,type,ioc,tags,context
 2026-05-24,threatfox,URL,http://45.81.234.64/10Gbins.sh,"unknown, url",
 2026-05-24,threatfox,URL,https://sites.google.com/view/xnewbrenow,"unknown_stealer, url",
 2026-05-24,threatfox,URL,http://rfidassist.com:5321,"win.remus, url",
+2026-05-25,threatfox,URL,https://eletrosoldaitumbiara.com.br/,"unknown, url",
+2026-05-25,threatfox,URL,http://209.99.186.230/69e263ad31aa46a5bc37.php,"win.stealc, url",
 2026-05-24,threatfox,DOMAIN,ygitqw.digital360.hu,"js.clearfake, domain",
 2026-05-24,threatfox,DOMAIN,gzle.io,"win.nanocore, domain",
 2026-05-24,threatfox,DOMAIN,gfirzz.dravencoffee.hu,"js.clearfake, domain",
@@ -188,6 +190,12 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,c56qm35r.proxy-orbit.digital,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,simplegiftsfarmcsa.com,"win.nanocore, domain",
 2026-05-25,threatfox,DOMAIN,sekaikan.org,"win.strelastealer, domain",
+2026-05-25,threatfox,DOMAIN,xredgj.holisztikuscsontkovacs.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,gnuvtk.holisztikuscsontkovacs.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,receipt-view.com,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,coinbase.receipt-view.com,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,torrrj.highlife-global.com,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,xrwunf.highlife-global.com,"js.clearfake, domain",
 2026-05-24,threatfox,HASH_SHA256,0c4c78306f1e9b1dca47a1bfe16f5d8474d6e6bb2a5f35790ce3ef822ae02e4d,"unknown, sha256_hash",
 2026-05-24,threatfox,HASH_SHA256,b10b14c401bb553a8c49c0a4c8bcb9e3a01c347397e666a5b683394d26ad4df2,"unknown, sha256_hash",
 2026-05-25,tweetfeed,URL,http://rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -2012,6 +2020,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,URL,http://naver-auth.s8liln.4nu00ypt6u.dynv6.net,"DPRK, Kimsuky",https://x.com/skocherhan/status/2058672128015106427
 2026-05-25,tweetfeed,URL,http://165.154.52.21,"DPRK, Kimsuky",https://x.com/skocherhan/status/2058672128015106427
 2026-05-25,tweetfeed,URL,https://www.ocn.webmail.convertauth.icu,,
+2026-05-25,tweetfeed,URL,https://fseitalia.es/c/abf99046-6f6c-42d0-bf73-c003eb244993,,
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
 2026-05-25,tweetfeed,DOMAIN,xwjyzxf-jp77.icu,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,DOMAIN,kessfullington.com,,https://x.com/_tdatwja/status/2056552979088789980
@@ -3512,6 +3521,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,naver-auth.s8liln.4nu00ypt6u.dynv6.net,"DPRK, Kimsuky",https://x.com/skocherhan/status/2058672128015106427
 2026-05-25,tweetfeed,DOMAIN,iforget.ubicacion-cloud.info,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,DOMAIN,ocn.webmail.convertauth.icu,,
+2026-05-25,tweetfeed,DOMAIN,fseitalia.es,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -3834,6 +3844,8 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,IP,194.87.31.69,,
 2026-05-25,tweetfeed,IP,178.130.46.120,,
 2026-05-25,tweetfeed,IP,193.228.128.2,,
+2026-05-25,tweetfeed,IP,179.43.186.239,,
+2026-05-25,tweetfeed,HASH_SHA256,647f968d18620d7d69fe51e67a7f2f83ddc8551716472d4468197e2dc8130a94,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
