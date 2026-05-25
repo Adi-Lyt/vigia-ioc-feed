@@ -346,9 +346,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,http://194.32.248.126/updates/Microsoft%20Windows%20PnP%20Device%20Driver%20Loader.exe,"unknown, url",
 2026-05-25,threatfox,URL,http://194.32.248.126/updates/Windows%20Update%20Elevated%20Service.exe,"unknown, url",
 2026-05-25,threatfox,URL,https://www.weissratings-billing.com/,"unknown, url",
-2026-05-18,threatfox,DOMAIN,floraautomationnetwork.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,meadowmanagementcenter.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,federatedplantplatform.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,petalworkflowengine.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,greenhousedeploymenthub.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,containerizedgardenhub.garden,"js.clearfake, domain",
@@ -1507,6 +1504,18 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,zawifk.liltkereskedohaz.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,wdplqn.liltkereskedohaz.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,zjehuv.liltkereskedohaz.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,lvavdb.nyitottkeramia.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,sbnsdns.beer,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,clainasns.beer,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,pjsxdd.nyitottkeramia.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,fmslna.nr1office.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,2hpvs1tu.microservice-compass.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,7louefau.microservice-compass.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,microservice-compass.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,legalreads.monster,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,equinixad.monster,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,wzkdxp.nr1office.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,cwlzmg.lillafunfit.hu,"js.clearfake, domain",
 2026-05-18,threatfox,HASH_SHA256,bbaf69f94449b05c868e6fe69a94ce9119c8d37dea6170047cad024a4c034c9e,"unknown, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,74487f6f803c08427526e45fdb39189f11e0051b8a9582da99431d2dd8e00baa,"unknown, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,87e90afe44152688fbc4de77c3b5c2dee31741e6869c35f11b66501780085c89,"unknown, sha256_hash",
@@ -3445,6 +3454,9 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,HASH_SHA256,46c1a2426b2213b770cadb674591c8998b965273cadf1bc84ccfb5901d96e337,"unknown, sha256_hash",
 2026-05-25,threatfox,HASH_SHA256,316e131a04cc717d2912d371c80e016eb89cf2bb9b02eb42c2a53167422465e2,"unknown, sha256_hash",
 2026-05-25,threatfox,HASH_SHA256,9bb90d779fc12b6a10036b5477613d72a9da0612a677ae88843f79944d37801b,"unknown, sha256_hash",
+2026-05-25,tweetfeed,URL,http://amazon-responsive-mob-homepage.netlify.app,,
+2026-05-25,tweetfeed,URL,http://project2973289.pages.dev,,
+2026-05-25,tweetfeed,URL,http://subtle-twilight-b8f6c2.netlify.app,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -4978,6 +4990,9 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,kele12.vip,,
 2026-05-25,tweetfeed,DOMAIN,laicai11.vip,,
 2026-05-25,tweetfeed,DOMAIN,yrmajnbxpt.localto.net,,
+2026-05-25,tweetfeed,DOMAIN,amazon-responsive-mob-homepage.netlify.app,,
+2026-05-25,tweetfeed,DOMAIN,project2973289.pages.dev,,
+2026-05-25,tweetfeed,DOMAIN,subtle-twilight-b8f6c2.netlify.app,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
