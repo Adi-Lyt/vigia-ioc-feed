@@ -211,6 +211,12 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,indebud.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,kzaftq.hyflowtp.com,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,rgaxgg.hyflowtp.com,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,fgyfhb.iparivillanyszerelo.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,oeclat.iparivillanyszerelo.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,1364170351-fntufi0mu7.ap-guangzhou.tencentscf.com,"win.cobalt_strike, domain",
+2026-05-25,threatfox,DOMAIN,gqsgdt.interimpro.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,cymctm.interimpro.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,dntds.shop,"unknown, domain",
 2026-05-24,threatfox,HASH_SHA256,0c4c78306f1e9b1dca47a1bfe16f5d8474d6e6bb2a5f35790ce3ef822ae02e4d,"unknown, sha256_hash",
 2026-05-24,threatfox,HASH_SHA256,b10b14c401bb553a8c49c0a4c8bcb9e3a01c347397e666a5b683394d26ad4df2,"unknown, sha256_hash",
 2026-05-25,tweetfeed,URL,http://rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -2348,7 +2354,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,knf-gov.com,,https://x.com/CSIRT_KNF/status/2057061441463542063
 2026-05-25,tweetfeed,DOMAIN,ntdnewtds.shop,ClickFix,https://x.com/anyrun_app/status/2057084108451254420
 2026-05-25,tweetfeed,DOMAIN,dnsnewtds.shop,ClickFix,https://x.com/anyrun_app/status/2057084108451254420
-2026-05-25,tweetfeed,DOMAIN,sdntds.shop,ClickFix,https://x.com/anyrun_app/status/2057084108451254420
+2026-05-25,"threatfox,tweetfeed",DOMAIN,sdntds.shop,ClickFix,https://x.com/anyrun_app/status/2057084108451254420
 2026-05-25,tweetfeed,DOMAIN,newtdsone.shop,ClickFix,https://x.com/anyrun_app/status/2057084108451254420
 2026-05-25,tweetfeed,DOMAIN,nttdss.shop,ClickFix,https://x.com/anyrun_app/status/2057084108451254420
 2026-05-25,tweetfeed,DOMAIN,Dntds.shop,ClickFix,https://x.com/anyrun_app/status/2057084108451254420
@@ -3537,6 +3543,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,iforget.ubicacion-cloud.info,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,DOMAIN,ocn.webmail.convertauth.icu,,
 2026-05-25,tweetfeed,DOMAIN,fseitalia.es,,
+2026-05-25,tweetfeed,DOMAIN,dfreygr.cewwq.xyz,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -3861,6 +3868,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,IP,193.228.128.2,,
 2026-05-25,tweetfeed,IP,179.43.186.239,,
 2026-05-25,tweetfeed,HASH_SHA256,647f968d18620d7d69fe51e67a7f2f83ddc8551716472d4468197e2dc8130a94,,
+2026-05-25,tweetfeed,HASH_SHA256,a608b591a7096c106c95a5df41be33be4b1c9374a4cff98e52a6a74e1a4dc62e,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
