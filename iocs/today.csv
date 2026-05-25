@@ -34,17 +34,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,http://194.32.248.126/updates/Microsoft%20Windows%20PnP%20Device%20Driver%20Loader.exe,"unknown, url",
 2026-05-25,threatfox,URL,http://194.32.248.126/updates/Windows%20Update%20Elevated%20Service.exe,"unknown, url",
 2026-05-25,threatfox,URL,https://www.weissratings-billing.com/,"unknown, url",
-2026-05-24,threatfox,DOMAIN,qsxrao.flybuilt.hu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,ybtbdx.flybuilt.hu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,nqvfew.flybuilt.eu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,flybuilt.eu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,58knxotz.proxy-compass.digital,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,yep779kz.proxy-compass.digital,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,vuvwlz.fluss.hu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,mdeztl.fluss.hu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,gdnssljs.beer,"unknown, domain",
-2026-05-24,threatfox,DOMAIN,npanssltejs.beer,"unknown, domain",
-2026-05-24,threatfox,DOMAIN,biyaconserver.beer,"unknown, domain",
 2026-05-24,threatfox,DOMAIN,npukpk.fodraszoktatas.eu,"js.clearfake, domain",
 2026-05-24,threatfox,DOMAIN,wwkgzd.flybuiltstudio.com,"js.clearfake, domain",
 2026-05-24,threatfox,DOMAIN,vhfqgi.flybuiltstudio.com,"js.clearfake, domain",
@@ -204,6 +193,18 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,zawifk.liltkereskedohaz.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,wdplqn.liltkereskedohaz.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,zjehuv.liltkereskedohaz.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,lvavdb.nyitottkeramia.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,sbnsdns.beer,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,clainasns.beer,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,pjsxdd.nyitottkeramia.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,fmslna.nr1office.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,2hpvs1tu.microservice-compass.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,7louefau.microservice-compass.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,microservice-compass.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,legalreads.monster,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,equinixad.monster,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,wzkdxp.nr1office.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,cwlzmg.lillafunfit.hu,"js.clearfake, domain",
 2026-05-25,tweetfeed,URL,http://rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
 2026-05-25,tweetfeed,URL,http://aidevmaster.com,"infostealer, malware",https://x.com/masaomi346/status/2056525450063876462
 2026-05-25,tweetfeed,URL,http://xwjyzxf-jp77.icu,,https://x.com/_tdatwja/status/2056541344563425418
@@ -2070,6 +2071,9 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,HASH_SHA256,46c1a2426b2213b770cadb674591c8998b965273cadf1bc84ccfb5901d96e337,"unknown, sha256_hash",
 2026-05-25,threatfox,HASH_SHA256,316e131a04cc717d2912d371c80e016eb89cf2bb9b02eb42c2a53167422465e2,"unknown, sha256_hash",
 2026-05-25,threatfox,HASH_SHA256,9bb90d779fc12b6a10036b5477613d72a9da0612a677ae88843f79944d37801b,"unknown, sha256_hash",
+2026-05-25,tweetfeed,URL,http://amazon-responsive-mob-homepage.netlify.app,,
+2026-05-25,tweetfeed,URL,http://project2973289.pages.dev,,
+2026-05-25,tweetfeed,URL,http://subtle-twilight-b8f6c2.netlify.app,,
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
 2026-05-25,tweetfeed,DOMAIN,xwjyzxf-jp77.icu,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,DOMAIN,kessfullington.com,,https://x.com/_tdatwja/status/2056552979088789980
@@ -3600,6 +3604,9 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,kele12.vip,,
 2026-05-25,tweetfeed,DOMAIN,laicai11.vip,,
 2026-05-25,tweetfeed,DOMAIN,yrmajnbxpt.localto.net,,
+2026-05-25,tweetfeed,DOMAIN,amazon-responsive-mob-homepage.netlify.app,,
+2026-05-25,tweetfeed,DOMAIN,project2973289.pages.dev,,
+2026-05-25,tweetfeed,DOMAIN,subtle-twilight-b8f6c2.netlify.app,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
