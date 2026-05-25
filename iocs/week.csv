@@ -347,9 +347,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,http://194.32.248.126/updates/Windows%20Update%20Elevated%20Service.exe,"unknown, url",
 2026-05-25,threatfox,URL,https://www.weissratings-billing.com/,"unknown, url",
 2026-05-25,threatfox,URL,https://diplokb.cyou,"win.lumma, url",
-2026-05-18,threatfox,DOMAIN,gardenresourcecontroller.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,distributedbotanicalnetwork.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,wildfloraintegrationplatform.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,wildflorainfrastructurehub.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,petalautomationplatform.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,greenhousemanagementengine.garden,"js.clearfake, domain",
@@ -1519,9 +1516,10 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,gzme.oltigergely.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,oazd.olcsongepet.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,xbyq.olcsongepet.hu,"js.clearfake, domain",
-2026-05-18,threatfox,HASH_SHA256,bbaf69f94449b05c868e6fe69a94ce9119c8d37dea6170047cad024a4c034c9e,"unknown, sha256_hash",
-2026-05-18,threatfox,HASH_SHA256,74487f6f803c08427526e45fdb39189f11e0051b8a9582da99431d2dd8e00baa,"unknown, sha256_hash",
-2026-05-18,threatfox,HASH_SHA256,87e90afe44152688fbc4de77c3b5c2dee31741e6869c35f11b66501780085c89,"unknown, sha256_hash",
+2026-05-25,threatfox,DOMAIN,axnb.olyusvirag.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,prmr.olyusvirag.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,wzfm.oltigergo.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,tpcu.oltigergo.hu,"js.clearfake, domain",
 2026-05-19,threatfox,HASH_SHA256,78be219b8793d648213172a6bc2c1738f4e14f7b65a01d2d875e40c858e1b484,"unknown, sha256_hash",
 2026-05-19,threatfox,HASH_SHA256,6c974418247ab414c674fb699ee001d1703f8a6c54810b1773cdc1647cc69e52,"unknown, sha256_hash",
 2026-05-19,threatfox,HASH_SHA256,d0c2fe58efadb86c93f9930cb8668cd40b60399f3a8db54b1c9974ee4eab4b39,"unknown, sha256_hash",
@@ -3468,6 +3466,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,URL,http://online.smartinvoicehub.org,,
 2026-05-25,tweetfeed,URL,http://clientservices-tiffany.co,,
 2026-05-25,tweetfeed,URL,http://premiumxvote.unaux.com,,
+2026-05-25,tweetfeed,URL,https://cem-seven.vercel.app,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5012,6 +5011,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,online.smartinvoicehub.org,,
 2026-05-25,tweetfeed,DOMAIN,clientservices-tiffany.co,,
 2026-05-25,tweetfeed,DOMAIN,premiumxvote.unaux.com,,
+2026-05-25,tweetfeed,DOMAIN,cem-seven.vercel.app,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
