@@ -9,9 +9,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2025-34291,"Langflow Langflow, kev","Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
-2026-05-18,threatfox,URL,https://hms.chadasvendas.com/,"win.vidar, url",
-2026-05-18,threatfox,URL,https://hms.4k-stream.site/,"win.vidar, url",
-2026-05-18,threatfox,URL,https://cdn.mensualgeneratr.com/,"win.smokeloader, url",
 2026-05-18,threatfox,URL,https://bco.fazvende.com/,"win.vidar, url",
 2026-05-18,threatfox,URL,https://bco.tristans-tea.com/,"win.vidar, url",
 2026-05-18,threatfox,URL,https://trafficmanagerupdate.com/index.php,"unknown, url",
@@ -346,13 +343,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,https://sites.google.com/view/clau-ver-un-v25,"unknown_stealer, url",
 2026-05-25,threatfox,URL,https://schluter.lol/api/v1/session,"js.kongtuke, url",
 2026-05-25,threatfox,URL,https://schluter.lol/api/v1/verify,"js.kongtuke, url",
-2026-05-18,threatfox,DOMAIN,ecosystem-processing-tienginx-center.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,hms.chadasvendas.com,"win.vidar, domain",
-2026-05-18,threatfox,DOMAIN,hms.4k-stream.site,"win.vidar, domain",
-2026-05-18,threatfox,DOMAIN,mongofly-container-gard-mesh.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,docsfan-flora-ability-system.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,jmaeciy3.signal-vault.digital,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,nizy2y1o.signal-vault.digital,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,petaldistributioncenter.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,greenhousemonitoringhub.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,botanicalworkflowplatform.garden,"js.clearfake, domain",
@@ -1507,6 +1497,13 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,znbsrq.kovacsago.com,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,oynxty.kovacsago.com,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,kovacsago.com,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,njunlh.krokodilpince.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,krolikrojer.lat,"unknown, domain",
+2026-05-25,threatfox,DOMAIN,xyzsm188.top,"win.vidar, domain",
+2026-05-25,threatfox,DOMAIN,bxjmrg.krisztinavarga.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,asbaph.krisztinavarga.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,fdgxxt.kpmarketing.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,ovoqxk.kpmarketing.hu,"js.clearfake, domain",
 2026-05-18,threatfox,HASH_SHA256,f581012ea6faaff213d79db7ea93194a423a419870d0db664b90a0db6ae4088b,"js.kongtuke, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,3aaae158a84409dbc3202b174005ed9acf39ca7f3785dbff07c56be928ff011f,"js.kongtuke, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,833a0e0ed8bc34a1af0fbb43c56f7bea2c73dde2295f4df2e2c27011d70f52fa,"js.kongtuke, sha256_hash",
@@ -5267,3 +5264,5 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,HASH_MD5,51e389b6ae188838ab2dca3c3c23e75d,AsyncRAT,https://x.com/skocherhan/status/2058637967954935824
 2026-05-25,tweetfeed,HASH_MD5,a322ba2cba0a11a58e20f0d4444e5932,AsyncRAT,https://x.com/skocherhan/status/2058637967954935824
 2026-05-25,tweetfeed,DOMAIN,aidevmaster.com,"infostealer, malware",https://x.com/masaomi346/status/2056525450063876462
+2026-05-25,tweetfeed,HASH_MD5,ac492944bd8beff9686ce97f4735347c,,
+2026-05-25,tweetfeed,HASH_MD5,fb52eeb9d622b58993268b15a12436d4,,
