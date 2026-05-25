@@ -343,8 +343,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,https://sites.google.com/view/clau-ver-un-v25,"unknown_stealer, url",
 2026-05-25,threatfox,URL,https://schluter.lol/api/v1/session,"js.kongtuke, url",
 2026-05-25,threatfox,URL,https://schluter.lol/api/v1/verify,"js.kongtuke, url",
-2026-05-18,threatfox,DOMAIN,petaldistributioncenter.garden,"js.clearfake, domain",
-2026-05-18,threatfox,DOMAIN,greenhousemonitoringhub.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,botanicalworkflowplatform.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,distributedgardencontrol.garden,"js.clearfake, domain",
 2026-05-18,threatfox,DOMAIN,0h5smwzp.network-forge.digital,"js.clearfake, domain",
@@ -1504,6 +1502,18 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,asbaph.krisztinavarga.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,fdgxxt.kpmarketing.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,ovoqxk.kpmarketing.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,sagdxf.krokodilpince.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,ojbprh.krokodilpince.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,mp696mc8.script-nexus.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,qgatk150.script-nexus.digital,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,rxpvcd.ksfogaszat.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,yellowred.in,"win.remcos, domain",
+2026-05-25,threatfox,DOMAIN,tg77.it.com,"win.remcos, domain",
+2026-05-25,threatfox,DOMAIN,afun.it.com,"win.remcos, domain",
+2026-05-25,threatfox,DOMAIN,goldenscissoreindhoven.nl,"win.remcos, domain",
+2026-05-25,threatfox,DOMAIN,ksfogaszat.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,enuvdz.ksfogaszat.hu,"js.clearfake, domain",
+2026-05-25,threatfox,DOMAIN,nspbcu.krokodilpince.hu,"js.clearfake, domain",
 2026-05-18,threatfox,HASH_SHA256,f581012ea6faaff213d79db7ea93194a423a419870d0db664b90a0db6ae4088b,"js.kongtuke, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,3aaae158a84409dbc3202b174005ed9acf39ca7f3785dbff07c56be928ff011f,"js.kongtuke, sha256_hash",
 2026-05-18,threatfox,HASH_SHA256,833a0e0ed8bc34a1af0fbb43c56f7bea2c73dde2295f4df2e2c27011d70f52fa,"js.kongtuke, sha256_hash",
@@ -3408,6 +3418,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,URL,http://updates-check-microsoft.ddns.net:443,,
 2026-05-25,tweetfeed,URL,http://expegesterstay-hotel3check.com,,
 2026-05-25,tweetfeed,URL,https://latestupdatecloud.us/sign/*,,
+2026-05-25,tweetfeed,URL,http://51.84.110.147,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5240,6 +5251,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,IP,179.43.186.239,,
 2026-05-25,tweetfeed,HASH_SHA256,647f968d18620d7d69fe51e67a7f2f83ddc8551716472d4468197e2dc8130a94,,
 2026-05-25,tweetfeed,HASH_SHA256,a608b591a7096c106c95a5df41be33be4b1c9374a4cff98e52a6a74e1a4dc62e,,
+2026-05-25,tweetfeed,IP,51.84.110.147,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
