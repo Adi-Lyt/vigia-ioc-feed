@@ -356,8 +356,11 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,URL,https://dip.akusm188.top/,"win.vidar, url",
 2026-05-26,threatfox,URL,https://foe.matriculador.digital/,"win.vidar, url",
 2026-05-26,threatfox,URL,https://foe.akusm188.top/,"win.vidar, url",
-2026-05-19,threatfox,DOMAIN,petalresourceengine.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,greenhouseworkflowcenter.garden,"js.clearfake, domain",
+2026-05-26,threatfox,URL,https://sites.google.com/view/xbrewmacboe,"unknown_stealer, url",
+2026-05-26,threatfox,URL,https://pinescope11.com/curl/80ee53d07eee377f78c6ecbc5b40b6936703eefcb6e40a79d7af80bb53d9f1a7,"unknown_stealer, url",
+2026-05-26,threatfox,URL,https://breteamz.com/,"unknown_stealer, url",
+2026-05-26,threatfox,URL,https://kbs.matriculador.digital/,"win.vidar, url",
+2026-05-26,threatfox,URL,https://kbs.akusm188.top/,"win.vidar, url",
 2026-05-19,threatfox,DOMAIN,botanicalautomationframework.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,gatuso.duckdns.org,"win.xworm, domain",
 2026-05-19,threatfox,DOMAIN,sp13.gstats-api-cont.co,"unknown, domain",
@@ -1540,6 +1543,15 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,DOMAIN,fhptw.bertifolia.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,ptnza.bni-ai.com,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,tfaph.bni-ai.com,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,vmpyw.almasiklima.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,uvbdg.almasiklima.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,breteamz.com,"unknown_stealer, domain",
+2026-05-26,threatfox,DOMAIN,fuluz.akonyvelod.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,vwbtp.akonyvelod.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,kbs.matriculador.digital,"win.vidar, domain",
+2026-05-26,threatfox,DOMAIN,kbs.akusm188.top,"win.vidar, domain",
+2026-05-26,threatfox,DOMAIN,ilgte.aivallalkozok.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,ahume.aivallalkozok.hu,"js.clearfake, domain",
 2026-05-19,threatfox,HASH_SHA256,766b70cb0477fbfcd6b012573f1dbc3831c6da44f372e34500e8314fd1084943,"unknown, sha256_hash",
 2026-05-19,threatfox,HASH_SHA256,4591e91432b52478c20b04fe138b6da5003710b7c74701600bbb4a39148f4783,"unknown, sha256_hash",
 2026-05-20,threatfox,HASH_SHA256,995d9f4dc5725d1301d7e4ac9943ac36dd8da13368381950880818c72f2bba61,"unknown, sha256_hash",
@@ -3517,6 +3529,8 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,URL,https://pub-8a04ac0f553244c8a5b52eab5e25f789.r2.dev/index.html,,
 2026-05-26,tweetfeed,URL,http://34.61.206.224,,
 2026-05-26,tweetfeed,URL,http://officeemail.ru,,
+2026-05-26,tweetfeed,URL,http://154.12.236.54:5000,,
+2026-05-26,tweetfeed,URL,http://chaarlottte.dev,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5070,7 +5084,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,DOMAIN,wagfer.com,,
 2026-05-26,tweetfeed,DOMAIN,calidum-oprema.com,,
 2026-05-26,tweetfeed,DOMAIN,secureeepptd.weebly.com,,
-2026-05-26,tweetfeed,DOMAIN,pinescope11.com,,
+2026-05-26,"threatfox,tweetfeed",DOMAIN,pinescope11.com,,
 2026-05-26,tweetfeed,DOMAIN,pub-a58832a85ddb4e9abc898a965971118b.r2.dev,,
 2026-05-26,tweetfeed,DOMAIN,fsahjmb.cn,,
 2026-05-26,tweetfeed,DOMAIN,sdrtgdrhytdtyhdftyhswef.framer.photos,,
@@ -5089,6 +5103,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,DOMAIN,my-automation-a936d-default-rtdb.firebaseio.com,,
 2026-05-26,tweetfeed,DOMAIN,pub-8a04ac0f553244c8a5b52eab5e25f789.r2.dev,,
 2026-05-26,tweetfeed,DOMAIN,officeemail.ru,,
+2026-05-26,tweetfeed,DOMAIN,chaarlottte.dev,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -5453,6 +5468,9 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,IP,43.163.225.36,,
 2026-05-26,tweetfeed,IP,103.78.28.238,,
 2026-05-26,tweetfeed,HASH_SHA256,8c91214e0553bb3bd6c57b9eaae70099fe2d5bcd44a6beeaa3e3fab4f775397c,,
+2026-05-26,tweetfeed,IP,154.12.236.54,,
+2026-05-26,tweetfeed,HASH_SHA256,20056e47d2b3c00e22ff86ba3a7349994112d188fa5045d12b6eb56cd314fbca,,
+2026-05-26,tweetfeed,HASH_SHA256,163e4a72cbe392c073eddc60aee69dc1cf87ce492c375af74e923d75d8084683,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
