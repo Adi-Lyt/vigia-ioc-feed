@@ -35,10 +35,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,http://194.32.248.126/updates/Windows%20Update%20Elevated%20Service.exe,"unknown, url",
 2026-05-25,threatfox,URL,https://www.weissratings-billing.com/,"unknown, url",
 2026-05-25,threatfox,URL,https://diplokb.cyou,"win.lumma, url",
-2026-05-25,threatfox,DOMAIN,kimfeg.fusionizemanagement.com,"js.clearfake, domain",
-2026-05-25,threatfox,DOMAIN,kybqiu.fusionizemanagement.com,"js.clearfake, domain",
-2026-05-25,threatfox,DOMAIN,jgkvlq.fulop-vargafanni.hu,"js.clearfake, domain",
-2026-05-25,threatfox,DOMAIN,ueeiek.fulop-vargafanni.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,qcjqcd.geokalk.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,doigau.geokalk.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,rapiny.gamesystem.hu,"js.clearfake, domain",
@@ -206,6 +202,10 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,DOMAIN,prmr.olyusvirag.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,wzfm.oltigergo.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,tpcu.oltigergo.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,phmro.optikusom.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,quuos.optikusom.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,rnfg.onlyfansagency.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,gzxz.onlyfansagency.hu,"js.clearfake, domain",
 2026-05-25,tweetfeed,URL,http://rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
 2026-05-25,tweetfeed,URL,http://aidevmaster.com,"infostealer, malware",https://x.com/masaomi346/status/2056525450063876462
 2026-05-25,tweetfeed,URL,http://xwjyzxf-jp77.icu,,https://x.com/_tdatwja/status/2056541344563425418
@@ -3975,6 +3975,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,IP,38.47.207.213,,
 2026-05-25,tweetfeed,HASH_SHA256,fa9996838c5459b9124f9f06f75bec832cfc0368782b33466563fd50774b5ae2,,
 2026-05-25,tweetfeed,HASH_SHA256,4c5d32c3982e218aacc1f142e9872c98706e152394b4156f9e848f6546817def,,
+2026-05-26,tweetfeed,HASH_SHA256,7f9fe5839a2ffaa627685f673ee5d4ba5a30857c24d4cf141ab408c7a18e3f4a,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
