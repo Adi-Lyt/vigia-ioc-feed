@@ -361,10 +361,6 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,URL,https://breteamz.com/,"unknown_stealer, url",
 2026-05-26,threatfox,URL,https://kbs.matriculador.digital/,"win.vidar, url",
 2026-05-26,threatfox,URL,https://kbs.akusm188.top/,"win.vidar, url",
-2026-05-19,threatfox,DOMAIN,gr33bzph.cyberneticprostheticlab.digital,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,floraresourcecontroller.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,lv5evztg.cyberneticprostheticlab.digital,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,meadowoperationshub.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,dengrep-resource-opencut-engine.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,reynoldy.lol,"js.kongtuke, domain",
 2026-05-19,threatfox,DOMAIN,green-macrohim-work-center.garden,"js.clearfake, domain",
@@ -1560,6 +1556,10 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,DOMAIN,nero-ns-cdns.sbs,"unknown, domain",
 2026-05-26,threatfox,DOMAIN,ns-server-isdjs-icons.sbs,"unknown, domain",
 2026-05-26,threatfox,DOMAIN,ns-cyber-server.sbs,"unknown, domain",
+2026-05-26,threatfox,DOMAIN,swhbk.bohochal.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,ewxqo.bohochal.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,rrnek.bognartransport.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,mxwjr.bognartransport.hu,"js.clearfake, domain",
 2026-05-19,threatfox,HASH_SHA256,766b70cb0477fbfcd6b012573f1dbc3831c6da44f372e34500e8314fd1084943,"unknown, sha256_hash",
 2026-05-19,threatfox,HASH_SHA256,4591e91432b52478c20b04fe138b6da5003710b7c74701600bbb4a39148f4783,"unknown, sha256_hash",
 2026-05-20,threatfox,HASH_SHA256,995d9f4dc5725d1301d7e4ac9943ac36dd8da13368381950880818c72f2bba61,"unknown, sha256_hash",
@@ -3557,6 +3557,8 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,URL,https://clemanimpianti.it.com/UCC/KR.js,,
 2026-05-26,tweetfeed,URL,https://alaraafgroups.com/UCCDECO/UCC.pdf,,
 2026-05-26,tweetfeed,URL,https://espinozachem.cam/ap/Takkes.hhp,,
+2026-05-26,tweetfeed,URL,https://novonaver.weebly.com,,
+2026-05-26,tweetfeed,URL,https://news-official-c7entertainment.com/?tid=1779798308040,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5142,6 +5144,8 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,DOMAIN,clemanimpianti.it.com,,
 2026-05-26,tweetfeed,DOMAIN,alaraafgroups.com,,
 2026-05-26,tweetfeed,DOMAIN,espinozachem.cam,,
+2026-05-26,tweetfeed,DOMAIN,novonaver.weebly.com,,
+2026-05-26,tweetfeed,DOMAIN,news-official-c7entertainment.com,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -5525,6 +5529,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,HASH_SHA256,490585f82a0ddaafd9eead803859e06dafc0219a5bd1c08482c98f3d37eec231,,
 2026-05-26,tweetfeed,HASH_SHA256,31b0f515012355e104a1e4f10baff85c3066a037f17272ce9c2445fd8377a96a,,
 2026-05-26,tweetfeed,HASH_SHA256,3a00cc2faef315e0959f4a854c6e2488fac7ff8b4baab557484427f8ece89aa3,,
+2026-05-26,tweetfeed,HASH_SHA256,6506dbc9ed2f9fc514ccbc369a90d36cacc0e98862c6947d358cccace33959f4,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
