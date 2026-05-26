@@ -9,8 +9,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2025-34291,"Langflow Langflow, kev","Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
-2026-05-19,threatfox,URL,https://tri.fazvende.com/,"win.vidar, url",
-2026-05-19,threatfox,URL,https://tri.tristans-tea.com/,"win.vidar, url",
 2026-05-19,threatfox,URL,https://aspf.com.br/,"unknown, url",
 2026-05-19,threatfox,URL,http://185.157.162.187:3176/pages/login.php,"unknown, url",
 2026-05-19,threatfox,URL,https://reynoldy.lol/file.js,"js.kongtuke, url",
@@ -358,12 +356,6 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,URL,https://dip.akusm188.top/,"win.vidar, url",
 2026-05-26,threatfox,URL,https://foe.matriculador.digital/,"win.vidar, url",
 2026-05-26,threatfox,URL,https://foe.akusm188.top/,"win.vidar, url",
-2026-05-19,threatfox,DOMAIN,carbon-fiber-monocoque.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,46fmfamd.crispychickencutlets.digital,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,qvf16jfy.crispychickencutlets.digital,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,bioluminescent-fungi-spore.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,tri.tristans-tea.com,"win.vidar, domain",
-2026-05-19,threatfox,DOMAIN,tri.fazvende.com,"win.vidar, domain",
 2026-05-19,threatfox,DOMAIN,petalresourceengine.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,greenhouseworkflowcenter.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,botanicalautomationframework.garden,"js.clearfake, domain",
@@ -1542,6 +1534,12 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,DOMAIN,foe.matriculador.digital,"win.vidar, domain",
 2026-05-26,threatfox,DOMAIN,miqhc.bmiroda.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,pdyer.bmiroda.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,eqgwn.aivallalkozo.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,qqxmr.aivallalkozo.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,abmjl.bertifolia.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,fhptw.bertifolia.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,ptnza.bni-ai.com,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,tfaph.bni-ai.com,"js.clearfake, domain",
 2026-05-19,threatfox,HASH_SHA256,766b70cb0477fbfcd6b012573f1dbc3831c6da44f372e34500e8314fd1084943,"unknown, sha256_hash",
 2026-05-19,threatfox,HASH_SHA256,4591e91432b52478c20b04fe138b6da5003710b7c74701600bbb4a39148f4783,"unknown, sha256_hash",
 2026-05-20,threatfox,HASH_SHA256,995d9f4dc5725d1301d7e4ac9943ac36dd8da13368381950880818c72f2bba61,"unknown, sha256_hash",
@@ -3512,6 +3510,13 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,URL,http://aspecteirs.lat,,
 2026-05-26,tweetfeed,URL,http://crosshuaht.lat,,
 2026-05-26,tweetfeed,URL,http://rapeflowwj.lat,,
+2026-05-26,tweetfeed,URL,https://smbc-bank.quirkyhomedecor.com,,
+2026-05-26,tweetfeed,URL,https://thehindus.org/jk,,
+2026-05-26,tweetfeed,URL,http://thehindus.org,,
+2026-05-26,tweetfeed,URL,http://my-automation-a936d-default-rtdb.firebaseio.com,,
+2026-05-26,tweetfeed,URL,https://pub-8a04ac0f553244c8a5b52eab5e25f789.r2.dev/index.html,,
+2026-05-26,tweetfeed,URL,http://34.61.206.224,,
+2026-05-26,tweetfeed,URL,http://officeemail.ru,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5079,6 +5084,11 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,DOMAIN,aspecteirs.lat,,
 2026-05-26,tweetfeed,DOMAIN,crosshuaht.lat,,
 2026-05-26,tweetfeed,DOMAIN,rapeflowwj.lat,,
+2026-05-26,tweetfeed,DOMAIN,smbc-bank.quirkyhomedecor.com,,
+2026-05-26,tweetfeed,DOMAIN,thehindus.org,,
+2026-05-26,tweetfeed,DOMAIN,my-automation-a936d-default-rtdb.firebaseio.com,,
+2026-05-26,tweetfeed,DOMAIN,pub-8a04ac0f553244c8a5b52eab5e25f789.r2.dev,,
+2026-05-26,tweetfeed,DOMAIN,officeemail.ru,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -5442,6 +5452,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,IP,92.5.80.199,,
 2026-05-26,tweetfeed,IP,43.163.225.36,,
 2026-05-26,tweetfeed,IP,103.78.28.238,,
+2026-05-26,tweetfeed,HASH_SHA256,8c91214e0553bb3bd6c57b9eaae70099fe2d5bcd44a6beeaa3e3fab4f775397c,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
