@@ -383,9 +383,6 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,URL,https://89.213.118.155:8443/discord,"unknown, url",
 2026-05-26,threatfox,URL,https://89.213.118.155:8443/filesearch/req,"unknown, url",
 2026-05-26,threatfox,URL,https://89.213.118.155:8443/ping,"unknown, url",
-2026-05-19,threatfox,DOMAIN,flora-resource-network.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,t8oasjc8.cyber-harbor.digital,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,meadowanalyticsengine.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,ecosystemprocessingcore.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,dagatructiep.fashion,"win.asyncrat, domain",
 2026-05-19,threatfox,DOMAIN,wed.fazvende.com.br,"win.vidar, domain",
@@ -1620,6 +1617,11 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,DOMAIN,irrvh.ceremoniavezeto.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,opanr.ceremoniavezeto.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,spapro.co.com,"win.nanocore, domain",
+2026-05-26,threatfox,DOMAIN,jkjey.vizhoszivattyu.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,kpnmx.vizhoszivattyu.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,kqrde.vilagom.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,cojxe.vilagom.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,cdpus.vikstore.hu,"js.clearfake, domain",
 2026-05-20,threatfox,HASH_SHA256,995d9f4dc5725d1301d7e4ac9943ac36dd8da13368381950880818c72f2bba61,"unknown, sha256_hash",
 2026-05-20,threatfox,HASH_SHA256,9fd30bda0edf3b10b326703303fa15995a688d200582822ef49422ebac87b7f7,"win.ncctrojan, sha256_hash",
 2026-05-20,threatfox,HASH_SHA256,9408dfa7ca622d0db087985ff6d4288b143e4e4a11c7a734ea4e151b73de8d00,"unknown, sha256_hash",
@@ -3874,6 +3876,8 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,URL,http://sevriano.top,,
 2026-05-26,tweetfeed,URL,http://188.137.244.138,,
 2026-05-26,tweetfeed,URL,http://sharepoint-mitsuiholdingsportal.pages.dev,,
+2026-05-26,tweetfeed,URL,http://com.secure,,
+2026-05-26,tweetfeed,URL,https://exodulogjuiui.gitbook.io,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5712,6 +5716,8 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,DOMAIN,ombrexial.top,,
 2026-05-26,tweetfeed,DOMAIN,sevriano.top,,
 2026-05-26,tweetfeed,DOMAIN,sharepoint-mitsuiholdingsportal.pages.dev,,
+2026-05-26,tweetfeed,DOMAIN,com.secure,,
+2026-05-26,tweetfeed,DOMAIN,exodulogjuiui.gitbook.io,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
