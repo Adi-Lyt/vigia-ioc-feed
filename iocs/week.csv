@@ -9,7 +9,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2025-34291,"Langflow Langflow, kev","Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
-2026-05-19,threatfox,URL,https://u3hqns4msrc4hei.top/1.php?s=580e250d-effb-401a-b981-fb7fd80635a2,"unknown, url",
 2026-05-19,threatfox,URL,https://rpi.fazvende.com/,"win.vidar, url",
 2026-05-19,threatfox,URL,https://rpi.tristans-tea.com/,"win.vidar, url",
 2026-05-19,threatfox,URL,https://brownhc.cyou,"win.lumma, url",
@@ -372,10 +371,6 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,URL,https://silentquarry.top/tenant/session-render,"js.smartapesg, url",
 2026-05-26,threatfox,URL,https://silentquarry.top/tenant/acl-layout.js,"js.smartapesg, url",
 2026-05-26,threatfox,URL,http://3149-coinbase.com/?shiny,"unknown, url",
-2026-05-19,threatfox,DOMAIN,u3hqns4msrc4hei.top,"unknown, domain",
-2026-05-19,threatfox,DOMAIN,slngftr.beer,"unknown, domain",
-2026-05-19,threatfox,DOMAIN,modesix-iontel-scalapie-system.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,modelcut-auto-frame-nodipfs.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,dampcaps-flor-sou-rail.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,8xtx6dv2.gothiccathedralblueprint.digital,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,0wv09g11.gothiccathedralblueprint.digital,"js.clearfake, domain",
@@ -1585,6 +1580,13 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,DOMAIN,list.chattgpt.cc,"unknown, domain",
 2026-05-26,threatfox,DOMAIN,nveth.brandbuilder.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,nqwdb.brandbuilder.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,envinewrat1.duckdns.org,"win.asyncrat, domain",
+2026-05-26,threatfox,DOMAIN,vhfla.budapesthandmade.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,budapesthandmade.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,a7px1y1v.container-pulse.digital,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,e7ryllbp.container-pulse.digital,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,jdpbg.buborekjatszohaz.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,zpxfn.buborekjatszohaz.hu,"js.clearfake, domain",
 2026-05-20,threatfox,HASH_SHA256,995d9f4dc5725d1301d7e4ac9943ac36dd8da13368381950880818c72f2bba61,"unknown, sha256_hash",
 2026-05-20,threatfox,HASH_SHA256,9fd30bda0edf3b10b326703303fa15995a688d200582822ef49422ebac87b7f7,"win.ncctrojan, sha256_hash",
 2026-05-20,threatfox,HASH_SHA256,9408dfa7ca622d0db087985ff6d4288b143e4e4a11c7a734ea4e151b73de8d00,"unknown, sha256_hash",
@@ -3612,6 +3614,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,URL,http://furqanmustafa.com,,
 2026-05-26,tweetfeed,URL,http://staiwooje.app,,
 2026-05-26,tweetfeed,URL,http://data-cloud-ofe8.p-8yejy42o.workers.dev,,
+2026-05-26,tweetfeed,URL,http://mail.electricidadmaza.com.ar,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5227,6 +5230,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,DOMAIN,furqanmustafa.com,,
 2026-05-26,tweetfeed,DOMAIN,staiwooje.app,,
 2026-05-26,tweetfeed,DOMAIN,data-cloud-ofe8.p-8yejy42o.workers.dev,,
+2026-05-26,tweetfeed,DOMAIN,mail.electricidadmaza.com.ar,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -5613,6 +5617,8 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,HASH_SHA256,6506dbc9ed2f9fc514ccbc369a90d36cacc0e98862c6947d358cccace33959f4,,
 2026-05-26,tweetfeed,IP,176.65.148.155,,
 2026-05-26,tweetfeed,IP,203.145.34.131,,
+2026-05-26,tweetfeed,HASH_SHA256,0517ca4649e33faefa3a6bfcd2707a8376a981be4b42b9d19146ebb93e7f8a35,,
+2026-05-26,tweetfeed,HASH_SHA256,c02c1f13c76f598634d32de19166db6f3f89b14eabd884bdde52bdcf3cf3d163,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
@@ -5643,3 +5649,4 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,HASH_MD5,b92e4a7ca29b36a5d1b2c7d2bd508e6c,,
 2026-05-26,tweetfeed,HASH_MD5,a8551b821a1f342ad9692689389d4d5c,,
 2026-05-26,tweetfeed,HASH_MD5,d528d1e18e0c3e6e7d84f057e0fd1dea,,
+2026-05-26,tweetfeed,HASH_MD5,1e5d514ed424b4056f6e3637b2231c13,,
