@@ -346,10 +346,6 @@ date,user,type,ioc,tags,context
 2026-05-25,threatfox,URL,http://194.32.248.126/updates/Windows%20Update%20Elevated%20Service.exe,"unknown, url",
 2026-05-25,threatfox,URL,https://www.weissratings-billing.com/,"unknown, url",
 2026-05-25,threatfox,URL,https://diplokb.cyou,"win.lumma, url",
-2026-05-19,threatfox,DOMAIN,phase-shift-bridge-driver.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,xenomorph-hive-intelligence.garden,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,x8drf7ed.audioattenuatorschematic.digital,"js.clearfake, domain",
-2026-05-19,threatfox,DOMAIN,nw3tvo7k.audioattenuatorschematic.digital,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,quantum-entanglement-crypt.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,amber-fossil-mosquito.garden,"js.clearfake, domain",
 2026-05-19,threatfox,DOMAIN,tectonic-fault-seismograph.garden,"js.clearfake, domain",
@@ -1518,6 +1514,11 @@ date,user,type,ioc,tags,context
 2026-05-26,threatfox,DOMAIN,werel.balazsotthonepites.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,kieaa.balazsotthonepites.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,kedef.arpadingatlan.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,mrwqb.bartaenergetika.com,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,vvuto.bartaenergetika.com,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,mahcr.banhidileadershipacademy.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,ckszd.banhidileadershipacademy.hu,"js.clearfake, domain",
+2026-05-26,threatfox,DOMAIN,dynhc.balintpiroska.hu,"js.clearfake, domain",
 2026-05-19,threatfox,HASH_SHA256,78be219b8793d648213172a6bc2c1738f4e14f7b65a01d2d875e40c858e1b484,"unknown, sha256_hash",
 2026-05-19,threatfox,HASH_SHA256,6c974418247ab414c674fb699ee001d1703f8a6c54810b1773cdc1647cc69e52,"unknown, sha256_hash",
 2026-05-19,threatfox,HASH_SHA256,d0c2fe58efadb86c93f9930cb8668cd40b60399f3a8db54b1c9974ee4eab4b39,"unknown, sha256_hash",
@@ -3471,6 +3472,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,URL,https://www.canglianwang.cn/home,,
 2026-05-26,tweetfeed,URL,http://209.54.102.152,,
 2026-05-26,tweetfeed,URL,https://lbk.ptkgi.com,,
+2026-05-26,tweetfeed,URL,https://www.wagfer.com,,
 2026-05-19,threatfox,HASH_MD5,f68872773a88652541bd8d6ca9bda058,"win.wormhole, md5_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
@@ -5021,6 +5023,7 @@ date,user,type,ioc,tags,context
 2026-05-26,tweetfeed,DOMAIN,wudfdey.cn,,
 2026-05-26,tweetfeed,DOMAIN,canglianwang.cn,,
 2026-05-26,tweetfeed,DOMAIN,lbk.ptkgi.com,,
+2026-05-26,tweetfeed,DOMAIN,wagfer.com,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
