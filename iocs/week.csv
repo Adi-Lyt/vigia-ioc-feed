@@ -3,9 +3,9 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
-2026-05-20,threatfox,URL,https://zpr.fazvende.com.br/,"win.vidar, url",
-2026-05-20,threatfox,URL,https://zpr.tristans-tea.com/,"win.vidar, url",
-2026-05-20,threatfox,URL,https://anasbhbh.com/,"win.vidar, url",
+2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
+2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
+2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
 2026-05-20,threatfox,URL,https://americanautotransport.co/,"win.vidar, url",
 2026-05-20,threatfox,URL,http://94.156.177.41/alpha/five/fre.php,"win.lokipws, url",
 2026-05-20,threatfox,URL,https://aachenhc.com/,"win.vidar, url",
@@ -362,23 +362,6 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,https://silverharvestnetwork.com/check,"js.smartapesg, url",
 2026-05-27,threatfox,URL,https://krb.matriculadores.com/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://krb.awansm188.top/,"win.vidar, url",
-2026-05-20,threatfox,DOMAIN,bnurpjjy.meadowprocessingframework.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,wrhorqww.gothiccathedralblueprint.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,x17or3y4.gothiccathedralblueprint.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,tvlhpsjn.meadowprocessingframework.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,sqkilyae.meadowprocessingframework.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,zpr.tristans-tea.com,"win.vidar, domain",
-2026-05-20,threatfox,DOMAIN,zpr.fazvende.com.br,"win.vidar, domain",
-2026-05-20,threatfox,DOMAIN,fgbojhem.meadowprocessingframework.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,kaiarjsn.meadowprocessingframework.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,www.tuamec.com,"win.remcos, domain",
-2026-05-20,threatfox,DOMAIN,www.agrogreenalax.com,"win.remcos, domain",
-2026-05-20,threatfox,DOMAIN,asesorarcolom.crabdance.com,"win.quasar_rat, domain",
-2026-05-20,threatfox,DOMAIN,onanothertry.ydns.eu,"win.quasar_rat, domain",
-2026-05-20,threatfox,DOMAIN,sharjahaquarium.com,"win.xworm, domain",
-2026-05-20,threatfox,DOMAIN,www.alfapetroluems.com,"win.remcos, domain",
-2026-05-20,threatfox,DOMAIN,www.atgairport.com,"win.remcos, domain",
-2026-05-20,threatfox,DOMAIN,xinclas.vmcentra.top,"win.xworm, domain",
 2026-05-20,threatfox,DOMAIN,jzufjrnq.floraanalyticshub.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,qpdogbyo.floraanalyticshub.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,floraanalyticshub.garden,"js.clearfake, domain",
@@ -1739,6 +1722,12 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,seeker.tec.br,"win.strelastealer, domain",
 2026-05-27,threatfox,DOMAIN,gbowm.cannatural.cz,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,lhxly.cannatural.eu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,bvabf.budapesthandmade.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,hhxzx.budapesthandmade.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,eujvn.business360.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,ipopm.business360.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,kqekr.butoralberlet.com,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,nvjto.butoralberlet.com,"js.clearfake, domain",
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/duo/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
