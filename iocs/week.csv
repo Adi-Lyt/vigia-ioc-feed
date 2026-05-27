@@ -10,8 +10,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
-2026-05-20,threatfox,URL,https://91.92.240.197/download3/payload-reflective-installer-frank,"unknown, url",
-2026-05-20,threatfox,URL,https://91.92.240.197/logs/sendInfo,"unknown, url",
 2026-05-20,threatfox,URL,https://littlewonderseeds.com/,"unknown, url",
 2026-05-20,threatfox,URL,https://lands-end-coastguard.com/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/security,"WeedHack, malware_download",
@@ -373,15 +371,13 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,https://tto.awansm188.top/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://tto.matriculadores.com/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://maxi-vet.ru/,"win.vidar, url",
-2026-05-20,threatfox,DOMAIN,vt40b8nw.badabingsopranoslounge.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,7jhvxkjy.badabingsopranoslounge.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,6nrjnea5.badabingsopranoslounge.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,waggrzdi.meadow-observability-core.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,jqxpmmgb.meadow-observability-core.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,ivsfinmc.meadow-observability-core.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,meadow-observability-core.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,federatedplantmesh.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,u888lm.com,"win.nanocore, domain",
+2026-05-27,threatfox,URL,https://driftpress11.com/curl/bbaebdea08c804297a988ec4200424600767ddc94cacc38931f8c430ba93d3d0,"unknown_stealer, url",
+2026-05-27,threatfox,URL,https://bremadsf.com/,"unknown_stealer, url",
+2026-05-27,threatfox,URL,https://sites.google.com/view/xbiernlk,"unknown_stealer, url",
+2026-05-27,threatfox,URL,http://homeinspectionsdelaware.com/curl/75ddfbae4fcacede52ef513ce634f82ad3d8358984b0bd49756cc8c50a55d501,"unknown_stealer, url",
+2026-05-27,threatfox,URL,https://sites.google.com/view/payforwin,"unknown_stealer, url",
+2026-05-27,threatfox,URL,https://payforwin.github.io/desktop.html,"unknown_stealer, url",
+2026-05-27,threatfox,URL,http://158.94.210.59/25e3868686d747678e3b.php,"win.stealc, url",
 2026-05-20,threatfox,DOMAIN,lambdauyamna.com,"win.netsupportmanager_rat, domain",
 2026-05-20,threatfox,DOMAIN,mokitomaccito.com,"win.netsupportmanager_rat, domain",
 2026-05-20,threatfox,DOMAIN,djkmgndkjfgndfg.com,"win.netsupportmanager_rat, domain",
@@ -1683,6 +1679,41 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,djwof.ady26.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,gpiwz.ady26.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,havelbeenpwned.net,"win.remus, domain",
+2026-05-27,threatfox,DOMAIN,driftpress11.com,"unknown_stealer, domain",
+2026-05-27,threatfox,DOMAIN,bremadsf.com,"unknown_stealer, domain",
+2026-05-27,threatfox,DOMAIN,qxyvx.yanisrea.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,gsave.yanisrea.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,nshtjscdn.beer,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,lnfcdnclad.beer,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,nvbfcdnclaud.beer,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,booking-reservation-id.com,"win.vidar, domain",
+2026-05-27,threatfox,DOMAIN,devynly.monster,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,3822lbt1.stack-sphere.digital,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,uv2wp3lz.stack-sphere.digital,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,cadcr.zaszlorudbolt.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,qkveb.zaszlorudbolt.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,issueall.com,"js.ether_rat, domain",
+2026-05-27,threatfox,DOMAIN,dakindsoups.com,"js.ether_rat, domain",
+2026-05-27,threatfox,DOMAIN,webiqonline.com,"js.ether_rat, domain",
+2026-05-27,threatfox,DOMAIN,wilheah.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,diplokb.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,consuus.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,idealvs.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,answebi.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,clamsal.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,pholith.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,maenade.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,mistjlep.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,wifflvy.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,hustjonr.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,cudbweeo.cyou,"win.lumma, domain",
+2026-05-27,threatfox,DOMAIN,yhvzldixqbmi.lol,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,rbdncyyrpu.club,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,zktfzfxua.club,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,homeinspectionsdelaware.com,"unknown_stealer, domain",
+2026-05-27,threatfox,DOMAIN,vkoqp.accredit.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,kvdex.accredit.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,zloapobikahy23.bond,"win.vidar, domain",
 2026-05-20,threatfox,HASH_SHA256,9408dfa7ca622d0db087985ff6d4288b143e4e4a11c7a734ea4e151b73de8d00,"unknown, sha256_hash",
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
@@ -3967,6 +3998,14 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,URL,http://43.160.214.35,,
 2026-05-27,tweetfeed,URL,http://85.192.30.66,,
 2026-05-27,tweetfeed,URL,http://stealer.in,,
+2026-05-27,threatfox,HASH_SHA256,f5f496ebc1de17421aa89f2a1160d30901b7b8cbfe475c3f5a7cb1e508d68356,"unknown, sha256_hash",
+2026-05-27,threatfox,HASH_SHA256,3b330a6ec000ea461732e484a61eb9eda1ece5b0a9b2458c222c5714ba6790ec,"unknown, sha256_hash",
+2026-05-27,threatfox,HASH_SHA256,bab74573404fc44b6e012fda3f7a8b00fe5a80565557ab78c9c1f0a8727afecf,"unknown, sha256_hash",
+2026-05-27,threatfox,HASH_SHA256,5cd46cb8ffa6092aad21337df0c10881ba012dad4d63f7ffac98eb6c8463d63d,"unknown, sha256_hash",
+2026-05-27,threatfox,HASH_SHA256,cdfae9f1d9702545972c1aee9e349cd3df4e6be8550f5d35ca3c508c6c9a7dc7,"unknown, sha256_hash",
+2026-05-27,threatfox,HASH_SHA256,D25263FC9F895ED6FBC5F07AD009B87B2FE03D691C44E220CE37CE7042FFA9D9,"unknown_loader, sha256_hash",
+2026-05-27,threatfox,HASH_SHA256,C881253DAFCF1322A771139B1A429EC1E78C507CA81A218A20DC1A4B25ABBFE7,"unknown_loader, sha256_hash",
+2026-05-27,threatfox,HASH_SHA256,A8FFAB0B134E177655DD255F9B05296BB5CA7C40C5C1A2157DB81FC68B350FFD,"unknown_loader, sha256_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -4679,7 +4718,7 @@ date,user,type,ioc,tags,context
 2026-05-25,tweetfeed,DOMAIN,paybank.wevong.cn,phishing,https://x.com/kubotaa3/status/2058119373488046119
 2026-05-25,tweetfeed,DOMAIN,paypybank.ruiyanjituan.com,phishing,https://x.com/kubotaa3/status/2058122878307229748
 2026-05-25,tweetfeed,DOMAIN,jvfbateain.iwvbcj.info,phishing,https://x.com/masaomi346/status/2058124195322859626
-2026-05-25,tweetfeed,DOMAIN,photobookadm.pro,,https://x.com/smica83/status/2058130859387928920
+2026-05-25,"threatfox,tweetfeed",DOMAIN,photobookadm.pro,,https://x.com/smica83/status/2058130859387928920
 2026-05-25,tweetfeed,DOMAIN,haobbao.com,,https://x.com/smica83/status/2058130859387928920
 2026-05-25,tweetfeed,DOMAIN,attach.mail.kakao.com,,https://x.com/smica83/status/2058133083124125703
 2026-05-25,tweetfeed,DOMAIN,tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion,ransomware,https://x.com/fbgwls245/status/2058146460005544210
@@ -6243,6 +6282,7 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,IP,209.99.186.75,,
 2026-05-27,tweetfeed,IP,43.160.214.35,,
 2026-05-27,tweetfeed,IP,85.192.30.66,,
+2026-05-27,tweetfeed,HASH_SHA256,0594e2c11ee83e2a22559def773ffa8b0ad0a7d86a1433fb345cfc6522900b98,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
