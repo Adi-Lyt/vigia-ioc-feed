@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-20,threatfox,URL,https://engelspakistan.com/,"win.vidar, url",
 2026-05-21,threatfox,URL,http://151.242.125.187/dck,"sh, ua-wget, malware_download",
 2026-05-21,threatfox,URL,https://keepyourbalance-coaching.com/,"win.vidar, url",
 2026-05-21,threatfox,URL,https://newraal.com/,"win.vidar, url",
@@ -385,20 +384,6 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,http://94.159.113.64/b.jpg,"win.xworm, url",
 2026-05-27,threatfox,URL,https://ski.matriculadores.com/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://ski.awansm188.top/,"win.vidar, url",
-2026-05-20,threatfox,DOMAIN,sdnzyq.botanical-control-system.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,lnkbci.botanical-control-system.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,botanical-control-system.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,icfzyz.distributedgrowthengine.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,uqhayg.distributedgrowthengine.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,wknzex.petalresourcehub.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,isyxgq.petalresourcehub.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,petalresourcehub.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,azktfv.wildflora-processing-network.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,fkqnwe.wildflora-processing-network.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,jalfms.gardenworkflowplatform.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,duraktantuni.site,"win.nanocore, domain",
-2026-05-20,threatfox,DOMAIN,vsqeta.gardenworkflowplatform.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,microflora-management-hub.garden,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,u2fl6mod.stratosphericweatherballoon.digital,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,qu66rw99.stratosphericweatherballoon.digital,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,lasagnabakingsecrets.study,"js.clearfake, domain",
@@ -1742,6 +1727,11 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,saxjb.bninolimit.com,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,gqsef.bninolimit.com,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,clhpk.bognarautomoso.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,4dfx0u7r.stgsolar.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,o5xvhdzy.stgsolar.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,ndzuw.bmz.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,pbjnb.bni-ai.com,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,tukwp.bni-ai.com,"js.clearfake, domain",
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/duo/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
@@ -4175,6 +4165,7 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,URL,https://aljanob.org.sa/packup2025.html#Ylc5dFlYSkFkR0ZvWVd0dmJTNWpiMjA9,,
 2026-05-27,tweetfeed,URL,http://172.94.9.250,,
 2026-05-27,tweetfeed,URL,http://192.253.248.181,,
+2026-05-27,tweetfeed,URL,https://gmxmainde.weebly.com,,
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -6158,6 +6149,7 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,DOMAIN,troxi.online,,
 2026-05-27,tweetfeed,DOMAIN,rossieleictrics.us,,
 2026-05-27,tweetfeed,DOMAIN,aljanob.org.sa,,
+2026-05-27,tweetfeed,DOMAIN,gmxmainde.weebly.com,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
