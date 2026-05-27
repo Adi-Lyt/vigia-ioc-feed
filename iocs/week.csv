@@ -10,17 +10,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
-2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/security,"WeedHack, malware_download",
-2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/RuntimeBroker.exe,"rustystealer, WeedHack, malware_download",
-2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/elevator,"WeedHack, malware_download",
-2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/Pjibf.exe,"WeedHack, malware_download",
-2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/module,"WeedHack, malware_download",
-2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/module2,"WeedHack, malware_download",
-2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/component,"WeedHack, malware_download",
-2026-05-20,threatfox,URL,http://212.43.149.35/index.php,"unknown, url",
-2026-05-20,threatfox,URL,https://176.125.242.155/admin,"unknown, url",
-2026-05-20,threatfox,URL,https://food-family.icu/admin,"unknown, url",
-2026-05-20,threatfox,URL,https://176.125.242.155/,"unknown_stealer, url",
 2026-05-20,threatfox,URL,https://celebritysummits.com/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://movesllc.com/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://bestsunrisemovers.com/,"win.vidar, url",
@@ -380,17 +369,7 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,https://xtr.awansm188.top/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://xtr.matriculadores.com/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://tangmwp.club/blank,"win.lumma, url",
-2026-05-20,threatfox,DOMAIN,irrigation-monitoring-framework.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,mnkggwzm.crispychickencutlets.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,famwili.shop,"win.remus, domain",
-2026-05-20,threatfox,DOMAIN,p0ssosc3.crispychickencutlets.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,genusaqe.biz,"win.remus, domain",
-2026-05-20,threatfox,DOMAIN,mandtar.shop,"win.remus, domain",
-2026-05-20,threatfox,DOMAIN,botanicalanalytics.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,fucktermedfir.st,"unknown, domain",
-2026-05-20,threatfox,DOMAIN,remotev2.fucktermedfir.st,"unknown, domain",
-2026-05-20,threatfox,DOMAIN,v3.thisisafalsepositive.ru,"unknown, domain",
-2026-05-20,threatfox,DOMAIN,nexus-mods.net,"unknown, domain",
+2026-05-27,threatfox,URL,https://lenders.digital/,"unknown, url",
 2026-05-20,threatfox,DOMAIN,meadow-processing-core.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,trungtamfacebook.vn,"win.asyncrat, domain",
 2026-05-20,threatfox,DOMAIN,zeiqv2hk.subfossiloakchronology.digital,"js.clearfake, domain",
@@ -1725,6 +1704,20 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,emjpi.wilhelmglobal.com,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,cwzbp.wlwyb.com,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,rqmwn.wlwyb.com,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,reoen.webgondozas.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,vecue.webgondozas.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,0i2th72t.system-horizon.digital,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,huh3jy35.system-horizon.digital,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,rijschool-geduld.nl,"win.nanocore, domain",
+2026-05-27,threatfox,DOMAIN,ltewn.welovevent.com,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,mrnox.welovevent.com,"js.clearfake, domain",
+2026-05-27,darkweb_forums,URL,https://t.me/Darkstormteam22,"darkweb, telegram_threat_actors",commit 9589f22a / telegram_threat_actors.md
+2026-05-27,darkweb_forums,URL,https://t.me/silenterrorsystem,"darkweb, telegram_threat_actors",commit 9589f22a / telegram_threat_actors.md
+2026-05-27,darkweb_forums,URL,https://t.me/nyxeravx1,"darkweb, telegram_threat_actors",commit 9589f22a / telegram_threat_actors.md
+2026-05-27,darkweb_forums,URL,https://t.me/Aero4Sec,"darkweb, telegram_threat_actors",commit 9589f22a / telegram_threat_actors.md
+2026-05-27,darkweb_forums,URL,https://t.me/Cyber_Dark_Echo,"darkweb, telegram_threat_actors",commit 9589f22a / telegram_threat_actors.md
+2026-05-27,darkweb_forums,URL,https://t.me/brotheroodbci,"darkweb, telegram_threat_actors",commit 9589f22a / telegram_threat_actors.md
+2026-05-27,darkweb_forums,URL,https://t.me/ShadowClawZ404,"darkweb, telegram_threat_actors",commit 9589f22a / telegram_threat_actors.md
 2026-05-20,threatfox,HASH_SHA256,9408dfa7ca622d0db087985ff6d4288b143e4e4a11c7a734ea4e151b73de8d00,"unknown, sha256_hash",
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
@@ -4053,6 +4046,15 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,URL,http://Pastes.dev,,
 2026-05-27,tweetfeed,URL,http://free.pinggy.io,,
 2026-05-27,tweetfeed,URL,http://iqezmqm.com,,
+2026-05-27,tweetfeed,URL,http://hippamsas.com,,
+2026-05-27,tweetfeed,URL,https://wuyqsqdloxerrnbojxob.supabase.co/storage/v1/object/public/nb/nbase.msi,,
+2026-05-27,tweetfeed,URL,https://omniaplastica.it.com/NFPSDECO/NFPS5307.pdf,,
+2026-05-27,tweetfeed,URL,https://omniaplastica.it.com/NFPS/EP.js,,
+2026-05-27,tweetfeed,URL,https://bonvalve.cam/eur/Star.snp,,
+2026-05-27,tweetfeed,URL,https://link24.kr/1y0mZTc/,,
+2026-05-27,tweetfeed,URL,http://odaygplp3zhyx7zl45egetl6dzc4reduisnoyym34rjdmaryfaz5doqd.onion,,
+2026-05-27,tweetfeed,URL,https://flowlinetradingfzco.cam/eu/Barrandite.qxd,,
+2026-05-27,tweetfeed,URL,https://omniaplastica.it.com/NFPS/EU.js,,
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -5945,6 +5947,12 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,DOMAIN,Pastes.dev,,
 2026-05-27,tweetfeed,DOMAIN,free.pinggy.io,,
 2026-05-27,tweetfeed,DOMAIN,iqezmqm.com,,
+2026-05-27,tweetfeed,DOMAIN,hippamsas.com,,
+2026-05-27,tweetfeed,DOMAIN,wuyqsqdloxerrnbojxob.supabase.co,,
+2026-05-27,tweetfeed,DOMAIN,omniaplastica.it.com,,
+2026-05-27,tweetfeed,DOMAIN,bonvalve.cam,,
+2026-05-27,tweetfeed,DOMAIN,odaygplp3zhyx7zl45egetl6dzc4reduisnoyym34rjdmaryfaz5doqd.onion,,
+2026-05-27,tweetfeed,DOMAIN,flowlinetradingfzco.cam,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -6364,6 +6372,13 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,HASH_SHA256,0594e2c11ee83e2a22559def773ffa8b0ad0a7d86a1433fb345cfc6522900b98,,
 2026-05-27,tweetfeed,HASH_SHA256,0c61fbc0a222b88b8095923d9ea8bf93e12b2ee00b1782379ce368224f0bc02f,,
 2026-05-27,tweetfeed,IP,45.178.181.218,,
+2026-05-27,tweetfeed,IP,5.252.177.201,,
+2026-05-27,tweetfeed,IP,65.109.104.71,,
+2026-05-27,tweetfeed,HASH_SHA256,05aed8fa1453a78c1e771b1a9789ed469f32706a21fd1f542f7e5f4a99351896,,
+2026-05-27,tweetfeed,HASH_SHA256,677eb1951827150984929507a48b8e210f2f2c852b3d4c57bbae4e08315b8931,,
+2026-05-27,tweetfeed,HASH_SHA256,3a417084802b5255b332280266442b5a062dd46341ffdb9a7b7c85a521c15a7c,,
+2026-05-27,tweetfeed,HASH_SHA256,89d7edbe8559fa62e844232c74502e66ca9c3e1501459862929032b4adf3067f,,
+2026-05-27,tweetfeed,HASH_SHA256,10a1a22c67abc0afccf373e05d11a29a613b287347d55e07597016ce0905420d,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
@@ -6403,3 +6418,6 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,HASH_MD5,e4300eb8469f875c5a8b64b7cd7d0ce0,,
 2026-05-27,tweetfeed,HASH_MD5,e4a659528c23235627f7c8f5851e7102,,
 2026-05-27,tweetfeed,HASH_MD5,5846a4f3bce2d40023ea0659c48359cc,,
+2026-05-27,tweetfeed,HASH_MD5,63854f102887b53a10f4fdeb44d7ab15,,
+2026-05-27,tweetfeed,HASH_MD5,cecb6e6d005f42268346aad378ef9e4b,,
+2026-05-27,tweetfeed,HASH_MD5,e3ee93f6840cc71638474435ace79050,,
