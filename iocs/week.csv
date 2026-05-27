@@ -10,7 +10,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
-2026-05-20,threatfox,URL,https://lands-end-coastguard.com/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/security,"WeedHack, malware_download",
 2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/RuntimeBroker.exe,"rustystealer, WeedHack, malware_download",
 2026-05-20,threatfox,URL,https://fucktermedfir.st/files/jar/elevator,"WeedHack, malware_download",
@@ -378,12 +377,6 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,https://payforwin.github.io/desktop.html,"unknown_stealer, url",
 2026-05-27,threatfox,URL,http://158.94.210.59/25e3868686d747678e3b.php,"win.stealc, url",
 2026-05-27,threatfox,URL,https://sweepyribs.lat/api,"win.lumma, url",
-2026-05-20,threatfox,DOMAIN,0gmqmb12.orbitaldockingmodule.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,7e4kctpk.orbitaldockingmodule.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,ecosystemworkflow.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,containerized-growth-platform.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,sentro-bookings.nl,"win.strelastealer, domain",
-2026-05-20,threatfox,DOMAIN,floraresourcecenter.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,wildflora-resource-platform.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,gardenprocessinghub.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,bloom-distribution-engine.garden,"js.clearfake, domain",
@@ -1718,6 +1711,12 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,xjmes.yanis.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,yzrdn.yanis.hu,"js.clearfake, domain",
 2026-05-27,darkweb_forums,URL,https://t.me/HiddenEyesTeam,"darkweb, telegram_threat_actors",commit 03e83576 / telegram_threat_actors.md
+2026-05-27,threatfox,DOMAIN,uolsj.wolfmarketing.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,gplca9pf.script-bridge.digital,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,www.mobile1.com,"win.nanocore, domain",
+2026-05-27,threatfox,DOMAIN,mszpkxdh.script-bridge.digital,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,dxblg.workoutwithdorci.com,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,toaok.workoutwithdorci.com,"js.clearfake, domain",
 2026-05-20,threatfox,HASH_SHA256,9408dfa7ca622d0db087985ff6d4288b143e4e4a11c7a734ea4e151b73de8d00,"unknown, sha256_hash",
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
