@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-20,threatfox,URL,https://aachenhc.com/,"win.vidar, url",
-2026-05-20,threatfox,URL,https://reimonstracking.com/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://spl.fazvende.com.br/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://spl.tristans-tea.com/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://engelspakistan.com/,"win.vidar, url",
@@ -387,12 +385,8 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,https://unca.cc/,"unknown, url",
 2026-05-27,threatfox,URL,http://94.159.113.64/a.jpg,"win.xworm, url",
 2026-05-27,threatfox,URL,http://94.159.113.64/b.jpg,"win.xworm, url",
-2026-05-20,threatfox,DOMAIN,frcdk4gw.deepseahydrothermalvent.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,nfsxaxgk.deepseahydrothermalvent.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,tifameat.containerized-growth-engine.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,oxeaczec.containerized-growth-engine.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,zqbegtka.floraanalyticshub.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,nnciokgy.floraanalyticshub.garden,"js.clearfake, domain",
+2026-05-27,threatfox,URL,https://ski.matriculadores.com/,"win.vidar, url",
+2026-05-27,threatfox,URL,https://ski.awansm188.top/,"win.vidar, url",
 2026-05-20,threatfox,DOMAIN,ybhyrjaj.asynchronouswateringmesh.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,cqimainp.asynchronouswateringmesh.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,bedzvnbo.ecosystemresourceplatform.garden,"js.clearfake, domain",
@@ -1752,6 +1746,12 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,jwm4245f.schleer.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,vafcj.buborekjatszohaz.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,efhzt.buborekjatszohaz.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,ski.awansm188.top,"win.vidar, domain",
+2026-05-27,threatfox,DOMAIN,ski.matriculadores.com,"win.vidar, domain",
+2026-05-27,threatfox,DOMAIN,dpkrz.boutiqbar.com,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,oyqkr.boutiqbar.com,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,hwhza.brandbuilder.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,cxcbr.brandbuilder.hu,"js.clearfake, domain",
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/duo/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
