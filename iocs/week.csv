@@ -10,9 +10,6 @@ date,user,type,ioc,tags,context
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
-2026-05-20,threatfox,URL,https://celebritysummits.com/,"win.vidar, url",
-2026-05-20,threatfox,URL,https://movesllc.com/,"win.vidar, url",
-2026-05-20,threatfox,URL,https://bestsunrisemovers.com/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://littlepirate.co.il/,"win.vidar, url",
 2026-05-20,threatfox,URL,https://cbs-tv.com.skysports1.com/,"unknown, url",
 2026-05-20,threatfox,URL,https://recaptcha.boit.cloud/,"unknown, url",
@@ -374,11 +371,9 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,https://hiddenplanetlab.top/signin/legacy-worker.js,"js.smartapesg, url",
 2026-05-27,threatfox,URL,http://178.156.231.32,"js.smartapesg, url",
 2026-05-27,threatfox,URL,http://5.78.209.255,"js.smartapesg, url",
-2026-05-20,threatfox,DOMAIN,zeiqv2hk.subfossiloakchronology.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,mkjoh3tl.subfossiloakchronology.digital,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,containerized-plant-system.garden,"js.clearfake, domain",
-2026-05-20,threatfox,DOMAIN,worksodsirius.ydns.eu,"win.xworm, domain",
-2026-05-20,threatfox,DOMAIN,floraecosystemhub.garden,"js.clearfake, domain",
+2026-05-27,threatfox,URL,https://gulgosski.lol/file.js,"js.kongtuke, url",
+2026-05-27,threatfox,URL,https://gulgosski.lol/api/v1/session,"js.kongtuke, url",
+2026-05-27,threatfox,URL,https://gulgosski.lol/api/v1/verify,"js.kongtuke, url",
 2026-05-20,threatfox,DOMAIN,bcypppaq.asynchronous-growth-platform.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,dfenkcqx.asynchronous-growth-platform.garden,"js.clearfake, domain",
 2026-05-20,threatfox,DOMAIN,mysa.co.com,"win.asyncrat, domain",
@@ -1738,6 +1733,15 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,anjcp.v-vill.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,dwchg.webermann.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,fyizj.webermann.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,cknkl.vilagom.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,dmkli.vilagom.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,ns1.deepsekapi.cn,"win.cobalt_strike, domain",
+2026-05-27,threatfox,DOMAIN,apinetsolworkspace.network,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,lnsertech.net,"unknown, domain",
+2026-05-27,threatfox,DOMAIN,mmtfc.vizhoszivattyu.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,gulgosski.lol,"js.kongtuke, domain",
+2026-05-27,threatfox,DOMAIN,qhnhv.vrtigo.hu,"js.clearfake, domain",
+2026-05-27,threatfox,DOMAIN,avtgz.vrtigo.hu,"js.clearfake, domain",
 2026-05-20,threatfox,HASH_SHA256,9408dfa7ca622d0db087985ff6d4288b143e4e4a11c7a734ea4e151b73de8d00,"unknown, sha256_hash",
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
 2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
