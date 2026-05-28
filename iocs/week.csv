@@ -6,18 +6,6 @@ date,user,type,ioc,tags,context
 2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-21,threatfox,URL,https://pafu.eco.to/,"unknown, url",
-2026-05-21,threatfox,URL,https://gardeninfrastructurecore.garden/80ad8f13-a651-414f-8be5-0252e6fd5ad0/ggl.bsc,"js.clearfake, url",
-2026-05-21,threatfox,URL,http://aulinked.org/infos.php?fronts=1,"unknown, url",
-2026-05-21,threatfox,URL,https://namlongland.net/ebd417db-979c-51f8-aedf-88a2bf8aa6c3/t9,"unknown, url",
-2026-05-21,threatfox,URL,https://ackerkann.lol/api/v1/session,"js.kongtuke, url",
-2026-05-21,threatfox,URL,https://ackerkann.lol/api/v1/verify,"js.kongtuke, url",
-2026-05-21,threatfox,URL,https://ackerkann.lol/file.js,"js.kongtuke, url",
-2026-05-21,threatfox,URL,https://lolfler.lol/api/v1/session,"js.kongtuke, url",
-2026-05-21,threatfox,URL,https://lolfler.lol/api/v1/verify,"js.kongtuke, url",
-2026-05-21,threatfox,URL,https://lolfler.lol/file.js,"js.kongtuke, url",
-2026-05-21,threatfox,URL,https://platecrumbs.com/,"unknown, url",
-2026-05-21,threatfox,URL,https://www.dunebuggydubai.ae/,"unknown, url",
 2026-05-21,threatfox,URL,http://198.135.51.79,"win.stealc, url",
 2026-05-21,threatfox,URL,http://trailblazehealth.com/curl/6e2d25066bc1db68a10d55189c7c0bae6443d5178fd4310808270e261236ce30,"unknown_stealer, url",
 2026-05-21,"threatfox,tweetfeed",URL,https://api-metrics-5453.com/curl/3e97b0eddfddb28e10008f9348381b2665e1ad12476315b24a64808696c3347b,"malware, stealer",https://x.com/BigToni94/status/2057430889773007308
@@ -381,13 +369,6 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,http://94.159.113.64/b.jpg,"win.xworm, url",
 2026-05-27,threatfox,URL,https://ski.matriculadores.com/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://ski.awansm188.top/,"win.vidar, url",
-2026-05-21,threatfox,DOMAIN,dl.emergencepsychservices.com,"js.fakeupdates, domain",
-2026-05-21,threatfox,DOMAIN,finger.aulinked.org,"unknown, domain",
-2026-05-21,threatfox,DOMAIN,ackerkann.lol,"js.kongtuke, domain",
-2026-05-21,threatfox,DOMAIN,lolfler.lol,"js.kongtuke, domain",
-2026-05-21,threatfox,DOMAIN,mheusa03.xyz,"win.netsupportmanager_rat, domain",
-2026-05-21,threatfox,DOMAIN,slndcdnclaud.beer,"unknown, domain",
-2026-05-21,threatfox,DOMAIN,hasmysql.christmas,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,zsigmu.shop,"win.remus, domain",
 2026-05-21,threatfox,DOMAIN,dafkov.shop,"win.remus, domain",
 2026-05-21,threatfox,DOMAIN,chriysn.shop,"win.remus, domain",
@@ -1744,9 +1725,14 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,DOMAIN,vorro.vigaf.hu,"js.clearfake, domain",
 2026-05-28,threatfox,DOMAIN,123bca.com,"win.nanocore, domain",
 2026-05-28,threatfox,DOMAIN,pituf.vigaf.hu,"js.clearfake, domain",
-2026-05-21,threatfox,HASH_SHA256,e746712a83e1a908e16c2495fd75dde22950b6e09c7ee9a8e148318d48950f5e,"unknown, sha256_hash",
-2026-05-21,threatfox,HASH_SHA256,c4277ff9fed179249daf8b8d76f6be7613bea7bd5e742950cfb77c20e0e0cca5,"unknown, sha256_hash",
-2026-05-21,threatfox,HASH_SHA256,3b2f273bb402523c62608495108f9d3a771cfbd10f721e8f87076fee62edd4ae,"unknown, sha256_hash",
+2026-05-28,threatfox,DOMAIN,siase.webermann.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,vvvbk.webermann.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,2718gc20.seresniki.com,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,qfk3l7gj.seresniki.com,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,roesn.vrtigo.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,dqgrg.vrtigo.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,gbhij.vilagom.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,bzqtp.vilagom.hu,"js.clearfake, domain",
 2026-05-21,threatfox,HASH_SHA256,f01cac66a63b3bfd7409e4bceef30973a813f6ed4e99958313657449b1c7490f,"elf.xmrig, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,0759904c16ff6d1f25be53e218f7bb13668a13cf5bd328375bb37941c2c94ab2,"unknown, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,d95bb7afd88d684dd99bb0c462fd7e0f81596baa2a2749263c7be4f09b4177ec,"unknown, sha256_hash",
@@ -4171,6 +4157,7 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,URL,http://hitefrtmuljzve8ce0.bxss.me,,
 2026-05-28,tweetfeed,URL,https://smbc-card.haikouanjufang.com/login-index/,,
 2026-05-28,tweetfeed,URL,https://vvvv775vv.weebly.com,,
+2026-05-28,tweetfeed,URL,https://grupoaxium.es/wuu/Nortonn/index.html,,
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -6158,6 +6145,7 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,DOMAIN,hitefrtmuljzve8ce0.bxss.me,,
 2026-05-28,tweetfeed,DOMAIN,smbc-card.haikouanjufang.com,,
 2026-05-28,tweetfeed,DOMAIN,vvvv775vv.weebly.com,,
+2026-05-28,tweetfeed,DOMAIN,grupoaxium.es,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
