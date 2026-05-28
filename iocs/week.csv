@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
-2026-05-21,cisa_kev,CVE,CVE-2025-34291,"Langflow Langflow, kev","Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
-2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
@@ -382,8 +380,6 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,URL,https://ali.bolaturbo88.top/,"win.vidar, url",
 2026-05-28,threatfox,URL,https://ali.matriculaflix.com/,"win.vidar, url",
 2026-05-28,threatfox,URL,https://xax.cahayasm188.top/,"win.vidar, url",
-2026-05-21,threatfox,DOMAIN,proxy-hub.christmas,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,cloud-sync-engine.christmas,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,network-flow-system.christmas,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,travel-js-ns.beer,"unknown, domain",
 2026-05-21,threatfox,DOMAIN,byte-vault.christmas,"js.clearfake, domain",
@@ -1798,6 +1794,20 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,DOMAIN,adcwm.yanis.hu,"js.clearfake, domain",
 2026-05-28,threatfox,DOMAIN,ggtgi.wlwyb.com,"js.clearfake, domain",
 2026-05-28,threatfox,DOMAIN,fvffv.wlwyb.com,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,ucovu.lelekszepsegstudio.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,tsmdw.lelekszepsegstudio.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,2b2eg8hr.otthonfelujitasprogram2024.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,5leq2w7c.otthonfelujitasprogram2024.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,1364170351-gsw88cee73.ap-guangzhou.tencentscf.com,"win.cobalt_strike, domain",
+2026-05-28,threatfox,DOMAIN,wusjo.zsatom.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,shkow.zsatom.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,13oedsvc.pleasuredome.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,ncgxk.visszateritok.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,rsgip.visszateritok.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,olakv.technologiaiviz.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,dwtkz.technologiaiviz.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,cklrd.webrevelem.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,wthrl.webrevelem.hu,"js.clearfake, domain",
 2026-05-22,threatfox,HASH_SHA256,0759904c16ff6d1f25be53e218f7bb13668a13cf5bd328375bb37941c2c94ab2,"unknown, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,d95bb7afd88d684dd99bb0c462fd7e0f81596baa2a2749263c7be4f09b4177ec,"unknown, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,0ae0517a518f277c67ae6959e8fb1e75a67ce3c2d1a86af084326f9a6c3c2839,"unknown, sha256_hash",
