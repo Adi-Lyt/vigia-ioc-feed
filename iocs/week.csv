@@ -1,13 +1,11 @@
 date,user,type,ioc,tags,context
+2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
+2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-21,cisa_kev,CVE,CVE-2025-34291,"Langflow Langflow, kev","Langflow contains an origin validation error vulnerability in which an overly permissive CORS configuration combined with a refresh token cookie configured as SameSite=None allows a malicious webpage to perform cross-origin requests that include credentials and successfully call the refresh endpoint. This could allow the attacker to execute arbitrary code and achieve full system compromise via obtained tokens that permit access to authenticated endpoints. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-21,cisa_kev,CVE,CVE-2026-34926,"Trend Micro Apex One, kev","Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
-2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
-2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-21,threatfox,URL,https://thu.fbvendas.com/,"win.vidar, url",
-2026-05-21,threatfox,URL,https://thu.adasm188.top/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://mal.fbvendas.com/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://mal.adasm188.top/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://eliteusalogistics.com/,"win.vidar, url",
@@ -383,18 +381,6 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,URL,https://verify-auth-cloud.com/api/log,"unknown, url",
 2026-05-28,threatfox,URL,https://ali.bolaturbo88.top/,"win.vidar, url",
 2026-05-28,threatfox,URL,https://ali.matriculaflix.com/,"win.vidar, url",
-2026-05-21,threatfox,DOMAIN,runtime-control.christmas,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,x3o11wkp.signal-bridge.digital,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,khxta65a.signal-bridge.digital,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,signal-bridge.digital,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,thu.fbvendas.com,"win.vidar, domain",
-2026-05-21,threatfox,DOMAIN,thu.adasm188.top,"win.vidar, domain",
-2026-05-21,threatfox,DOMAIN,ice-evergreen.christmas,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,vn88.co.com,"win.remcos, domain",
-2026-05-21,threatfox,DOMAIN,u888np.com,"win.remcos, domain",
-2026-05-21,threatfox,DOMAIN,u88.vc,"win.remcos, domain",
-2026-05-21,threatfox,DOMAIN,u888.fishing,"win.remcos, domain",
-2026-05-21,threatfox,DOMAIN,j88jh.com,"win.remcos, domain",
 2026-05-21,threatfox,DOMAIN,r1iugua4.cloud-meridian.digital,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,stack-flow.christmas,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,signal-core-engine.christmas,"js.clearfake, domain",
@@ -1797,6 +1783,14 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,DOMAIN,ali.matriculaflix.com,"win.vidar, domain",
 2026-05-28,threatfox,DOMAIN,vbyiq.yanis.hu,"js.clearfake, domain",
 2026-05-28,threatfox,DOMAIN,fhogl.yanis.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,88i-mobile.com,"win.nanocore, domain",
+2026-05-28,threatfox,DOMAIN,xjlft.visszateritok.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,bubzw.visszateritok.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,syrzz.technologiaiviz.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,bctqs.technologiaiviz.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,aboddehousing.co.uk,"win.nanocore, domain",
+2026-05-28,threatfox,DOMAIN,jugha.webrevelem.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,qbcao.webrevelem.hu,"js.clearfake, domain",
 2026-05-22,threatfox,HASH_SHA256,0759904c16ff6d1f25be53e218f7bb13668a13cf5bd328375bb37941c2c94ab2,"unknown, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,d95bb7afd88d684dd99bb0c462fd7e0f81596baa2a2749263c7be4f09b4177ec,"unknown, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,0ae0517a518f277c67ae6959e8fb1e75a67ce3c2d1a86af084326f9a6c3c2839,"unknown, sha256_hash",
@@ -4260,6 +4254,16 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,URL,https://stanroad.com,,
 2026-05-28,tweetfeed,URL,https://tssjwygs.com,,
 2026-05-28,tweetfeed,URL,https://ww2.uc-card.cbffd.com/RmVelhhd,,
+2026-05-28,tweetfeed,URL,https://acoinfi.com/Ce5oNIkb3g.tokyo.com,,
+2026-05-28,tweetfeed,URL,https://360unicom.com/search,,
+2026-05-28,tweetfeed,URL,https://c-nous.com/redboxplus/complete.php,,
+2026-05-28,tweetfeed,URL,https://c-nous.com/redboxplus/download.php,,
+2026-05-28,tweetfeed,URL,https://s-25nwagey.s3.us-east-2.amazonaws.com/Gmonday1.msi,,
+2026-05-28,tweetfeed,URL,http://rahulgrover01.github.io/Netflix-clone-html-css-js-,,
+2026-05-28,tweetfeed,URL,http://applegps.online,,
+2026-05-28,tweetfeed,URL,http://applegps.online/inicio,,
+2026-05-28,tweetfeed,URL,http://applegps.online/mapa,,
+2026-05-28,tweetfeed,URL,http://applegps.online/api/captura,,
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -6272,6 +6276,12 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,DOMAIN,stanroad.com,,
 2026-05-28,tweetfeed,DOMAIN,tssjwygs.com,,
 2026-05-28,tweetfeed,DOMAIN,ww2.uc-card.cbffd.com,,
+2026-05-28,tweetfeed,DOMAIN,acoinfi.com,,
+2026-05-28,tweetfeed,DOMAIN,360unicom.com,,
+2026-05-28,tweetfeed,DOMAIN,c-nous.com,,
+2026-05-28,tweetfeed,DOMAIN,s-25nwagey.s3.us-east-2.amazonaws.com,,
+2026-05-28,tweetfeed,DOMAIN,rahulgrover01.github.io,,
+2026-05-28,tweetfeed,DOMAIN,applegps.online,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -6737,6 +6747,7 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,IP,160.119.69.4,,
 2026-05-28,tweetfeed,HASH_SHA256,1c90a1ce25b5078cea3e1c6aaed4f2e1727aa54fdd3c4a12d57afc085f1fcff9,,
 2026-05-28,tweetfeed,HASH_SHA256,bb1b4e46f1e4a7f17b1b04ee08c33400b2b6fd2327612a4d84da81e2656ba48b,,
+2026-05-28,tweetfeed,HASH_SHA256,776393d5d063a32c6e77b90485e9f15bd92bd346becfe718bd84de1ae9199b48,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
@@ -6780,3 +6791,4 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,HASH_MD5,cecb6e6d005f42268346aad378ef9e4b,,
 2026-05-27,tweetfeed,HASH_MD5,e3ee93f6840cc71638474435ace79050,,
 2026-05-28,tweetfeed,HASH_MD5,e75c6d87cc5dc04b2f28df3e6c6fb908,,
+2026-05-28,tweetfeed,HASH_MD5,f9a80cc1b5a40d29718dd2da5c7cef04,,
