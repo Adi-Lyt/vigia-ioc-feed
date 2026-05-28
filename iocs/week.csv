@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-21,threatfox,URL,http://151.242.125.187/dck,"sh, ua-wget, malware_download",
-2026-05-21,threatfox,URL,https://keepyourbalance-coaching.com/,"win.vidar, url",
 2026-05-21,threatfox,URL,https://newraal.com/,"win.vidar, url",
 2026-05-21,threatfox,URL,https://pafu.eco.to/,"unknown, url",
 2026-05-21,threatfox,URL,https://gardeninfrastructurecore.garden/80ad8f13-a651-414f-8be5-0252e6fd5ad0/ggl.bsc,"js.clearfake, url",
@@ -384,11 +382,6 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,URL,http://94.159.113.64/b.jpg,"win.xworm, url",
 2026-05-27,threatfox,URL,https://ski.matriculadores.com/,"win.vidar, url",
 2026-05-27,threatfox,URL,https://ski.awansm188.top/,"win.vidar, url",
-2026-05-21,threatfox,DOMAIN,u2fl6mod.stratosphericweatherballoon.digital,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,qu66rw99.stratosphericweatherballoon.digital,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,lasagnabakingsecrets.study,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,mpvcbz.quantumvelocitylabs.study,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,quantumvelocitylabs.study,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,bakingstonetheory.fit,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,orbital-velocity.fit,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,shugol.com,"win.strelastealer, domain",
@@ -1732,16 +1725,10 @@ date,user,type,ioc,tags,context
 2026-05-27,threatfox,DOMAIN,ndzuw.bmz.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,pbjnb.bni-ai.com,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,tukwp.bni-ai.com,"js.clearfake, domain",
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/gmail/asdasd,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/login/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/duo/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/meet/asda,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/review/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/cashpin,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/location/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/google-meet/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/location-live/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
-2026-05-21,tweetfeed,URL,http://ecortbabylon.site/live/test,phishing,https://x.com/Malwarehunterr/status/2057196561172689389
+2026-05-28,threatfox,DOMAIN,kevwo.akonyvelod.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,owqrh.akonyvelod.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,utwli.almasiklima.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,yjtfd.almasiklima.hu,"js.clearfake, domain",
 2026-05-21,threatfox,HASH_SHA256,e746712a83e1a908e16c2495fd75dde22950b6e09c7ee9a8e148318d48950f5e,"unknown, sha256_hash",
 2026-05-21,threatfox,HASH_SHA256,c4277ff9fed179249daf8b8d76f6be7613bea7bd5e742950cfb77c20e0e0cca5,"unknown, sha256_hash",
 2026-05-21,threatfox,HASH_SHA256,3b2f273bb402523c62608495108f9d3a771cfbd10f721e8f87076fee62edd4ae,"unknown, sha256_hash",
