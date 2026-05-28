@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-21,threatfox,URL,https://tee.fbvendas.com/,"win.vidar, url",
-2026-05-21,threatfox,URL,https://tee.adasm188.top/,"win.vidar, url",
 2026-05-21,threatfox,URL,https://awalitsystems.com/,"unknown, url",
 2026-05-21,threatfox,URL,https://wp.dildobegins.ink/gscqgqdendiivnpvnw,"unknown, url",
 2026-05-21,threatfox,URL,https://aifreeuse.pro/,"unknown, url",
@@ -383,11 +381,6 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,URL,https://blazingtunnelworks.com/up,"js.smartapesg, url",
 2026-05-28,threatfox,URL,http://144.31.57.82/2a7400fe251b4b4687fe.php,"win.stealc, url",
 2026-05-28,threatfox,URL,https://discord.com/api/webhooks/1416669690775736370,"unknown, url",
-2026-05-21,threatfox,DOMAIN,tee.fbvendas.com,"win.vidar, domain",
-2026-05-21,threatfox,DOMAIN,tee.adasm188.top,"win.vidar, domain",
-2026-05-21,threatfox,DOMAIN,frost-marketplace.christmas,"js.clearfake, domain",
-2026-05-21,threatfox,DOMAIN,lack.work.gd,"win.remcos, domain",
-2026-05-21,threatfox,DOMAIN,labshift-winmail-get.christmas,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,gift-harbor.christmas,"js.clearfake, domain",
 2026-05-21,threatfox,DOMAIN,magaji.duckdns.org,"win.remcos, domain",
 2026-05-21,threatfox,DOMAIN,nhr83i9y.kernel-vertex.digital,"js.clearfake, domain",
@@ -1788,6 +1781,21 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,DOMAIN,linkedinfix.squishsocials.co.uk,"unknown, domain",
 2026-05-28,threatfox,DOMAIN,fb-login-acccount-center-helps-meta-verifyeszz.pages.dev,"unknown, domain",
 2026-05-28,threatfox,DOMAIN,fb-login-acccount-center-helps-meta-verifyesz.pages.dev,"unknown, domain",
+2026-05-28,threatfox,DOMAIN,jiesaida.cn,"win.valley_rat, domain",
+2026-05-28,threatfox,DOMAIN,jovoi.vikstore.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,tpgpd.vikstore.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,gggggoilidjils.cc,"win.acr_stealer, domain",
+2026-05-28,threatfox,DOMAIN,freecoffee.monster,"unknown, domain",
+2026-05-28,threatfox,DOMAIN,kb2lqx8d.schleer.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,ekzhvqgg.schleer.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,xvfxe.technologiaiviz.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,athbo.technologiaiviz.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,agronew.duckdns.org,"win.remcos, domain",
+2026-05-28,threatfox,DOMAIN,agronewbk.duckdns.org,"win.remcos, domain",
+2026-05-28,threatfox,DOMAIN,kiouc.visszateritok.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,hlxzz.visszateritok.hu,"js.clearfake, domain",
+2026-05-28,threatfox,DOMAIN,trustwallet-verify.com,"unknown, domain",
+2026-05-28,threatfox,DOMAIN,tg-login-verify.click,"unknown, domain",
 2026-05-22,threatfox,HASH_SHA256,0759904c16ff6d1f25be53e218f7bb13668a13cf5bd328375bb37941c2c94ab2,"unknown, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,d95bb7afd88d684dd99bb0c462fd7e0f81596baa2a2749263c7be4f09b4177ec,"unknown, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,0ae0517a518f277c67ae6959e8fb1e75a67ce3c2d1a86af084326f9a6c3c2839,"unknown, sha256_hash",
@@ -4236,6 +4244,8 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,URL,https://myeclass4.weebly.com,,
 2026-05-28,tweetfeed,URL,https://ferhio.tos-cn-guangzhou.volces.com/TencentMeeting,,
 2026-05-28,tweetfeed,URL,http://18.163.145.116,,
+2026-05-28,tweetfeed,URL,http://oob.moika.tech,,
+2026-05-28,tweetfeed,URL,http://es.myinvestor-indicidencias.com,,
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -6238,6 +6248,8 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,DOMAIN,radardps.online,,
 2026-05-28,tweetfeed,DOMAIN,saaoreoplselam.weebly.com,,
 2026-05-28,tweetfeed,DOMAIN,myeclass4.weebly.com,,
+2026-05-28,tweetfeed,DOMAIN,oob.moika.tech,,
+2026-05-28,tweetfeed,DOMAIN,es.myinvestor-indicidencias.com,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -6700,6 +6712,7 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,HASH_SHA256,c18cb7267747fc55042f49b302d41e9cb7e75080c80aa5fdf580a7b23fa90a8e,,
 2026-05-28,tweetfeed,HASH_SHA256,6f4de3f972e1acf8ca603ff87b65ab4b92abf303f98b87cc7e822bfd5828d132,,
 2026-05-28,tweetfeed,HASH_SHA256,448682ebd829c6c05dda879d4609106d8c115b80ac1df15e0f4d28dd7176c193,,
+2026-05-28,tweetfeed,IP,160.119.69.4,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
