@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-22,threatfox,URL,https://vosefarm.com/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://fearlesshomemaker.com/,"win.vidar, url",
 2026-05-23,threatfox,URL,https://topnotchspree.com/,"win.vidar, url",
 2026-05-23,threatfox,URL,https://faisst-vorburger.ch/,"win.vidar, url",
@@ -297,11 +296,6 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,URL,https://116.203.61.133/,"win.vidar, url",
 2026-05-29,threatfox,URL,https://94.130.188.222/,"win.vidar, url",
 2026-05-29,threatfox,URL,https://mub.depansm188.top/,"win.vidar, url",
-2026-05-22,threatfox,DOMAIN,www.danafilesbackup1.com,"win.remcos, domain",
-2026-05-22,threatfox,DOMAIN,www.danafilesbackup2.com,"win.remcos, domain",
-2026-05-22,threatfox,DOMAIN,www.danafilesbackup3.com,"win.remcos, domain",
-2026-05-22,threatfox,DOMAIN,www.danafiles.com,"win.remcos, domain",
-2026-05-22,threatfox,DOMAIN,phase-shiftbridge.christmas,"js.clearfake, domain",
 2026-05-22,threatfox,DOMAIN,algerium.io,"win.nanocore, domain",
 2026-05-22,threatfox,DOMAIN,dozie.io,"win.asyncrat, domain",
 2026-05-22,threatfox,DOMAIN,holisticdetective.christmas,"js.clearfake, domain",
