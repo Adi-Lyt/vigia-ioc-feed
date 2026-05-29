@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-22,threatfox,URL,https://rankandtrack.com/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://rrfacility.com.br/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://opaqueshellsoftsmoke.monster/indexactiverevenue.php,"win.satacom, url",
 2026-05-22,threatfox,URL,https://totebagsforwork.com/nfront.php,"win.satacom, url",
@@ -359,8 +358,6 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,URL,https://www.secure-accounts-verify.com/submit-task,"unknown, url",
 2026-05-29,threatfox,URL,https://www.secure-accounts-verify.com/get-status,"unknown, url",
 2026-05-29,threatfox,URL,https://download2339.mediafire.com/u0sdiyzhvzrg1NrjoTqYLxdLIjIyV9yeep3Kb8962rP0OtlurhwsbT6J_Ycwbj7vzg4q-grGmHUEm_5XYBLm8CM5JSl5FwJod81u82Cg284MSC0Z9XkFTm5W-r-ejbPBxs1vo508k4wwHp2sL-pNKFTvWo8_ey3_4yy6-XVGTSnfSw/cwga3u4xqb5jtm3/Chat_GPT.exe,"unknown_stealer, url",
-2026-05-22,threatfox,DOMAIN,formkey.asia,"js.clearfake, domain",
-2026-05-22,threatfox,DOMAIN,chickencutlet-hacks.christmas,"js.clearfake, domain",
 2026-05-22,darkweb_forums,URL,https://t.me/+V-WBM4RrCkVkMWFl,"darkweb, telegram_infostealer",commit b0044fec / telegram_infostealer.md
 2026-05-22,darkweb_forums,URL,https://t.me/+M1WRRV5fJMk3NmE1,"darkweb, telegram_infostealer",commit b0044fec / telegram_infostealer.md
 2026-05-22,threatfox,DOMAIN,unicore.lol,"unknown, domain",
