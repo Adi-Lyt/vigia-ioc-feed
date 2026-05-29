@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-22,threatfox,URL,https://eliteusalogistics.com/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://foodclub.ae/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://hms.xybcaap.my.id/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://namlongland.net/ebd417db-979c-51f8-aedf-88a2bf8aa6c3/v12,"None, malware_download",
@@ -379,8 +378,6 @@ date,user,type,ioc,tags,context
 2026-05-28,threatfox,URL,https://ali.matriculaflix.com/,"win.vidar, url",
 2026-05-28,threatfox,URL,https://xax.cahayasm188.top/,"win.vidar, url",
 2026-05-28,threatfox,URL,https://xax.depansm188.top/,"win.vidar, url",
-2026-05-22,threatfox,DOMAIN,telemetrymesh.christmas,"js.clearfake, domain",
-2026-05-22,threatfox,DOMAIN,byte-network-hub.christmas,"js.clearfake, domain",
 2026-05-22,threatfox,DOMAIN,stack-control-plane.christmas,"js.clearfake, domain",
 2026-05-22,threatfox,DOMAIN,runtime-processing-node.christmas,"js.clearfake, domain",
 2026-05-22,threatfox,DOMAIN,cyber-defensepro.christmas,"js.clearfake, domain",
