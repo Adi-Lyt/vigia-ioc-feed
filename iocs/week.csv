@@ -358,8 +358,8 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,URL,https://www.secure-accounts-verify.com/submit-task,"unknown, url",
 2026-05-29,threatfox,URL,https://www.secure-accounts-verify.com/get-status,"unknown, url",
 2026-05-29,threatfox,URL,https://download2339.mediafire.com/u0sdiyzhvzrg1NrjoTqYLxdLIjIyV9yeep3Kb8962rP0OtlurhwsbT6J_Ycwbj7vzg4q-grGmHUEm_5XYBLm8CM5JSl5FwJod81u82Cg284MSC0Z9XkFTm5W-r-ejbPBxs1vo508k4wwHp2sL-pNKFTvWo8_ey3_4yy6-XVGTSnfSw/cwga3u4xqb5jtm3/Chat_GPT.exe,"unknown_stealer, url",
-2026-05-22,darkweb_forums,URL,https://t.me/+V-WBM4RrCkVkMWFl,"darkweb, telegram_infostealer",commit b0044fec / telegram_infostealer.md
-2026-05-22,darkweb_forums,URL,https://t.me/+M1WRRV5fJMk3NmE1,"darkweb, telegram_infostealer",commit b0044fec / telegram_infostealer.md
+2026-05-29,threatfox,URL,https://iyi.matriculaflix.com/,"win.vidar, url",
+2026-05-29,threatfox,URL,https://iyi.depansm188.top/,"win.vidar, url",
 2026-05-22,threatfox,DOMAIN,unicore.lol,"unknown, domain",
 2026-05-22,threatfox,DOMAIN,joinunicore.top,"unknown, domain",
 2026-05-22,threatfox,DOMAIN,softandtec.com,"win.remus, domain",
@@ -1828,6 +1828,13 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,DOMAIN,ani.hitnoop.cc,"win.acr_stealer, domain",
 2026-05-29,threatfox,DOMAIN,tooca.sm188daftar.skin,"js.clearfake, domain",
 2026-05-29,threatfox,DOMAIN,qbtnd.sm188dvlv.cfd,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,dsc8ybog.schleer.hu,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,79zofcjc.schleer.hu,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,qaezg.sm188akurat.sbs,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,iyi.depansm188.top,"win.vidar, domain",
+2026-05-29,threatfox,DOMAIN,iyi.matriculaflix.com,"win.vidar, domain",
+2026-05-29,threatfox,DOMAIN,mfrpd.sm188daftar.cfd,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,sokot.sm188daftar.cfd,"js.clearfake, domain",
 2026-05-22,threatfox,HASH_SHA256,4e286cd901813a5f80411e417fb5defe25ff9af00706e68509392f6e75cc3908,"win.satacom, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,f3ef4663e909e2545d25bdd0edc7ba4f88d197760921ca23e7dededf7326aa8e,"win.satacom, sha256_hash",
 2026-05-23,threatfox,HASH_SHA256,ef355778546bc6e044330691404b63eddf83d7fc6073047394a25dd0e98c7d7d,"elf.xmrig, sha256_hash",
@@ -4326,6 +4333,9 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,URL,http://151.243.18.111/login.php,,
 2026-05-29,threatfox,HASH_SHA256,e20b8e1d8337cec11d40db7580f42460abbc2b60ce0938bf2c746a32e0747421,"elf.xmrig, sha256_hash",
 2026-05-29,threatfox,HASH_SHA256,a437ad7a5250390bce355a1957a3584a68df7efc3006e2f2bcf052845bc32ae8,"elf.xmrig, sha256_hash",
+2026-05-29,tweetfeed,URL,http://170.205.37.154:8000,,
+2026-05-29,tweetfeed,URL,http://github.com/d-m1-1,,
+2026-05-29,tweetfeed,URL,http://github.com/t1-26l1,,
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -6867,6 +6877,7 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,IP,31.76.93.30,,
 2026-05-29,tweetfeed,HASH_SHA256,6f6656d811bb431becff1eb75da158b45af5655ae4c0b74a3ea64ea3d258fc02,,
 2026-05-29,tweetfeed,IP,151.243.18.111,,
+2026-05-29,tweetfeed,IP,170.205.37.154,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
@@ -6911,3 +6922,4 @@ date,user,type,ioc,tags,context
 2026-05-27,tweetfeed,HASH_MD5,e3ee93f6840cc71638474435ace79050,,
 2026-05-28,tweetfeed,HASH_MD5,e75c6d87cc5dc04b2f28df3e6c6fb908,,
 2026-05-28,tweetfeed,HASH_MD5,f9a80cc1b5a40d29718dd2da5c7cef04,,
+2026-05-29,tweetfeed,HASH_MD5,a5c93979cce587620202bbdaad15e264,,
