@@ -357,6 +357,7 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,URL,https://iyi.depansm188.top/,"win.vidar, url",
 2026-05-29,threatfox,URL,https://recaptcha.supp.ir/form.php,"unknown, url",
 2026-05-29,threatfox,URL,https://jnyut.zsatom.hu/b0095332-c29a-441b-a6a2-997df8e339e7/goog.ct,"js.clearfake, url",
+2026-05-29,threatfox,URL,https://mub.matriculaflix.com/,"win.vidar, url",
 2026-05-22,threatfox,DOMAIN,cache-orbit.christmas,"js.clearfake, domain",
 2026-05-22,threatfox,DOMAIN,dip.fbvendas.com,"win.vidar, domain",
 2026-05-22,threatfox,DOMAIN,dip.adasm188.top,"win.vidar, domain",
@@ -1844,6 +1845,12 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,DOMAIN,interium.lol,"unknown, domain",
 2026-05-29,threatfox,DOMAIN,recaptcha.supp.ir,"unknown, domain",
 2026-05-29,threatfox,DOMAIN,jnyut.zsatom.hu,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,mub.matriculaflix.com,"win.vidar, domain",
+2026-05-29,threatfox,DOMAIN,wrjfn.wlwyb.com,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,aqvem.wlwyb.com,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,femilessn.top,"unknown, domain",
+2026-05-29,threatfox,DOMAIN,wzpmw.webrevelem.hu,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,fxllt.webrevelem.hu,"js.clearfake, domain",
 2026-05-23,threatfox,HASH_SHA256,ef355778546bc6e044330691404b63eddf83d7fc6073047394a25dd0e98c7d7d,"elf.xmrig, sha256_hash",
 2026-05-23,tweetfeed,URL,https://iforget.ubicacion-cloud.info/expire/,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-24,tweetfeed,URL,"https://aeroportoconstrucoes.com#phishing,#scam,#golpe,#fakewebsite,#falsoecommerce","phishing, scam",https://x.com/Coolcarlos17/status/2058353615681593720
@@ -4370,6 +4377,11 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,URL,http://gs-stellaalpina.com/wp-admin/arinola/,,
 2026-05-29,tweetfeed,URL,http://pohana.de/wp-admin/herc,,
 2026-05-29,threatfox,HASH_SHA256,f928aa91a1c90273fe9a9705987f0a3bf7b0cc4abbc0357f6ccf7111e543f536,"unknown, sha256_hash",
+2026-05-29,tweetfeed,URL,https://xn--zb0b93v.weebly.com,,
+2026-05-29,tweetfeed,URL,http://slndcdnclaud.beer,,
+2026-05-29,tweetfeed,URL,http://boostamber7.com,,
+2026-05-29,tweetfeed,URL,http://blueprintmesh.com,,
+2026-05-29,threatfox,HASH_SHA256,e9e5b46bf9ca7c4c02747db607a65f1922b524d2a7d059cb70135c8b86bbebcc,"unknown, sha256_hash",
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -6372,7 +6384,7 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,DOMAIN,radardps.online,,
 2026-05-28,tweetfeed,DOMAIN,saaoreoplselam.weebly.com,,
 2026-05-28,tweetfeed,DOMAIN,myeclass4.weebly.com,,
-2026-05-28,tweetfeed,DOMAIN,oob.moika.tech,,
+2026-05-28,"threatfox,tweetfeed",DOMAIN,oob.moika.tech,,
 2026-05-28,tweetfeed,DOMAIN,es.myinvestor-indicidencias.com,,
 2026-05-28,tweetfeed,DOMAIN,amazon-clone-cyan-ten.vercel.app,,
 2026-05-28,tweetfeed,DOMAIN,ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion,,
@@ -6446,6 +6458,9 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,DOMAIN,ketoannhs.com,,
 2026-05-29,tweetfeed,DOMAIN,gs-stellaalpina.com,,
 2026-05-29,tweetfeed,DOMAIN,pohana.de,,
+2026-05-29,tweetfeed,DOMAIN,xn--zb0b93v.weebly.com,,
+2026-05-29,tweetfeed,DOMAIN,boostamber7.com,,
+2026-05-29,tweetfeed,DOMAIN,blueprintmesh.com,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -6943,6 +6958,8 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,HASH_SHA256,e072e113a0f1681610085c6d9ec6c156d7de1b853fe935b78c2f8484d3a3fba3,,
 2026-05-29,tweetfeed,HASH_SHA256,b6be096ff404b726dcc090a2bc462841afd712ec9b3c745aab24a95f943a2a03,,
 2026-05-29,tweetfeed,HASH_SHA256,13d748226193314c6dbb551cb4ce79150bdf5d430945ef9f75ac8269211530a4,,
+2026-05-29,tweetfeed,HASH_SHA256,8145a7920d69ee42e12533f5ef8d5e1168cd574db3586cb30af82f54c66d2f1d,,
+2026-05-29,tweetfeed,HASH_SHA256,402eb798bba7b4cb44dc5aa098743b8d6395f9c57220737ce931639cc5cc1eff,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
