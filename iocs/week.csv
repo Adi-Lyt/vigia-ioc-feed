@@ -4,10 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-22,cisa_kev,CVE,CVE-2026-9082,"Drupal Core, kev","Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-27"
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
-2026-05-22,threatfox,URL,https://opaqueshellsoftsmoke.monster/indexactiverevenue.php,"win.satacom, url",
-2026-05-22,threatfox,URL,https://totebagsforwork.com/nfront.php,"win.satacom, url",
-2026-05-22,threatfox,URL,https://totebagsforwork.com/nback.php,"win.satacom, url",
-2026-05-22,threatfox,URL,https://sjconcepts.co.uk/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://dip.fbvendas.com/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://dip.adasm188.top/,"win.vidar, url",
 2026-05-22,threatfox,URL,https://ahokulairistouv.site:14001,"apk.antidot, url",
@@ -359,10 +355,6 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,URL,https://download2339.mediafire.com/u0sdiyzhvzrg1NrjoTqYLxdLIjIyV9yeep3Kb8962rP0OtlurhwsbT6J_Ycwbj7vzg4q-grGmHUEm_5XYBLm8CM5JSl5FwJod81u82Cg284MSC0Z9XkFTm5W-r-ejbPBxs1vo508k4wwHp2sL-pNKFTvWo8_ey3_4yy6-XVGTSnfSw/cwga3u4xqb5jtm3/Chat_GPT.exe,"unknown_stealer, url",
 2026-05-29,threatfox,URL,https://iyi.matriculaflix.com/,"win.vidar, url",
 2026-05-29,threatfox,URL,https://iyi.depansm188.top/,"win.vidar, url",
-2026-05-22,threatfox,DOMAIN,softandtec.com,"win.remus, domain",
-2026-05-22,threatfox,DOMAIN,spamgym.asia,"js.clearfake, domain",
-2026-05-22,threatfox,DOMAIN,genuskox.biz,"win.remus, domain",
-2026-05-22,threatfox,DOMAIN,losslvs.surf,"win.remus, domain",
 2026-05-22,threatfox,DOMAIN,reposboy.asia,"js.clearfake, domain",
 2026-05-22,threatfox,DOMAIN,iotonton.io,"win.quasar_rat, domain",
 2026-05-22,threatfox,DOMAIN,cache-orbit.christmas,"js.clearfake, domain",
@@ -1837,8 +1829,6 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,DOMAIN,securevaultholding.co.za,"win.strelastealer, domain",
 2026-05-29,threatfox,DOMAIN,dcgbh.zsatom.hu,"js.clearfake, domain",
 2026-05-29,threatfox,DOMAIN,tehpm.zsatom.hu,"js.clearfake, domain",
-2026-05-22,threatfox,HASH_SHA256,4e286cd901813a5f80411e417fb5defe25ff9af00706e68509392f6e75cc3908,"win.satacom, sha256_hash",
-2026-05-22,threatfox,HASH_SHA256,f3ef4663e909e2545d25bdd0edc7ba4f88d197760921ca23e7dededf7326aa8e,"win.satacom, sha256_hash",
 2026-05-23,threatfox,HASH_SHA256,ef355778546bc6e044330691404b63eddf83d7fc6073047394a25dd0e98c7d7d,"elf.xmrig, sha256_hash",
 2026-05-23,tweetfeed,URL,https://iforget.ubicacion-cloud.info/expire/,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-24,tweetfeed,URL,"https://aeroportoconstrucoes.com#phishing,#scam,#golpe,#fakewebsite,#falsoecommerce","phishing, scam",https://x.com/Coolcarlos17/status/2058353615681593720
