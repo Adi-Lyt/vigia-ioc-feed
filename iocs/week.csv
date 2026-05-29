@@ -1827,6 +1827,9 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,DOMAIN,e2bet-games.org,"win.remcos, domain",
 2026-05-29,threatfox,DOMAIN,fly88-l.com,"win.remcos, domain",
 2026-05-29,threatfox,DOMAIN,gzhcn.sm188login.sbs,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,winsm188.top,"win.vidar, domain",
+2026-05-29,threatfox,DOMAIN,bhknh.laborfotostudio.hu,"js.clearfake, domain",
+2026-05-29,threatfox,DOMAIN,syoqp.ksfogszabalyozas.hu,"js.clearfake, domain",
 2026-05-22,threatfox,HASH_SHA256,4e286cd901813a5f80411e417fb5defe25ff9af00706e68509392f6e75cc3908,"win.satacom, sha256_hash",
 2026-05-22,threatfox,HASH_SHA256,f3ef4663e909e2545d25bdd0edc7ba4f88d197760921ca23e7dededf7326aa8e,"win.satacom, sha256_hash",
 2026-05-23,threatfox,HASH_SHA256,ef355778546bc6e044330691404b63eddf83d7fc6073047394a25dd0e98c7d7d,"elf.xmrig, sha256_hash",
@@ -4320,6 +4323,8 @@ date,user,type,ioc,tags,context
 2026-05-29,threatfox,HASH_SHA256,8562a87f3096711e06456205f15fc62009398fc97315d1ce82389475c306d4f6,"unknown, sha256_hash",
 2026-05-29,tweetfeed,URL,https://bmqobgextpnfj.top,,
 2026-05-29,tweetfeed,URL,https://github.com/darealmisterj/checkingsomething/tree/main,,
+2026-05-29,tweetfeed,URL,http://31.76.93.30/l4kc27/talkingaffect.ps1,,
+2026-05-29,tweetfeed,URL,https://officedinisacombr.weebly.com,,
 2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
 2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -6338,7 +6343,7 @@ date,user,type,ioc,tags,context
 2026-05-28,tweetfeed,DOMAIN,s-25nwagey.s3.us-east-2.amazonaws.com,,
 2026-05-28,tweetfeed,DOMAIN,rahulgrover01.github.io,,
 2026-05-28,tweetfeed,DOMAIN,applegps.online,,
-2026-05-28,tweetfeed,DOMAIN,bigblower.click,,
+2026-05-28,"threatfox,tweetfeed",DOMAIN,bigblower.click,,
 2026-05-28,tweetfeed,DOMAIN,app.qpointsurvey.com,,
 2026-05-28,tweetfeed,DOMAIN,nid-navercwv.servegame.com,,
 2026-05-28,tweetfeed,DOMAIN,zalcjrft0zv.dns.navy,,
@@ -6375,6 +6380,7 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,DOMAIN,btmob-rat.com,,
 2026-05-29,tweetfeed,DOMAIN,dupest.weebly.com,,
 2026-05-29,tweetfeed,DOMAIN,bmqobgextpnfj.top,,
+2026-05-29,tweetfeed,DOMAIN,officedinisacombr.weebly.com,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -6857,6 +6863,8 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,IP,158.220.99.91,,
 2026-05-29,tweetfeed,HASH_SHA256,28d74068861889948093f3aa90acf0fc2e29c9a9cc4324191ea6c701186bca12,,
 2026-05-29,tweetfeed,HASH_SHA256,d38fc9196a43e3c8c82c9cb95aa72875dcbc6cef75bbaa3015e97bdcdb6de5fa,,
+2026-05-29,tweetfeed,IP,31.76.93.30,,
+2026-05-29,tweetfeed,HASH_SHA256,6f6656d811bb431becff1eb75da158b45af5655ae4c0b74a3ea64ea3d258fc02,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
