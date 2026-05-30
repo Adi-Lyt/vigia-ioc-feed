@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
 2026-05-29,cisa_kev,CVE,CVE-2026-0257,"Palo Alto Networks PAN-OS, kev","Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-01"
-2026-05-23,threatfox,URL,https://cyy.turbo88ml.top/,"win.vidar, url",
 2026-05-24,threatfox,URL,https://pinnaclebrit.co.uk/,"win.vidar, url",
 2026-05-24,threatfox,URL,https://pizzadoughrollers.ca/,"win.vidar, url",
 2026-05-24,threatfox,URL,https://cookingrt.com/,"win.vidar, url",
@@ -300,13 +299,6 @@ date,user,type,ioc,tags,context
 2026-05-30,threatfox,URL,https://connectdplus.com/captcha.php,"unknown, url",
 2026-05-30,threatfox,URL,https://pusanik.shop/,"unknown, url",
 2026-05-30,threatfox,URL,https://bearman.bond/,"unknown, url",
-2026-05-23,threatfox,DOMAIN,bkbtgg.accredit.hu,"js.clearfake, domain",
-2026-05-23,threatfox,DOMAIN,ykpwsn.accredit.hu,"js.clearfake, domain",
-2026-05-23,threatfox,DOMAIN,aenysk.aborszerintem.hu,"js.clearfake, domain",
-2026-05-23,threatfox,DOMAIN,avhepv.aapartman.hu,"js.clearfake, domain",
-2026-05-23,threatfox,DOMAIN,cyy.turbo88ml.top,"win.vidar, domain",
-2026-05-23,threatfox,DOMAIN,gmokdazc.aapartman.hu,"js.clearfake, domain",
-2026-05-23,threatfox,DOMAIN,kpghbfvn.8route.hu,"js.clearfake, domain",
 2026-05-23,threatfox,DOMAIN,eisnuo.bognarautomoso.hu,"js.clearfake, domain",
 2026-05-23,threatfox,DOMAIN,dkqaxl.bninolimit.com,"js.clearfake, domain",
 2026-05-23,threatfox,DOMAIN,yyaohk.bni-ai.com,"js.clearfake, domain",
