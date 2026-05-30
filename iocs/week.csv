@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
 2026-05-29,cisa_kev,CVE,CVE-2026-0257,"Palo Alto Networks PAN-OS, kev","Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-01"
-2026-05-23,threatfox,URL,https://cyy.fbvendas.com/,"win.vidar, url",
 2026-05-23,threatfox,URL,http://45.148.10.210/hostmane,"elf.mirai, url",
 2026-05-23,threatfox,URL,http://45.148.10.210/blackbih,"elf.mirai, url",
 2026-05-23,threatfox,URL,http://45.148.10.210/blackboi,"elf.mirai, url",
@@ -294,11 +293,6 @@ date,user,type,ioc,tags,context
 2026-05-30,threatfox,URL,https://full-brown.com/screenshot,"unknown, url",
 2026-05-30,threatfox,URL,https://full-brown.com/request-file,"unknown, url",
 2026-05-30,threatfox,URL,https://full-brown.com/upload,"unknown, url",
-2026-05-23,threatfox,DOMAIN,malware.seegersbelettering.nl,"win.asyncrat, domain",
-2026-05-23,threatfox,DOMAIN,c2.slagerijbloem.nl,"win.asyncrat, domain",
-2026-05-23,threatfox,DOMAIN,cyy.fbvendas.com,"win.vidar, domain",
-2026-05-23,threatfox,DOMAIN,qrxnqauz.winter-pulse.christmas,"js.clearfake, domain",
-2026-05-23,threatfox,DOMAIN,tmmlokbk.winter-pulse.christmas,"js.clearfake, domain",
 2026-05-23,threatfox,DOMAIN,heap-lawcert.christmas,"js.clearfake, domain",
 2026-05-23,threatfox,DOMAIN,zhqqgpts.heap-lawcert.christmas,"js.clearfake, domain",
 2026-05-23,threatfox,DOMAIN,bhisdvrm.probe-got-vmnetmob.christmas,"js.clearfake, domain",
