@@ -4,13 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
 2026-05-29,cisa_kev,CVE,CVE-2026-0257,"Palo Alto Networks PAN-OS, kev","Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-01"
-2026-05-24,threatfox,URL,https://pinnaclebrit.co.uk/,"win.vidar, url",
-2026-05-24,threatfox,URL,https://pizzadoughrollers.ca/,"win.vidar, url",
-2026-05-24,threatfox,URL,https://cookingrt.com/,"win.vidar, url",
-2026-05-24,threatfox,URL,https://salzhomecare.com/,"win.vidar, url",
-2026-05-24,threatfox,URL,https://kalpa-logistics.com/,"win.vidar, url",
-2026-05-24,threatfox,URL,https://technocraft.fr/,"win.vidar, url",
-2026-05-24,threatfox,URL,https://meastt.gov.tt/,"win.vidar, url",
 2026-05-24,tweetfeed,URL,https://zoom.web-interviews.live/download.php,phishing,https://x.com/patialavii/status/2058225856749986208
 2026-05-24,threatfox,URL,https://buyaneli876-oss.github.io/glowing-spork/connect.html,"unknown_stealer, url",
 2026-05-24,threatfox,URL,https://sites.google.com/view/onemacx,"unknown_stealer, url",
@@ -299,10 +292,6 @@ date,user,type,ioc,tags,context
 2026-05-30,threatfox,URL,https://connectdplus.com/captcha.php,"unknown, url",
 2026-05-30,threatfox,URL,https://pusanik.shop/,"unknown, url",
 2026-05-30,threatfox,URL,https://bearman.bond/,"unknown, url",
-2026-05-24,threatfox,DOMAIN,viqhag.ceremoniavezeto.hu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,zpozph.brssolar.hu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,ieawzs.brandbuilder.hu,"js.clearfake, domain",
-2026-05-24,threatfox,DOMAIN,brandbuilder.hu,"js.clearfake, domain",
 2026-05-24,threatfox,DOMAIN,footballsrilanka.tv,"win.remcos, domain",
 2026-05-24,threatfox,DOMAIN,fzxuju.dachservice.hu,"js.clearfake, domain",
 2026-05-24,"threatfox,tweetfeed",DOMAIN,123b-mobilee.com,AsyncRAT,https://x.com/skocherhan/status/2058444016761339904
@@ -1640,9 +1629,6 @@ date,user,type,ioc,tags,context
 2026-05-31,threatfox,DOMAIN,mmlthjl.sm188dvlv.cfd,"js.clearfake, domain",
 2026-05-31,threatfox,DOMAIN,lbcsuyq.payestation.com,"js.clearfake, domain",
 2026-05-31,threatfox,DOMAIN,tphlksj.payestation.com,"js.clearfake, domain",
-2026-05-24,tweetfeed,URL,"https://aeroportoconstrucoes.com#phishing,#scam,#golpe,#fakewebsite,#falsoecommerce","phishing, scam",https://x.com/Coolcarlos17/status/2058353615681593720
-2026-05-24,tweetfeed,URL,"https://blockmanialoja.com.br#phishing,#scam,#golpe,#fakewebsite,#falsoecommerce","phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
-2026-05-24,tweetfeed,URL,"https://novarioficial.com#phishing,#scam,#golpe,#fakewebsite,#falsoecommerce","phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-24,threatfox,HASH_SHA256,0c4c78306f1e9b1dca47a1bfe16f5d8474d6e6bb2a5f35790ce3ef822ae02e4d,"unknown, sha256_hash",
 2026-05-24,threatfox,HASH_SHA256,b10b14c401bb553a8c49c0a4c8bcb9e3a01c347397e666a5b683394d26ad4df2,"unknown, sha256_hash",
 2026-05-25,tweetfeed,URL,http://rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -4427,8 +4413,6 @@ date,user,type,ioc,tags,context
 2026-05-30,tweetfeed,URL,https://instagramdefrancisco.blogspot.com/2024/09/instagram.html,,
 2026-05-31,tweetfeed,URL,http://nid-naverizv.servecounterstrike.com,,
 2026-05-31,tweetfeed,URL,https://rectifyvisionfederalculogonaccessregain0.weebly.com,,
-2026-05-24,tweetfeed,DOMAIN,blockmanialoja.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2058354243204002039
-2026-05-24,tweetfeed,DOMAIN,novarioficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2058354966155153738
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
 2026-05-25,tweetfeed,DOMAIN,xwjyzxf-jp77.icu,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,DOMAIN,kessfullington.com,,https://x.com/_tdatwja/status/2056552979088789980
