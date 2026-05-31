@@ -259,7 +259,7 @@ date,user,type,ioc,tags,context
 2026-05-30,threatfox,URL,https://h1gh-l3v-aso-xyxi.xyz/api/downloads/shell,"unknown, url",
 2026-05-30,threatfox,URL,https://14.46.136.77/sh,"elf.redtail, url",
 2026-05-30,threatfox,URL,http://78.153.140.16/d.sh,"elf.mirai, url",
-2026-05-30,threatfox,URL,http://31.57.109.131/scripts/4thepool_miner.sh,"unknown, url",
+2026-05-30,"threatfox,tweetfeed",URL,http://31.57.109.131/scripts/4thepool_miner.sh,"unknown, url",
 2026-05-30,threatfox,URL,http://45.153.34.212:8181/.sugipepulesrl,"elf.mirai, url",
 2026-05-30,threatfox,URL,https://yp7s.lusy.ink/ppsecure/post.srf,"unknown, url",
 2026-05-30,threatfox,URL,https://yxc1.lusy.ink/settings-validation,"unknown, url",
@@ -1600,6 +1600,10 @@ date,user,type,ioc,tags,context
 2026-05-31,threatfox,DOMAIN,as59n9n3.photoshopvn.net,"js.clearfake, domain",
 2026-05-31,threatfox,DOMAIN,zj4wlrmw.photoshopvn.net,"js.clearfake, domain",
 2026-05-31,threatfox,DOMAIN,ohabupw.vapebeat.pk,"js.clearfake, domain",
+2026-05-31,threatfox,DOMAIN,anpjcfq.attilahatar.com,"js.clearfake, domain",
+2026-05-31,threatfox,DOMAIN,xbhjypu.attilahatar.com,"js.clearfake, domain",
+2026-05-31,threatfox,DOMAIN,brvtfsq.designyourlifeinflow.com,"js.clearfake, domain",
+2026-05-31,threatfox,DOMAIN,eqcbplb.designyourlifeinflow.com,"js.clearfake, domain",
 2026-05-24,threatfox,HASH_SHA256,0c4c78306f1e9b1dca47a1bfe16f5d8474d6e6bb2a5f35790ce3ef822ae02e4d,"unknown, sha256_hash",
 2026-05-24,threatfox,HASH_SHA256,b10b14c401bb553a8c49c0a4c8bcb9e3a01c347397e666a5b683394d26ad4df2,"unknown, sha256_hash",
 2026-05-25,tweetfeed,URL,http://rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -4731,6 +4735,8 @@ date,user,type,ioc,tags,context
 2026-05-31,tweetfeed,URL,http://chatapp.digital/uploads/CHAT.apk,,
 2026-05-31,tweetfeed,URL,https://embedilekitcdn.flazio.site,,
 2026-05-31,tweetfeed,URL,https://amazozon.zh-hub-1haoentertainment.com,,
+2026-05-31,tweetfeed,URL,http://91.92.42.126:8081/b,,
+2026-05-31,tweetfeed,URL,http://ztds.info,,
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
 2026-05-25,tweetfeed,DOMAIN,xwjyzxf-jp77.icu,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,DOMAIN,kessfullington.com,,https://x.com/_tdatwja/status/2056552979088789980
@@ -7384,6 +7390,7 @@ date,user,type,ioc,tags,context
 2026-05-31,tweetfeed,DOMAIN,chatapp.digital,,
 2026-05-31,tweetfeed,DOMAIN,embedilekitcdn.flazio.site,,
 2026-05-31,tweetfeed,DOMAIN,amazozon.zh-hub-1haoentertainment.com,,
+2026-05-31,tweetfeed,DOMAIN,ztds.info,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
@@ -7911,6 +7918,10 @@ date,user,type,ioc,tags,context
 2026-05-31,tweetfeed,IP,178.105.37.131,,
 2026-05-31,tweetfeed,IP,2.26.53.56,,
 2026-05-31,tweetfeed,IP,91.208.197.118,,
+2026-05-31,tweetfeed,IP,87.121.84.167,,
+2026-05-31,tweetfeed,IP,148.113.233.202,,
+2026-05-31,tweetfeed,IP,31.57.109.131,,
+2026-05-31,tweetfeed,IP,91.92.42.126,,
 2026-05-25,tweetfeed,HASH_MD5,4926590d8ced37f434d47d4a27ad1444,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_MD5,9dade911edccf775c9ad30ea82b07beb,,https://x.com/_tdatwja/status/2056552979088789980
 2026-05-25,tweetfeed,HASH_MD5,4fb6137740f0c4424a8b878178f691e0,,https://x.com/_tdatwja/status/2056597011395404036
@@ -7961,3 +7972,9 @@ date,user,type,ioc,tags,context
 2026-05-29,tweetfeed,HASH_MD5,888120a95ae35c37f6c8e4047fac270d,,
 2026-05-29,tweetfeed,HASH_MD5,63b07612820900f7c24e6578165ca3cd,,
 2026-05-31,tweetfeed,HASH_MD5,4fdabc76cc474abe2cd5021c396da9b9,,
+2026-05-31,tweetfeed,HASH_MD5,c45751a661015470f253bca1b9a36e22,,
+2026-05-31,tweetfeed,HASH_MD5,b179f6ae55bc58787c8ae9128fcb1658,,
+2026-05-31,tweetfeed,HASH_MD5,3bc8859033fe1430b75de86ebab65abf,,
+2026-05-31,tweetfeed,HASH_MD5,5526d8c90026216efcf17514cc198e5e,,
+2026-05-31,tweetfeed,HASH_MD5,df78df95a79f3f764a6da9638624e4a0,,
+2026-05-31,tweetfeed,HASH_MD5,20063941491e5727cb2cbf824c656294,,
