@@ -297,6 +297,8 @@ date,user,type,ioc,tags,context
 2026-05-31,threatfox,URL,http://35.231.74.47/meow,"unknown, url",
 2026-05-31,threatfox,URL,https://www.abdgochizmetleri.com/,"unknown, url",
 2026-05-31,threatfox,URL,https://auth-captcha.click/,"unknown, url",
+2026-05-31,threatfox,URL,https://178.105.175.202/gate?mode=beacon,"unknown_stealer, url",
+2026-05-31,threatfox,URL,http://b.9-9-8.com/t.sh,"elf.mirai, url",
 2026-05-24,threatfox,DOMAIN,ygitqw.digital360.hu,"js.clearfake, domain",
 2026-05-24,threatfox,DOMAIN,gzle.io,"win.nanocore, domain",
 2026-05-24,threatfox,DOMAIN,gfirzz.dravencoffee.hu,"js.clearfake, domain",
@@ -1638,6 +1640,10 @@ date,user,type,ioc,tags,context
 2026-05-31,threatfox,DOMAIN,uuzhapr.attilahatar.com,"js.clearfake, domain",
 2026-05-31,threatfox,DOMAIN,drycbeg.attilahatar.com,"js.clearfake, domain",
 2026-05-31,threatfox,DOMAIN,attilahatar.com,"js.clearfake, domain",
+2026-05-31,threatfox,DOMAIN,mbhofdf.kortalanmuveszet.hu,"js.clearfake, domain",
+2026-05-31,threatfox,DOMAIN,frngvyb.kortalanmuveszet.hu,"js.clearfake, domain",
+2026-05-31,threatfox,DOMAIN,weekfoc.cyou,"win.lumma, domain",
+2026-05-31,threatfox,DOMAIN,b.9-9-8.com,"elf.mirai, domain",
 2026-05-24,threatfox,HASH_SHA256,0c4c78306f1e9b1dca47a1bfe16f5d8474d6e6bb2a5f35790ce3ef822ae02e4d,"unknown, sha256_hash",
 2026-05-24,threatfox,HASH_SHA256,b10b14c401bb553a8c49c0a4c8bcb9e3a01c347397e666a5b683394d26ad4df2,"unknown, sha256_hash",
 2026-05-25,tweetfeed,URL,http://rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
@@ -4743,6 +4749,8 @@ date,user,type,ioc,tags,context
 2026-05-31,tweetfeed,URL,http://navorlogins.certified.cl,,
 2026-05-31,tweetfeed,URL,http://141.164.62.48,,
 2026-05-31,threatfox,HASH_SHA256,c3921fef70e1895559fe0caea0ea678e8df4e4d3b65dcde33103379b4dbdf99a,"js.beavertail, sha256_hash",
+2026-05-31,tweetfeed,URL,http://photo-262086327.zip,,
+2026-05-31,tweetfeed,URL,http://photo-21454.cfd,,
 2026-05-25,tweetfeed,DOMAIN,rudderwillow8.com,"infostealer, malware",https://x.com/masaomi346/status/2058709359291662651
 2026-05-25,tweetfeed,DOMAIN,xwjyzxf-jp77.icu,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,DOMAIN,kessfullington.com,,https://x.com/_tdatwja/status/2056552979088789980
@@ -7376,6 +7384,8 @@ date,user,type,ioc,tags,context
 2026-05-31,tweetfeed,DOMAIN,nidlogins.aerwear.ro,,
 2026-05-31,tweetfeed,DOMAIN,navorlogins.aerwear.ro,,
 2026-05-31,tweetfeed,DOMAIN,navorlogins.certified.cl,,
+2026-05-31,tweetfeed,DOMAIN,photo-262086327.zip,,
+2026-05-31,tweetfeed,DOMAIN,photo-21454.cfd,,
 2026-05-25,tweetfeed,IP,66.116.242.109,phishing,https://x.com/PhishStats/status/2058706787944013873
 2026-05-25,tweetfeed,HASH_SHA256,0a1fd68a1fbab226ed926977f89df6621713aac36da7ee076a30db99d8be4c5c,,https://x.com/_tdatwja/status/2056541344563425418
 2026-05-25,tweetfeed,HASH_SHA256,c8cbdd329252b574323b07560651b069f4cd1413775b6f266e2d9e6a685df79e,,https://x.com/_tdatwja/status/2056552979088789980
