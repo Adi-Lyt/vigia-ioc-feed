@@ -4,8 +4,6 @@ date,user,type,ioc,tags,context
 2026-05-26,cisa_kev,CVE,CVE-2026-48172,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel Plugin contains privilege escalation vulnerability that is exposed via the user-end cPanel plugin, which can be abused by any cPanel user account to execute arbitrary scripts with root privileges. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-29"
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
 2026-05-29,cisa_kev,CVE,CVE-2026-0257,"Palo Alto Networks PAN-OS, kev","Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-01"
-2026-05-25,threatfox,URL,https://eletrosoldaitumbiara.com.br/,"unknown, url",
-2026-05-25,threatfox,URL,http://209.99.186.230/69e263ad31aa46a5bc37.php,"win.stealc, url",
 2026-05-25,threatfox,URL,https://imperialguard.icu:1672,"apk.antidot, url",
 2026-05-25,threatfox,URL,https://catfoodeuro.shop:12655,"apk.antidot, url",
 2026-05-25,threatfox,URL,https://fastconsulting.info:19586,"apk.antidot, url",
@@ -296,12 +294,6 @@ date,user,type,ioc,tags,context
 2026-06-01,threatfox,URL,https://46.225.255.99/,"win.vidar, url",
 2026-06-01,threatfox,URL,https://steamcommunity.com/profiles/76561198694626397,"win.vidar, url",
 2026-06-01,threatfox,URL,https://telegram.me/kkb31rm,"win.vidar, url",
-2026-05-25,threatfox,DOMAIN,xredgj.holisztikuscsontkovacs.hu,"js.clearfake, domain",
-2026-05-25,threatfox,DOMAIN,gnuvtk.holisztikuscsontkovacs.hu,"js.clearfake, domain",
-2026-05-25,threatfox,DOMAIN,receipt-view.com,"unknown, domain",
-2026-05-25,threatfox,DOMAIN,coinbase.receipt-view.com,"unknown, domain",
-2026-05-25,threatfox,DOMAIN,torrrj.highlife-global.com,"js.clearfake, domain",
-2026-05-25,threatfox,DOMAIN,xrwunf.highlife-global.com,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,rosrcf.inoxsystem.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,mprgta.inoxsystem.hu,"js.clearfake, domain",
 2026-05-25,threatfox,DOMAIN,premierrentalpurchase.com,"unknown_stealer, domain",
@@ -1613,7 +1605,8 @@ date,user,type,ioc,tags,context
 2026-06-01,darkweb_forums,URL,https://t.me/+vw4JXiA77LsyYzJl,"darkweb, telegram_threat_actors",commit 2a030cc5 / telegram_threat_actors.md
 2026-06-01,darkweb_forums,URL,https://t.me/+6Ijjx9_a-vUzNGZl,"darkweb, telegram_threat_actors",commit 2a030cc5 / telegram_threat_actors.md
 2026-06-01,darkweb_forums,URL,https://t.me/+9Z3fqWfISscxM2E1,"darkweb, telegram_threat_actors",commit 2a030cc5 / telegram_threat_actors.md
-2026-05-25,tweetfeed,URL,https://fseitalia.es/c/abf99046-6f6c-42d0-bf73-c003eb244993,,
+2026-06-01,threatfox,DOMAIN,seahohx.saas-systems.hu,"js.clearfake, domain",
+2026-06-01,threatfox,DOMAIN,saas-systems.hu,"js.clearfake, domain",
 2026-05-25,tweetfeed,URL,http://updates-check-microsoft.ddns.net:443,,
 2026-05-25,tweetfeed,URL,http://expegesterstay-hotel3check.com,,
 2026-05-25,tweetfeed,URL,https://latestupdatecloud.us/sign/*,,
@@ -3651,7 +3644,8 @@ date,user,type,ioc,tags,context
 2026-06-01,tweetfeed,URL,http://myaccount.google-recovery.email,,
 2026-06-01,tweetfeed,URL,http://podscastthubs-ml.fwh.is,,
 2026-06-01,tweetfeed,URL,http://202.6.2.36,,
-2026-05-25,tweetfeed,DOMAIN,fseitalia.es,,
+2026-06-01,tweetfeed,URL,http://sites.google.com/view/seikyu-6172,,
+2026-06-01,tweetfeed,URL,https://biu-card.mnbnvb.com,,
 2026-05-25,tweetfeed,DOMAIN,dfreygr.cewwq.xyz,,
 2026-05-25,tweetfeed,DOMAIN,expegesterstay-hotel3check.com,,
 2026-05-25,tweetfeed,DOMAIN,latestupdatecloud.us,,
@@ -5529,8 +5523,7 @@ date,user,type,ioc,tags,context
 2026-06-01,tweetfeed,DOMAIN,robiox.com.gr,,
 2026-06-01,tweetfeed,DOMAIN,myaccount.google-recovery.email,,
 2026-06-01,tweetfeed,DOMAIN,podscastthubs-ml.fwh.is,,
-2026-05-25,tweetfeed,IP,179.43.186.239,,
-2026-05-25,tweetfeed,HASH_SHA256,647f968d18620d7d69fe51e67a7f2f83ddc8551716472d4468197e2dc8130a94,,
+2026-06-01,tweetfeed,DOMAIN,biu-card.mnbnvb.com,,
 2026-05-25,tweetfeed,HASH_SHA256,a608b591a7096c106c95a5df41be33be4b1c9374a4cff98e52a6a74e1a4dc62e,,
 2026-05-25,tweetfeed,IP,51.84.110.147,,
 2026-05-25,tweetfeed,HASH_SHA256,66c822aa6ff46d70339b1e753cee9ecec3d705c783259d656f86d8a970f40bc2,,
@@ -5741,6 +5734,8 @@ date,user,type,ioc,tags,context
 2026-05-31,tweetfeed,IP,158.247.219.150,,
 2026-05-31,tweetfeed,HASH_SHA256,e0e18088fca1a28d12d71afe1c505ebc7cb0191216dea0a8e5b3ebe88b48b29f,,
 2026-05-31,tweetfeed,IP,202.6.2.36,,
+2026-06-01,tweetfeed,HASH_SHA256,85cfa83553a6a9ece0020ea7746c99f6eb79ddb92949aea6ad974318702088cd,,
+2026-06-01,tweetfeed,HASH_SHA256,c25864e0a32742b8a0903a1eed7e176bc0ed296af345081bd44890f6fc31f61e,,
 2026-05-25,tweetfeed,HASH_MD5,ac492944bd8beff9686ce97f4735347c,,
 2026-05-25,tweetfeed,HASH_MD5,fb52eeb9d622b58993268b15a12436d4,,
 2026-05-26,tweetfeed,HASH_MD5,d3e5e9bdd44137db453752b611f0aa9a,,
@@ -5773,3 +5768,4 @@ date,user,type,ioc,tags,context
 2026-05-31,tweetfeed,HASH_MD5,5526d8c90026216efcf17514cc198e5e,,
 2026-05-31,tweetfeed,HASH_MD5,df78df95a79f3f764a6da9638624e4a0,,
 2026-05-31,tweetfeed,HASH_MD5,20063941491e5727cb2cbf824c656294,,
+2026-06-01,tweetfeed,HASH_MD5,707215803de33f478805b86ef1334389,,
