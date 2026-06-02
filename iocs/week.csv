@@ -5,6 +5,8 @@ date,user,type,ioc,tags,context
 2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
 2026-05-29,cisa_kev,CVE,CVE-2026-0257,"Palo Alto Networks PAN-OS, kev","Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-01"
 2026-06-01,cisa_kev,CVE,CVE-2024-21182,"Oracle WebLogic Server, kev","Oracle WebLogic contains an unspecified vulnerability that could allow an unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
+2026-06-02,cisa_kev,CVE,CVE-2022-0492,"Linux Kernel, kev","Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-05"
+2026-06-02,cisa_kev,CVE,CVE-2025-48595,"Android Framework, kev","Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-05"
 2026-05-26,threatfox,URL,https://chk.awansm188.top/,"win.vidar, url",
 2026-05-26,threatfox,URL,https://chk.matriculadores.com/,"win.vidar, url",
 2026-05-26,threatfox,URL,https://clacndjsvulnarbi.beer/api/index.php?a=dl&lrj=CX1GB52tuJ&anji=OZXky&cp=a4f989e43e04ed72c38a1a134ab6534d612154d996d0711d999510924873ae0f,"unknown, url",
@@ -339,11 +341,6 @@ date,user,type,ioc,tags,context
 2026-06-02,threatfox,URL,http://docviews12.dynv6.net/,"win.kimsuky, url",
 2026-06-02,threatfox,URL,http://fetch33s.dynv6.net/,"win.kimsuky, url",
 2026-06-02,threatfox,URL,http://31.57.216.126/,"apk.hook, url",
-2026-05-26,threatfox,DOMAIN,xvceg.butoralberlet.com,"js.clearfake, domain",
-2026-05-26,threatfox,DOMAIN,xkvig.butoralberlet.com,"js.clearfake, domain",
-2026-05-26,threatfox,DOMAIN,qgrqy.business360.hu,"js.clearfake, domain",
-2026-05-26,threatfox,DOMAIN,qhagg.business360.hu,"js.clearfake, domain",
-2026-05-26,threatfox,DOMAIN,business360.hu,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,grrab.cannatural.cz,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,cannatural.cz,"js.clearfake, domain",
 2026-05-26,threatfox,DOMAIN,mkaey.caesarresidence.hu,"js.clearfake, domain",
@@ -3763,6 +3760,10 @@ date,user,type,ioc,tags,context
 2026-06-02,tweetfeed,URL,http://59.96.137.50:49747/Mozi.m,,
 2026-06-02,tweetfeed,URL,http://blackxppq2jvqyg4slyg3sbszv7ib2avaaycvhff5qipgdoepqi57xyd.onion,,
 2026-06-02,tweetfeed,URL,http://optikgeneral.com/Webmail/35/Webmail/webmail.php,,
+2026-06-02,tweetfeed,URL,https://lincdiiin.com/homework.txt,,
+2026-06-02,tweetfeed,URL,https://lincdiiin.com/Program.exe,,
+2026-06-02,tweetfeed,URL,https://lincdiiin.com/loader.hta,,
+2026-06-02,tweetfeed,URL,https://lincdiiin.com/result.mp3,,
 2026-05-26,tweetfeed,DOMAIN,bomberclupgrade.weebly.com,,
 2026-05-26,tweetfeed,DOMAIN,dasainfra.com,,
 2026-05-26,tweetfeed,DOMAIN,2brpj4v0n4f.dns.navy,,
@@ -5581,6 +5582,7 @@ date,user,type,ioc,tags,context
 2026-06-02,tweetfeed,DOMAIN,cloud-access.org,,
 2026-06-02,tweetfeed,DOMAIN,blackxppq2jvqyg4slyg3sbszv7ib2avaaycvhff5qipgdoepqi57xyd.onion,,
 2026-06-02,tweetfeed,DOMAIN,optikgeneral.com,,
+2026-06-02,tweetfeed,DOMAIN,lincdiiin.com,,
 2026-05-26,tweetfeed,IP,202.10.43.28,,
 2026-05-26,tweetfeed,IP,123.58.200.186,,
 2026-05-26,tweetfeed,HASH_SHA256,29fd20c5322714a7735311ee9e9d62b0e8cf4910f97211c447bcf6c20500a384,,
@@ -5830,6 +5832,10 @@ date,user,type,ioc,tags,context
 2026-06-02,tweetfeed,IP,198.46.243.227,,
 2026-06-02,tweetfeed,HASH_SHA256,1348f82c9d2cb219dd8cd6b324b9e01e30791b9a56d2861cac4ed8d80bceca6c,,
 2026-06-02,tweetfeed,IP,59.96.137.50,,
+2026-06-02,tweetfeed,IP,2.59.171.11,,
+2026-06-02,tweetfeed,IP,175.110.112.53,,
+2026-06-02,tweetfeed,IP,175.110.122.62,,
+2026-06-02,tweetfeed,HASH_SHA256,a3d34b24e69c72db43ff718127b6951b29e466026afd2ab12ff13d1841b4cbb7,,
 2026-05-27,tweetfeed,HASH_MD5,a9dbe0025975e3fa764376a437043963,,
 2026-05-27,tweetfeed,HASH_MD5,be1082aac756fbf3ad7f41c1bc5b9eec,,
 2026-05-27,tweetfeed,HASH_MD5,62bcb76113ea745020f5e68c8ce9f283,,
