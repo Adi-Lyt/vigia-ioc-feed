@@ -1,7 +1,4 @@
 date,user,type,ioc,tags,context
-2026-05-27,cisa_kev,CVE,CVE-2026-48027,"Nx Nx Console, kev","Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
-2026-05-27,cisa_kev,CVE,CVE-2026-45321,"TanStack TanStack, kev","TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-10"
-2026-05-27,cisa_kev,CVE,CVE-2026-8398,"Daemon Daemon Tools Lite, kev","Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-05-30"
 2026-05-29,cisa_kev,CVE,CVE-2026-0257,"Palo Alto Networks PAN-OS, kev","Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-01"
 2026-06-01,cisa_kev,CVE,CVE-2024-21182,"Oracle WebLogic Server, kev","Oracle WebLogic contains an unspecified vulnerability that could allow an unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-04"
 2026-06-02,cisa_kev,CVE,CVE-2022-0492,"Linux Kernel, kev","Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-05"
@@ -367,12 +364,8 @@ date,user,type,ioc,tags,context
 2026-06-03,threatfox,URL,https://135.181.224.72/,"win.vidar, url",
 2026-06-03,threatfox,URL,https://116.203.3.198/,"win.vidar, url",
 2026-06-03,threatfox,URL,https://65.21.96.135/,"win.vidar, url",
-2026-05-27,threatfox,DOMAIN,bvabf.budapesthandmade.hu,"js.clearfake, domain",
-2026-05-27,threatfox,DOMAIN,hhxzx.budapesthandmade.hu,"js.clearfake, domain",
-2026-05-27,threatfox,DOMAIN,eujvn.business360.hu,"js.clearfake, domain",
-2026-05-27,threatfox,DOMAIN,ipopm.business360.hu,"js.clearfake, domain",
-2026-05-27,threatfox,DOMAIN,kqekr.butoralberlet.com,"js.clearfake, domain",
-2026-05-27,threatfox,DOMAIN,nvjto.butoralberlet.com,"js.clearfake, domain",
+2026-06-03,threatfox,URL,https://qzr.canamrental.com/,"win.vidar, url",
+2026-06-03,threatfox,URL,https://qzr.duitsm188.top/,"win.vidar, url",
 2026-05-27,threatfox,DOMAIN,moxii.brssolar.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,llvwi.brssolar.hu,"js.clearfake, domain",
 2026-05-27,threatfox,DOMAIN,intelvissions.com,"win.remus, domain",
@@ -1642,6 +1635,14 @@ date,user,type,ioc,tags,context
 2026-06-03,threatfox,DOMAIN,wydkbnq.bet888starzz.com,"js.clearfake, domain",
 2026-06-03,threatfox,DOMAIN,bqm57dpz.betgit.casino,"js.clearfake, domain",
 2026-06-03,threatfox,DOMAIN,betgit.casino,"js.clearfake, domain",
+2026-06-03,threatfox,DOMAIN,favmrwg.1xbet-official-xbet.top,"js.clearfake, domain",
+2026-06-03,threatfox,DOMAIN,qyteglr.1xbetios.bet,"js.clearfake, domain",
+2026-06-03,threatfox,DOMAIN,qzr.canamrental.com,"win.vidar, domain",
+2026-06-03,threatfox,DOMAIN,qzr.duitsm188.top,"win.vidar, domain",
+2026-06-03,threatfox,DOMAIN,qjothjo.1xbetandroid.bet,"js.clearfake, domain",
+2026-06-03,threatfox,DOMAIN,4ly606b9.aftabsport.ir,"js.clearfake, domain",
+2026-06-03,threatfox,DOMAIN,vtqjke.1xbet1farsi.com,"js.clearfake, domain",
+2026-06-03,threatfox,DOMAIN,1xbetandroid.bet,"js.clearfake, domain",
 2026-05-27,tweetfeed,URL,https://gundam.technology/simsim/complete.php,,
 2026-05-27,tweetfeed,URL,http://schedulesession.online,,
 2026-05-27,tweetfeed,URL,https://naturallerevestimentos.com/MeetOnGoogle/,,
@@ -3460,6 +3461,9 @@ date,user,type,ioc,tags,context
 2026-06-03,tweetfeed,URL,http://brute.py,,
 2026-06-03,tweetfeed,URL,https://padmaelectricals.com/ftx/,,
 2026-06-03,tweetfeed,URL,https://pub-baf4c7b6ae054de18ff1eebd19654e31.r2.dev/ScreenConnect.ClientSetup.msi,,
+2026-06-03,tweetfeed,URL,https://ns1b.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,,
+2026-06-03,tweetfeed,URL,https://trilmino.com/streamp_1_it_2?s1=122&s2=434aa9ccf0124448b26b70c07e22951e,,
+2026-06-03,tweetfeed,URL,https://lerkavifye.wixstudio.com/my-site,,
 2026-05-27,tweetfeed,DOMAIN,gundam.technology,,
 2026-05-27,tweetfeed,DOMAIN,schedulesession.online,,
 2026-05-27,tweetfeed,DOMAIN,naturallerevestimentos.com,,
@@ -5075,6 +5079,9 @@ date,user,type,ioc,tags,context
 2026-06-03,tweetfeed,DOMAIN,brute.py,,
 2026-06-03,tweetfeed,DOMAIN,padmaelectricals.com,,
 2026-06-03,tweetfeed,DOMAIN,pub-baf4c7b6ae054de18ff1eebd19654e31.r2.dev,,
+2026-06-03,tweetfeed,DOMAIN,ns1b.screenconnect.com,,
+2026-06-03,tweetfeed,DOMAIN,trilmino.com,,
+2026-06-03,tweetfeed,DOMAIN,lerkavifye.wixstudio.com,,
 2026-05-27,tweetfeed,IP,192.253.248.181,,
 2026-05-28,tweetfeed,IP,104.243.35.237,,
 2026-05-28,tweetfeed,IP,208.115.220.30,,
@@ -5323,6 +5330,7 @@ date,user,type,ioc,tags,context
 2026-06-03,tweetfeed,IP,149.50.98.27,,
 2026-06-03,tweetfeed,IP,149.50.98.31,,
 2026-06-03,tweetfeed,HASH_SHA256,6ca62e81fbdcd88ef640234d7c45ecf4aacd816f6fa6ebc8a28b03c8d2774522,,
+2026-06-03,tweetfeed,HASH_SHA256,b641ded8776b21df4ff033ee9d9c9eb0dc740462fdd2671e02ce8f70ada7a04d,,
 2026-05-28,tweetfeed,HASH_MD5,e75c6d87cc5dc04b2f28df3e6c6fb908,,
 2026-05-28,tweetfeed,HASH_MD5,f9a80cc1b5a40d29718dd2da5c7cef04,,
 2026-05-29,tweetfeed,HASH_MD5,a5c93979cce587620202bbdaad15e264,,
