@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-03,cisa_kev,CVE,CVE-2026-45247,"Mirasvit Mirasvit Full Page Cache Warmer, kev","Mirasvit Full Page Cache Warmer contains a deserialization of untrusted data vulnerability that could allow unauthenticated attackers to achieve remote code execution by supplying a crafted serialized PHP object in the CacheWarmer cookie. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-06"
-2026-06-03,threatfox,URL,https://fre.canamrental.com/,"win.vidar, url",
-2026-06-03,threatfox,URL,https://fre.duitsm188.top/,"win.vidar, url",
 2026-06-03,threatfox,URL,http://136.243.152.105/api/telemetry/file-chunk,"unknown_stealer, url",
 2026-06-03,threatfox,URL,http://136.243.152.105/api/telemetry/event,"unknown_stealer, url",
 2026-06-03,threatfox,URL,http://213.108.20.59/api/commands/,"unknown, url",
@@ -83,8 +81,6 @@ date,user,type,ioc,tags,context
 2026-06-03,threatfox,URL,http://178.16.54.109/sodola,"win.phorpiex, url",
 2026-06-03,threatfox,URL,https://web.duitsm188.top/,"win.vidar, url",
 2026-06-03,threatfox,URL,https://web.canamrental.com/,"win.vidar, url",
-2026-06-03,threatfox,DOMAIN,fre.duitsm188.top,"win.vidar, domain",
-2026-06-03,threatfox,DOMAIN,fre.canamrental.com,"win.vidar, domain",
 2026-06-03,threatfox,DOMAIN,b7tibc5u.luxerabet1000.com,"js.clearfake, domain",
 2026-06-03,threatfox,DOMAIN,hsy1u75o.luxerabet1000.com,"js.clearfake, domain",
 2026-06-03,threatfox,DOMAIN,vrlh0wdy.eutoor.com,"js.clearfake, domain",
@@ -247,6 +243,10 @@ date,user,type,ioc,tags,context
 2026-06-04,threatfox,DOMAIN,gunanx.303-bet.buzz,"js.clearfake, domain",
 2026-06-04,threatfox,DOMAIN,kpcifot.aypoker90.com,"js.clearfake, domain",
 2026-06-04,threatfox,DOMAIN,aypoker90.com,"js.clearfake, domain",
+2026-06-04,threatfox,DOMAIN,rpvfsmg.bankiran.bet,"js.clearfake, domain",
+2026-06-04,threatfox,DOMAIN,8i927m8y.bcgamefarsi.com,"js.clearfake, domain",
+2026-06-04,threatfox,DOMAIN,s3qrni26.bcgamefarsi.com,"js.clearfake, domain",
+2026-06-04,threatfox,DOMAIN,qxzwbbx.bakht.club,"js.clearfake, domain",
 2026-06-03,tweetfeed,URL,http://reimagined-funicular-ivory.vercel.app,,
 2026-06-03,tweetfeed,URL,http://shiny-umbrella-chi.vercel.app,,
 2026-06-03,tweetfeed,URL,http://6a0a694755042e46fb19a7a3--thriving-belekoy-aae7c3.netlify.app,,
