@@ -4,6 +4,7 @@ date,user,type,ioc,tags,context
 2026-06-02,cisa_kev,CVE,CVE-2022-0492,"Linux Kernel, kev","Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-05"
 2026-06-02,cisa_kev,CVE,CVE-2025-48595,"Android Framework, kev","Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-05"
 2026-06-03,cisa_kev,CVE,CVE-2026-45247,"Mirasvit Mirasvit Full Page Cache Warmer, kev","Mirasvit Full Page Cache Warmer contains a deserialization of untrusted data vulnerability that could allow unauthenticated attackers to achieve remote code execution by supplying a crafted serialized PHP object in the CacheWarmer cookie. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-06"
+2026-06-05,cisa_kev,CVE,CVE-2026-28318,"SolarWinds Serv-U, kev","SolarWinds Serv-U contains an uncontrolled resource consumption vulnerability that allows specially crafted POST requests using the Content-Encoding: deflate header to crash the Serv-U service without authentication. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-19"
 2026-05-30,threatfox,URL,https://suncoastfoundation.org/,"win.vidar, url",
 2026-05-30,threatfox,URL,https://midnightcompassengine.com/one,"unknown, url",
 2026-05-30,threatfox,URL,https://error-coinbase.com/api/verify,"unknown, url",
@@ -333,14 +334,6 @@ date,user,type,ioc,tags,context
 2026-06-05,threatfox,URL,https://pas.evosm188.top/,"win.vidar, url",
 2026-06-05,threatfox,URL,https://pas.canamrent.com/,"win.vidar, url",
 2026-06-05,threatfox,URL,https://cpajoliette.com/d.js,"win.netsupportmanager_rat, url",
-2026-05-29,threatfox,DOMAIN,vekdf8au.srlashnbrow.com.au,"js.clearfake, domain",
-2026-05-29,threatfox,DOMAIN,srlashnbrow.com.au,"js.clearfake, domain",
-2026-05-29,threatfox,DOMAIN,jbyap.sm188login.cyou,"js.clearfake, domain",
-2026-05-29,threatfox,DOMAIN,bbysf.sm188login.cyou,"js.clearfake, domain",
-2026-05-29,threatfox,DOMAIN,pable.sm188login.rest,"js.clearfake, domain",
-2026-05-29,threatfox,DOMAIN,eastvillageeatery.de,"win.nanocore, domain",
-2026-05-29,threatfox,DOMAIN,pomflgf.vu,"win.lumma, domain",
-2026-05-29,threatfox,DOMAIN,genugsq.best,"win.lumma, domain",
 2026-05-29,threatfox,DOMAIN,xsqil.sm188dvlv.skin,"js.clearfake, domain",
 2026-05-29,threatfox,DOMAIN,rbzsq.sm188login.cfd,"js.clearfake, domain",
 2026-05-29,threatfox,DOMAIN,wlosn.sm188login.cfd,"js.clearfake, domain",
@@ -1594,6 +1587,11 @@ date,user,type,ioc,tags,context
 2026-06-05,threatfox,DOMAIN,xcaejii.enobahis.co,"js.clearfake, domain",
 2026-06-05,threatfox,DOMAIN,mmhaqx.sigari.bet,"js.clearfake, domain",
 2026-06-05,threatfox,DOMAIN,trlclzb.enfejar.game,"js.clearfake, domain",
+2026-06-05,threatfox,DOMAIN,o2w2806g.tagat120art.com,"js.clearfake, domain",
+2026-06-05,threatfox,DOMAIN,ytmjwql.eurothrombosis2018.com,"js.clearfake, domain",
+2026-06-05,threatfox,DOMAIN,1v55nk51.irantennis.bet,"js.clearfake, domain",
+2026-06-05,threatfox,DOMAIN,y7o5phj2.irantennis.bet,"js.clearfake, domain",
+2026-06-05,threatfox,DOMAIN,irantennis.bet,"js.clearfake, domain",
 2026-05-29,tweetfeed,URL,https://workspaceviewer.com/ftx/page.html,,
 2026-05-29,tweetfeed,URL,https://pub-ab1bb580d3434929a2d068c06669ddb2.r2.dev/setup_DocusignInstall.msi,,
 2026-05-29,tweetfeed,URL,http://15.204.230.53,,
