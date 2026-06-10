@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-09,threatfox,URL,https://chtreeandgardenservices.co.uk/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://nxx.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://nxx.gagahsm188.top/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://championscollision1.com/,"win.vidar, url",n/a
@@ -114,14 +113,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,http://alphastand.trade/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,http://alphastand.win/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,http://alphastand.top/alien/fre.php,"win.lokipws, url",n/a
-2026-06-09,threatfox,DOMAIN,pishbinifoori.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,jgjuwx.pishbiniclass.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pishbiniclass.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,rcyrnur.pokerprado.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pokerprado.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,r2qz0qa2.poker-online.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,9r6xw7w2.poker-online.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,rmipclt.penality.bet,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,nxx.glamisdunesrentals.com,"win.vidar, domain",n/a
 2026-06-09,threatfox,DOMAIN,nxx.gagahsm188.top,"win.vidar, domain",n/a
 2026-06-09,threatfox,DOMAIN,gwjjko.onlineshart.com,"js.clearfake, domain",n/a
@@ -301,9 +292,15 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,eaty6go0.anodaz.co,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,3sdhx6qp.pokerbazi.app,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,uknwgsop.red90.casino,"js.clearfake, domain",n/a
-2026-06-09,tweetfeed,URL,https://celebrategoods.com/wzvwxtvh/,n/a,n/a
-2026-06-09,tweetfeed,URL,http://43.133.2.37,n/a,n/a
-2026-06-09,tweetfeed,URL,http://Wertoptimierung.de,n/a,n/a
+2026-06-10,threatfox,DOMAIN,sc.runtimeatlas.cc,"win.acr_stealer, domain",n/a
+2026-06-10,threatfox,DOMAIN,ojuritosc.com,"unknown_rat, domain",n/a
+2026-06-10,threatfox,DOMAIN,believedtobeclean.ddns.net,"win.remcos, domain",n/a
+2026-06-10,threatfox,DOMAIN,s4x5yd7i.anodaz.store,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,xmwofxxy.winxbet.co,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,oxzqss.azmoonzare.online,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,0xln2imp.yekbetiran.com,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,0lq2f3fa.yekbetiran.com,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,rkbvh5p1.parspoker.casino,"js.clearfake, domain",n/a
 2026-06-09,tweetfeed,URL,https://qvfhwfh.ztvpanm.cn/apusetop/jupindx/,n/a,n/a
 2026-06-09,tweetfeed,URL,https://junjiredcl.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,URL,https://filipesantoswp.com/cb4/,n/a,n/a
@@ -761,8 +758,8 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,HASH_SHA256,32a90f26b236643efb6607fc8a02536e1df35c699ac04baee062300401b4df26,"win.venom, sha256_hash",n/a
 2026-06-10,threatfox,HASH_SHA256,91ed53ad7977c0fa482c5a58c0590512a621852fd5bc4303e5bf209a1117b30d,"win.agent_tesla, sha256_hash",n/a
 2026-06-10,threatfox,HASH_SHA256,f800379c8b3b0dbf95d0cc27b27e2ddaf902203d7eae4c4320d6fd8ebd9d4aac,"win.agent_tesla, sha256_hash",n/a
-2026-06-09,tweetfeed,DOMAIN,celebrategoods.com,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,Wertoptimierung.de,n/a,n/a
+2026-06-10,tweetfeed,URL,http://pub-132755649dce44fe95257f08abf4c1b6.r2.dev/index.html,"phishing, scam",https://x.com/urldna_bot/status/2064618616473993617
+2026-06-10,tweetfeed,URL,https://murm.pt/inv/,phishing,https://x.com/AddressIntel/status/2064618590255345771
 2026-06-09,tweetfeed,DOMAIN,qvfhwfh.ztvpanm.cn,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,junjiredcl.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,filipesantoswp.com,n/a,n/a
@@ -1109,7 +1106,8 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,xudianyunpiaoaaliokn.com,n/a,n/a
 2026-06-10,tweetfeed,DOMAIN,stilles-oertchen.de,n/a,n/a
 2026-06-10,tweetfeed,DOMAIN,s-14billmondy.s3.us-east-2.amazonaws.com,n/a,n/a
-2026-06-09,tweetfeed,IP,43.133.2.37,n/a,n/a
+2026-06-10,tweetfeed,DOMAIN,pub-132755649dce44fe95257f08abf4c1b6.r2.dev,"phishing, scam",https://x.com/urldna_bot/status/2064618616473993617
+2026-06-10,tweetfeed,DOMAIN,murm.pt,phishing,https://x.com/AddressIntel/status/2064618590255345771
 2026-06-09,tweetfeed,HASH_SHA256,63b4608310328a326976ec8041efc0af60adba345952d21181e1c76e838d4cc4,n/a,n/a
 2026-06-09,tweetfeed,IP,38.76.177.46,n/a,n/a
 2026-06-09,tweetfeed,IP,43.99.101.175,n/a,n/a
