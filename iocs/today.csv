@@ -1,8 +1,5 @@
 date,user,type,ioc,tags,context
-2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-09,threatfox,URL,http://196.251.107.104/geter/index.php,"win.xtinyloader, url",n/a
 2026-06-09,threatfox,URL,http://spasopro.at/Lsge63sd3/index.php,"win.amadey, url",n/a
 2026-06-09,threatfox,URL,https://amazonattention.com/verify,"unknown, url",n/a
 2026-06-10,threatfox,URL,https://luk.glamisdunesrentals.com/,"win.vidar, url",n/a
@@ -116,19 +113,7 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,https://vanderaeijden.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-10,threatfox,URL,https://vanderaeijden.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-06-10,threatfox,URL,https://captcha-code.lol/o,"js.kongtuke, url",n/a
-2026-06-09,threatfox,DOMAIN,lrucuzu.rika90.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,six.lxb.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,six.xiaoshabi.cc,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,xmrs.wulifang.nl,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,tes.dashabi.in,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,tes.xiaoshabi.cc,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,cat.xiaoshabi.nl,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,xiaoshabi.xiaoshabi.cc,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,z08omixf.mrbet90.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,qu3v65kt.mrbet90.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,gabuys.perspolisbet90.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,updatecurrent.com,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,uptodatehere.com,"unknown, domain",n/a
+2026-06-10,threatfox,URL,http://daisyz.shop:4219,"win.remus, url",n/a
 2026-06-09,threatfox,DOMAIN,rywwahl.romabet90.bet,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,pilotkadomen.club,"unknown_stealer, domain",n/a
 2026-06-09,threatfox,DOMAIN,az2030port.duckdns.org,"unknown, domain",n/a
@@ -607,11 +592,11 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,captcha-code.lol,"js.kongtuke, domain",n/a
 2026-06-10,threatfox,DOMAIN,2nyrkdw3.ayinzendegi.xyz,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,uhie2025.duckdns.org,"win.remcos, domain",n/a
-2026-06-09,tweetfeed,URL,https://samiksha.com.sg/data/zoom/Windows/invite.php,n/a,n/a
-2026-06-09,tweetfeed,URL,https://samiksha.com.sg/data/zoom/Windows/download.php,n/a,n/a
-2026-06-09,tweetfeed,URL,http://2.27.160.147/share/New_Terms_Conditions_agrm_confirm_Jun8.exe,n/a,n/a
-2026-06-09,tweetfeed,URL,http://yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion,n/a,n/a
-2026-06-09,tweetfeed,URL,http://yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion:8443/bundle,n/a,n/a
+2026-06-10,threatfox,DOMAIN,kmjlrhh.hesabdarinoravesh.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,vkuyoujz.hugugbeynolmelal.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,mf1klp19.gavaedfagahe.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,qxuedtbmu.bookdrive.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,ajwrgnf.hesabdarieskandari.xyz,"js.clearfake, domain",n/a
 2026-06-09,tweetfeed,URL,https://link-matamask.teachable.com,n/a,n/a
 2026-06-09,tweetfeed,URL,http://pot18ice.dns.army,n/a,n/a
 2026-06-09,tweetfeed,URL,http://pot16ice.dns.army,n/a,n/a
@@ -1031,8 +1016,16 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,http://downloadclouddata.com,n/a,https://x.com/blackorbird/status/2064727597435752846
 2026-06-10,tweetfeed,URL,http://163.245.220.108:8442,n/a,https://x.com/blackorbird/status/2064727597435752846
 2026-06-10,tweetfeed,URL,https://metatrextch.gitbook.io,"phishing, scam",https://x.com/urldna_bot/status/2064739410592088405
-2026-06-09,tweetfeed,DOMAIN,samiksha.com.sg,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion,n/a,n/a
+2026-06-10,tweetfeed,URL,http://467jtzbkqcfl22t9hxh.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://ddgaoylh4h420fvm7o5.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://u7aq3ocwrexd70ulpdj.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://zavpejjyz432d577l2e.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://8fv4dxp7lx035f8ylk7.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://cd7yt860whhm7g7ylj8.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://g8iqelymkc4eya9zs49.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://hy0zu0fuf7rc2ou5aje.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://k1rg2oz4zpzw91pdx90.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,URL,http://ogqw9cpz7t7et3j1rur.live,n/a,https://x.com/threatinsight/status/2064763991507841224
 2026-06-09,tweetfeed,DOMAIN,link-matamask.teachable.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,pot18ice.dns.army,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,pot16ice.dns.army,n/a,n/a
@@ -1339,11 +1332,16 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion,ransomware,https://x.com/fbgwls245/status/2044940073360298416
 2026-06-10,tweetfeed,DOMAIN,downloadclouddata.com,n/a,https://x.com/blackorbird/status/2064727597435752846
 2026-06-10,tweetfeed,DOMAIN,metatrextch.gitbook.io,"phishing, scam",https://x.com/urldna_bot/status/2064739410592088405
-2026-06-09,tweetfeed,HASH_SHA256,37f2c4607a1fad32eda76af2514588cd704b5d5ee83ceb93c14bf10b33c1c8f3,n/a,n/a
-2026-06-09,tweetfeed,HASH_SHA256,4679ac1b5a2767b37c2631ebdb6a9e2c54439029ec3464984ba452b06e1da49d,n/a,n/a
-2026-06-09,tweetfeed,HASH_SHA256,37e20d8578128db13a53c1003cef95f96f610fad78f07f5231de996d9bd60ef6,n/a,n/a
-2026-06-09,tweetfeed,HASH_SHA256,efc5f3ea8226c1a5e0f855220fc3f0eab170ad05290bf59d1f1278c0c6a54ecc,n/a,n/a
-2026-06-09,tweetfeed,HASH_SHA256,27228e152cf1ff82532586f91d6be1c8bf1fefdc571b09eaa4953c02e53aa6ad,n/a,n/a
+2026-06-10,tweetfeed,DOMAIN,467jtzbkqcfl22t9hxh.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,ddgaoylh4h420fvm7o5.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,u7aq3ocwrexd70ulpdj.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,zavpejjyz432d577l2e.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,8fv4dxp7lx035f8ylk7.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,cd7yt860whhm7g7ylj8.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,g8iqelymkc4eya9zs49.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,hy0zu0fuf7rc2ou5aje.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,k1rg2oz4zpzw91pdx90.live,n/a,https://x.com/threatinsight/status/2064763991507841224
+2026-06-10,tweetfeed,DOMAIN,ogqw9cpz7t7et3j1rur.live,n/a,https://x.com/threatinsight/status/2064763991507841224
 2026-06-09,tweetfeed,HASH_SHA256,0b1b69fd0b2263b1f655f14b3054d4261741ca0d758ccc300134000f17019825,n/a,n/a
 2026-06-09,tweetfeed,IP,12.3.2.48,n/a,n/a
 2026-06-09,tweetfeed,IP,178.16.55.28,n/a,n/a
@@ -1383,6 +1381,7 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,IP,80.27.83.195,n/a,https://x.com/sicehice/status/2064710203623240094
 2026-06-10,tweetfeed,IP,103.90.222.9,n/a,https://x.com/Dixit_404/status/2064727039589155095
 2026-06-10,tweetfeed,IP,163.245.220.108,n/a,https://x.com/blackorbird/status/2064727597435752846
+2026-06-10,tweetfeed,HASH_SHA256,95d357fd2e6b88919586caa695780ee7a64e33fa311de53f06097745b4b9023f,"APT, malware",https://x.com/phatomcandle/status/2064769581449916716
 2026-06-09,tweetfeed,HASH_MD5,b21210068e777353b370f9e745f9ce79,n/a,n/a
 2026-06-10,tweetfeed,HASH_MD5,8f6a945dc91d75580db5d82d0355afb8,n/a,n/a
 2026-06-10,tweetfeed,HASH_MD5,1c56aca36f2350698d745e2a7f088873,n/a,n/a
@@ -1394,3 +1393,4 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,HASH_MD5,1d7faffd7c08f1b1bf3fa090ceb77992,n/a,https://x.com/Dixit_404/status/2064729354173919522
 2026-06-10,tweetfeed,HASH_MD5,92d93f269a7258befc82e3295862adb9,n/a,https://x.com/Dixit_404/status/2064729354173919522
 2026-06-10,tweetfeed,HASH_MD5,cf673444b43a3fa4765370658d2ac5be,n/a,https://x.com/Dixit_404/status/2064729354173919522
+2026-06-10,tweetfeed,HASH_MD5,0c23ac85df1e4ab31c23cfa251ab9449,"APT, malware",https://x.com/phatomcandle/status/2064769581449916716
