@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-03,threatfox,URL,https://dtc.duitsm188.top/,"win.vidar, url",n/a
-2026-06-03,threatfox,URL,https://dtc.canamrental.com/,"win.vidar, url",n/a
 2026-06-03,threatfox,URL,https://dangelo.lol/file.js,"js.kongtuke, url",n/a
 2026-06-03,threatfox,URL,https://dangelo.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-06-03,threatfox,URL,https://dangelo.lol/api/v1/verify,"js.kongtuke, url",n/a
@@ -427,15 +425,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,https://marblejunction.top/redirect/gateway-util,"js.smartapesg, url",n/a
 2026-06-10,threatfox,URL,https://marblejunction.top/redirect/middleware-validator.js,"js.smartapesg, url",n/a
 2026-06-10,threatfox,URL,https://thesnackbee.com/d.js,"js.smartapesg, url",n/a
-2026-06-03,threatfox,DOMAIN,5yohaely.betexper.bet,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,471yebmv.betexper.bet,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,mobility-aids.in,"win.nanocore, domain",n/a
-2026-06-03,threatfox,DOMAIN,oggo8gfy.betcompani.com,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,betcompani.com,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,dtc.canamrental.com,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,dtc.duitsm188.top,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,maskelibros.cl,"win.nanocore, domain",n/a
-2026-06-03,darkweb_forums,URL,https://t.me/infrastructureg,"darkweb, telegram_threat_actors",commit 14ba654c / telegram_threat_actors.md
 2026-06-03,threatfox,DOMAIN,niftxdi.bet313.app,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,liizlfb.bet30bet.com,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,eltyalg.bet30bet.com,"js.clearfake, domain",n/a
@@ -2523,7 +2512,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,ykjqdm.bankefile.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,rqwkms23.anodaz.store,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,thesnackbee.com,"js.smartapesg, domain",n/a
-2026-06-03,tweetfeed,URL,https://amazozon.zh-main-28laps.com,n/a,n/a
 2026-06-03,tweetfeed,URL,https://buzniqzwdi.web.app,n/a,n/a
 2026-06-03,tweetfeed,URL,http://aputuptherehe.org,n/a,n/a
 2026-06-03,tweetfeed,URL,http://galsoillyoucom.org,n/a,n/a
@@ -4146,7 +4134,6 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,http://acir.postofficeweb.com/grupoacir/11118453-afm-5bAUwOnFbA,"phishing, scam",https://x.com/urldna_bot/status/2064679002271330738
 2026-06-10,threatfox,HASH_SHA256,2e6fbd142bd5622d2415adbb479d091d322e2f28e91ddc20e3f8b59a26b42a73,"unknown, sha256_hash",n/a
 2026-06-10,tweetfeed,URL,http://103.80.134.8:8085,n/a,https://x.com/cyberthint/status/2064693492312355037
-2026-06-03,tweetfeed,DOMAIN,amazozon.zh-main-28laps.com,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,buzniqzwdi.web.app,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,aputuptherehe.org,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,galsoillyoucom.org,n/a,n/a
