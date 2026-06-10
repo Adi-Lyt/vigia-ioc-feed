@@ -2,8 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-09,threatfox,URL,https://gerrirsen.icu/api/v1/status,"js.kongtuke, url",n/a
-2026-06-09,threatfox,URL,https://human-check.lol/o,"js.kongtuke, url",n/a
 2026-06-09,threatfox,URL,https://cut.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://cut.gagahsm188.top/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://nihaoclub.asia/,"unknown, url",n/a
@@ -119,18 +117,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,https://marblejunction.top/redirect/gateway-util,"js.smartapesg, url",n/a
 2026-06-10,threatfox,URL,https://marblejunction.top/redirect/middleware-validator.js,"js.smartapesg, url",n/a
 2026-06-10,threatfox,URL,https://thesnackbee.com/d.js,"js.smartapesg, url",n/a
-2026-06-09,threatfox,DOMAIN,izmxgmj.pasoor11.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,oxtumf.jamjahani.football,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,uktbpnp.sabaad724.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,sabaad724.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,uckrcup.romabet90.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,romabet90.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,brbyxsj.riverpoker1.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,riverpoker1.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,qenkzpp.rika90.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,rika90.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,human-check.lol,"js.kongtuke, domain",n/a
-2026-06-09,threatfox,DOMAIN,api-v2.novationseo.com,"js.fakeupdates, domain",n/a
 2026-06-09,threatfox,DOMAIN,ckejpbj.one1xbet.net,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,ysqxkgi.mangobetfarsi.com,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,updatemsnow.com,"unknown, domain",n/a
@@ -610,7 +596,9 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,little.serverhostinsa.ke,"win.remcos, domain",n/a
 2026-06-10,threatfox,DOMAIN,little.sesdjansa.us,"win.remcos, domain",n/a
 2026-06-10,threatfox,DOMAIN,veb0im5p.ansuyemarg.xyz,"js.clearfake, domain",n/a
-2026-06-09,tweetfeed,URL,https://moisecuros-strudel-d365-nougat-7c34b7.netlify.app,n/a,n/a
+2026-06-10,threatfox,DOMAIN,oejoixm.amlakshahri.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,iamcklbz.wrfc8.com,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,rattc2jn.asibshenasiyahya.shop,"js.clearfake, domain",n/a
 2026-06-09,tweetfeed,URL,http://guzeldagenerji.com.tr,n/a,n/a
 2026-06-09,tweetfeed,URL,http://Many-potential-customers-hesitate.onrender.com,n/a,n/a
 2026-06-09,tweetfeed,URL,http://office-document-sign.tammy-e82.workers.dev,n/a,n/a
@@ -1087,7 +1075,9 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,https://linkly.link/2kFwq,n/a,https://x.com/SpiderLabs/status/2064709795970417117
 2026-06-10,tweetfeed,URL,https://zoom.zoommeetingnow.com/zoom.html,n/a,https://x.com/SpiderLabs/status/2064709795970417117
 2026-06-10,tweetfeed,URL,https://80.27.83.195/sh,n/a,https://x.com/sicehice/status/2064710203623240094
-2026-06-09,tweetfeed,DOMAIN,moisecuros-strudel-d365-nougat-7c34b7.netlify.app,n/a,n/a
+2026-06-10,tweetfeed,URL,http://ehuaccountupdates.weebly.com,phishing,https://x.com/skocherhan/status/2064719609412915353
+2026-06-10,tweetfeed,URL,http://prinzfkbjiazbrur4mjje6mntjc4vydx3iatkkzycufoylqcoo4y7pqd.onion,ransomware,https://x.com/fbgwls245/status/2064724784261542067
+2026-06-10,tweetfeed,URL,http://6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion,ransomware,https://x.com/fbgwls245/status/2044940073360298416
 2026-06-09,tweetfeed,DOMAIN,guzeldagenerji.com.tr,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,Many-potential-customers-hesitate.onrender.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,office-document-sign.tammy-e82.workers.dev,n/a,n/a
@@ -1441,8 +1431,9 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,suhana1849.github.io,"phishing, scam",https://x.com/urldna_bot/status/2064709221220835368
 2026-06-10,tweetfeed,DOMAIN,linkly.link,n/a,https://x.com/SpiderLabs/status/2064709795970417117
 2026-06-10,tweetfeed,DOMAIN,zoom.zoommeetingnow.com,n/a,https://x.com/SpiderLabs/status/2064709795970417117
-2026-06-09,tweetfeed,HASH_SHA256,bb52887a2013478c31dd9b9e8272e4702212b1163877bea8602eb6eb761067a9,n/a,n/a
-2026-06-09,tweetfeed,HASH_SHA256,2c69daf837b446ab8ea41d0aba93ad027003cc51f7e5e630a159fd9ee25cf81e,n/a,n/a
+2026-06-10,tweetfeed,DOMAIN,ehuaccountupdates.weebly.com,phishing,https://x.com/skocherhan/status/2064719609412915353
+2026-06-10,tweetfeed,DOMAIN,prinzfkbjiazbrur4mjje6mntjc4vydx3iatkkzycufoylqcoo4y7pqd.onion,ransomware,https://x.com/fbgwls245/status/2064724784261542067
+2026-06-10,tweetfeed,DOMAIN,6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion,ransomware,https://x.com/fbgwls245/status/2044940073360298416
 2026-06-09,tweetfeed,IP,82.165.104.102,n/a,n/a
 2026-06-09,tweetfeed,HASH_SHA256,98b179bd1a507232ac08582d67dd2c36ab711ed09869d03d5cef99bfed3c4005,n/a,n/a
 2026-06-09,tweetfeed,HASH_SHA256,37f2c4607a1fad32eda76af2514588cd704b5d5ee83ceb93c14bf10b33c1c8f3,n/a,n/a
@@ -1487,6 +1478,7 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,HASH_SHA256,02ad7e9c3a028d112b9ce04b2a88040285e3119e061d3260ed8078aed7f78610,n/a,https://x.com/SpiderLabs/status/2064709795970417117
 2026-06-10,tweetfeed,IP,37.120.213.13,n/a,https://x.com/sicehice/status/2064710203623240094
 2026-06-10,tweetfeed,IP,80.27.83.195,n/a,https://x.com/sicehice/status/2064710203623240094
+2026-06-10,tweetfeed,IP,103.90.222.9,n/a,https://x.com/Dixit_404/status/2064727039589155095
 2026-06-09,tweetfeed,HASH_MD5,b21210068e777353b370f9e745f9ce79,n/a,n/a
 2026-06-10,tweetfeed,HASH_MD5,8f6a945dc91d75580db5d82d0355afb8,n/a,n/a
 2026-06-10,tweetfeed,HASH_MD5,1c56aca36f2350698d745e2a7f088873,n/a,n/a
