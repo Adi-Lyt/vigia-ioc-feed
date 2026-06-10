@@ -2,8 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-09,threatfox,URL,https://nxx.glamisdunesrentals.com/,"win.vidar, url",n/a
-2026-06-09,threatfox,URL,https://nxx.gagahsm188.top/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://championscollision1.com/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://reconciliarspaterapeutico.com.br/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://gerrirsen.icu/file.js,"js.kongtuke, url",n/a
@@ -113,20 +111,11 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,http://alphastand.trade/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,http://alphastand.win/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,http://alphastand.top/alien/fre.php,"win.lokipws, url",n/a
-2026-06-09,threatfox,DOMAIN,nxx.glamisdunesrentals.com,"win.vidar, domain",n/a
-2026-06-09,threatfox,DOMAIN,nxx.gagahsm188.top,"win.vidar, domain",n/a
-2026-06-09,threatfox,DOMAIN,gwjjko.onlineshart.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,gyayod.pishbinisite.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,gdenwcw.rabonaabet.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pishbinipartners.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,rabonaabet.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,promo.tennis,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,cafdfe.pishbinihoshmand.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pishbinihoshmand.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,dgxbf5rv.onexfa.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,lplhoo.pishbinigame.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pishbinigame.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,mbigpi.pishbinifoori.com,"js.clearfake, domain",n/a
+2026-06-10,threatfox,URL,https://mhsbm.gi/,"win.vidar, url",n/a
+2026-06-10,threatfox,URL,http://217.60.195.70:8080/x86,"elf.mirai, url",n/a
+2026-06-10,threatfox,URL,http://194.238.26.34:8880/r8x4k2m9/stager_linux_amd64,"elf.xmrig, url",n/a
+2026-06-10,threatfox,URL,https://medcompent.com/rec.php,"win.darkvision_rat, url",n/a
+2026-06-10,threatfox,URL,https://mylovedomen.asia/,"unknown, url",n/a
 2026-06-09,threatfox,DOMAIN,whyldsf.rc395.com,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,rc395.com,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,fancystraits.info,"unknown, domain",n/a
@@ -301,11 +290,13 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,0xln2imp.yekbetiran.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,0lq2f3fa.yekbetiran.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,rkbvh5p1.parspoker.casino,"js.clearfake, domain",n/a
-2026-06-09,tweetfeed,URL,https://qvfhwfh.ztvpanm.cn/apusetop/jupindx/,n/a,n/a
-2026-06-09,tweetfeed,URL,https://junjiredcl.weebly.com,n/a,n/a
-2026-06-09,tweetfeed,URL,https://filipesantoswp.com/cb4/,n/a,n/a
-2026-06-09,tweetfeed,URL,https://vitorialowcost.pt/ultimate/,n/a,n/a
-2026-06-09,tweetfeed,URL,https://adaptable-red-chihuahua.31-22-7-7.cpanel.site/accesso/,n/a,n/a
+2026-06-10,threatfox,DOMAIN,updates.officehub.works,"elf.xmrig, domain",n/a
+2026-06-10,threatfox,DOMAIN,xtktlprb.rial.bet,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,1yusfrvk.pishbinibet.bet,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,ithfkpx.amoozeshtagipour.shop,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,uecvehp.amoozeshagazade.shop,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,ck444app.net,"win.asyncrat, domain",n/a
+2026-06-10,threatfox,DOMAIN,firdgorl.restaurantguideaarhus.com,"js.clearfake, domain",n/a
 2026-06-09,tweetfeed,URL,https://bill-boss-mac.github.io,n/a,n/a
 2026-06-09,tweetfeed,URL,https://mex-lam.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,URL,https://vidmateapps.com/?type=verify&key=cgtunxtnyx,n/a,n/a
@@ -760,11 +751,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,HASH_SHA256,f800379c8b3b0dbf95d0cc27b27e2ddaf902203d7eae4c4320d6fd8ebd9d4aac,"win.agent_tesla, sha256_hash",n/a
 2026-06-10,tweetfeed,URL,http://pub-132755649dce44fe95257f08abf4c1b6.r2.dev/index.html,"phishing, scam",https://x.com/urldna_bot/status/2064618616473993617
 2026-06-10,tweetfeed,URL,https://murm.pt/inv/,phishing,https://x.com/AddressIntel/status/2064618590255345771
-2026-06-09,tweetfeed,DOMAIN,qvfhwfh.ztvpanm.cn,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,junjiredcl.weebly.com,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,filipesantoswp.com,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,vitorialowcost.pt,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,adaptable-red-chihuahua.31-22-7-7.cpanel.site,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,bill-boss-mac.github.io,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,mex-lam.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,vidmateapps.com,n/a,n/a
