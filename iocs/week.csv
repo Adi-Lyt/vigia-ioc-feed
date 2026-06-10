@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-03,threatfox,URL,https://fre.canamrental.com/,"win.vidar, url",
-2026-06-03,threatfox,URL,https://fre.duitsm188.top/,"win.vidar, url",
 2026-06-03,threatfox,URL,http://136.243.152.105/api/telemetry/file-chunk,"unknown_stealer, url",
 2026-06-03,threatfox,URL,http://136.243.152.105/api/telemetry/event,"unknown_stealer, url",
 2026-06-03,threatfox,URL,http://213.108.20.59/api/commands/,"unknown, url",
@@ -377,8 +375,6 @@ date,user,type,ioc,tags,context
 2026-06-09,threatfox,URL,https://amazonattention.com/verify,"unknown, url",
 2026-06-10,threatfox,URL,https://luk.glamisdunesrentals.com/,"win.vidar, url",
 2026-06-10,threatfox,URL,https://luk.gagahsm188.top/,"win.vidar, url",
-2026-06-03,threatfox,DOMAIN,fre.duitsm188.top,"win.vidar, domain",
-2026-06-03,threatfox,DOMAIN,fre.canamrental.com,"win.vidar, domain",
 2026-06-03,threatfox,DOMAIN,b7tibc5u.luxerabet1000.com,"js.clearfake, domain",
 2026-06-03,threatfox,DOMAIN,hsy1u75o.luxerabet1000.com,"js.clearfake, domain",
 2026-06-03,threatfox,DOMAIN,vrlh0wdy.eutoor.com,"js.clearfake, domain",
@@ -2131,6 +2127,11 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,jqjvvqpy.one1x.bet,"js.clearfake, domain",
 2026-06-10,threatfox,DOMAIN,5ronk1lr.pointsbetiran.com,"js.clearfake, domain",
 2026-06-10,threatfox,DOMAIN,dxssnlzn.penalty.casino,"js.clearfake, domain",
+2026-06-10,threatfox,DOMAIN,qpemifog.winxbet.co,"js.clearfake, domain",
+2026-06-10,threatfox,DOMAIN,izlayynu.winsportiran.com,"js.clearfake, domain",
+2026-06-10,threatfox,DOMAIN,yhsgyl.pishbinisite.com,"js.clearfake, domain",
+2026-06-10,threatfox,DOMAIN,o6k7lcz5.shartbazi.net,"js.clearfake, domain",
+2026-06-10,threatfox,DOMAIN,m1napmzv.shartbazi.net,"js.clearfake, domain",
 2026-06-03,tweetfeed,URL,http://reimagined-funicular-ivory.vercel.app,,
 2026-06-03,tweetfeed,URL,http://shiny-umbrella-chi.vercel.app,,
 2026-06-03,tweetfeed,URL,http://6a0a694755042e46fb19a7a3--thriving-belekoy-aae7c3.netlify.app,,
