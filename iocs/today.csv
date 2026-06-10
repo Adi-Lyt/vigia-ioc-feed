@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-09,threatfox,URL,https://reconciliarspaterapeutico.com.br/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://gerrirsen.icu/file.js,"js.kongtuke, url",n/a
 2026-06-09,threatfox,URL,https://gerrirsen.icu/api/v1/session,"js.kongtuke, url",n/a
 2026-06-09,threatfox,URL,https://gerrirsen.icu/api/v1/verify,"js.kongtuke, url",n/a
@@ -117,24 +116,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,https://mylovedomen.asia/,"unknown, url",n/a
 2026-06-10,threatfox,URL,https://saffronecho.top/redirect/gateway-util,"js.smartapesg, url",n/a
 2026-06-10,threatfox,URL,https://saffronecho.top/redirect/middleware-validator.js,"js.smartapesg, url",n/a
-2026-06-09,threatfox,DOMAIN,clhfgcomacdn.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,hasmeverdcdn.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,hftplcnsns.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,srtydnnc.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,bhfgtrns-js.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,claufancdn.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,shkcinnc.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,japanpatagonia.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,showmecoffee.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,coffeefrombrazil.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,legitmobile.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,tommysdemons.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,xdavnode.pro,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,fithusbandplan.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,profilab.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,sampatiguide.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,xcoffeeteaandwatherx.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,salppir.red90.casino,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,blkfazi.xenicalby6.com,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,nihaoclub.asia,"unknown, domain",n/a
 2026-06-09,threatfox,DOMAIN,w18yfaze.yekbetiran.com,"js.clearfake, domain",n/a
@@ -298,8 +279,329 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,lq8j82kc.shirbetfarsi.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,y5cngab5.shirbetfarsi.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,3yl7mt55.andisheeslami2.xyz,"js.clearfake, domain",n/a
-2026-06-09,tweetfeed,URL,https://bill-boss-mac.github.io,n/a,n/a
-2026-06-09,tweetfeed,URL,https://mex-lam.weebly.com,n/a,n/a
+2026-06-10,threatfox,DOMAIN,boldthrives.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,xqbzvgfy.red90.casino,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,yovejfu.amlakshahri.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,alfonsocerreti.it,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,terramarketgroup.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,soarebc.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,1sttxreversemtg.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,alnuric.org,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,av-automotive.be,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,ayuntamientodeyecora.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,b2b.castorsunglasses.es,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,berylsegerschronicles.com.au,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,centralathleticfoundation.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,ciphercodersweb.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,copierondemand.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,dipfeed.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,drisdellehomes.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,easttechnicalstudio.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,energyarts.com.br,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,gazaltours.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,greyandbold.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,hijamawala.co.uk,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,jeepbastard.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,josdream.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,kawamawidows.org,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,lamusedurres.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,lombardoautomotive.it,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,m1-ma.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,makecontractorsgreatagain.net,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,mamaspusties.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,mkscoffee.co.uk,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,njfamilyphotography.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,novacarnes.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,ontronics.co.uk,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,pool.sprecher-akademie.at,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,proplayuk.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,riodomedia.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,safeguardips.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,scalp-coiffure.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,sinte.cl,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,viccidinivillas.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,vipeshome.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,yogaonthewallkill.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,zofianatra.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,zorbit.online,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,zeitzaatar.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,websis.lv,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,weddingcarsshrewsbury.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,weddingcarsshropshire.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,weppa.cloud,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,wpcentral.app,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,wswarchitects.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,x-print.gr,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,viethuonggroup.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,vimalrajpanneerselvam.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,vla.academy,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,vocearomilor.ro,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,vutovprint.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,waltonpalmeronline.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,trophyburrita.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,trucybersec.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,twinsburgschoolsfoundation.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,twodogfarms.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,twosisterscleaningfl.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,uniaocasings.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,urinyoglobal.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,titofilms.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,tkkl.nz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,tomatebrasil.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,torlasoftware.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,tractusinternacional.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,transferencia-termica.com.mx,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,travelmag.nl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,themagmoment.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,thetalearn.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,tigerfoods.net,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,titanpool.sm,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,titimashipping.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,taxilivermore.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,tecap.tech,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,testspsychotechniques974.re,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,thebakersdaughter.net,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,thedogcentral.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,thefiascos.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,stsn-calinka.ru,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,studio-la.net,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,summerhillinstitute.com.co,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,supplion.net,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sushi-event.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,takyef.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,taubatecomputadores.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,smoptik.cz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,smtmachines.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sofiabosio.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,solar-seo.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sollicitatiebriefvoorbeeld.nl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sparkedgecap.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ssplsecurity.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,seyerjoinery.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sharonmkelly.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sidsidhu.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,signsmedia.co.il,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,siisoconsulting.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,smartkidsmada.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,saphiramusic.ch,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,scaffoldersnearme.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sdalazer.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sdgdigital.ca,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,search4businesses.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,seleccionamos.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,seocorner.info,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ruouchat.vn,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,saint-florent-funeraire.fr,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,salusa.de,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,sanctuary.casa,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,santetraps.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ranklinko.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,restaurant-handi.nl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,restaurantyouandme.ro,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ritchey.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,prettybrows.nl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,pro24-jlt.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,profisix.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,punfect.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,purelabsnutrition.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,purpleclone.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,qiresonance.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,qualifiedtrainingsolutions.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,pleatedflyscreens.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,poslovniregistar.rs,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,precisiondanceconservatory.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,pressblk.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,outdoorlightingmiami.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,outdoorlightingstudio.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,outdoorsoundinstallation.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,paginaweb.dev,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,paintersinbergencountynj.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,paloalto.capital,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,parkerslaw.net,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,phrc.pk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,odaonline.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ondernemersverenigingvaassen.nl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,orangegreencleaningservices.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,orderofthebear.club,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,oulpansheli.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ourdailymannaworldwide.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,newcenturytrading.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,newidmemberlogin.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,nickvanhoegen.de,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,northjerseywigstudio.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,northstaroperating.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ocpostco.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,myplace-cm.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,nahmany.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,nasalstripsmanufacturer.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,naza24th.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,moonspa.in,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,mozziart.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,mroddsson.se,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,muneramusica.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,medulav3.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,medusa18.xyz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,medusa19.xyz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,medusa20.xyz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,mesacquisitions.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,metis.consulting,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,mfeuz.ch,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,mikasafusion.com.au,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,magnifique.nrw,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,maison-terrier.fr,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,mandalawimedia.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,maschineowners.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,masudaskitchen.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,mathis-hain.net,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,medspluscare.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,laab-thai.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,lapasoa.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,losimaginantes.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,lotsquared.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,luxlightingsolutions.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,luxury-chalet-klosters.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,kairoschristianresourcecenter.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,kaleidoscopedenverliving.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,karamafm.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,kargoflowlogistics.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,kiitec.ac.tz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,kscorporateinternational.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,kwispelcollege.nl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,kyveincare.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,jizake.jp,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,joyfulvoice.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,jundianel.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,justingreer.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,incade.edu.co,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,indieviewtv.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,inovnis.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,instep.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,jamerehmat.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,javernpond.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hoo-siercoder.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hsadv.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,humusliquido.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,iasohealth.com.au,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ibmaaccounting.ca,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,idigitdfw.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ihavebedbugs.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,gulshanmatrimony.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,haliton.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,happyvalleydayfacility.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hardmoney-411.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hashtag-raw.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hbridal.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hiebspressurewashing.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hitzundhitz.ch,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,hmgprojects.com.au,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,garlicstore.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ghebar.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,go.for-it.de,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,granitigroup.eu,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,grounded-eicrs.co.uk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,grupoespacios.net,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,fordlin.ie,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,fundify.xyz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,garageplusnw.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,flameasia.com.sg,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,florapixel.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,etablissementbientraitant.fr,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,etfmodelsolutions.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,euroservice-impianti.it,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,evergreenlandscapes.ie,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,everythingondigital.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,evranconsultants.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,eaycontabil.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ebikevtt.ca,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ellenszorg.nl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,epaves-276.fr,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,esoticoarchitects.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,espace-renaissance.fr,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,docteurefarahnesrine.ch,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,doubleddemolition.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,dr-habitat.fr,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,drinkscene.com.au,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,drluislevel.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,dukeofribs.online,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,dvyne.com.au,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,eadcapacitacao.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,dandi.rs,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,dawgonllc.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,daygroup.biz,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,daytinhieuchongnhieu.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,deliheritage.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,dnaaesthetics.pk,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,dnctlaw.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,colegiofundadoresdelacalera.cl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,communedediossong.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,comprasustentavel.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,cualixrealestate.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,cursillo.eu,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,daatwieze.pl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,cld.ie,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,clinicabiowar.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,cmevents.pro,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,cocbase.link,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,codeecleaning.com.au,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,cetepotencializar.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,chaseandsonbuilding.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,chaya.co,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,chiabeatslife.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,calspecrestoration.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,captureitphotography.info,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,carebridgeteam.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,carolipietrocostruzioni.it,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,castit.live,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,cbdmassage378.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bladesandgoven.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bloorstudio.pl,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bluegrassrooter.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bluewatertechy.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bobbrownhouse.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bonandeve.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,barocci.com.ng,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bazarapapa.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bestkilimanjarotours.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bestplumbercy.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bgdatabuilders.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,biendinhdanhmiennam.pro,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bigbaer.co,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bimmalplantation.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,birdunya.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,asmbosse.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,autorepairpalmetto.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,avspoilme.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,bailoption.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,balkanlovers.ch,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,anastasopoulosandco.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,annpigneri.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,arnari.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,arobasemail.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,artdnavietnam.com.vn,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,asictonline.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,advertolearn.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,aeroceptsgt.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,afasconstrucao.com.br,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,ahpropiscines.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,aidamodels.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,altebyte.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,amicale.officina68.ch,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,24-hr.vip,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,24loodgieter.be,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,abar.systems,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,abnerdantas.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,acml-joliette.org,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,adnsales.com,"js.iclickfix, domain",n/a
+2026-06-10,threatfox,DOMAIN,tourimex.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,edwinmsarmiento.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,precosdemotos.com.br,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,sanfrancescos.com,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,daralteb.net,"win.vidar, domain",n/a
+2026-06-10,threatfox,DOMAIN,museview.buzz,"unknown, domain",n/a
+2026-06-10,threatfox,DOMAIN,248bestmoon.click,"unknown, domain",n/a
+2026-06-10,threatfox,DOMAIN,moldmuse.buzz,"unknown, domain",n/a
+2026-06-10,threatfox,DOMAIN,m.sdfauto.ro,"win.strelastealer, domain",n/a
+2026-06-10,threatfox,DOMAIN,avavillas.com,"win.qakbot, domain",n/a
 2026-06-09,tweetfeed,URL,https://vidmateapps.com/?type=verify&key=cgtunxtnyx,n/a,n/a
 2026-06-09,tweetfeed,URL,https://atlas2222.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,URL,http://lab99.sbs,n/a,n/a
@@ -768,8 +1070,23 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,HASH_SHA256,e2e85ffb029036a3449da8f65275ccfb9e77832a6085c5c26d6726dfda47a048,"unknown, sha256_hash",n/a
 2026-06-10,threatfox,HASH_SHA256,d5d0a96a77f93ba4dc8dc468efee0fcd99a065f665307ecc750ef36258680b39,"unknown, sha256_hash",n/a
 2026-06-10,threatfox,HASH_SHA256,0f7448bc71f420f7b696550a46541b9b2c9fb3808fd6dfe9b18b456a9f0cfed4,"unknown, sha256_hash",n/a
-2026-06-09,tweetfeed,DOMAIN,bill-boss-mac.github.io,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,mex-lam.weebly.com,n/a,n/a
+2026-06-10,tweetfeed,URL,https://friendly-trifle-f3e6f0.netlify.app/2.hta,n/a,https://x.com/smica83/status/2064654175254770050
+2026-06-10,tweetfeed,URL,https://cn-score-k1sport.com/jun/fan/ke/le/,phishing,https://x.com/masaomi346/status/2064658005967409373
+2026-06-10,tweetfeed,URL,http://brt.lxmrns.help,phishing,https://x.com/skocherhan/status/2064658707615560072
+2026-06-10,tweetfeed,URL,http://41.216.188.11:8000/ova.exe,n/a,https://x.com/smica83/status/2064659160180908183
+2026-06-10,tweetfeed,URL,http://updater.py,malware,https://x.com/ishivtripathi/status/2064661650960245003
+2026-06-10,threatfox,HASH_SHA256,99cfd8d9b8ebba0d7cf8527eb0b63eb920fa6898f6971c53df833a85415714f6,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,4a4c286c2ee27df4c0ca597b2568986689f8fb5d0b325fdc2cf45af560b80c97,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,7b2314d6af6b3df7723dbd88439b29fb990e8133cba441c76b9683b68a5adfd1,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,5a3953fc874c19e45eb8ae6479e1bca3214f8c3e828d38681b68ed4652a6fa83,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,e96dc227d4e82d1c261eff41081e1ec8de4bbcbb7e26f989f4ab10c955b93312,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,21ec3bd2644b08eb5dfea8718c98a786f11aaceb041bfa29fa550b70dc763e02,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,336cee203c92efe8a8067f9c3ad71e3d7fd2d7231e6bce8381d5ec0243bf1e60,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,6c6d2bc2d895c9e0b8946c0d1ad5611632e479eecb481031e5f3744e1a6f65b0,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,04a93feba4c974ab3c7fe203d68f78bc3b8b395492fdecc0b3fefadfd74dcac4,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,86ad203b4dfcd43bdc93bea91e9fc01b613e4fa755fcf3b298e8d1e74e168009,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,af4bf0887368a86ea9b3efc1c215c1e59c663de1288777b67246c4b641897bd3,"unknown, sha256_hash",n/a
+2026-06-10,threatfox,HASH_SHA256,54202d955f19f8d721408471a906211833843624ecdca03ace14824c2b041d82,"unknown, sha256_hash",n/a
 2026-06-09,tweetfeed,DOMAIN,vidmateapps.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,atlas2222.weebly.com,n/a,n/a
 2026-06-09,"threatfox,tweetfeed",DOMAIN,lab99.sbs,n/a,n/a
@@ -1118,9 +1435,9 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,agua-assassina.com,phishing,https://x.com/JAMESWT_WT/status/2064644544486945146
 2026-06-10,tweetfeed,DOMAIN,faq.pineappleviewer.info,n/a,https://x.com/smica83/status/2064644653031235914
 2026-06-10,tweetfeed,DOMAIN,friendly-trifle-f3e6f0.netlify.app,n/a,https://x.com/malwrhunterteam/status/2064645350002999433
-2026-06-09,tweetfeed,HASH_SHA256,63b4608310328a326976ec8041efc0af60adba345952d21181e1c76e838d4cc4,n/a,n/a
-2026-06-09,tweetfeed,IP,38.76.177.46,n/a,n/a
-2026-06-09,tweetfeed,IP,43.99.101.175,n/a,n/a
+2026-06-10,tweetfeed,DOMAIN,cn-score-k1sport.com,phishing,https://x.com/masaomi346/status/2064658005967409373
+2026-06-10,tweetfeed,DOMAIN,brt.lxmrns.help,phishing,https://x.com/skocherhan/status/2064658707615560072
+2026-06-10,tweetfeed,DOMAIN,updater.py,malware,https://x.com/ishivtripathi/status/2064661650960245003
 2026-06-09,tweetfeed,IP,43.128.252.32,n/a,n/a
 2026-06-09,tweetfeed,IP,216.126.225.243,n/a,n/a
 2026-06-09,"threatfox,tweetfeed",HASH_SHA256,48f2a3bfb7a70b97875e56d932ada0d975cd5ee154a99caf7d93550275a1548a,n/a,n/a
@@ -1161,6 +1478,9 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,IP,144.76.188.74,n/a,https://x.com/malwrhunterteam/status/2064647266074268142
 2026-06-10,tweetfeed,HASH_SHA256,5281fc111278e9df642790799efd801617affe9346b2a923df36769b051dbeec,n/a,https://x.com/smica83/status/2064647271665357232
 2026-06-10,tweetfeed,HASH_SHA256,1370ba86f4c12ff1a8a0dd987b2be79a6ed13f7765e05b9711c544a7a2f288ea,n/a,https://x.com/smica83/status/2064647271665357232
+2026-06-10,tweetfeed,HASH_SHA256,1ca86dcafd0b6d208c072760919b38b830ca907f8cc3c77401275731d422ce63,n/a,https://x.com/smica83/status/2064654175254770050
+2026-06-10,tweetfeed,IP,41.216.188.11,n/a,https://x.com/smica83/status/2064659160180908183
+2026-06-10,tweetfeed,HASH_SHA256,45171981ac23dcb7e90dd9a3ce07415720be92815bcd2ccfe51e716d736eab3e,n/a,https://x.com/smica83/status/2064659160180908183
 2026-06-09,tweetfeed,HASH_MD5,e5ad9a167a9cc6aec0884b12558f5355,n/a,n/a
 2026-06-09,tweetfeed,HASH_MD5,287306bd1bf2eb7659fab8c2dcd4ab89,n/a,n/a
 2026-06-09,tweetfeed,HASH_MD5,b21210068e777353b370f9e745f9ce79,n/a,n/a
