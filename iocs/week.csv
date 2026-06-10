@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-03,threatfox,URL,http://178.16.54.109/sodola,"win.phorpiex, url",n/a
 2026-06-03,threatfox,URL,https://web.duitsm188.top/,"win.vidar, url",n/a
 2026-06-03,threatfox,URL,https://web.canamrental.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://cosmostars.shop/api/index.php?a=dl&token=8caaf953d89478b8a7191eb32295c117a310b53ac9059d4ad69a1e397ec3b2d4&rv=17ff1b3d94f9144973b09f8064ba72f3&src=www.morecroft.co.nz&mode=cloudflare,"unknown, url",n/a
@@ -408,10 +407,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,http://daisyz.shop:4219,"win.remus, url",n/a
 2026-06-10,threatfox,URL,https://kik.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-10,threatfox,URL,https://kik.gagahsm188.top/,"win.vidar, url",n/a
-2026-06-03,threatfox,DOMAIN,8vjdfz8n.basketballiran.bet,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,s35umghu.basketballiran.bet,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,hekjmsa.2026.futbol,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,2026.futbol,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,nakodasuitings.com,"win.strelastealer, domain",n/a
 2026-06-03,threatfox,DOMAIN,effgtty.ar888starz.bet,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,cxexxbb.apk.bet,"js.clearfake, domain",n/a
@@ -2485,13 +2480,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,kik.glamisdunesrentals.com,"win.vidar, domain",n/a
 2026-06-10,threatfox,DOMAIN,kik.gagahsm188.top,"win.vidar, domain",n/a
 2026-06-10,threatfox,DOMAIN,5wtpqrho.azmoondadrasi.xyz,"js.clearfake, domain",n/a
-2026-06-03,tweetfeed,URL,http://systemdocscloudnotifier.com,n/a,n/a
-2026-06-03,tweetfeed,URL,http://naver-me.dynv6.net,n/a,n/a
-2026-06-03,tweetfeed,URL,http://openinfo.dynv6.net,n/a,n/a
-2026-06-03,tweetfeed,URL,http://upbit.signin.ydns.eu,n/a,n/a
-2026-06-03,tweetfeed,URL,http://mybox.nid.ydns.eu,n/a,n/a
-2026-06-03,tweetfeed,URL,http://165.154.53.227,n/a,n/a
-2026-06-03,tweetfeed,URL,http://cloud-flare-authenticator.link,n/a,n/a
 2026-06-03,tweetfeed,URL,http://lpcfund.sbs,n/a,n/a
 2026-06-03,tweetfeed,URL,https://binancebooster.com,n/a,n/a
 2026-06-03,tweetfeed,URL,http://193.111.117.6,n/a,n/a
@@ -4173,13 +4161,6 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,http://xn----9r8et18apneseq2ljwd.xn--h32bi4v.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,URL,http://login-live.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,URL,http://45.14.246.94,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-03,tweetfeed,DOMAIN,systemdocscloudnotifier.com,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,supportfilestransfersystem.com,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,naver-me.dynv6.net,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,openinfo.dynv6.net,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,upbit.signin.ydns.eu,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,mybox.nid.ydns.eu,n/a,n/a
-2026-06-03,"threatfox,tweetfeed",DOMAIN,cloud-flare-authenticator.link,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,lpcfund.sbs,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,binancebooster.com,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,adammanagement.com,n/a,n/a
@@ -5422,9 +5403,6 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,lib-section.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,DOMAIN,comon-excepted.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,DOMAIN,login-live.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-03,tweetfeed,IP,165.154.53.227,n/a,n/a
-2026-06-03,tweetfeed,HASH_SHA256,b4f02aaa43b86d151c11a945d01e9b60eb37227e2a552cc67ecdcb475e21eb67,n/a,n/a
-2026-06-03,tweetfeed,HASH_SHA256,83f6b8e88a8aa9407587fd5b41a68cc9408b22a493d1e6b7347517638605d57f,n/a,n/a
 2026-06-03,"threatfox,tweetfeed",HASH_SHA256,f5cb9194e3e34f10171be656d9a55a70ca96ed1258ffe371630f1086637a8d76,n/a,n/a
 2026-06-03,"threatfox,tweetfeed",HASH_SHA256,d8219ff7bb309b660a61008793f8250aeff1133be9be3a7747fba28500b0362c,n/a,n/a
 2026-06-03,tweetfeed,IP,8.141.4.220,n/a,n/a
