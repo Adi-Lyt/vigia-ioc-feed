@@ -2478,6 +2478,7 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,b57agvqn.azmoonhayeravani.shop,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,cwwviitu.hugugmadani3.xyz,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,w2hnzhub.fununetadris.shop,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,ttsnmsv.honareslami.xyz,"js.clearfake, domain",n/a
 2026-06-03,tweetfeed,URL,http://download-windows-update.live,n/a,n/a
 2026-06-03,tweetfeed,URL,https://bit.ly/4cZnX3q,n/a,n/a
 2026-06-04,tweetfeed,URL,https://facebook-authentication.secure-datalink.org/landing/form/1e8ee66b-6830-4ca2-9983-f3834ab1f409,n/a,n/a
@@ -4142,6 +4143,12 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,http://login-live.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,URL,http://45.14.246.94,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,URL,https://docs.google.com/drawings/d/1s0ICISnDi_K98annOIhDoOzk4toB8WSeraYw_DmWwUI/edit,"phishing, scam",https://x.com/urldna_bot/status/2064799799774212248
+2026-06-10,tweetfeed,URL,http://usafitness.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
+2026-06-10,tweetfeed,URL,http://adnnutrition.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
+2026-06-10,tweetfeed,URL,http://pantheonfitt.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
+2026-06-10,tweetfeed,URL,http://ventawebpay.com,phishing,https://x.com/CtrlCiudadano/status/2061536523158454517
+2026-06-10,tweetfeed,URL,http://ingresawebpay.online,phishing,https://x.com/CtrlCiudadano/status/2061536523158454517
+2026-06-10,tweetfeed,URL,https://bit.ly/4dc7w3N,"phishing, scam",https://x.com/urldna_bot/status/2064829999832531197
 2026-06-03,"threatfox,tweetfeed",DOMAIN,download-windows-update.live,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,gmb.xhalo.co,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,netflix-clone-6.vercel.app,n/a,n/a
@@ -5371,6 +5378,11 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,lib-section.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,DOMAIN,comon-excepted.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,DOMAIN,login-live.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
+2026-06-10,tweetfeed,DOMAIN,usafitness.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
+2026-06-10,tweetfeed,DOMAIN,adnnutrition.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
+2026-06-10,tweetfeed,DOMAIN,pantheonfitt.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
+2026-06-10,tweetfeed,DOMAIN,ventawebpay.com,phishing,https://x.com/CtrlCiudadano/status/2061536523158454517
+2026-06-10,tweetfeed,DOMAIN,ingresawebpay.online,phishing,https://x.com/CtrlCiudadano/status/2061536523158454517
 2026-06-04,tweetfeed,HASH_SHA256,23e4706ed713c81408b75d9539cdd656a6e66c0ec007e644bc4aa215e36f2507,n/a,n/a
 2026-06-04,tweetfeed,IP,85.192.38.178,n/a,n/a
 2026-06-04,tweetfeed,IP,209.99.186.176,n/a,n/a
@@ -5746,3 +5758,4 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,HASH_MD5,cf673444b43a3fa4765370658d2ac5be,n/a,https://x.com/Dixit_404/status/2064729354173919522
 2026-06-10,tweetfeed,HASH_MD5,0c23ac85df1e4ab31c23cfa251ab9449,"APT, malware",https://x.com/phatomcandle/status/2064769581449916716
 2026-06-10,tweetfeed,HASH_MD5,8e15c4d4f71bdd9dbc48cd2cabc87806,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
+2026-06-10,tweetfeed,HASH_MD5,29f16ac2cc3fcf319079557aa787e158,GuLoader,https://x.com/skocherhan/status/2064829009653887055
