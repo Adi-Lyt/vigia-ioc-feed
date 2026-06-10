@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-08,cisa_kev,CVE,CVE-2026-50751,"Check Point Security Gateway, kev","Check Point Security Gateway contains an improper authentication vulnerability in IKEv1 key exchange that could allow an unauthenticated remote attacker to bypass user authentication and establish a remote access VPN connection without a valid user password. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-11"
-2026-06-03,cisa_kev,CVE,CVE-2026-45247,"Mirasvit Mirasvit Full Page Cache Warmer, kev","Mirasvit Full Page Cache Warmer contains a deserialization of untrusted data vulnerability that could allow unauthenticated attackers to achieve remote code execution by supplying a crafted serialized PHP object in the CacheWarmer cookie. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-06"
 2026-06-05,cisa_kev,CVE,CVE-2026-28318,"SolarWinds Serv-U, kev","SolarWinds Serv-U contains an uncontrolled resource consumption vulnerability that allows specially crafted POST requests using the Content-Encoding: deflate header to crash the Serv-U service without authentication. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-19"
 2026-06-08,cisa_kev,CVE,CVE-2026-42271,"BerriAI LiteLLM, kev","BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-22"
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
@@ -408,8 +407,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,https://vanderaeijden.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-10,threatfox,URL,https://vanderaeijden.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-06-10,threatfox,URL,https://captcha-code.lol/o,"js.kongtuke, url",n/a
-2026-06-03,threatfox,DOMAIN,bqm57dpz.betgit.casino,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,betgit.casino,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,favmrwg.1xbet-official-xbet.top,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,qyteglr.1xbetios.bet,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,qzr.canamrental.com,"win.vidar, domain",n/a
@@ -2479,12 +2476,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,captcha-code.lol,"js.kongtuke, domain",n/a
 2026-06-10,threatfox,DOMAIN,2nyrkdw3.ayinzendegi.xyz,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,uhie2025.duckdns.org,"win.remcos, domain",n/a
-2026-06-03,tweetfeed,URL,https://www.h2betloginbet.com/cocoemenz/,n/a,n/a
-2026-06-03,tweetfeed,URL,https://nationwidelicensingsystem.docmechdel.sbs/d0cs/d0cs/Windows/utility.php,n/a,n/a
-2026-06-03,tweetfeed,URL,https://pub-6ee976e580994ae5855dfc32ddb9763b.r2.dev/Amended%20Agreement_2026.bat,n/a,n/a
-2026-06-03,tweetfeed,URL,http://brute.py,n/a,n/a
-2026-06-03,tweetfeed,URL,https://padmaelectricals.com/ftx/,n/a,n/a
-2026-06-03,tweetfeed,URL,https://pub-baf4c7b6ae054de18ff1eebd19654e31.r2.dev/ScreenConnect.ClientSetup.msi,n/a,n/a
 2026-06-03,tweetfeed,URL,https://ns1b.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,n/a,n/a
 2026-06-03,tweetfeed,URL,https://trilmino.com/streamp_1_it_2?s1=122&s2=434aa9ccf0124448b26b70c07e22951e,n/a,n/a
 2026-06-03,tweetfeed,URL,https://lerkavifye.wixstudio.com/my-site,n/a,n/a
@@ -4096,12 +4087,6 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,http://downloadclouddata.com,n/a,https://x.com/blackorbird/status/2064727597435752846
 2026-06-10,tweetfeed,URL,http://163.245.220.108:8442,n/a,https://x.com/blackorbird/status/2064727597435752846
 2026-06-10,tweetfeed,URL,https://metatrextch.gitbook.io,"phishing, scam",https://x.com/urldna_bot/status/2064739410592088405
-2026-06-03,tweetfeed,DOMAIN,h2betloginbet.com,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,nationwidelicensingsystem.docmechdel.sbs,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,pub-6ee976e580994ae5855dfc32ddb9763b.r2.dev,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,brute.py,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,padmaelectricals.com,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,pub-baf4c7b6ae054de18ff1eebd19654e31.r2.dev,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,ns1b.screenconnect.com,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,trilmino.com,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,lerkavifye.wixstudio.com,n/a,n/a
@@ -5294,22 +5279,6 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion,ransomware,https://x.com/fbgwls245/status/2044940073360298416
 2026-06-10,tweetfeed,DOMAIN,downloadclouddata.com,n/a,https://x.com/blackorbird/status/2064727597435752846
 2026-06-10,tweetfeed,DOMAIN,metatrextch.gitbook.io,"phishing, scam",https://x.com/urldna_bot/status/2064739410592088405
-2026-06-03,tweetfeed,HASH_SHA256,79de73d81f7f789f6bb33dbe482e50942995ab2742446310da3c50ec4e05e927,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.24,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.36,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.28,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.34,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.26,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.29,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.25,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.30,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.35,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.23,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.33,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.32,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.27,n/a,n/a
-2026-06-03,tweetfeed,IP,149.50.98.31,n/a,n/a
-2026-06-03,tweetfeed,HASH_SHA256,6ca62e81fbdcd88ef640234d7c45ecf4aacd816f6fa6ebc8a28b03c8d2774522,n/a,n/a
 2026-06-03,tweetfeed,HASH_SHA256,b641ded8776b21df4ff033ee9d9c9eb0dc740462fdd2671e02ce8f70ada7a04d,n/a,n/a
 2026-06-03,tweetfeed,IP,165.154.53.227,n/a,n/a
 2026-06-03,tweetfeed,HASH_SHA256,b4f02aaa43b86d151c11a945d01e9b60eb37227e2a552cc67ecdcb475e21eb67,n/a,n/a
