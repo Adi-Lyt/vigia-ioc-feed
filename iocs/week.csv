@@ -6,11 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-03,threatfox,URL,https://pgo.fatherchrismas.com/,"win.vidar, url",n/a
-2026-06-03,threatfox,URL,https://frr.ambil-disini.web.id/,"win.vidar, url",n/a
-2026-06-03,threatfox,URL,http://pillow.riverbridge.site,"win.vidar, url",n/a
-2026-06-03,threatfox,URL,https://psy.flise-mesteren.dk/,"win.vidar, url",n/a
-2026-06-03,threatfox,URL,http://wrath.bottlevacuum.shop,"win.vidar, url",n/a
 2026-06-03,threatfox,URL,https://mpd.pegasus-77.biz.id/,"win.vidar, url",n/a
 2026-06-03,threatfox,URL,https://dtc.duitsm188.top/,"win.vidar, url",n/a
 2026-06-03,threatfox,URL,https://dtc.canamrental.com/,"win.vidar, url",n/a
@@ -418,12 +413,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,http://alphastand.trade/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,http://alphastand.win/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,http://alphastand.top/alien/fre.php,"win.lokipws, url",n/a
-2026-06-03,threatfox,DOMAIN,laohe4.myvnc.com,"win.xworm, domain",n/a
-2026-06-03,"threatfox,tweetfeed",DOMAIN,pgo.fatherchrismas.com,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,frr.ambil-disini.web.id,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,pillow.riverbridge.site,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,psy.flise-mesteren.dk,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,wrath.bottlevacuum.shop,"win.vidar, domain",n/a
 2026-06-03,threatfox,DOMAIN,ledger.com.ag,"unknown, domain",n/a
 2026-06-03,threatfox,DOMAIN,ledger-shop.at,"unknown, domain",n/a
 2026-06-03,threatfox,DOMAIN,bet-303.fun,"js.clearfake, domain",n/a
@@ -2172,8 +2161,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,eaty6go0.anodaz.co,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,3sdhx6qp.pokerbazi.app,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,uknwgsop.red90.casino,"js.clearfake, domain",n/a
-2026-06-03,tweetfeed,URL,https://60f62645a8a2915.content-storage-download.googleapis.com/b04a9a2a2a32877af#cl/236579_smd/2003/8501710/324/178/6941d6915c3b96d99d4c3312,n/a,n/a
-2026-06-03,tweetfeed,URL,http://kdull.buzz,n/a,n/a
 2026-06-03,tweetfeed,URL,https://jppost-bank.vcbvbn.com/DutmcJeZ/,n/a,n/a
 2026-06-03,tweetfeed,URL,http://amazon-clone-eta-eight.vercel.app,n/a,n/a
 2026-06-03,tweetfeed,URL,http://43.142.9.118,n/a,n/a
@@ -3770,8 +3757,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,HASH_SHA256,32a90f26b236643efb6607fc8a02536e1df35c699ac04baee062300401b4df26,"win.venom, sha256_hash",n/a
 2026-06-10,threatfox,HASH_SHA256,91ed53ad7977c0fa482c5a58c0590512a621852fd5bc4303e5bf209a1117b30d,"win.agent_tesla, sha256_hash",n/a
 2026-06-10,threatfox,HASH_SHA256,f800379c8b3b0dbf95d0cc27b27e2ddaf902203d7eae4c4320d6fd8ebd9d4aac,"win.agent_tesla, sha256_hash",n/a
-2026-06-03,tweetfeed,DOMAIN,60f62645a8a2915.content-storage-download.googleapis.com,n/a,n/a
-2026-06-03,tweetfeed,DOMAIN,kdull.buzz,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,jppost-bank.vcbvbn.com,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,amazon-clone-eta-eight.vercel.app,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,ictservicesunit.weebly.com,n/a,n/a
