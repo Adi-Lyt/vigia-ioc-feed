@@ -5,8 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-03,threatfox,URL,https://web.duitsm188.top/,"win.vidar, url",n/a
-2026-06-03,threatfox,URL,https://web.canamrental.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://cosmostars.shop/api/index.php?a=dl&token=8caaf953d89478b8a7191eb32295c117a310b53ac9059d4ad69a1e397ec3b2d4&rv=17ff1b3d94f9144973b09f8064ba72f3&src=www.morecroft.co.nz&mode=cloudflare,"unknown, url",n/a
 2026-06-04,threatfox,URL,http://85.239.149.78:6600/p5m4i979/putty_c4078a0a07f68cb6.msi,"unknown, url",n/a
 2026-06-04,threatfox,URL,http://85.239.149.78/l6WwkWNj5hC2qDlgLI,"unknown, url",n/a
@@ -407,10 +405,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,http://daisyz.shop:4219,"win.remus, url",n/a
 2026-06-10,threatfox,URL,https://kik.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-10,threatfox,URL,https://kik.gagahsm188.top/,"win.vidar, url",n/a
-2026-06-03,threatfox,DOMAIN,wjsuzxt.arian90bet.bet,"js.clearfake, domain",n/a
-2026-06-03,threatfox,DOMAIN,web.canamrental.com,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,web.duitsm188.top,"win.vidar, domain",n/a
-2026-06-03,threatfox,DOMAIN,aryabet.bet,"unknown_stealer, domain",n/a
 2026-06-03,threatfox,DOMAIN,7g5swyfn.bazipoop.com,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,r38it4zu.bazipoop.com,"js.clearfake, domain",n/a
 2026-06-03,threatfox,DOMAIN,gqxhbsg.asa90.bet,"js.clearfake, domain",n/a
@@ -2479,8 +2473,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,cwwviitu.hugugmadani3.xyz,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,w2hnzhub.fununetadris.shop,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,ttsnmsv.honareslami.xyz,"js.clearfake, domain",n/a
-2026-06-03,tweetfeed,URL,http://download-windows-update.live,n/a,n/a
-2026-06-03,tweetfeed,URL,https://bit.ly/4cZnX3q,n/a,n/a
 2026-06-04,tweetfeed,URL,https://facebook-authentication.secure-datalink.org/landing/form/1e8ee66b-6830-4ca2-9983-f3834ab1f409,n/a,n/a
 2026-06-04,tweetfeed,URL,https://gmb.xhalo.co,n/a,n/a
 2026-06-04,tweetfeed,URL,http://netflix-clone-6.vercel.app,n/a,n/a
@@ -4149,7 +4141,6 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,http://ventawebpay.com,phishing,https://x.com/CtrlCiudadano/status/2061536523158454517
 2026-06-10,tweetfeed,URL,http://ingresawebpay.online,phishing,https://x.com/CtrlCiudadano/status/2061536523158454517
 2026-06-10,tweetfeed,URL,https://bit.ly/4dc7w3N,"phishing, scam",https://x.com/urldna_bot/status/2064829999832531197
-2026-06-03,"threatfox,tweetfeed",DOMAIN,download-windows-update.live,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,gmb.xhalo.co,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,netflix-clone-6.vercel.app,n/a,n/a
 2026-06-04,threatfox,HASH_MD5,40279ce4de656aada27374a03062264c,"unknown, md5_hash",n/a
