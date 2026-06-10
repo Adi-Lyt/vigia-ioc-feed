@@ -411,7 +411,7 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,http://alphastand.win/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,http://alphastand.top/alien/fre.php,"win.lokipws, url",n/a
 2026-06-10,threatfox,URL,https://mhsbm.gi/,"win.vidar, url",n/a
-2026-06-10,threatfox,URL,http://217.60.195.70:8080/x86,"elf.mirai, url",n/a
+2026-06-10,"threatfox,tweetfeed",URL,http://217.60.195.70:8080/x86,"elf.mirai, url",n/a
 2026-06-10,threatfox,URL,http://194.238.26.34:8880/r8x4k2m9/stager_linux_amd64,"elf.xmrig, url",n/a
 2026-06-10,threatfox,URL,https://medcompent.com/rec.php,"win.darkvision_rat, url",n/a
 2026-06-10,threatfox,URL,https://mylovedomen.asia/,"unknown, url",n/a
@@ -2118,7 +2118,7 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,m1napmzv.shartbazi.net,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,lxhcemuk.wrfc8.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,vvoplgpy.bet303.poker,"js.clearfake, domain",n/a
-2026-06-10,threatfox,DOMAIN,google.dns-1.help,"win.cobalt_strike, domain",n/a
+2026-06-10,"threatfox,tweetfeed",DOMAIN,google.dns-1.help,"win.cobalt_strike, domain",n/a
 2026-06-10,threatfox,DOMAIN,8zktknmf.shirbetfarsi.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,8hjdsu0b.shirbetfarsi.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,vqfqrqgv.red90.casino,"js.clearfake, domain",n/a
@@ -2512,6 +2512,16 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,DOMAIN,ykjqdm.bankefile.com,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,rqwkms23.anodaz.store,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,thesnackbee.com,"js.smartapesg, domain",n/a
+2026-06-10,threatfox,DOMAIN,lzwtxwrr.winxbet.co,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,zhfxkf.bankefile.com,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,m47hkbcd.ganuneasasi.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,sk4a8369.anodaz.store,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,a2llsxm4.ganuneasasi.xyz,"js.clearfake, domain",n/a
+2026-06-10,threatfox,DOMAIN,glgoowufmn.duckdns.org,"win.remcos, domain",n/a
+2026-06-10,threatfox,DOMAIN,little.serverhostinc.us,"win.remcos, domain",n/a
+2026-06-10,threatfox,DOMAIN,little.serverhostinsa.ke,"win.remcos, domain",n/a
+2026-06-10,threatfox,DOMAIN,little.sesdjansa.us,"win.remcos, domain",n/a
+2026-06-10,threatfox,DOMAIN,veb0im5p.ansuyemarg.xyz,"js.clearfake, domain",n/a
 2026-06-03,tweetfeed,URL,https://buzniqzwdi.web.app,n/a,n/a
 2026-06-03,tweetfeed,URL,http://aputuptherehe.org,n/a,n/a
 2026-06-03,tweetfeed,URL,http://galsoillyoucom.org,n/a,n/a
@@ -4134,6 +4144,12 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,URL,http://acir.postofficeweb.com/grupoacir/11118453-afm-5bAUwOnFbA,"phishing, scam",https://x.com/urldna_bot/status/2064679002271330738
 2026-06-10,threatfox,HASH_SHA256,2e6fbd142bd5622d2415adbb479d091d322e2f28e91ddc20e3f8b59a26b42a73,"unknown, sha256_hash",n/a
 2026-06-10,tweetfeed,URL,http://103.80.134.8:8085,n/a,https://x.com/cyberthint/status/2064693492312355037
+2026-06-10,tweetfeed,URL,https://suhana1849.github.io/Netflix_Interface_Clone,"phishing, scam",https://x.com/urldna_bot/status/2064709221220835368
+2026-06-10,tweetfeed,URL,http://8.219.158.30:443,n/a,https://x.com/SquiblydooBlog/status/2064709479657033827
+2026-06-10,tweetfeed,URL,http://google.dns-1.help,n/a,https://x.com/SquiblydooBlog/status/2064709479657033827
+2026-06-10,tweetfeed,URL,https://linkly.link/2kFwq,n/a,https://x.com/SpiderLabs/status/2064709795970417117
+2026-06-10,tweetfeed,URL,https://zoom.zoommeetingnow.com/zoom.html,n/a,https://x.com/SpiderLabs/status/2064709795970417117
+2026-06-10,tweetfeed,URL,https://80.27.83.195/sh,n/a,https://x.com/sicehice/status/2064710203623240094
 2026-06-03,tweetfeed,DOMAIN,buzniqzwdi.web.app,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,aputuptherehe.org,n/a,n/a
 2026-06-03,tweetfeed,DOMAIN,galsoillyoucom.org,n/a,n/a
@@ -5336,6 +5352,9 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,DOMAIN,ebix.portal-career.com,n/a,https://x.com/nextronresearch/status/2064672318446538864
 2026-06-10,tweetfeed,DOMAIN,ebix-exam.com,n/a,https://x.com/nextronresearch/status/2064672318446538864
 2026-06-10,tweetfeed,DOMAIN,acir.postofficeweb.com,"phishing, scam",https://x.com/urldna_bot/status/2064679002271330738
+2026-06-10,tweetfeed,DOMAIN,suhana1849.github.io,"phishing, scam",https://x.com/urldna_bot/status/2064709221220835368
+2026-06-10,tweetfeed,DOMAIN,linkly.link,n/a,https://x.com/SpiderLabs/status/2064709795970417117
+2026-06-10,tweetfeed,DOMAIN,zoom.zoommeetingnow.com,n/a,https://x.com/SpiderLabs/status/2064709795970417117
 2026-06-03,tweetfeed,IP,121.127.254.78,n/a,n/a
 2026-06-03,tweetfeed,HASH_SHA256,a27e2b29ee82be40aa8ba65b91ba4e6f23d0fbdf8f3df0e0f76a7a046c906691,n/a,n/a
 2026-06-03,tweetfeed,HASH_SHA256,e306f2ec7aa41e7c60802c8156990b3d9c6949451ae72409646e4a7c15b6ebff,n/a,n/a
@@ -5684,6 +5703,14 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,HASH_SHA256,f172d154f601af56ada841bef80e738f3e528cd5a5fc5f4b84260160d46a1ceb,n/a,https://x.com/smica83/status/2064671504906805359
 2026-06-10,tweetfeed,IP,155.117.45.44,RAT,https://x.com/goldenjackel12/status/2064679226838806667
 2026-06-10,tweetfeed,IP,103.80.134.8,n/a,https://x.com/cyberthint/status/2064693492312355037
+2026-06-10,tweetfeed,HASH_SHA256,13e931b95b927b94b950cbc4f67ce17c96d350d81c04f07e523af613ada8397e,n/a,https://x.com/L0Psec/status/2064700457742717328
+2026-06-10,tweetfeed,HASH_SHA256,5b06f36846c16006bf1987226b7321efe66759ea1cfdc8fc6612215d0fb6206e,n/a,https://x.com/L0Psec/status/2064700462662623689
+2026-06-10,tweetfeed,IP,45.198.224.13,n/a,https://x.com/sicehice/status/2064709628798156927
+2026-06-10,tweetfeed,IP,8.219.158.30,n/a,https://x.com/SquiblydooBlog/status/2064709479657033827
+2026-06-10,tweetfeed,HASH_SHA256,1d3bcced2467d17e2be347629e1aae5ad919c0cf850932eef0fff74fc3ea0f03,n/a,https://x.com/SquiblydooBlog/status/2064709479657033827
+2026-06-10,tweetfeed,HASH_SHA256,02ad7e9c3a028d112b9ce04b2a88040285e3119e061d3260ed8078aed7f78610,n/a,https://x.com/SpiderLabs/status/2064709795970417117
+2026-06-10,tweetfeed,IP,37.120.213.13,n/a,https://x.com/sicehice/status/2064710203623240094
+2026-06-10,tweetfeed,IP,80.27.83.195,n/a,https://x.com/sicehice/status/2064710203623240094
 2026-06-04,tweetfeed,HASH_MD5,c430ca535e54fb67a0a927c10cc0b0c2,n/a,n/a
 2026-06-04,tweetfeed,HASH_MD5,634cc3b70c1ce977c70ed99cbe3ed6fc,n/a,n/a
 2026-06-04,tweetfeed,HASH_MD5,11b81750c87168ff3e96f1228f86e031,n/a,n/a
@@ -5727,3 +5754,6 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,HASH_MD5,1c56aca36f2350698d745e2a7f088873,n/a,n/a
 2026-06-10,tweetfeed,HASH_MD5,bd260bf220b310ebdd9ab0b50114f627,RAT,https://x.com/goldenjackel12/status/2064679226838806667
 2026-06-10,tweetfeed,HASH_MD5,c6409e078bad9094ab4b26dad5219f6c,RAT,https://x.com/goldenjackel12/status/2064679226838806667
+2026-06-10,tweetfeed,HASH_MD5,e228b521325b001cecf46224c8e96562,stealer,https://x.com/suyog41/status/2064703943679135919
+2026-06-10,tweetfeed,HASH_MD5,21846f393d51dbc36c9eafe1cba34346,n/a,https://x.com/sicehice/status/2064709628798156927
+2026-06-10,tweetfeed,HASH_MD5,a860fdd6f0bd38510c779b1fba339c46,n/a,https://x.com/sicehice/status/2064710203623240094
