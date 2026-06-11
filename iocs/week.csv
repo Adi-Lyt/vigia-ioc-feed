@@ -3862,6 +3862,14 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,daringnobility.digital,"unknown, domain",n/a
 2026-06-11,threatfox,DOMAIN,urbanmatrix.digital,"unknown, domain",n/a
 2026-06-11,threatfox,DOMAIN,gundositstop.digital,"unknown, domain",n/a
+2026-06-11,threatfox,DOMAIN,clabrmercur.pages.dev,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,clavgood.pages.dev,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,storgvkam.pages.dev,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,claude-code-product.squarespace.com,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,notebooklm-update-version.squarespace.com,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,shell.botnet.st,"elf.mirai, domain",n/a
+2026-06-11,threatfox,DOMAIN,real.botnet.st,"elf.mirai, domain",n/a
+2026-06-11,threatfox,DOMAIN,2chci0sm.andisheeslami2.xyz,"js.clearfake, domain",n/a
 2026-06-04,tweetfeed,URL,http://liteaml.online,n/a,n/a
 2026-06-04,tweetfeed,URL,http://docusign.mediasoc.icu/notify.php,n/a,n/a
 2026-06-04,tweetfeed,URL,http://www.dropbox.com/scl/fi/4tai9zwl1l7ueregqgwlk/DocuSign_Setup_24.2.1.exe,n/a,n/a
@@ -5523,6 +5531,11 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,URL,https://chaseauthewebsite.com,phishing,https://x.com/Malwarehunterr/status/2064991068110934043
 2026-06-11,tweetfeed,URL,https://chaseauthewebsite.com/access.chaseauthewebsite.com/,phishing,https://x.com/Malwarehunterr/status/2064991068110934043
 2026-06-11,tweetfeed,URL,http://104.234.18.91:3001/login,n/a,https://x.com/malwrhunterteam/status/2065009236363432262
+2026-06-11,tweetfeed,URL,http://sovdil.cyou/index.html,phishing,https://x.com/Malwarehunterr/status/2065005233995124905
+2026-06-11,tweetfeed,URL,https://xn--uptro-ellenrz-6ncc.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065011203118686215
+2026-06-11,tweetfeed,URL,https://sucewuni.z13.web.core.windows.net,n/a,https://x.com/harugasumi/status/2065013660502954072
+2026-06-11,tweetfeed,URL,http://enjoymemes.com,n/a,https://x.com/smica83/status/2065015647789097278
+2026-06-11,tweetfeed,URL,https://zh-pandaplus.com/IobLBkhn/,phishing,https://x.com/masaomi346/status/2065019988398973189
 2026-06-04,tweetfeed,DOMAIN,liteaml.online,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,docusign.mediasoc.icu,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,gredfhh.vip,n/a,n/a
@@ -6734,6 +6747,11 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,DOMAIN,public.mexc.co.com,n/a,https://x.com/500mk500/status/2064986662095011976
 2026-06-11,tweetfeed,DOMAIN,aicopmtrade.click,phishing,https://x.com/PhishStats/status/2064990976976855111
 2026-06-11,tweetfeed,DOMAIN,chaseauthewebsite.com,phishing,https://x.com/Malwarehunterr/status/2064991068110934043
+2026-06-11,tweetfeed,DOMAIN,sovdil.cyou,phishing,https://x.com/Malwarehunterr/status/2065005233995124905
+2026-06-11,tweetfeed,DOMAIN,xn--uptro-ellenrz-6ncc.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065011203118686215
+2026-06-11,tweetfeed,DOMAIN,sucewuni.z13.web.core.windows.net,n/a,https://x.com/harugasumi/status/2065013660502954072
+2026-06-11,tweetfeed,DOMAIN,enjoymemes.com,n/a,https://x.com/smica83/status/2065015647789097278
+2026-06-11,tweetfeed,DOMAIN,zh-pandaplus.com,phishing,https://x.com/masaomi346/status/2065019988398973189
 2026-06-04,tweetfeed,IP,190.123.46.53,n/a,n/a
 2026-06-04,tweetfeed,HASH_SHA256,8ccf35d9c928b99cd5d13cd3d1f2acd93712484eb1c72089bc30554a18748f4d,n/a,n/a
 2026-06-04,tweetfeed,HASH_SHA256,33a831d2f203720e338984127b93185537592f22a7c0303f3e966828f26d68fe,n/a,n/a
@@ -7070,6 +7088,7 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,IP,104.234.18.91,n/a,https://x.com/malwrhunterteam/status/2065009236363432262
 2026-06-11,tweetfeed,HASH_SHA256,9e514a2edc365a832771c67c6e37d72c2c31733183da40f8940cccc115371be0,n/a,https://x.com/smica83/status/2065011640467103773
 2026-06-11,tweetfeed,HASH_SHA256,258e579ba8eba614c77a415a4d68ef9a0b17917e4a9df8acafba9d935e49a434,n/a,https://x.com/smica83/status/2065012804264894817
+2026-06-11,tweetfeed,HASH_SHA256,46a8114e2ab0e120ffa4f1a9f8ef42a558d58cb641f8973a6f039ec5a6b92168,n/a,https://x.com/smica83/status/2065015647789097278
 2026-06-04,tweetfeed,HASH_MD5,c430ca535e54fb67a0a927c10cc0b0c2,n/a,n/a
 2026-06-04,tweetfeed,HASH_MD5,634cc3b70c1ce977c70ed99cbe3ed6fc,n/a,n/a
 2026-06-04,tweetfeed,HASH_MD5,11b81750c87168ff3e96f1228f86e031,n/a,n/a
