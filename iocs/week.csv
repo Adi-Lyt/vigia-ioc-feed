@@ -5,8 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-04,threatfox,URL,https://elo.canamrent.com/,"win.vidar, url",n/a
-2026-06-04,threatfox,URL,https://elo.dvlv88.top/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://rueckec.lol/file.js,"js.kongtuke, url",n/a
 2026-06-04,threatfox,URL,https://rueckec.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-06-04,threatfox,URL,https://vividtunnellab.top/public/acl-partial,"js.smartapesg, url",n/a
@@ -399,20 +397,8 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,https://ghukonhgf.com/api/,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://sup.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,http://154.198.50.76:8080/upload,"unknown, url",n/a
-2026-06-04,threatfox,DOMAIN,yzqorlb.betvolleyball.net,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,byucosm.bettime.win,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,bettime.win,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,elo.canamrent.com,"win.vidar, domain",n/a
-2026-06-04,threatfox,DOMAIN,elo.dvlv88.top,"win.vidar, domain",n/a
-2026-06-04,threatfox,DOMAIN,6dg7sjam.bet404farsi.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,51eho90n.bet404farsi.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,coffeefromarabica.monster,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,lskannsserv.beer,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,clmkghe.bettime90.casino,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,bettime90.casino,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,mauriciolizcano.com.co,"win.asyncrat, domain",n/a
-2026-06-04,threatfox,DOMAIN,m-f168.com,"win.asyncrat, domain",n/a
-2026-06-04,threatfox,DOMAIN,demuntleusden.nl,"win.asyncrat, domain",n/a
+2026-06-11,threatfox,URL,https://ffe.gasturbo88.top/,"win.vidar, url",n/a
+2026-06-11,threatfox,URL,https://ffe.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,DOMAIN,images.nynovation.com,"js.fakeupdates, domain",n/a
 2026-06-04,threatfox,DOMAIN,nexusosint.uk,"unknown_stealer, domain",n/a
 2026-06-04,threatfox,DOMAIN,rueckec.lol,"js.kongtuke, domain",n/a
@@ -3870,22 +3856,11 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,shell.botnet.st,"elf.mirai, domain",n/a
 2026-06-11,threatfox,DOMAIN,real.botnet.st,"elf.mirai, domain",n/a
 2026-06-11,threatfox,DOMAIN,2chci0sm.andisheeslami2.xyz,"js.clearfake, domain",n/a
-2026-06-04,tweetfeed,URL,http://liteaml.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://docusign.mediasoc.icu/notify.php,n/a,n/a
-2026-06-04,tweetfeed,URL,http://www.dropbox.com/scl/fi/4tai9zwl1l7ueregqgwlk/DocuSign_Setup_24.2.1.exe,n/a,n/a
-2026-06-04,tweetfeed,URL,http://gredfhh.vip,n/a,n/a
-2026-06-04,tweetfeed,URL,http://N0.R.B7B435CAF5E43F674C5.jPf.com,n/a,n/a
-2026-06-04,tweetfeed,URL,https://sites.google.com/coinbaseloginn.com/coinbaselogin/home,n/a,n/a
-2026-06-04,tweetfeed,URL,https://coinbext.xin/do/,n/a,n/a
-2026-06-04,tweetfeed,URL,https://coinbext.xin/log/,n/a,n/a
-2026-06-04,tweetfeed,URL,https://coinbext.xin/ent/,n/a,n/a
-2026-06-04,tweetfeed,URL,https://coinbext.xin/ver/,n/a,n/a
-2026-06-04,tweetfeed,URL,http://coinbext.xin,n/a,n/a
-2026-06-04,tweetfeed,URL,https://gredfhh.vip,n/a,n/a
-2026-06-04,tweetfeed,URL,https://laonasj-1422102728.cos.ap-hongkong.myqcloud.com/20260604081618.exe,n/a,n/a
-2026-06-04,tweetfeed,URL,https://laonasj-1422102728.cos.ap-hongkong.myqcloud.com/PDFCORE8.dll,n/a,n/a
-2026-06-04,tweetfeed,URL,http://43.128.26.132:778,n/a,n/a
-2026-06-04,tweetfeed,URL,http://43.128.26.132:779,n/a,n/a
+2026-06-11,threatfox,DOMAIN,ffe.glamisdunesrentals.com,"win.vidar, domain",n/a
+2026-06-11,threatfox,DOMAIN,ffe.gasturbo88.top,"win.vidar, domain",n/a
+2026-06-11,threatfox,DOMAIN,btbwehpkp.drivingbook.xyz,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,ieemaju.akhlageslami.xyz,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,zyuhgbux.hugugtejarat4.xyz,"js.clearfake, domain",n/a
 2026-06-04,tweetfeed,URL,http://pgo.fatherchrismas.com,n/a,n/a
 2026-06-04,tweetfeed,URL,https://yuvarajsadam.github.io/netflix_clone/,n/a,n/a
 2026-06-04,tweetfeed,URL,http://gov-parkingel.shop,n/a,n/a
@@ -5536,12 +5511,11 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,URL,https://sucewuni.z13.web.core.windows.net,n/a,https://x.com/harugasumi/status/2065013660502954072
 2026-06-11,tweetfeed,URL,http://enjoymemes.com,n/a,https://x.com/smica83/status/2065015647789097278
 2026-06-11,tweetfeed,URL,https://zh-pandaplus.com/IobLBkhn/,phishing,https://x.com/masaomi346/status/2065019988398973189
-2026-06-04,tweetfeed,DOMAIN,liteaml.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,docusign.mediasoc.icu,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,gredfhh.vip,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,N0.R.B7B435CAF5E43F674C5.jPf.com,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,coinbext.xin,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,laonasj-1422102728.cos.ap-hongkong.myqcloud.com,n/a,n/a
+2026-06-11,tweetfeed,URL,https://costumes-met-zum-refinance.trycloudflare.com,opendir,https://x.com/smica83/status/2065030367979958438
+2026-06-11,tweetfeed,URL,https://excellence-analyze-experiment-installing.trycloudflare.com,opendir,https://x.com/smica83/status/2065030655214317842
+2026-06-11,tweetfeed,URL,https://premiere-sunday-citizens-afford.trycloudflare.com/jon/,opendir,https://x.com/smica83/status/2065031023402824046
+2026-06-11,tweetfeed,URL,http://prism-tech.cfd,n/a,https://x.com/smica83/status/2065032470123213054
+2026-06-11,tweetfeed,URL,http://bokphotguest.pro,"booking, phishing",https://x.com/skocherhan/status/2065042580002197844
 2026-06-04,tweetfeed,DOMAIN,yuvarajsadam.github.io,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,gov-parkingel.shop,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,npm.clickcdn01.net,n/a,n/a
@@ -6752,13 +6726,11 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,DOMAIN,sucewuni.z13.web.core.windows.net,n/a,https://x.com/harugasumi/status/2065013660502954072
 2026-06-11,tweetfeed,DOMAIN,enjoymemes.com,n/a,https://x.com/smica83/status/2065015647789097278
 2026-06-11,tweetfeed,DOMAIN,zh-pandaplus.com,phishing,https://x.com/masaomi346/status/2065019988398973189
-2026-06-04,tweetfeed,IP,190.123.46.53,n/a,n/a
-2026-06-04,tweetfeed,HASH_SHA256,8ccf35d9c928b99cd5d13cd3d1f2acd93712484eb1c72089bc30554a18748f4d,n/a,n/a
-2026-06-04,tweetfeed,HASH_SHA256,33a831d2f203720e338984127b93185537592f22a7c0303f3e966828f26d68fe,n/a,n/a
-2026-06-04,tweetfeed,HASH_SHA256,f4d85aaa2236a70daa016853c754f0a3378f4873f8d10047b890580a328f6d07,n/a,n/a
-2026-06-04,tweetfeed,HASH_SHA256,21cf7a17569852a7a4c93ea9faf1478b0a08b9695acf56f10d597e86cac8aed9,n/a,n/a
-2026-06-04,tweetfeed,IP,43.128.26.132,n/a,n/a
-2026-06-04,tweetfeed,HASH_SHA256,e5a5f76a2176371dc4e354a3aba5bbb552ed7d97601f66a705ca307c6e6b1c44,n/a,n/a
+2026-06-11,tweetfeed,DOMAIN,costumes-met-zum-refinance.trycloudflare.com,opendir,https://x.com/smica83/status/2065030367979958438
+2026-06-11,tweetfeed,DOMAIN,excellence-analyze-experiment-installing.trycloudflare.com,opendir,https://x.com/smica83/status/2065030655214317842
+2026-06-11,tweetfeed,DOMAIN,premiere-sunday-citizens-afford.trycloudflare.com,opendir,https://x.com/smica83/status/2065031023402824046
+2026-06-11,tweetfeed,DOMAIN,prism-tech.cfd,n/a,https://x.com/smica83/status/2065032470123213054
+2026-06-11,tweetfeed,DOMAIN,bokphotguest.pro,"booking, phishing",https://x.com/skocherhan/status/2065042580002197844
 2026-06-04,tweetfeed,HASH_SHA256,9be8f2be7ad882e8423c269a0540b7c73d6470311ddfcfcd318ff9d1983e2935,n/a,n/a
 2026-06-04,tweetfeed,IP,85.17.55.137,n/a,n/a
 2026-06-04,tweetfeed,HASH_SHA256,5461b4b0787d198c8eb6271b15741efdfd379b40b01b2adf6f1a6967e80638fe,n/a,n/a
@@ -7089,7 +7061,7 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,HASH_SHA256,9e514a2edc365a832771c67c6e37d72c2c31733183da40f8940cccc115371be0,n/a,https://x.com/smica83/status/2065011640467103773
 2026-06-11,tweetfeed,HASH_SHA256,258e579ba8eba614c77a415a4d68ef9a0b17917e4a9df8acafba9d935e49a434,n/a,https://x.com/smica83/status/2065012804264894817
 2026-06-11,tweetfeed,HASH_SHA256,46a8114e2ab0e120ffa4f1a9f8ef42a558d58cb641f8973a6f039ec5a6b92168,n/a,https://x.com/smica83/status/2065015647789097278
-2026-06-04,tweetfeed,HASH_MD5,c430ca535e54fb67a0a927c10cc0b0c2,n/a,n/a
+2026-06-11,tweetfeed,HASH_SHA256,ab765ac116a1950b9f60afcc2758aee5e78d8b13ace7f2b9769a3d272198fc5b,n/a,https://x.com/smica83/status/2065032470123213054
 2026-06-04,tweetfeed,HASH_MD5,634cc3b70c1ce977c70ed99cbe3ed6fc,n/a,n/a
 2026-06-04,tweetfeed,HASH_MD5,11b81750c87168ff3e96f1228f86e031,n/a,n/a
 2026-06-05,tweetfeed,HASH_MD5,8f47e37adf81c7a998af5f5fe32aa541,n/a,n/a
