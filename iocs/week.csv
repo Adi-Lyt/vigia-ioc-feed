@@ -5,13 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-04,threatfox,URL,http://45.202.249.34/dck,"elf.mirai, url",n/a
-2026-06-04,threatfox,URL,http://185.228.26.16/azsxd.arm6,"unknown, url",n/a
-2026-06-04,threatfox,URL,http://185.228.26.16/azsxd.arm7,"unknown, url",n/a
-2026-06-04,threatfox,URL,http://185.228.26.16/azsxd.arm5,"unknown, url",n/a
-2026-06-04,threatfox,URL,http://185.228.26.16/azsxd.mips,"unknown, url",n/a
-2026-06-04,threatfox,URL,http://185.228.26.16/azsxd.x86,"unknown, url",n/a
-2026-06-04,threatfox,URL,http://185.228.26.16/azsxd.mpsl,"unknown, url",n/a
 2026-06-04,threatfox,URL,https://wittylama.com/Stub.exe,"win.asyncrat, url",n/a
 2026-06-04,threatfox,URL,https://elo.canamrent.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://elo.dvlv88.top/,"win.vidar, url",n/a
@@ -406,38 +399,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,https://github.com/hothehottest/Recaptcha-2/releases/download/Recaptcha-2/boost.zip,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://ghukonhgf.com/api/,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://sup.gasturbo88.top/,"win.vidar, url",n/a
-2026-06-04,threatfox,DOMAIN,ty7zctpt.bet303casino.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,3z2a3kyo.bet303casino.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,wezdgtt.betistcomgiris.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,betistcomgiris.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,cxgbphg.betgopro.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,5qynbyjl4u6vbtnmpokslaxaknyicdvty7vn2qgxmaty3lb7wwxpkbid.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,diyr2bnty7iktyxfd4kz65uigcfappjvux73dpgkkeocp3fmlgnuzyyd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,e7a6zgqfijn2ko6lzkz53tysjpnf22fxj4h2f3saufrmsts5pbul5eid.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,yxwomyfmexm3bfcuumnugrzwluol5qwsw6pmne7jklgmzthkp35l2jqd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,etus2tmakckdlkyjpevoyciuao7er5fj3qm26aev3nch4fusptefiayd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,csxilwnl7orv6rwfjen5ye3tefk5shjtr4tysuykgxjsyngpvoqrvbid.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,psvrn6ahevi6dgf55bzc26q3gjc7s6n7vcth34rmkl2y7e7dijhjfiqd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,xsomiaq5awxh3zkzn334s3dgwuvngy6z2to7265exgovnkwk66hjypid.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,m3wwhkus4dxbnxbtihexlyd2cv63qrvex6jiebc4vqe22kg2z3udebid.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,glheoet37vdimgho57tqj76v7fnebnbqxn65bounxyt6hduilkso4yyd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,aw6wb6lmqbtp5po7qrmvmujulbxw4eeeolpg3byva2bgoj44psdugmid.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,mejouwrwja4iou7myj34rqi7cixyhn7vsa42e2n2dhxzc5mmkiaki3yd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,ltxnzpfvmr3c3rcbw5x4q2ejy6fmbp7kc35oql3gooyydg7belfmnyad.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,3fg2gfwrdks46drwvejpgpak5klrflclsjjo35dxtqfk3poeez6oezad.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,emdnfl2fv32jhssxcbxlo6dzg2at4d7qbw2md6inz63qzdfgyln5cwyd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,a4vbe7yp4kluped6khuhpr5nmzshiimx2jt5j22ozriiq6ngsm3fcpyd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,x3nb7qcygpem2j5xzstyzdtgzofzkwkx4eko3ug4r73i6uhcgvyffjyd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,3frnhzcnlkjnw5q3tm6elzizinm2k3bmrtf2xwqjzpcxzeqwn2tv6wyd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,6ft2dfh26wm3w44orpjcgviutvfp25ez2iyh5ego5egvfmifrws7vvqd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,zijgmuqjzb6dc7pofxhtaiz36qqyg35lhutybmzaz6whzgei2casjgid.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,inzk64xcf3sm6qzkehmio7piwhkslhnab3rlviniyg7alcgsxvy7kcyd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,upiqcdsgvh6v5owteasjzyxbj2xug574dj4fctthehd7zjq7wmuxbwqd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,psv5ejeysrncs6ltu4pkjyazswcmw3atmxi4eg44a6luudin5ufchcqd.onion,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,bijmduj.betforward.now,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,betforward.now,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,betfoot.bet,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,adwordsnetwork.com,"win.zloader, domain",n/a
 2026-06-04,threatfox,DOMAIN,bkbopol.betlikegirisi.com,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,betlikegirisi.com,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,hsh1serverboarding.xyz,"unknown_rat, domain",n/a
@@ -2435,10 +2396,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,sup.gasturbo88.top,"win.vidar, domain",n/a
 2026-06-11,threatfox,DOMAIN,rjwfiwgjr.defamogadas.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,kuonnjkj.masirpayambari.xyz,"js.clearfake, domain",n/a
-2026-06-04,tweetfeed,URL,http://dynamichorizon.app,n/a,n/a
-2026-06-04,tweetfeed,URL,http://31.76.93.69,n/a,n/a
-2026-06-04,tweetfeed,URL,https://promopixel.pt/1/,n/a,n/a
-2026-06-04,tweetfeed,URL,https://tectaproje.com/og/int/,n/a,n/a
 2026-06-04,tweetfeed,URL,http://320719696cc72dc167c60c19e9589b12.soraris.cloud/?45NVN=45VBV,n/a,n/a
 2026-06-04,tweetfeed,URL,http://users-word-presscom-signin.sms-srl.eu,n/a,n/a
 2026-06-04,tweetfeed,URL,https://storage.cloud.google.com/maintainancecomponeta.appspot.com/webappindex.html#example@example.com,n/a,n/a
@@ -4105,10 +4062,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,HASH_SHA256,07353da1a94a7dc214947fc35f134452b4dba8a6ae81464328d9cf0d1cedc6ba,"unknown, sha256_hash",n/a
 2026-06-11,threatfox,HASH_SHA256,bbc8da2cceb3a174e2b0df87bc43c54d3cf3edadb585658bb65517c8f88249b8,"unknown, sha256_hash",n/a
 2026-06-11,tweetfeed,URL,https://gmxla.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2064950800791589019
-2026-06-04,tweetfeed,DOMAIN,dynamichorizon.app,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,promopixel.pt,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,tectaproje.com,n/a,n/a
-2026-06-04,threatfox,HASH_MD5,523c501118ef5d7957ce54aee86d9b1d,"unknown, md5_hash",n/a
 2026-06-04,tweetfeed,DOMAIN,320719696cc72dc167c60c19e9589b12.soraris.cloud,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,users-word-presscom-signin.sms-srl.eu,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,storage.cloud.google.com,n/a,n/a
@@ -5329,7 +5282,6 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,DOMAIN,zh-tv-aitiyu.com,phishing,https://x.com/masaomi346/status/2064916239781343626
 2026-06-11,tweetfeed,DOMAIN,telstrafgdfghjkfguh.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2064920599420338677
 2026-06-11,tweetfeed,DOMAIN,gmxla.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2064950800791589019
-2026-06-04,tweetfeed,IP,31.76.93.69,n/a,n/a
 2026-06-04,tweetfeed,IP,31.59.20.176,n/a,n/a
 2026-06-04,tweetfeed,IP,72.10.171.250,n/a,n/a
 2026-06-04,tweetfeed,IP,190.123.46.53,n/a,n/a
