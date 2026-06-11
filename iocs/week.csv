@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-04,threatfox,URL,https://wittylama.com/Stub.exe,"win.asyncrat, url",n/a
 2026-06-04,threatfox,URL,https://elo.canamrent.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://elo.dvlv88.top/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://rueckec.lol/file.js,"js.kongtuke, url",n/a
@@ -400,11 +399,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,https://ghukonhgf.com/api/,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://sup.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,http://154.198.50.76:8080/upload,"unknown, url",n/a
-2026-06-04,threatfox,DOMAIN,msedgewebview7.com,"win.netsupportmanager_rat, domain",n/a
-2026-06-04,threatfox,DOMAIN,t7gjz81d.bet360pro.bet,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,ug5x33qq.bet360pro.bet,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,cmzgymj.betobet90.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,tfx-test-1780560802405.xyz,"unknown, domain",n/a
 2026-06-04,threatfox,DOMAIN,kfvgvcb.betrophy90.com,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,swmzey.3sefr3.ir,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,ffeqlui.betrayon.casino,"js.clearfake, domain",n/a
@@ -2409,23 +2403,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,cqshazxp.neural-atlas.digital,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,juakvinjpo34.xyz,"unknown_loader, domain",n/a
 2026-06-11,threatfox,DOMAIN,hypervisorresourcecontroller.wiki,"js.clearfake, domain",n/a
-2026-06-04,tweetfeed,URL,http://cpanel.site/inv/,n/a,n/a
-2026-06-04,tweetfeed,URL,http://149.50.98.23,n/a,n/a
-2026-06-04,tweetfeed,URL,http://31.59.20.176,n/a,n/a
-2026-06-04,tweetfeed,URL,http://72.10.171.250,n/a,n/a
-2026-06-04,tweetfeed,URL,http://posthq.co,n/a,n/a
-2026-06-04,tweetfeed,URL,http://mailnex.co,n/a,n/a
-2026-06-04,tweetfeed,URL,http://linxecp.co,n/a,n/a
-2026-06-04,tweetfeed,URL,http://sendcue.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://nexapost.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://sendvio.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://beacontx.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://patrived.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://hcmsg.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://trmtx.online,n/a,n/a
-2026-06-04,tweetfeed,URL,http://postrio.site,n/a,n/a
-2026-06-04,tweetfeed,URL,http://timxte.site,n/a,n/a
-2026-06-04,tweetfeed,URL,http://medmsg.site,n/a,n/a
 2026-06-04,tweetfeed,URL,https://www.fd3986.com/lawson,n/a,n/a
 2026-06-04,tweetfeed,URL,https://roblox.com.ge/communities/5661312227/Great-Empire,n/a,n/a
 2026-06-04,tweetfeed,URL,http://liteaml.online,n/a,n/a
@@ -4086,19 +4063,6 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,URL,http://public.mexc.co.com,n/a,https://x.com/500mk500/status/2064986662095011976
 2026-06-11,tweetfeed,URL,https://aicopmtrade.click,phishing,https://x.com/PhishStats/status/2064990976976855111
 2026-06-11,tweetfeed,URL,http://64.89.162.159,n/a,https://x.com/malwrhunterteam/status/2064997548629111100
-2026-06-04,tweetfeed,DOMAIN,posthq.co,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,mailnex.co,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,linxecp.co,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,sendcue.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,nexapost.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,sendvio.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,beacontx.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,patrived.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,hcmsg.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,trmtx.online,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,postrio.site,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,timxte.site,n/a,n/a
-2026-06-04,tweetfeed,DOMAIN,medmsg.site,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,fd3986.com,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,roblox.com.ge,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,liteaml.online,n/a,n/a
@@ -5311,8 +5275,6 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,DOMAIN,color.imbyter.com,n/a,https://x.com/500mk500/status/2064986662095011976
 2026-06-11,tweetfeed,DOMAIN,public.mexc.co.com,n/a,https://x.com/500mk500/status/2064986662095011976
 2026-06-11,tweetfeed,DOMAIN,aicopmtrade.click,phishing,https://x.com/PhishStats/status/2064990976976855111
-2026-06-04,tweetfeed,IP,31.59.20.176,n/a,n/a
-2026-06-04,tweetfeed,IP,72.10.171.250,n/a,n/a
 2026-06-04,tweetfeed,IP,190.123.46.53,n/a,n/a
 2026-06-04,tweetfeed,HASH_SHA256,8ccf35d9c928b99cd5d13cd3d1f2acd93712484eb1c72089bc30554a18748f4d,n/a,n/a
 2026-06-04,tweetfeed,HASH_SHA256,33a831d2f203720e338984127b93185537592f22a7c0303f3e966828f26d68fe,n/a,n/a
