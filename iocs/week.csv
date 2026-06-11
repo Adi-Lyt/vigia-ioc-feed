@@ -5,10 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-04,threatfox,URL,https://fluffynoodle.xyz/ash,"unknown, url",n/a
-2026-06-04,threatfox,URL,https://tiixeira.lol/m,"js.kongtuke, url",n/a
-2026-06-04,threatfox,URL,https://dot.dvlv88.top/,"win.vidar, url",n/a
-2026-06-04,threatfox,URL,https://dot.canamrent.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://xmm.canamrent.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://xmm.dvlv88.top/,"win.vidar, url",n/a
 2026-06-05,threatfox,URL,https://xmm.evosm188.top/,"win.vidar, url",n/a
@@ -400,14 +396,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,http://104.234.18.91:3001/ws,"unknown, url",n/a
 2026-06-11,threatfox,URL,http://104.234.18.91:3001/api/upload,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://ox3.gasturbo88.top/,"win.vidar, url",n/a
-2026-06-04,threatfox,DOMAIN,tiixeira.lol,"js.kongtuke, domain",n/a
-2026-06-04,threatfox,DOMAIN,ldkrhyp.emshab.bet,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,dot.canamrent.com,"win.vidar, domain",n/a
-2026-06-04,threatfox,DOMAIN,dot.dvlv88.top,"win.vidar, domain",n/a
-2026-06-04,threatfox,DOMAIN,ex7gv4y7.bet90land.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,jj5czewc.bet90land.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,atnvjyj.emroze.bet,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,emroze.bet,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,wvvbpwt.enfejar.game,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,enfejar.game,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,jswnqpn.enfejarbazii.bet,"js.clearfake, domain",n/a
@@ -3851,33 +3839,9 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,rlpxurgo.qurandownload.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,nibfzvsq.hugugbime.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,ox3.gasturbo88.top,"win.vidar, domain",n/a
-2026-06-04,threatfox,HASH_SHA256,e0af88c9b1278d91a30f651ba3a0e77419c010de662dd6b5b86c1d8415093bc4,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,213d841404449d68dd9f50c18f7259074c43df2fd5221f0bbd34d2e89b611b73,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,7e160f885fe15d7f5b67e3d321c1bd8240a63bb80c8156f604829f0cbadba313,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,85dfef0c1b65ee9eb213ea830e0a78d471872e947e1924e90365d29cdeb64c10,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,33e78a25233a88b3ac6fd6fbe4b42b0e047a89736fd9b089628ab60b29c4dd9a,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,bed1028badee2ade8a8a8edd25aa4c3e70a6beefafbdffd6426e5e467f24eb01,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,0d81cab9f7ca5ac7c201c4917dfc7beee2ea6ea5fd9f0b23e7b088f084cda92c,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,f22a7dd6e64dafabcbc35cb9d56abc38392e228d7beef8ed2e71727099c31a80,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,3922ac9a1588e0d9d5946e71d95d065cc3cf64e776d792b105981e23220d096f,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,2c1118dd50e8501345eb3d04cd1e07eda41668e7f4379d9958405d3be6bfc45d,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,150e66931f7218cc66418cd5f80b412343574a7f8c63ecf20e6eab3efaaee1d1,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,2cd017872d8b04b1b36e832f88cc1976492ccf5e8acea19d82af69b2c3cbe47f,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,ddc089db76d5e0419e1f7d3777d2227df3a5cc4b55ea33f9616863cccad3c89f,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,7f5291e4b0b175d29df2221e56185abf4f8fefc839b8cd71792b4e7b20b529e4,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,274d7502c60c6f91a4e4c083cbdf03df21a7f25079c3f92b9587740a1a274de0,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,28472632ef7c1673383da89b54fb15ac46cb36ca0664f2affc7df4d5449ea590,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,e58184b737ba26eb64c827eb3ce66a6d715903fa8dea340daca3830688f6817e,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,388244583d42ba76bf6270981ddc7459f5d1a9f54acfda4efc1eed475b50a8b7,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,4fbd2f5b4625fa46b5706748dbb15d3f58fbeda723fc644d0db9174a78cbade1,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,e8e0df835a3bedb6457ce71f4b114c01c2f4edf1d6332d224921bad5845755b7,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,5df07f2b3ddae4b24d05926167a4a5968e2748efe744e4600f968be9abd293a2,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,74adb88130f4864b40118bc65eaf73dc23c31835254bf25465be7c4a76fa2882,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,32b84d2fa205ed7c92f85c45bed6a1607004d3d75f939d343913d19f007d0506,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,4b7be7782072c15a5f8e8672dee3b24864c913742e1a4b552f03aef2ed3b68c9,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,73b1bd6d589d5b4c752e380a5c9439d06d53d2b8a192fb20a9464662633b7b09,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,15cad7d81512892146c840e74150f311907f99d2758eaf3977400b9092255c53,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,381fcd4c4eef057ea509fa27a645fb7138a92317c3b21f5c5425c4cbdca122b8,"unknown, sha256_hash",n/a
+2026-06-11,threatfox,DOMAIN,nkxkhfp.bet303.app,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,hlgwrpbh.mechanicsayalat.xyz,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,ffynigbdr.barnamenevisi.xyz,"js.clearfake, domain",n/a
 2026-06-04,tweetfeed,URL,https://junjiredteam.weebly.com,n/a,n/a
 2026-06-04,tweetfeed,URL,https://dralexandrecoura.com.br/ups/cuh.vbs,n/a,n/a
 2026-06-04,tweetfeed,URL,https://github.com/dcm-m2/m1n-26/raw/main/m1n.zip,n/a,n/a
@@ -5493,6 +5457,9 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,URL,https://bit.ly/3Z4rMin,"phishing, scam",https://x.com/urldna_bot/status/2065101799875342529
 2026-06-11,threatfox,HASH_SHA256,ce9690621c9311446bcf61ec40498a98f8c1b775185064f6dc321d72fafb468d,"unknown, sha256_hash",n/a
 2026-06-11,threatfox,HASH_SHA256,8de1ce72b4efd1d4ca0841d79a1fcea463fd8fa84579fe743f58eb6205ccce76,"unknown, sha256_hash",n/a
+2026-06-11,threatfox,HASH_SHA256,7e49b00bef718eb7e3645d8705e6521b011f66d10f06201e209a8a0511abc81a,"win.pure_rat, sha256_hash",n/a
+2026-06-11,threatfox,HASH_SHA256,b50a05e38e9d04fd5c4dac4f29850649a77bb3ae443639206c908058e45593eb,"win.pure_rat, sha256_hash",n/a
+2026-06-11,threatfox,HASH_SHA256,a05254840b45fcbfd12d09fd416ca860e2cfcab793f4780fa8f138b8f7a86aab,"win.pure_rat, sha256_hash",n/a
 2026-06-04,tweetfeed,DOMAIN,junjiredteam.weebly.com,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,nidlogin.apollo.r-e.kr,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,xn--nidlogin-2p3d.apollo.r-e.kr,n/a,n/a
@@ -7009,6 +6976,8 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,IP,172.86.116.178,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,IP,193.124.33.71,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,HASH_SHA256,ddde450cd41e7b56a6865cca887dae6e2bf00fd924d9096ec9cff487496eab0d,n/a,https://x.com/kaganisildak/status/2065046480369397813
+2026-06-11,tweetfeed,HASH_SHA256,d0e79fd039575862664fdfaeb700fe49b458f51d3b48a8bbd85c67d780befda9,n/a,https://x.com/smica83/status/2065127091423654117
+2026-06-11,tweetfeed,HASH_SHA256,05e7268abaa6c4c73d3d2db1fd5c9d79e7dd69372a124246096b2eca1afede1b,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
 2026-06-04,tweetfeed,HASH_MD5,634cc3b70c1ce977c70ed99cbe3ed6fc,n/a,n/a
 2026-06-04,tweetfeed,HASH_MD5,11b81750c87168ff3e96f1228f86e031,n/a,n/a
 2026-06-05,tweetfeed,HASH_MD5,8f47e37adf81c7a998af5f5fe32aa541,n/a,n/a
@@ -7060,3 +7029,4 @@ date,user,type,ioc,tags,context
 2026-06-10,tweetfeed,HASH_MD5,0c23ac85df1e4ab31c23cfa251ab9449,"APT, malware",https://x.com/phatomcandle/status/2064769581449916716
 2026-06-10,tweetfeed,HASH_MD5,8e15c4d4f71bdd9dbc48cd2cabc87806,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,HASH_MD5,29f16ac2cc3fcf319079557aa787e158,GuLoader,https://x.com/skocherhan/status/2064829009653887055
+2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
