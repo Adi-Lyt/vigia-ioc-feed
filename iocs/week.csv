@@ -5,11 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
-2026-06-04,threatfox,URL,https://cosmostars.shop/api/index.php?a=dl&token=8caaf953d89478b8a7191eb32295c117a310b53ac9059d4ad69a1e397ec3b2d4&rv=17ff1b3d94f9144973b09f8064ba72f3&src=www.morecroft.co.nz&mode=cloudflare,"unknown, url",n/a
-2026-06-04,threatfox,URL,http://85.239.149.78:6600/p5m4i979/putty_c4078a0a07f68cb6.msi,"unknown, url",n/a
-2026-06-04,threatfox,URL,http://85.239.149.78/l6WwkWNj5hC2qDlgLI,"unknown, url",n/a
-2026-06-04,threatfox,URL,https://second-confirmation.top/m,"unknown, url",n/a
-2026-06-04,threatfox,URL,https://jobsforteenshq.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://set.canamrental.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://set.dvlv88.top/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,http://45.202.249.34/dck,"elf.mirai, url",n/a
@@ -407,22 +402,6 @@ date,user,type,ioc,tags,context
 2026-06-10,threatfox,URL,https://kik.gagahsm188.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://bat.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://bat.gagahsm188.top/,"win.vidar, url",n/a
-2026-06-04,threatfox,DOMAIN,mineral-considerable.with.playit.plus,"unknown_rat, domain",n/a
-2026-06-04,threatfox,DOMAIN,gud6pt4u.bet212.casino,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,bet212.casino,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,jfbrxii.enf90.app,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,sopa1805.duckdns.org,"elf.mirai, domain",n/a
-2026-06-04,threatfox,DOMAIN,biddulphmuseum.com,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,90g90.com,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,uuti.biddulphmuseum.com,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,asiudasoidu.90g90.com,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,cosmostars.shop,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,geminicii.co.com,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,modernanchorengine.com,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,brixhub.net,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,ssh.spider-net.cc,"unknown, domain",n/a
-2026-06-04,threatfox,DOMAIN,tegbxmn.betebetwin.com,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,zqhnvn.303-bet.xyz,"js.clearfake, domain",n/a
 2026-06-04,"threatfox,tweetfeed",DOMAIN,surveillance.1qq.cam,"win.remcos, domain",n/a
 2026-06-04,threatfox,DOMAIN,contact.Fun88kyc.com,"win.quasar_rat, domain",n/a
 2026-06-04,threatfox,DOMAIN,contact.hitclub.ac,"win.quasar_rat, domain",n/a
@@ -2471,16 +2450,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,mocauhxe.mabanishimi.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,iznukhb.hesabdari2.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,zo4t1q36.moarefeslami.xyz,"js.clearfake, domain",n/a
-2026-06-04,threatfox,HASH_SHA256,e30a11906aadffc1682a1b07934301c6b68b854c9979bc64fd65152a349ed59f,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,bf5eea26587860faa25bbff99fb0a02e434d561a28a9675c29494653ade366b0,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,601f4ae850e192bc76300f3851f4b421ba2e05313cb3f1ace0a0c98301e237bb,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,4af29f1dc5cacc56d2e84ba3538cb54983b71d4fe27af44c8c00dddcbd45be49,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,dabb2cfc1da018ac3b4fd5f60f9c5e2ca096319cb67dd904ed7df7392f3d6d00,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,049409e0f3b42355a44d1e3071da71526bae92dad9e0d70b5f3b91680f08275b,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,18e4b37eb34c38d7d5a0a1cdec0074f14bfc189b0493c4bc18c287fc09d0e1c3,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,966266fa8645650be30a6f2f38a40426251f3930a0ccbc4fd307d09cf31de736,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,fdbcff609beb437cc8c944c88e101b85a6ec0d592a9afe1c4dc6ef040e7518bd,"unknown, sha256_hash",n/a
-2026-06-04,threatfox,HASH_SHA256,06e395ff22a7d11297168375628f446b8e11b7cf8ab5ee2a82ab8de1bc6faf5a,"unknown, sha256_hash",n/a
 2026-06-04,tweetfeed,URL,http://85.192.38.178,n/a,n/a
 2026-06-04,tweetfeed,URL,http://login.htzctech.com/anapoint?_t=nypqG7fOszdvlhyE0cJIl5gC2nwismLp7nOxJH7_n1Y#/home,n/a,n/a
 2026-06-04,tweetfeed,URL,https://rallysteelworks.ae,n/a,n/a
@@ -4145,8 +4114,6 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,URL,http://www.edmundlbc.com/softwobe/servcio/,"phishing, scam",https://x.com/urldna_bot/status/2064890399278223692
 2026-06-11,tweetfeed,URL,https://zh-tv-aitiyu.com/mWAJVFKD/,phishing,https://x.com/masaomi346/status/2064916239781343626
 2026-06-11,tweetfeed,URL,https://telstrafgdfghjkfguh.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2064920599420338677
-2026-06-04,threatfox,HASH_MD5,40279ce4de656aada27374a03062264c,"unknown, md5_hash",n/a
-2026-06-04,threatfox,HASH_MD5,9291df53e16c7351e275c0e0b4a8a9ba,"unknown, md5_hash",n/a
 2026-06-04,tweetfeed,DOMAIN,login.htzctech.com,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,rallysteelworks.ae,n/a,n/a
 2026-06-04,threatfox,HASH_MD5,448f1796fe8de02194b21c0715e0a5f6,"unknown, md5_hash",n/a
