@@ -5,6 +5,7 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
+2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
 2026-06-04,threatfox,URL,https://xmm.canamrent.com/,"win.vidar, url",n/a
 2026-06-04,threatfox,URL,https://xmm.dvlv88.top/,"win.vidar, url",n/a
 2026-06-05,threatfox,URL,https://xmm.evosm188.top/,"win.vidar, url",n/a
@@ -396,9 +397,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,http://104.234.18.91:3001/ws,"unknown, url",n/a
 2026-06-11,threatfox,URL,http://104.234.18.91:3001/api/upload,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://ox3.gasturbo88.top/,"win.vidar, url",n/a
-2026-06-04,threatfox,DOMAIN,wvvbpwt.enfejar.game,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,enfejar.game,"js.clearfake, domain",n/a
-2026-06-04,threatfox,DOMAIN,jswnqpn.enfejarbazii.bet,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,bfdibp.dahdahtoys.com,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,kihjmjx.enobahis.co,"js.clearfake, domain",n/a
 2026-06-04,threatfox,DOMAIN,5ay2qa01.electriccrash.bet,"js.clearfake, domain",n/a
@@ -3842,7 +3840,10 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,nkxkhfp.bet303.app,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,hlgwrpbh.mechanicsayalat.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,ffynigbdr.barnamenevisi.xyz,"js.clearfake, domain",n/a
-2026-06-04,tweetfeed,URL,https://junjiredteam.weebly.com,n/a,n/a
+2026-06-11,threatfox,DOMAIN,kaiojocv.masirpayambari.xyz,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,933anmoo.azmoonhayeravani.shop,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,ljj8nzo0.ravansalamat.shop,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,f7a20n5o.ravansalamat.shop,"js.clearfake, domain",n/a
 2026-06-04,tweetfeed,URL,https://dralexandrecoura.com.br/ups/cuh.vbs,n/a,n/a
 2026-06-04,tweetfeed,URL,https://github.com/dcm-m2/m1n-26/raw/main/m1n.zip,n/a,n/a
 2026-06-04,tweetfeed,URL,http://nidlogin.apollo.r-e.kr,n/a,n/a
@@ -5460,7 +5461,9 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,HASH_SHA256,7e49b00bef718eb7e3645d8705e6521b011f66d10f06201e209a8a0511abc81a,"win.pure_rat, sha256_hash",n/a
 2026-06-11,threatfox,HASH_SHA256,b50a05e38e9d04fd5c4dac4f29850649a77bb3ae443639206c908058e45593eb,"win.pure_rat, sha256_hash",n/a
 2026-06-11,threatfox,HASH_SHA256,a05254840b45fcbfd12d09fd416ca860e2cfcab793f4780fa8f138b8f7a86aab,"win.pure_rat, sha256_hash",n/a
-2026-06-04,tweetfeed,DOMAIN,junjiredteam.weebly.com,n/a,n/a
+2026-06-11,tweetfeed,URL,http://miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
+2026-06-11,tweetfeed,URL,https://132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
+2026-06-11,tweetfeed,URL,http://suppcentersa.com,ransomware,https://x.com/TMRansomMon/status/2065140026690732337
 2026-06-04,tweetfeed,DOMAIN,nidlogin.apollo.r-e.kr,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,xn--nidlogin-2p3d.apollo.r-e.kr,n/a,n/a
 2026-06-04,tweetfeed,DOMAIN,idlogin.apollo.r-e.kr,n/a,n/a
@@ -6659,7 +6662,9 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,DOMAIN,mohdshadav.github.io,"phishing, scam",https://x.com/urldna_bot/status/2065041423057961145
 2026-06-11,tweetfeed,DOMAIN,updatedriver.py,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,DOMAIN,benutzernamecube.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065071606624297012
-2026-06-04,tweetfeed,HASH_SHA256,277a61ad26ec83aee8ee65169b431afc48220e7988e09971a3dc71723a9497c8,n/a,n/a
+2026-06-11,tweetfeed,DOMAIN,miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
+2026-06-11,tweetfeed,DOMAIN,132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
+2026-06-11,tweetfeed,DOMAIN,suppcentersa.com,ransomware,https://x.com/TMRansomMon/status/2065140026690732337
 2026-06-04,tweetfeed,HASH_SHA256,789273b95511d20d09d089703d3276297ca66f6278ed9b22f053424710218cad,n/a,n/a
 2026-06-04,tweetfeed,IP,1.220.19.204,n/a,n/a
 2026-06-04,tweetfeed,IP,110.40.135.215,n/a,n/a
@@ -6978,7 +6983,6 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,HASH_SHA256,ddde450cd41e7b56a6865cca887dae6e2bf00fd924d9096ec9cff487496eab0d,n/a,https://x.com/kaganisildak/status/2065046480369397813
 2026-06-11,tweetfeed,HASH_SHA256,d0e79fd039575862664fdfaeb700fe49b458f51d3b48a8bbd85c67d780befda9,n/a,https://x.com/smica83/status/2065127091423654117
 2026-06-11,tweetfeed,HASH_SHA256,05e7268abaa6c4c73d3d2db1fd5c9d79e7dd69372a124246096b2eca1afede1b,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
-2026-06-04,tweetfeed,HASH_MD5,634cc3b70c1ce977c70ed99cbe3ed6fc,n/a,n/a
 2026-06-04,tweetfeed,HASH_MD5,11b81750c87168ff3e96f1228f86e031,n/a,n/a
 2026-06-05,tweetfeed,HASH_MD5,8f47e37adf81c7a998af5f5fe32aa541,n/a,n/a
 2026-06-05,tweetfeed,HASH_MD5,933d70ccf35b0784ae4e997417dfd03a,n/a,n/a
