@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
-2026-06-10,threatfox,URL,https://kik.glamisdunesrentals.com/,"win.vidar, url",n/a
-2026-06-10,threatfox,URL,https://kik.gagahsm188.top/,"win.vidar, url",n/a
+2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
 2026-06-11,threatfox,URL,https://bat.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://bat.gagahsm188.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,http://151.243.18.28/4940cc4b5ddb4a2bb8f8.php,"win.stealc, url",n/a
@@ -27,17 +26,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,http://104.234.18.91:3001/ws,"unknown, url",n/a
 2026-06-11,threatfox,URL,http://104.234.18.91:3001/api/upload,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://ox3.gasturbo88.top/,"win.vidar, url",n/a
-2026-06-10,threatfox,DOMAIN,ivyyokmi.hugugdaryayi.xyz,"js.clearfake, domain",n/a
-2026-06-10,threatfox,DOMAIN,7m9gr5qr.anodaz.co,"js.clearfake, domain",n/a
-2026-06-10,threatfox,DOMAIN,mirqics.hesabdariosmani.xyz,"js.clearfake, domain",n/a
-2026-06-10,threatfox,DOMAIN,getbrowseronline.com,"unknown, domain",n/a
-2026-06-10,threatfox,DOMAIN,autoupdateing.com,"unknown, domain",n/a
-2026-06-10,threatfox,DOMAIN,fastonlineupdate.com,"unknown, domain",n/a
-2026-06-10,threatfox,DOMAIN,getupdatefast.com,"unknown, domain",n/a
-2026-06-10,threatfox,DOMAIN,herxydns.hugugbime.xyz,"js.clearfake, domain",n/a
-2026-06-10,threatfox,DOMAIN,kik.glamisdunesrentals.com,"win.vidar, domain",n/a
-2026-06-10,threatfox,DOMAIN,kik.gagahsm188.top,"win.vidar, domain",n/a
-2026-06-10,threatfox,DOMAIN,5wtpqrho.azmoondadrasi.xyz,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,1364170351-5ezc7c8ssf.ap-guangzhou.tencentscf.com,"win.cobalt_strike, domain",n/a
 2026-06-10,threatfox,DOMAIN,uywdaxpat.bookdrive.xyz,"js.clearfake, domain",n/a
 2026-06-10,threatfox,DOMAIN,mdsbgax.hesabdaripishrafte.xyz,"js.clearfake, domain",n/a
@@ -1606,76 +1594,10 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,DOMAIN,nkxkhfp.bet303.app,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,hlgwrpbh.mechanicsayalat.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,ffynigbdr.barnamenevisi.xyz,"js.clearfake, domain",n/a
-2026-06-10,tweetfeed,URL,http://161.248.87.10:18888,"C2, CobaltStrike",https://x.com/_IMalihi_/status/2064747807320252780
-2026-06-10,tweetfeed,URL,http://history.berginiya.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--zb0b93vy4i7xc.xn--hk3b17f.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://yesterdom1.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://qudoros1.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://noporado.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://vionera1.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://verginia2.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://verify-files.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://moparams.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--zb0b93vy4i2icrq.xn--2i0b10rqve.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://noramdis.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--hk3b19egzertcwua.xn--oi2b61z32a.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://nooraeso.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://proposalo.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://qoporos.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--c79a052a0ig1se.xn--2i0b10rqve.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://mrasis.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://n-cloud.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--zb0b93v7pcw8l.xn--h32bi4v.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://file-manager.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--9i1bv8kgtcx8lrpd.xn--hk3b17f.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--910b562a6sdnpb.xn--9i1b01onwqqzd.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://opedromos1.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://main.prinitro.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://account.pritersert.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://update.jeonpriter.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--9i1bx6qo0gyns.xn--hk3b17f.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--9t4b1dx0f1ye.xn--yq5b.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://rogo.secodners.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://mybox-file.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://neratras2.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://morames.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--on3b25mma.xn--hk3b17f.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://sectra-file.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--xj2b562c.xn--9i1b01onwqqzd.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://operasik2.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://chorteo.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://neer.firterswer.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://nero1.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://neimat.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://update.jeonpriter2.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://ostras1.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--oi2bu7yw8h.xn--h32bi4v.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--ej5bu5z.xn--oi2b61z32a.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://nocamoto.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--hk3b2h33ie8e.xn--hu5b25b77nvwc.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://nestros1.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://deta2.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://aeomeio.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://deromopa.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--989az02a0ighoa.xn--h32bi4v.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://secfile-store.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://nolomoro.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://nelocket.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://safety-files.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn--v92b15a00nkoa.xn--hu5b25b77nvwc.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://excepted-comon.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://chol-kor.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://condition-waite.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://vefication-type.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://section-libs.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://home-naite.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://waite-conditions.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn----3u6ew4o10cc3jewp78p.xn--hk3b17f.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://lib-section.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://comon-excepted.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://xn----9r8et18apneseq2ljwd.xn--h32bi4v.xn--3e0b707e,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://login-live.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,URL,http://45.14.246.94,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
+2026-06-11,threatfox,DOMAIN,kaiojocv.masirpayambari.xyz,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,933anmoo.azmoonhayeravani.shop,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,ljj8nzo0.ravansalamat.shop,"js.clearfake, domain",n/a
+2026-06-11,threatfox,DOMAIN,f7a20n5o.ravansalamat.shop,"js.clearfake, domain",n/a
 2026-06-10,tweetfeed,URL,https://docs.google.com/drawings/d/1s0ICISnDi_K98annOIhDoOzk4toB8WSeraYw_DmWwUI/edit,"phishing, scam",https://x.com/urldna_bot/status/2064799799774212248
 2026-06-10,tweetfeed,URL,http://usafitness.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
 2026-06-10,tweetfeed,URL,http://adnnutrition.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
@@ -1741,56 +1663,9 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,HASH_SHA256,7e49b00bef718eb7e3645d8705e6521b011f66d10f06201e209a8a0511abc81a,"win.pure_rat, sha256_hash",n/a
 2026-06-11,threatfox,HASH_SHA256,b50a05e38e9d04fd5c4dac4f29850649a77bb3ae443639206c908058e45593eb,"win.pure_rat, sha256_hash",n/a
 2026-06-11,threatfox,HASH_SHA256,a05254840b45fcbfd12d09fd416ca860e2cfcab793f4780fa8f138b8f7a86aab,"win.pure_rat, sha256_hash",n/a
-2026-06-10,tweetfeed,DOMAIN,history.berginiya.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,yesterdom1.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,qudoros1.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,noporado.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,vionera1.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,verginia2.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,verify-files.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,moparams.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,noramdis.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,nooraeso.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,proposalo.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,qoporos.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,mrasis.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,n-cloud.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,file-manager.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,opedromos1.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,main.prinitro.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,account.pritersert.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,update.jeonpriter.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,rogo.secodners.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,mybox-file.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,neratras2.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,morames.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,sectra-file.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,operasik2.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,chorteo.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,neer.firterswer.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,nero1.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,neimat.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,update.jeonpriter2.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,ostras1.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,nocamoto.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,nestros1.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,deta2.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,aeomeio.n-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,deromopa.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,secfile-store.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,nolomoro.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,nelocket.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,safety-files.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,excepted-comon.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,chol-kor.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,condition-waite.p-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,vefication-type.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,section-libs.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,home-naite.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,waite-conditions.r-e.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,lib-section.kro.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,comon-excepted.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
-2026-06-10,tweetfeed,DOMAIN,login-live.o-r.kr,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
+2026-06-11,tweetfeed,URL,http://miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
+2026-06-11,tweetfeed,URL,https://132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
+2026-06-11,tweetfeed,URL,http://suppcentersa.com,ransomware,https://x.com/TMRansomMon/status/2065140026690732337
 2026-06-10,tweetfeed,DOMAIN,usafitness.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
 2026-06-10,tweetfeed,DOMAIN,adnnutrition.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
 2026-06-10,tweetfeed,DOMAIN,pantheonfitt.cl,phishing,https://x.com/CtrlCiudadano/status/2064816819337056424
@@ -1826,8 +1701,9 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,DOMAIN,mohdshadav.github.io,"phishing, scam",https://x.com/urldna_bot/status/2065041423057961145
 2026-06-11,tweetfeed,DOMAIN,updatedriver.py,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,DOMAIN,benutzernamecube.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065071606624297012
-2026-06-10,tweetfeed,IP,161.248.87.10,"C2, CobaltStrike",https://x.com/_IMalihi_/status/2064747807320252780
-2026-06-10,tweetfeed,IP,45.14.246.94,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
+2026-06-11,tweetfeed,DOMAIN,miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
+2026-06-11,tweetfeed,DOMAIN,132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
+2026-06-11,tweetfeed,DOMAIN,suppcentersa.com,ransomware,https://x.com/TMRansomMon/status/2065140026690732337
 2026-06-10,tweetfeed,HASH_SHA256,7b03fb383a5ce784a3cb9b0f8a76a84e984d14e553de5d98faff3d07d9793085,"malware, phishing",https://x.com/Malwarehunterr/status/2064824110941876458
 2026-06-10,tweetfeed,HASH_SHA256,e534bc9475e0ecf50e529aeebd06488ed95b2b88de446690d4360ba7d0049735,Vidar,https://x.com/GenThreatLabs/status/2064836539952361976
 2026-06-10,tweetfeed,HASH_SHA256,cea47b40e054cc597ed930597849e215702e3295a74e90685fcf1efeca5182a9,Vidar,https://x.com/GenThreatLabs/status/2064836539952361976
@@ -1854,6 +1730,5 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,HASH_SHA256,ddde450cd41e7b56a6865cca887dae6e2bf00fd924d9096ec9cff487496eab0d,n/a,https://x.com/kaganisildak/status/2065046480369397813
 2026-06-11,tweetfeed,HASH_SHA256,d0e79fd039575862664fdfaeb700fe49b458f51d3b48a8bbd85c67d780befda9,n/a,https://x.com/smica83/status/2065127091423654117
 2026-06-11,tweetfeed,HASH_SHA256,05e7268abaa6c4c73d3d2db1fd5c9d79e7dd69372a124246096b2eca1afede1b,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
-2026-06-10,tweetfeed,HASH_MD5,8e15c4d4f71bdd9dbc48cd2cabc87806,"DPRK, Kimsuky",https://x.com/skocherhan/status/2064784809990234184
 2026-06-10,tweetfeed,HASH_MD5,29f16ac2cc3fcf319079557aa787e158,GuLoader,https://x.com/skocherhan/status/2064829009653887055
 2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
