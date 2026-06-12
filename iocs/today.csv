@@ -1,10 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-11,threatfox,URL,https://thisismine.asia/,"unknown, url",n/a
-2026-06-11,threatfox,URL,https://testerha.com/,"unknown, url",n/a
-2026-06-11,threatfox,URL,https://verif-code.lol/o,"js.kongtuke, url",n/a
-2026-06-11,threatfox,URL,https://alabastermarket.top/role/health-json,"js.smartapesg, url",n/a
-2026-06-11,threatfox,URL,https://alabastermarket.top/role/redirect-html.js,"js.smartapesg, url",n/a
 2026-06-11,threatfox,URL,https://spasopro.at/index.php,"win.smokeloader, url",n/a
 2026-06-11,threatfox,URL,http://spasopro.at/index.php,"win.smokeloader, url",n/a
 2026-06-11,threatfox,URL,https://ox3.glamisdunesrentals.com/,"win.vidar, url",n/a
@@ -45,9 +40,7 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://oliveiaa.icu/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-12,threatfox,URL,https://linenvoyage.top/signin/auth-json,"js.smartapesg, url",n/a
 2026-06-12,threatfox,URL,https://linenvoyage.top/signin/route-script.js,"js.smartapesg, url",n/a
-2026-06-11,threatfox,DOMAIN,mymrtijp.hugugmadani6.xyz,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,verif-code.lol,"js.kongtuke, domain",n/a
-2026-06-11,threatfox,DOMAIN,alabastermarket.top,"js.smartapesg, domain",n/a
+2026-06-12,threatfox,URL,https://misterslivker.asia/,"unknown, url",n/a
 2026-06-11,threatfox,DOMAIN,ogonna.ydns.eu,"win.xworm, domain",n/a
 2026-06-11,threatfox,DOMAIN,ox3.glamisdunesrentals.com,"win.vidar, domain",n/a
 2026-06-11,threatfox,DOMAIN,mlcos.cdnupdate.net,"win.cobalt_strike, domain",n/a
@@ -418,6 +411,23 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,misterslivker.asia,"unknown, domain",n/a
 2026-06-12,threatfox,DOMAIN,carytui.vu,"win.lumma, domain",n/a
 2026-06-12,threatfox,DOMAIN,tangmwp.club,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,onetasknext.eastasia.cloudapp.azure.com,"js.ether_rat, domain",n/a
+2026-06-12,threatfox,DOMAIN,sydelorme.com,"js.ether_rat, domain",n/a
+2026-06-12,threatfox,DOMAIN,davidkapor.com,"js.ether_rat, domain",n/a
+2026-06-12,threatfox,DOMAIN,swgraphic.com,"js.ether_rat, domain",n/a
+2026-06-12,threatfox,DOMAIN,foodnflavors.com,"js.ether_rat, domain",n/a
+2026-06-12,threatfox,DOMAIN,procuducts.southafricanorth.cloudapp.azure.com,"js.ether_rat, domain",n/a
+2026-06-12,threatfox,DOMAIN,ljist.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,ktokj.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,vspdk.tahgigbazargan.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,claimsj.cyou,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,passedt.cyou,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,cohesrc.cyou,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,montgqd.cyou,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,familbi.cyou,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,feathqz.cyou,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,pitchgb.cyou,"win.lumma, domain",n/a
+2026-06-12,threatfox,DOMAIN,rizvw.sanjeshravani.shop,"js.clearfake, domain",n/a
 2026-06-11,tweetfeed,URL,https://benutzernamecube.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065071606624297012
 2026-06-11,tweetfeed,URL,https://bit.ly/3Z4rMin,"phishing, scam",https://x.com/urldna_bot/status/2065101799875342529
 2026-06-11,threatfox,HASH_SHA256,ce9690621c9311446bcf61ec40498a98f8c1b775185064f6dc321d72fafb468d,"unknown, sha256_hash",n/a
@@ -568,6 +578,10 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,URL,https://files-accl.zohoexternal.com/public/workdrive-external/download/d3c0c6f7f2b21a43a42ef904de1157738b10a?x-cli-msg=null,n/a,https://x.com/smica83/status/2065417609579827498
 2026-06-12,tweetfeed,URL,http://64.89.161.167:5173,n/a,https://x.com/vmray/status/2065419409099747516
 2026-06-12,tweetfeed,URL,https://flirtationless.s3.ap-east-1.amazonaws.com/ADb.tmp,n/a,https://x.com/smica83/status/2065419940119662639
+2026-06-12,tweetfeed,URL,https://considerable-arizona-institutes-duties.trycloudflare.com/5492488/,opendir,https://x.com/smica83/status/2065420239572017470
+2026-06-12,tweetfeed,URL,https://inspector-agreed-labels-cells.trycloudflare.com/hus/,opendir,https://x.com/smica83/status/2065420540567830541
+2026-06-12,tweetfeed,URL,https://www.vitorialowcost.pt/ultimate/,phishing,https://x.com/AddressIntel/status/2065423895943868535
+2026-06-12,tweetfeed,URL,http://tazororaretirement.co.zw/airdash/en/dMRzxyhMTmb5LQgqxUBV,"phishing, scam",https://x.com/urldna_bot/status/2065433992006885487
 2026-06-11,tweetfeed,DOMAIN,benutzernamecube.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065071606624297012
 2026-06-11,tweetfeed,DOMAIN,miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
 2026-06-11,tweetfeed,DOMAIN,132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
@@ -714,6 +728,9 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,DOMAIN,taxassessment.cyou,n/a,https://x.com/suyog41/status/2065407928249495664
 2026-06-12,tweetfeed,DOMAIN,files-accl.zohoexternal.com,n/a,https://x.com/smica83/status/2065417609579827498
 2026-06-12,tweetfeed,DOMAIN,flirtationless.s3.ap-east-1.amazonaws.com,n/a,https://x.com/smica83/status/2065419940119662639
+2026-06-12,tweetfeed,DOMAIN,considerable-arizona-institutes-duties.trycloudflare.com,opendir,https://x.com/smica83/status/2065420239572017470
+2026-06-12,tweetfeed,DOMAIN,inspector-agreed-labels-cells.trycloudflare.com,opendir,https://x.com/smica83/status/2065420540567830541
+2026-06-12,tweetfeed,DOMAIN,tazororaretirement.co.zw,"phishing, scam",https://x.com/urldna_bot/status/2065433992006885487
 2026-06-11,tweetfeed,HASH_SHA256,ddde450cd41e7b56a6865cca887dae6e2bf00fd924d9096ec9cff487496eab0d,n/a,https://x.com/kaganisildak/status/2065046480369397813
 2026-06-11,tweetfeed,HASH_SHA256,d0e79fd039575862664fdfaeb700fe49b458f51d3b48a8bbd85c67d780befda9,n/a,https://x.com/smica83/status/2065127091423654117
 2026-06-11,tweetfeed,HASH_SHA256,05e7268abaa6c4c73d3d2db1fd5c9d79e7dd69372a124246096b2eca1afede1b,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
@@ -759,6 +776,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,HASH_SHA256,3e98101a03ad5606130bf5998799c05c6de7dcd97ad9e79bc776f3b5fb830609,n/a,https://x.com/vmray/status/2065419409099747516
 2026-06-12,tweetfeed,HASH_SHA256,76ee58191bc408e3f1a5283574c61d331d61b9fd0203d7bffc879761e725b3db,n/a,https://x.com/vmray/status/2065419409099747516
 2026-06-12,tweetfeed,HASH_SHA256,4c3e5315e95f9b6e638c7b50651c4c3f98dbb406c1ec89e034d530efe7de55be,n/a,https://x.com/smica83/status/2065419940119662639
+2026-06-12,tweetfeed,HASH_SHA256,e2e594d05dcb2542d100985f6f7d48b227c078b27b83e2cc225e855d6b7c4676,n/a,https://x.com/smica83/status/2065421612153815519
 2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
 2026-06-12,tweetfeed,HASH_MD5,ee2f3a4d3e4e54a3bdf3564c293e7942,n/a,https://x.com/tdatwja/status/2065257849199231393
 2026-06-12,tweetfeed,HASH_MD5,6cec0bed47c107b5205d1e15a89978f2,n/a,https://x.com/tdatwja/status/2065256052493590898
