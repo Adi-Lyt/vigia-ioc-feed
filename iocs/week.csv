@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-05,threatfox,URL,http://gxfsxs.cn:8880/getinstall64,"win.valley_rat, url",n/a
-2026-06-05,threatfox,URL,http://89.124.78.101/Lsge63sd3/index.php,"win.amadey, url",n/a
 2026-06-05,threatfox,URL,https://shadowcompass.top/public/acl-partial,"js.smartapesg, url",n/a
 2026-06-05,threatfox,URL,https://shadowcompass.top/public/token-json.js,"js.smartapesg, url",n/a
 2026-06-05,threatfox,URL,http://195.181.245.252:9443/xmrig,"elf.xmrig, url",n/a
@@ -396,15 +394,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,https://ox3.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://srv.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://srv.glamisdunesrentals.com/,"win.vidar, url",n/a
-2026-06-05,threatfox,DOMAIN,demo212.jnirnportaciones.net,"win.remcos, domain",n/a
-2026-06-05,threatfox,DOMAIN,metalioncircle.io,"win.nanocore, domain",n/a
-2026-06-05,threatfox,DOMAIN,branleet.duckdns.org,"win.quasar_rat, domain",n/a
-2026-06-05,threatfox,DOMAIN,gxtryif.hattrickbetapp.com,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,ennovar.io,"win.nanocore, domain",n/a
-2026-06-05,threatfox,DOMAIN,gqjz709j.bordoo.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,b2eqaaqn.bordoo.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,hwfbwco.hamvarzesh90.com,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,qcwvat.1kickbet90.com,"js.clearfake, domain",n/a
 2026-06-05,threatfox,DOMAIN,3p1x6btm.1xbet90.bet,"js.clearfake, domain",n/a
 2026-06-05,threatfox,DOMAIN,youykxp.herz-frank.com,"js.clearfake, domain",n/a
 2026-06-05,threatfox,DOMAIN,emwzmsp.hazaratbetapp.com,"js.clearfake, domain",n/a
@@ -3815,6 +3804,9 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,ravandarmani.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,uqknomxs.karbordriyaziyat.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,4o6giyl4.ravanshenasinovin.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,kn46xsmt.readthisintro.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,bjuo48bq.ravanroshd.shop,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,kdphdmr.rahnemayenegaresh.site,"js.clearfake, domain",n/a
 2026-06-05,tweetfeed,URL,https://juioploimnytre.weebly.com,n/a,n/a
 2026-06-05,tweetfeed,URL,https://unete.descubretuahorro.com,n/a,n/a
 2026-06-05,tweetfeed,URL,http://JoAnnBush.com,n/a,n/a
