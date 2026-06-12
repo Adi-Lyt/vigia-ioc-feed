@@ -1,6 +1,6 @@
 date,user,type,ioc,tags,context
+2026-06-12,cisa_kev,CVE,CVE-2026-35273,"Oracle  PeopleSoft Enterprise PeopleTools, kev","Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-15"
 2026-06-08,cisa_kev,CVE,CVE-2026-50751,"Check Point Security Gateway, kev","Check Point Security Gateway contains an improper authentication vulnerability in IKEv1 key exchange that could allow an unauthenticated remote attacker to bypass user authentication and establish a remote access VPN connection without a valid user password. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-11"
-2026-06-05,cisa_kev,CVE,CVE-2026-28318,"SolarWinds Serv-U, kev","SolarWinds Serv-U contains an uncontrolled resource consumption vulnerability that allows specially crafted POST requests using the Content-Encoding: deflate header to crash the Serv-U service without authentication. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-19"
 2026-06-08,cisa_kev,CVE,CVE-2026-42271,"BerriAI LiteLLM, kev","BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-22"
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
@@ -413,11 +413,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://slivkishow.asia/,"unknown, url",n/a
 2026-06-12,threatfox,URL,https://ggt.glamisrent.com/,"win.vidar, url",n/a
 2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
-2026-06-05,threatfox,DOMAIN,o2w2806g.tagat120art.com,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,ytmjwql.eurothrombosis2018.com,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,1v55nk51.irantennis.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,y7o5phj2.irantennis.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,irantennis.bet,"js.clearfake, domain",n/a
 2026-06-05,threatfox,DOMAIN,wisvfr.basketballiran.com,"js.clearfake, domain",n/a
 2026-06-05,threatfox,DOMAIN,udqmerf.fibi-ireland.com,"js.clearfake, domain",n/a
 2026-06-05,threatfox,DOMAIN,wrersk.ar888starz.bet,"js.clearfake, domain",n/a
@@ -4066,6 +4061,12 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,wnwrwqfz.4030bet.app,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,nylmc.hotbetkade.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,tngbqcwl.22betkade.online,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,oywlk.motorbook.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,9np2x3by.bordestan.com,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,dtphi824.akhbarsport.info,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,rngvl.bilyardkade.online,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,burreepr.ace90betkade.com,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,euerx2bw.linebetkade.com,"js.clearfake, domain",n/a
 2026-06-05,tweetfeed,URL,https://www.roblox.com.et/users/108230131369/profile,n/a,n/a
 2026-06-05,tweetfeed,URL,http://152.32.138.131,n/a,n/a
 2026-06-05,tweetfeed,URL,http://152.32.243.178,n/a,n/a
@@ -5737,6 +5738,8 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,URL,http://cert.tomlee.dns.army,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,URL,http://doc-check.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,URL,https://sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
+2026-06-12,tweetfeed,URL,http://98.92.188.200,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065494359676694673
+2026-06-12,tweetfeed,URL,https://services-webs.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065494376587952597
 2026-06-05,tweetfeed,DOMAIN,roblox.com.et,n/a,n/a
 2026-06-05,tweetfeed,DOMAIN,bing-tost15.com,n/a,n/a
 2026-06-05,tweetfeed,DOMAIN,zbtnvpxgykzo.top,n/a,n/a
@@ -7005,6 +7008,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,DOMAIN,cert.tomlee.dns.army,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,DOMAIN,doc-check.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,DOMAIN,sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
+2026-06-12,tweetfeed,DOMAIN,services-webs.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065494376587952597
 2026-06-05,tweetfeed,HASH_SHA256,413ea66c492b5df8ce7a51c2866a9e24c3182a5fbbe38016bd268f87daf54fdd,n/a,n/a
 2026-06-05,tweetfeed,IP,152.32.138.131,n/a,n/a
 2026-06-05,tweetfeed,IP,152.32.243.178,n/a,n/a
@@ -7311,6 +7315,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,IP,51.79.185.184,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,IP,176.111.220.168,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,HASH_SHA256,b2fbf223cd886a164807903d9145430a119b48ef2859104aa0acc376ac8ecae3,n/a,https://x.com/impost0r_/status/2065437932140294336
+2026-06-12,tweetfeed,IP,98.92.188.200,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065494359676694673
 2026-06-05,tweetfeed,HASH_MD5,06c67c7f46931c4c4877bb6c2dac5869,n/a,n/a
 2026-06-05,tweetfeed,HASH_MD5,a63c5ba6d0678e9a043eec2b8f7cb5c1,n/a,n/a
 2026-06-06,tweetfeed,HASH_MD5,fccc29b9bc4b113d415fac7f49172490,n/a,n/a
