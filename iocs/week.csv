@@ -6,11 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-05,threatfox,URL,https://shadowcompass.top/public/acl-partial,"js.smartapesg, url",n/a
-2026-06-05,threatfox,URL,https://shadowcompass.top/public/token-json.js,"js.smartapesg, url",n/a
-2026-06-05,threatfox,URL,http://195.181.245.252:9443/xmrig,"elf.xmrig, url",n/a
-2026-06-05,threatfox,URL,http://92.60.77.99:8888/xmrig-x86,"elf.xmrig, url",n/a
-2026-06-05,threatfox,URL,https://steamcommunity.com/profiles/76561198698223785/g75rit,"win.vidar, url",n/a
 2026-06-05,threatfox,URL,https://zadelom.ru/auth/auth,"win.berbew, url",n/a
 2026-06-05,threatfox,URL,https://rik.evosm188.top/,"win.vidar, url",n/a
 2026-06-05,threatfox,URL,https://rik.canamrent.com/,"win.vidar, url",n/a
@@ -394,28 +389,14 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,https://ox3.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://srv.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://srv.glamisdunesrentals.com/,"win.vidar, url",n/a
-2026-06-05,threatfox,DOMAIN,dlkcsdq.hotbet90app.com,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,eehjqhe.homa.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,bloomglow9.com,"osx.amos, domain",n/a
-2026-06-05,threatfox,DOMAIN,alragaa.com,"osx.amos, domain",n/a
-2026-06-05,threatfox,DOMAIN,data-hub-2312.com,"osx.amos, domain",n/a
-2026-06-05,threatfox,DOMAIN,shadowcompass.top,"js.smartapesg, domain",n/a
-2026-06-05,threatfox,DOMAIN,goolge.mobi,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,searggend.com,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,musika.botlesscucks.st,"elf.mirai, domain",n/a
-2026-06-05,threatfox,DOMAIN,n058152033245.netvigator.com,"elf.mirai, domain",n/a
-2026-06-05,threatfox,DOMAIN,stoplooking.botlesscucks.st,"elf.mirai, domain",n/a
-2026-06-05,threatfox,DOMAIN,pqycltd.hokm.casino,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,gstatic-node.io,"win.lumma, domain",n/a
-2026-06-05,threatfox,DOMAIN,colomndead.xyz,"win.lumma, domain",n/a
-2026-06-05,threatfox,DOMAIN,cloudsaled.xyz,"win.lumma, domain",n/a
-2026-06-05,threatfox,DOMAIN,polandgames.xyz,"win.lumma, domain",n/a
-2026-06-05,threatfox,DOMAIN,costexcise.xyz,"win.lumma, domain",n/a
-2026-06-05,threatfox,DOMAIN,droppicches.xyz,"win.lumma, domain",n/a
-2026-06-05,threatfox,DOMAIN,dev.useimage.sbs,"win.cobalt_strike, domain",n/a
-2026-06-05,threatfox,DOMAIN,f0rfdtvf.canlibahis1xbet.click,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,canlibahis1xbet.click,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,kurama.ltd,"unknown, domain",n/a
+2026-06-12,threatfox,URL,https://sartora.lol/file.js,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://sartora.lol/api/v1/session,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://jiminej.lol/file.js,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://sartora.lol/api/v1/verify,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/session,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/verify,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/status,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,http://5.83.134.26/z.sh,"unknown, url",n/a
 2026-06-05,threatfox,DOMAIN,open-claw.co.com,"unknown, domain",n/a
 2026-06-05,threatfox,DOMAIN,clawd-setup.com,"unknown, domain",n/a
 2026-06-05,threatfox,DOMAIN,tqdtntx.hotbet90.casino,"js.clearfake, domain",n/a
@@ -3808,8 +3789,11 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,0saw15fk.activereading.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,6azbm23o.sazehayefooladi.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,scrbsmf.activebook.xyz,"js.clearfake, domain",n/a
-2026-06-05,threatfox,HASH_SHA256,b0e1ae6d73d656b203514f498b59cbcf29f067edf6fbd3803a3de7d21960848d,"elf.xmrig, sha256_hash",n/a
-2026-06-05,threatfox,HASH_SHA256,f38504f53f6a25c405cfa272572eb0ededbbb4b9399b8aec1706d5e2b990f1c9,"elf.xmrig, sha256_hash",n/a
+2026-06-12,threatfox,DOMAIN,sartora.lol,"js.kongtuke, domain",n/a
+2026-06-12,threatfox,DOMAIN,jiminej.lol,"js.kongtuke, domain",n/a
+2026-06-12,threatfox,DOMAIN,14thstreetmillworks.com,"win.strelastealer, domain",n/a
+2026-06-12,threatfox,DOMAIN,natureorganicbeauty.com,"win.strelastealer, domain",n/a
+2026-06-12,threatfox,DOMAIN,syqxxqi.riyaziyattajrobi.xyz,"js.clearfake, domain",n/a
 2026-06-05,tweetfeed,URL,https://facebook-authentication.secure-datalink.org/landing/form/ec5e0626-b9a6-4e69-a282-578989ef66df,n/a,n/a
 2026-06-05,tweetfeed,URL,http://34.154.23.46,n/a,n/a
 2026-06-05,tweetfeed,URL,https://login.njnuqy.com/home,n/a,n/a
@@ -5459,6 +5443,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,URL,http://faipa.vip,n/a,https://x.com/tdatwja/status/2065249834249163138
 2026-06-12,tweetfeed,URL,http://ftp.enogcaen-br.com,n/a,https://x.com/tdatwja/status/2065256052493590898
 2026-06-12,tweetfeed,URL,https://academieamiensauthorize.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065283003878633716
+2026-06-12,tweetfeed,URL,http://faipa.vip/20260611121147.exe,n/a,https://x.com/tdatwja/status/2065249843925463108
 2026-06-05,tweetfeed,DOMAIN,login.njnuqy.com,n/a,n/a
 2026-06-05,tweetfeed,DOMAIN,icloudbuscar.id,n/a,n/a
 2026-06-05,tweetfeed,DOMAIN,m1n.zip,n/a,n/a
@@ -6992,6 +6977,9 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,HASH_SHA256,5ddc7ce6e8bd2bb38f849f3e87685e2f06bff0c7bb399c950af7bb805b93f774,n/a,https://x.com/bomccss/status/2065272915860582724
 2026-06-12,tweetfeed,HASH_SHA256,736c901ad1e6d42e0f1247c05d1304d0fbaad9cb8d8a8fb9c0b59a3c70e1a44e,n/a,https://x.com/bomccss/status/2065276315322999241
 2026-06-12,tweetfeed,HASH_SHA256,f57e1226ca76b6df187453bb79be36434e7a10022d51c7d2490c37fca092d434,n/a,https://x.com/bomccss/status/2065276315322999241
+2026-06-12,tweetfeed,HASH_SHA256,1f0f9f51ba5dd537e3ada3a95abd7020c60a9b11f6283a1b7bc442d4d990a2d2,n/a,https://x.com/tdatwja/status/2065249843925463108
+2026-06-12,tweetfeed,IP,74.50.120.6,C2,https://x.com/Fact_Finder03/status/2065304470955925710
+2026-06-12,tweetfeed,IP,142.93.123.221,C2,https://x.com/Fact_Finder03/status/2065308363932512687
 2026-06-05,tweetfeed,HASH_MD5,8f47e37adf81c7a998af5f5fe32aa541,n/a,n/a
 2026-06-05,tweetfeed,HASH_MD5,933d70ccf35b0784ae4e997417dfd03a,n/a,n/a
 2026-06-05,tweetfeed,HASH_MD5,06c67c7f46931c4c4877bb6c2dac5869,n/a,n/a
@@ -7044,3 +7032,6 @@ date,user,type,ioc,tags,context
 2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
 2026-06-12,tweetfeed,HASH_MD5,ee2f3a4d3e4e54a3bdf3564c293e7942,n/a,https://x.com/tdatwja/status/2065257849199231393
 2026-06-12,tweetfeed,HASH_MD5,6cec0bed47c107b5205d1e15a89978f2,n/a,https://x.com/tdatwja/status/2065256052493590898
+2026-06-12,tweetfeed,HASH_MD5,ede7e083a62642df520afec994649471,n/a,https://x.com/tdatwja/status/2065249846735630340
+2026-06-12,tweetfeed,HASH_MD5,b3fb19b6aed79b6ee2000090d6d9d258,n/a,https://x.com/tdatwja/status/2065249846735630340
+2026-06-12,tweetfeed,HASH_MD5,b26ea3bcf2913469fec1658cf93ae0d3,n/a,https://x.com/tdatwja/status/2065249843925463108
