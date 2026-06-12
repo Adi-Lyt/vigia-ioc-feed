@@ -1,4 +1,5 @@
 date,user,type,ioc,tags,context
+2026-06-12,cisa_kev,CVE,CVE-2026-35273,"Oracle  PeopleSoft Enterprise PeopleTools, kev","Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-15"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
 2026-06-11,threatfox,URL,https://srv.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://srv.glamisdunesrentals.com/,"win.vidar, url",n/a
@@ -38,9 +39,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://slivkishow.asia/,"unknown, url",n/a
 2026-06-12,threatfox,URL,https://ggt.glamisrent.com/,"win.vidar, url",n/a
 2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
-2026-06-11,threatfox,DOMAIN,nkxkhfp.bet303.app,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,hlgwrpbh.mechanicsayalat.xyz,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,ffynigbdr.barnamenevisi.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,kaiojocv.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,933anmoo.azmoonhayeravani.shop,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,ljj8nzo0.ravansalamat.shop,"js.clearfake, domain",n/a
@@ -427,9 +425,12 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,wnwrwqfz.4030bet.app,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,nylmc.hotbetkade.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,tngbqcwl.22betkade.online,"js.clearfake, domain",n/a
-2026-06-11,threatfox,HASH_SHA256,7e49b00bef718eb7e3645d8705e6521b011f66d10f06201e209a8a0511abc81a,"win.pure_rat, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,b50a05e38e9d04fd5c4dac4f29850649a77bb3ae443639206c908058e45593eb,"win.pure_rat, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,a05254840b45fcbfd12d09fd416ca860e2cfcab793f4780fa8f138b8f7a86aab,"win.pure_rat, sha256_hash",n/a
+2026-06-12,threatfox,DOMAIN,oywlk.motorbook.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,9np2x3by.bordestan.com,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,dtphi824.akhbarsport.info,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,rngvl.bilyardkade.online,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,burreepr.ace90betkade.com,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,euerx2bw.linebetkade.com,"js.clearfake, domain",n/a
 2026-06-11,tweetfeed,URL,http://miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
 2026-06-11,tweetfeed,URL,https://132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
 2026-06-11,tweetfeed,URL,http://suppcentersa.com,ransomware,https://x.com/TMRansomMon/status/2065140026690732337
@@ -587,6 +588,8 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,URL,http://cert.tomlee.dns.army,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,URL,http://doc-check.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,URL,https://sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
+2026-06-12,tweetfeed,URL,http://98.92.188.200,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065494359676694673
+2026-06-12,tweetfeed,URL,https://services-webs.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065494376587952597
 2026-06-11,tweetfeed,DOMAIN,miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
 2026-06-11,tweetfeed,DOMAIN,132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
 2026-06-11,tweetfeed,DOMAIN,suppcentersa.com,ransomware,https://x.com/TMRansomMon/status/2065140026690732337
@@ -742,8 +745,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,DOMAIN,cert.tomlee.dns.army,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,DOMAIN,doc-check.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,DOMAIN,sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
-2026-06-11,tweetfeed,HASH_SHA256,d0e79fd039575862664fdfaeb700fe49b458f51d3b48a8bbd85c67d780befda9,n/a,https://x.com/smica83/status/2065127091423654117
-2026-06-11,tweetfeed,HASH_SHA256,05e7268abaa6c4c73d3d2db1fd5c9d79e7dd69372a124246096b2eca1afede1b,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
+2026-06-12,tweetfeed,DOMAIN,services-webs.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065494376587952597
 2026-06-11,tweetfeed,IP,100.56.12.144,"APT, AsyncRAT, C2, Xworm, malware",https://x.com/skocherhan/status/2065156199666921726
 2026-06-11,tweetfeed,IP,18.216.200.48,"APT, AsyncRAT, C2, Xworm, malware",https://x.com/skocherhan/status/2065156199666921726
 2026-06-11,tweetfeed,IP,216.9.224.91,phishing,https://x.com/PhishStats/status/2065175929467396202
@@ -791,7 +793,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,IP,51.79.185.184,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,IP,176.111.220.168,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,HASH_SHA256,b2fbf223cd886a164807903d9145430a119b48ef2859104aa0acc376ac8ecae3,n/a,https://x.com/impost0r_/status/2065437932140294336
-2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
+2026-06-12,tweetfeed,IP,98.92.188.200,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065494359676694673
 2026-06-12,tweetfeed,HASH_MD5,ee2f3a4d3e4e54a3bdf3564c293e7942,n/a,https://x.com/tdatwja/status/2065257849199231393
 2026-06-12,tweetfeed,HASH_MD5,6cec0bed47c107b5205d1e15a89978f2,n/a,https://x.com/tdatwja/status/2065256052493590898
 2026-06-12,tweetfeed,HASH_MD5,ede7e083a62642df520afec994649471,n/a,https://x.com/tdatwja/status/2065249846735630340
