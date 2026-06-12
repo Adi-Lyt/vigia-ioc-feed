@@ -28,7 +28,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-06-12,threatfox,URL,http://5.83.134.26/z.sh,"unknown, url",n/a
-2026-06-11,threatfox,DOMAIN,kuonnjkj.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,hzvvlqps.mechanicsayalat.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,1v6le0j1.andisheeslami2.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,slojemw.leaguejazire.com,"js.clearfake, domain",n/a
@@ -1597,7 +1596,9 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,14thstreetmillworks.com,"win.strelastealer, domain",n/a
 2026-06-12,threatfox,DOMAIN,natureorganicbeauty.com,"win.strelastealer, domain",n/a
 2026-06-12,threatfox,DOMAIN,syqxxqi.riyaziyattajrobi.xyz,"js.clearfake, domain",n/a
-2026-06-11,tweetfeed,URL,https://gmxla.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2064950800791589019
+2026-06-12,threatfox,DOMAIN,rqvfqcgu.tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,8qh80m8o.shimiskoog.shop,"js.clearfake, domain",n/a
 2026-06-11,tweetfeed,URL,http://jiugui22.com,n/a,https://x.com/smica83/status/2064974323132121555
 2026-06-11,tweetfeed,URL,http://8.218.196.168,n/a,https://x.com/smica83/status/2064974323132121555
 2026-06-11,tweetfeed,URL,https://cast-happen.uncrn.co,"phishing, scam",https://x.com/urldna_bot/status/2064980996668170619
@@ -1743,7 +1744,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,URL,http://ftp.enogcaen-br.com,n/a,https://x.com/tdatwja/status/2065256052493590898
 2026-06-12,tweetfeed,URL,https://academieamiensauthorize.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065283003878633716
 2026-06-12,tweetfeed,URL,http://faipa.vip/20260611121147.exe,n/a,https://x.com/tdatwja/status/2065249843925463108
-2026-06-11,tweetfeed,DOMAIN,gmxla.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2064950800791589019
+2026-06-12,tweetfeed,URL,https://attyahoomail.urest.org,"phishing, scam",https://x.com/urldna_bot/status/2065313192213930337
 2026-06-11,tweetfeed,DOMAIN,jiugui22.com,n/a,https://x.com/smica83/status/2064974323132121555
 2026-06-11,tweetfeed,DOMAIN,cast-happen.uncrn.co,"phishing, scam",https://x.com/urldna_bot/status/2064980996668170619
 2026-06-11,tweetfeed,DOMAIN,rapiwezov.z23.web.core.windows.net,n/a,https://x.com/harugasumi/status/2064984094468141286
@@ -1861,6 +1862,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,DOMAIN,N0.A054ED7FCEE0EA7D5A8.COM,n/a,https://x.com/bomccss/status/2065272912521949188
 2026-06-12,tweetfeed,DOMAIN,ftp.enogcaen-br.com,n/a,https://x.com/tdatwja/status/2065256052493590898
 2026-06-12,tweetfeed,DOMAIN,academieamiensauthorize.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065283003878633716
+2026-06-12,tweetfeed,DOMAIN,attyahoomail.urest.org,"phishing, scam",https://x.com/urldna_bot/status/2065313192213930337
 2026-06-11,tweetfeed,IP,8.218.196.168,n/a,https://x.com/smica83/status/2064974323132121555
 2026-06-11,tweetfeed,HASH_SHA256,446aad1d86aaf82a32f7e63bd0dd34cb2ac85ca2a412b9bea2122fb5506ddac1,n/a,https://x.com/smica83/status/2064974323132121555
 2026-06-11,tweetfeed,IP,107.152.44.184,"ClickFix, FakeCaptcha",https://x.com/Fact_Finder03/status/2064976115320725667
@@ -1897,6 +1899,9 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,HASH_SHA256,1f0f9f51ba5dd537e3ada3a95abd7020c60a9b11f6283a1b7bc442d4d990a2d2,n/a,https://x.com/tdatwja/status/2065249843925463108
 2026-06-12,tweetfeed,IP,74.50.120.6,C2,https://x.com/Fact_Finder03/status/2065304470955925710
 2026-06-12,tweetfeed,IP,142.93.123.221,C2,https://x.com/Fact_Finder03/status/2065308363932512687
+2026-06-12,tweetfeed,IP,206.206.78.39,"C2, RAT",https://x.com/Fact_Finder03/status/2065318430274920891
+2026-06-12,tweetfeed,HASH_SHA256,bb44f380c940739395a23a0154ca6aec6782e68aa31c3e6853e49333eeff40d9,"C2, RAT",https://x.com/Fact_Finder03/status/2065318430274920891
+2026-06-12,tweetfeed,IP,167.172.10.118,"C2, RAT",https://x.com/Fact_Finder03/status/2065321450228392274
 2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
 2026-06-12,tweetfeed,HASH_MD5,ee2f3a4d3e4e54a3bdf3564c293e7942,n/a,https://x.com/tdatwja/status/2065257849199231393
 2026-06-12,tweetfeed,HASH_MD5,6cec0bed47c107b5205d1e15a89978f2,n/a,https://x.com/tdatwja/status/2065256052493590898
