@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-11,threatfox,URL,https://ox3.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://saffronarchivehub.top/role/policy-sessionstore.js,"js.smartapesg, url",n/a
 2026-06-11,threatfox,URL,https://saffronarchivehub.top/role/health-json,"js.smartapesg, url",n/a
 2026-06-11,threatfox,URL,https://saffronarchivehub.top/role/redirect-html.js,"js.smartapesg, url",n/a
@@ -39,11 +38,13 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://linenvoyage.top/signin/auth-json,"js.smartapesg, url",n/a
 2026-06-12,threatfox,URL,https://linenvoyage.top/signin/route-script.js,"js.smartapesg, url",n/a
 2026-06-12,threatfox,URL,https://misterslivker.asia/,"unknown, url",n/a
-2026-06-11,threatfox,DOMAIN,ox3.glamisdunesrentals.com,"win.vidar, domain",n/a
-2026-06-11,threatfox,DOMAIN,mlcos.cdnupdate.net,"win.cobalt_strike, domain",n/a
-2026-06-11,threatfox,DOMAIN,jksidxrvz.bookdrive.xyz,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,cmkfhtt.bet303.promo,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,hqvgwxfu.hugugedari.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,URL,https://secure-code.lol/o,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://bronzepavilion.top/signin/auth-json,"js.smartapesg, url",n/a
+2026-06-12,threatfox,URL,https://bronzepavilion.top/signin/route-script.js,"js.smartapesg, url",n/a
+2026-06-12,threatfox,URL,https://oliveiaa.icu/api/v1/status,"js.kongtuke, url",n/a
+2026-06-12,threatfox,URL,https://slivkishow.asia/,"unknown, url",n/a
+2026-06-12,threatfox,URL,https://ggt.glamisrent.com/,"win.vidar, url",n/a
+2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,DOMAIN,dl.erickillorinphotostore.com,"js.fakeupdates, domain",n/a
 2026-06-11,threatfox,DOMAIN,saffronarchivehub.top,"js.smartapesg, domain",n/a
 2026-06-11,threatfox,DOMAIN,www.sharingfile.cloud,"unknown, domain",n/a
@@ -432,6 +433,15 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,emqlb.tahlilsazeha.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,zjfxfoev.1xbitkade.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,nindica.com,"win.strelastealer, domain",n/a
+2026-06-12,threatfox,DOMAIN,secure-code.lol,"js.kongtuke, domain",n/a
+2026-06-12,threatfox,DOMAIN,bronzepavilion.top,"js.smartapesg, domain",n/a
+2026-06-12,threatfox,DOMAIN,gzcgy.hiwino.net,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,cxdba2b3.zabanmemari.shop,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,ddk5uk7m.zabanmemari.shop,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,htftvttj.1xyek.net,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,twhjk.hazaratkade.com,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,ggt.glamisrent.com,"win.vidar, domain",n/a
+2026-06-12,threatfox,DOMAIN,ggt.gerbongsm188.top,"win.vidar, domain",n/a
 2026-06-11,tweetfeed,URL,https://bit.ly/3Z4rMin,"phishing, scam",https://x.com/urldna_bot/status/2065101799875342529
 2026-06-11,threatfox,HASH_SHA256,ce9690621c9311446bcf61ec40498a98f8c1b775185064f6dc321d72fafb468d,"unknown, sha256_hash",n/a
 2026-06-11,threatfox,HASH_SHA256,8de1ce72b4efd1d4ca0841d79a1fcea463fd8fa84579fe743f58eb6205ccce76,"unknown, sha256_hash",n/a
@@ -594,6 +604,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,URL,http://www.smartbtc.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,URL,http://cert.tomlee.dns.army,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,URL,http://doc-check.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
+2026-06-12,tweetfeed,URL,https://sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
 2026-06-11,tweetfeed,DOMAIN,miami-techinc.com,phishing,https://x.com/Malwarehunterr/status/2065113638936133911
 2026-06-11,tweetfeed,DOMAIN,132424354343.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065131989896687927
 2026-06-11,tweetfeed,DOMAIN,suppcentersa.com,ransomware,https://x.com/TMRansomMon/status/2065140026690732337
@@ -748,7 +759,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,DOMAIN,smartbtc.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,DOMAIN,cert.tomlee.dns.army,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,DOMAIN,doc-check.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
-2026-06-11,tweetfeed,HASH_SHA256,ddde450cd41e7b56a6865cca887dae6e2bf00fd924d9096ec9cff487496eab0d,n/a,https://x.com/kaganisildak/status/2065046480369397813
+2026-06-12,tweetfeed,DOMAIN,sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
 2026-06-11,tweetfeed,HASH_SHA256,d0e79fd039575862664fdfaeb700fe49b458f51d3b48a8bbd85c67d780befda9,n/a,https://x.com/smica83/status/2065127091423654117
 2026-06-11,tweetfeed,HASH_SHA256,05e7268abaa6c4c73d3d2db1fd5c9d79e7dd69372a124246096b2eca1afede1b,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
 2026-06-11,tweetfeed,IP,100.56.12.144,"APT, AsyncRAT, C2, Xworm, malware",https://x.com/skocherhan/status/2065156199666921726
@@ -797,6 +808,7 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,IP,152.32.138.15,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,IP,51.79.185.184,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,IP,176.111.220.168,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
+2026-06-12,tweetfeed,HASH_SHA256,b2fbf223cd886a164807903d9145430a119b48ef2859104aa0acc376ac8ecae3,n/a,https://x.com/impost0r_/status/2065437932140294336
 2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
 2026-06-12,tweetfeed,HASH_MD5,ee2f3a4d3e4e54a3bdf3564c293e7942,n/a,https://x.com/tdatwja/status/2065257849199231393
 2026-06-12,tweetfeed,HASH_MD5,6cec0bed47c107b5205d1e15a89978f2,n/a,https://x.com/tdatwja/status/2065256052493590898
