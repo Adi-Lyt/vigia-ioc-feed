@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-05,threatfox,URL,https://xmm.evosm188.top/,"win.vidar, url",n/a
 2026-06-05,threatfox,URL,http://gxfsxs.cn:8880/getinstall64,"win.valley_rat, url",n/a
 2026-06-05,threatfox,URL,http://89.124.78.101/Lsge63sd3/index.php,"win.amadey, url",n/a
 2026-06-05,threatfox,URL,https://shadowcompass.top/public/acl-partial,"js.smartapesg, url",n/a
@@ -397,12 +396,6 @@ date,user,type,ioc,tags,context
 2026-06-11,threatfox,URL,https://ox3.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://srv.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://srv.glamisdunesrentals.com/,"win.vidar, url",n/a
-2026-06-05,threatfox,DOMAIN,qkqxbb.doobixbet.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,zyhhuar.golfbetpro.com,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,dybkohl.goldenroulette.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,xmm.evosm188.top,"win.vidar, domain",n/a
-2026-06-05,threatfox,DOMAIN,ttowige.goldenroulette.bet,"js.clearfake, domain",n/a
-2026-06-05,threatfox,DOMAIN,goldenroulette.bet,"js.clearfake, domain",n/a
 2026-06-05,threatfox,DOMAIN,demo212.jnirnportaciones.net,"win.remcos, domain",n/a
 2026-06-05,threatfox,DOMAIN,metalioncircle.io,"win.nanocore, domain",n/a
 2026-06-05,threatfox,DOMAIN,branleet.duckdns.org,"win.quasar_rat, domain",n/a
@@ -3820,8 +3813,8 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,qeyshvibv.azmoonzare.online,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,fdktfbbn.jam-jahani.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,ravandarmani.xyz,"js.clearfake, domain",n/a
-2026-06-05,tweetfeed,URL,https://facebook-authentication.secure-datalink.org/landing/form/6268997c-22d3-4670-a7b1-d486420fb4ac,n/a,n/a
-2026-06-05,tweetfeed,URL,https://login.hc3878.com/home,n/a,n/a
+2026-06-12,threatfox,DOMAIN,uqknomxs.karbordriyaziyat.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,4o6giyl4.ravanshenasinovin.xyz,"js.clearfake, domain",n/a
 2026-06-05,tweetfeed,URL,https://juioploimnytre.weebly.com,n/a,n/a
 2026-06-05,tweetfeed,URL,https://unete.descubretuahorro.com,n/a,n/a
 2026-06-05,tweetfeed,URL,http://JoAnnBush.com,n/a,n/a
@@ -5469,7 +5462,9 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,HASH_SHA256,c0b18beb746f408a76371760e64ab37b350419da5292a6fe5b9b83bf7e225257,"win.nanocore, sha256_hash",n/a
 2026-06-12,threatfox,HASH_SHA256,20a1484577dc0b66613cc70619a74dfcaa7da6c19d0a4949cbc83a8e80317fd9,"win.coinminer, sha256_hash",n/a
 2026-06-12,threatfox,HASH_SHA256,f0ff7f1e0e1544828984d40247d38e38cb4b5d528665098c058e41b24db1d56f,"win.coinminer, sha256_hash",n/a
-2026-06-05,tweetfeed,DOMAIN,login.hc3878.com,n/a,n/a
+2026-06-12,tweetfeed,URL,https://bafkreiha3gfijti3mq4q774kjoedfwen23w3eh7do73jcpdhvff373fh2u.ipfs.dweb.link,"phishing, scam",https://x.com/urldna_bot/status/2065222607696253317
+2026-06-12,tweetfeed,URL,http://harvest-53.com,"infostealer, malware",https://x.com/masaomi346/status/2065235562240643434
+2026-06-12,tweetfeed,URL,https://zemfrerkiby.top/realms/msweb/personal/jp/top/index#/,phishing,https://x.com/masaomi346/status/2065240894211756149
 2026-06-05,tweetfeed,DOMAIN,juioploimnytre.weebly.com,n/a,n/a
 2026-06-05,tweetfeed,DOMAIN,unete.descubretuahorro.com,n/a,n/a
 2026-06-05,tweetfeed,DOMAIN,JoAnnBush.com,n/a,n/a
@@ -6700,6 +6695,9 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,HASH_MD5,a59b7602663fb130c5a85507fbbe29a2,"win.nanocore, md5_hash",n/a
 2026-06-12,threatfox,HASH_MD5,b82f0b9989f316d6679e1ea067e31cdd,"win.coinminer, md5_hash",n/a
 2026-06-12,threatfox,HASH_MD5,1f8b721815bfd4f57aa377369fa5f2ed,"win.coinminer, md5_hash",n/a
+2026-06-12,tweetfeed,DOMAIN,bafkreiha3gfijti3mq4q774kjoedfwen23w3eh7do73jcpdhvff373fh2u.ipfs.dweb.link,"phishing, scam",https://x.com/urldna_bot/status/2065222607696253317
+2026-06-12,tweetfeed,DOMAIN,harvest-53.com,"infostealer, malware",https://x.com/masaomi346/status/2065235562240643434
+2026-06-12,tweetfeed,DOMAIN,zemfrerkiby.top,phishing,https://x.com/masaomi346/status/2065240894211756149
 2026-06-05,tweetfeed,IP,190.92.174.33,n/a,n/a
 2026-06-05,tweetfeed,HASH_SHA256,d6a5cfff723410c60012c4e5dd80bf6503a63cfc319cb74bc02bb809a3b8b6a6,n/a,n/a
 2026-06-05,tweetfeed,HASH_SHA256,ba9cad9bcb48c0ce01190500005bf189f887b16a3c2f3ee1cf24d97fffeeb297,n/a,n/a
