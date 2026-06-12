@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-11,threatfox,URL,https://ffe.gasturbo88.top/,"win.vidar, url",n/a
-2026-06-11,threatfox,URL,https://ffe.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://thisismine.asia/,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://testerha.com/,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://verif-code.lol/o,"js.kongtuke, url",n/a
@@ -41,11 +39,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://puz.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-12,threatfox,URL,http://94.183.232.247/Ciabins.sh,"unknown, url",n/a
 2026-06-12,threatfox,URL,http://nostrendezvous.com:5789,"win.remus, url",n/a
-2026-06-11,threatfox,DOMAIN,ffe.glamisdunesrentals.com,"win.vidar, domain",n/a
-2026-06-11,threatfox,DOMAIN,ffe.gasturbo88.top,"win.vidar, domain",n/a
-2026-06-11,threatfox,DOMAIN,btbwehpkp.drivingbook.xyz,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,ieemaju.akhlageslami.xyz,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,zyuhgbux.hugugtejarat4.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,namrqlix.hugugnasiri.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,02y48l3v.asibshenasiyahya.shop,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,ghdre2hy.geotechnictahuni.store,"js.clearfake, domain",n/a
@@ -401,11 +394,15 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,DOMAIN,esnjo.tractor11.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,brrls.rahnemayenegaresh.site,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,aknoq.tractor11.com,"js.clearfake, domain",n/a
-2026-06-11,tweetfeed,URL,https://costumes-met-zum-refinance.trycloudflare.com,opendir,https://x.com/smica83/status/2065030367979958438
-2026-06-11,tweetfeed,URL,https://excellence-analyze-experiment-installing.trycloudflare.com,opendir,https://x.com/smica83/status/2065030655214317842
-2026-06-11,tweetfeed,URL,https://premiere-sunday-citizens-afford.trycloudflare.com/jon/,opendir,https://x.com/smica83/status/2065031023402824046
-2026-06-11,tweetfeed,URL,http://prism-tech.cfd,n/a,https://x.com/smica83/status/2065032470123213054
-2026-06-11,tweetfeed,URL,http://bokphotguest.pro,"booking, phishing",https://x.com/skocherhan/status/2065042580002197844
+2026-06-12,threatfox,DOMAIN,fuwtp.tafsirnasiri.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,uss6wss6.hesabdarieskandari.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,qsbsd.sadreislam.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,ecypk.sadreislam.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,addeg.quranmohagegin.shop,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,umnbp.usoleamoozesh.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,lyrge.usoleamoozesh.xyz,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,cswwy.tractor11.com,"js.clearfake, domain",n/a
+2026-06-12,threatfox,DOMAIN,ytuit.tractor11.com,"js.clearfake, domain",n/a
 2026-06-11,tweetfeed,URL,https://mohdshadav.github.io/Amazon-Clone-Project1/,"phishing, scam",https://x.com/urldna_bot/status/2065041423057961145
 2026-06-11,tweetfeed,URL,https://lab99.sbs/api/terminal/bootstrap?os=mac&flag=6,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,URL,http://updatedriver.py,malware,https://x.com/ishivtripathi/status/2065046563072696339
@@ -551,11 +548,11 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,HASH_SHA256,e9c924c170332d42cae71bb9113ed9556cf91d5c50257b316eb433be9a211fb7,"elf.tsunami, sha256_hash",n/a
 2026-06-12,threatfox,HASH_SHA256,f32b209d33c4194f37dbbf2a677c4faf78cf6b24cf2474bf1c14aed17af40b2e,"elf.tsunami, sha256_hash",n/a
 2026-06-12,tweetfeed,URL,https://webbbadminoffice247.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065373600132034577
-2026-06-11,tweetfeed,DOMAIN,costumes-met-zum-refinance.trycloudflare.com,opendir,https://x.com/smica83/status/2065030367979958438
-2026-06-11,tweetfeed,DOMAIN,excellence-analyze-experiment-installing.trycloudflare.com,opendir,https://x.com/smica83/status/2065030655214317842
-2026-06-11,tweetfeed,DOMAIN,premiere-sunday-citizens-afford.trycloudflare.com,opendir,https://x.com/smica83/status/2065031023402824046
-2026-06-11,tweetfeed,DOMAIN,prism-tech.cfd,n/a,https://x.com/smica83/status/2065032470123213054
-2026-06-11,tweetfeed,DOMAIN,bokphotguest.pro,"booking, phishing",https://x.com/skocherhan/status/2065042580002197844
+2026-06-12,tweetfeed,URL,http://ftp.melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,URL,http://162.0.209.89,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,URL,http://melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,URL,http://185.215.246.188/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=Administrator&c=&c=&c=&c=&c=&c=&c=,n/a,https://x.com/smica83/status/2065398978498163131
+2026-06-12,tweetfeed,URL,https://owa-europa-uni-de-lm-auth-proxy.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065403790941925878
 2026-06-11,tweetfeed,DOMAIN,mohdshadav.github.io,"phishing, scam",https://x.com/urldna_bot/status/2065041423057961145
 2026-06-11,tweetfeed,DOMAIN,updatedriver.py,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,DOMAIN,benutzernamecube.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065071606624297012
@@ -698,7 +695,9 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,DOMAIN,considerate-cyan-crocodile.31-22-7-7.cpanel.site,phishing,https://x.com/JAMESWT_WT/status/2065352083256090773
 2026-06-12,tweetfeed,DOMAIN,promerico.eu.cc,phishing,https://x.com/PhishStats/status/2065352475805208590
 2026-06-12,tweetfeed,DOMAIN,webbbadminoffice247.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065373600132034577
-2026-06-11,tweetfeed,HASH_SHA256,ab765ac116a1950b9f60afcc2758aee5e78d8b13ace7f2b9769a3d272198fc5b,n/a,https://x.com/smica83/status/2065032470123213054
+2026-06-12,tweetfeed,DOMAIN,ftp.melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,DOMAIN,melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,DOMAIN,owa-europa-uni-de-lm-auth-proxy.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065403790941925878
 2026-06-11,tweetfeed,IP,172.86.116.178,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,IP,193.124.33.71,malware,https://x.com/ishivtripathi/status/2065046563072696339
 2026-06-11,tweetfeed,HASH_SHA256,ddde450cd41e7b56a6865cca887dae6e2bf00fd924d9096ec9cff487496eab0d,n/a,https://x.com/kaganisildak/status/2065046480369397813
@@ -733,6 +732,12 @@ date,user,type,ioc,tags,context
 2026-06-12,tweetfeed,HASH_SHA256,3de7ccdf0fbe423b5646640d572a8a675f275e82f38eee76e067864b9993e730,n/a,https://x.com/nextronresearch/status/2065351311403475258
 2026-06-12,tweetfeed,IP,47.85.10.171,phishing,https://x.com/PhishStats/status/2065352475805208590
 2026-06-12,tweetfeed,HASH_SHA256,01f8832e1da252782190d58b1d4ed7cebb9c6dade34ca58dd19eebd5e537d604,n/a,https://x.com/smica83/status/2065366053861953750
+2026-06-12,tweetfeed,IP,162.0.209.89,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,HASH_SHA256,615f9ecc51ccce0de6e88dcff70662f77965214bf5ad0cc7e07bc4fae72c40d0,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,HASH_SHA256,d447a06cba8d3dbe80e09d73dd64576836b258961ee0d3ba56cf26cea7962b49,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
+2026-06-12,tweetfeed,IP,185.215.246.188,n/a,https://x.com/smica83/status/2065398978498163131
+2026-06-12,tweetfeed,HASH_SHA256,28c74cdea827d157d53e31cd347b04e9df88424d184e7d47d0f7bc742bd2f655,n/a,https://x.com/smica83/status/2065398978498163131
+2026-06-12,tweetfeed,HASH_SHA256,9942ad5561716cabe31db5fbed34775b5484b818b23eed484aa18cfdc1ffa0cc,n/a,https://x.com/smica83/status/2065399809356280076
 2026-06-11,tweetfeed,HASH_MD5,9b020bf0c04d91debf86eacb74f0b62a,"APT, AsyncRAT, malware",https://x.com/phatomcandle/status/2065131973811798454
 2026-06-12,tweetfeed,HASH_MD5,ee2f3a4d3e4e54a3bdf3564c293e7942,n/a,https://x.com/tdatwja/status/2065257849199231393
 2026-06-12,tweetfeed,HASH_MD5,6cec0bed47c107b5205d1e15a89978f2,n/a,https://x.com/tdatwja/status/2065256052493590898
