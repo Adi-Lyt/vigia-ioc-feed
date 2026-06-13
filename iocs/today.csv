@@ -1,13 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-12,cisa_kev,CVE,CVE-2026-35273,"Oracle  PeopleSoft Enterprise PeopleTools, kev","Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-15"
-2026-06-12,threatfox,URL,https://sartora.lol/file.js,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://sartora.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://jiminej.lol/file.js,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://sartora.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://jiminej.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,http://5.83.134.26/z.sh,"unknown, url",n/a
 2026-06-12,threatfox,URL,https://riverbreezeintl.com/,"unknown, url",n/a
 2026-06-12,threatfox,URL,https://178.105.226.167/,"win.vidar, url",n/a
 2026-06-12,threatfox,URL,https://167.233.40.16/,"win.vidar, url",n/a
@@ -38,11 +30,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-13,threatfox,URL,http://mottla.shop:4190,"win.remus, url",n/a
 2026-06-13,threatfox,URL,http://abscete.info/ret/two/fre.php,"win.lokipws, url",n/a
-2026-06-12,threatfox,DOMAIN,sartora.lol,"js.kongtuke, domain",n/a
-2026-06-12,threatfox,DOMAIN,jiminej.lol,"js.kongtuke, domain",n/a
-2026-06-12,threatfox,DOMAIN,14thstreetmillworks.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,natureorganicbeauty.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,syqxxqi.riyaziyattajrobi.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,rqvfqcgu.tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,8qh80m8o.shimiskoog.shop,"js.clearfake, domain",n/a
@@ -432,7 +419,9 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,DOMAIN,mhhalmi.pokerkade.online,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,nwklhlmm.hugugmadani6.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,ezrzb.downloadquran.xyz,"js.clearfake, domain",n/a
-2026-06-12,tweetfeed,URL,http://faipa.vip/20260611121147.exe,n/a,https://x.com/tdatwja/status/2065249843925463108
+2026-06-13,threatfox,DOMAIN,jyvartai.hugugdaryayi.xyz,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,kg0kdihy.gavaedfagahe.xyz,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,psmecdlr.hugugedari.xyz,"js.clearfake, domain",n/a
 2026-06-12,tweetfeed,URL,https://attyahoomail.urest.org,"phishing, scam",https://x.com/urldna_bot/status/2065313192213930337
 2026-06-12,tweetfeed,URL,https://xhlk.net,"phishing, scam",https://x.com/urldna_bot/status/2065343392150655313
 2026-06-12,tweetfeed,URL,https://github.com/DataDog/guarddog/blob/main/tests,n/a,https://x.com/struppigel/status/2065307199124000899
@@ -920,6 +909,13 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,HASH_SHA256,e913c5f78dbe49989518ee50ee56cdb581a16a16b5ebb2ff567d526b238a0fc2,"win.nanocore, sha256_hash",n/a
 2026-06-13,threatfox,HASH_SHA256,24efe51c32a2017f5ad0aab43a2eb099eaf4379846f1b4e8a62093338ddae517,"win.nanocore, sha256_hash",n/a
 2026-06-13,threatfox,HASH_SHA256,f2cbfb04c06d7a29349769b1c9b2c5c6b9b34f1d9f827d89b444016069f36656,"win.lokipws, sha256_hash",n/a
+2026-06-13,tweetfeed,URL,https://absolutecaninepa.com/DocuSign/Windows/*,phishing,https://x.com/patialavii/status/2065643412347662845
+2026-06-13,tweetfeed,URL,https://absolutecaninepa.com/DocuSign/Windows/download/index.php,phishing,https://x.com/patialavii/status/2065643412347662845
+2026-06-13,tweetfeed,URL,https://zoom.allwellhealthcare.com,phishing,https://x.com/patialavii/status/2065648636474937397
+2026-06-13,tweetfeed,URL,https://zoom.allwellhealthcare.com/Windows/download/index.php,phishing,https://x.com/patialavii/status/2065648636474937397
+2026-06-13,tweetfeed,URL,https://tbaytellcommunication.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065675585368592445
+2026-06-13,tweetfeed,URL,http://mehven-new.gt.tc,phishing,https://x.com/skocherhan/status/2065679140083171656
+2026-06-13,tweetfeed,URL,http://btc291.com,phishing,https://x.com/skocherhan/status/2065680079741489267
 2026-06-12,tweetfeed,DOMAIN,attyahoomail.urest.org,"phishing, scam",https://x.com/urldna_bot/status/2065313192213930337
 2026-06-12,tweetfeed,DOMAIN,xhlk.net,"phishing, scam",https://x.com/urldna_bot/status/2065343392150655313
 2026-06-12,threatfox,HASH_MD5,17a22e1b633068dc45df51679df233cc,"elf.rhysida, md5_hash",n/a
@@ -1406,9 +1402,11 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,HASH_MD5,94d2ca3c409914ad4d42ea57ce4b36b1,"win.nanocore, md5_hash",n/a
 2026-06-13,threatfox,HASH_MD5,e5cd97b309afed34383aff420333d831,"win.nanocore, md5_hash",n/a
 2026-06-13,threatfox,HASH_MD5,a1e49c1cf7db97c042a5e5403fed0c79,"win.lokipws, md5_hash",n/a
-2026-06-12,tweetfeed,HASH_SHA256,1f0f9f51ba5dd537e3ada3a95abd7020c60a9b11f6283a1b7bc442d4d990a2d2,n/a,https://x.com/tdatwja/status/2065249843925463108
-2026-06-12,tweetfeed,IP,74.50.120.6,C2,https://x.com/Fact_Finder03/status/2065304470955925710
-2026-06-12,tweetfeed,IP,142.93.123.221,C2,https://x.com/Fact_Finder03/status/2065308363932512687
+2026-06-13,tweetfeed,DOMAIN,absolutecaninepa.com,phishing,https://x.com/patialavii/status/2065643412347662845
+2026-06-13,tweetfeed,DOMAIN,zoom.allwellhealthcare.com,phishing,https://x.com/patialavii/status/2065648636474937397
+2026-06-13,tweetfeed,DOMAIN,tbaytellcommunication.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065675585368592445
+2026-06-13,tweetfeed,DOMAIN,mehven-new.gt.tc,phishing,https://x.com/skocherhan/status/2065679140083171656
+2026-06-13,tweetfeed,DOMAIN,btc291.com,phishing,https://x.com/skocherhan/status/2065680079741489267
 2026-06-12,tweetfeed,IP,206.206.78.39,"C2, RAT",https://x.com/Fact_Finder03/status/2065318430274920891
 2026-06-12,tweetfeed,HASH_SHA256,bb44f380c940739395a23a0154ca6aec6782e68aa31c3e6853e49333eeff40d9,"C2, RAT",https://x.com/Fact_Finder03/status/2065318430274920891
 2026-06-12,tweetfeed,IP,167.172.10.118,"C2, RAT",https://x.com/Fact_Finder03/status/2065321450228392274
@@ -1449,9 +1447,8 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,IP,43.166.238.238,phishing,https://x.com/tial_cl/status/2065579082843123864
 2026-06-13,tweetfeed,IP,43.162.107.104,phishing,https://x.com/tial_cl/status/2065579082843123864
 2026-06-13,tweetfeed,IP,186.241.79.130,phishing,https://x.com/tial_cl/status/2065579082843123864
-2026-06-12,tweetfeed,HASH_MD5,ede7e083a62642df520afec994649471,n/a,https://x.com/tdatwja/status/2065249846735630340
-2026-06-12,tweetfeed,HASH_MD5,b3fb19b6aed79b6ee2000090d6d9d258,n/a,https://x.com/tdatwja/status/2065249846735630340
-2026-06-12,tweetfeed,HASH_MD5,b26ea3bcf2913469fec1658cf93ae0d3,n/a,https://x.com/tdatwja/status/2065249843925463108
+2026-06-13,tweetfeed,HASH_SHA256,53fb76a04bf57ec5ab4b160cb9f314825ff42fb3a7209435a74cfcaf47d6114e,phishing,https://x.com/patialavii/status/2065643412347662845
+2026-06-13,tweetfeed,HASH_SHA256,27e65692270c2425f261ff58b55c21c1f8488f613a10e95eff761e597e466bf2,phishing,https://x.com/patialavii/status/2065648636474937397
 2026-06-12,tweetfeed,HASH_MD5,3adcf5fca3f4fe23a9b73951e20d43bc,n/a,https://x.com/suyog41/status/2065407928249495664
 2026-06-12,tweetfeed,HASH_MD5,ba036fbf209b2dbdfec3fd3dee9b1798,n/a,https://x.com/suyog41/status/2065407928249495664
 2026-06-12,tweetfeed,HASH_MD5,c0796f2ee614e1711d5355ee42dcbf62,n/a,https://x.com/suyog41/status/2065407928249495664
