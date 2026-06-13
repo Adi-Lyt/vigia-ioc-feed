@@ -11,10 +11,6 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,URL,https://supertransfer.ch/,"unknown, url",n/a
 2026-06-13,threatfox,URL,https://divinenarratives.org/d.js,"js.smartapesg, url",n/a
 2026-06-13,threatfox,URL,https://bge-visa.com/,"unknown, url",n/a
-2026-06-12,threatfox,DOMAIN,vidsloii.bcgamekade.online,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,g1zevlqh.casinokade.online,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,17tx25qi.casinokade.online,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,whitfkos.ace9bet.net,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,llfarlit.bet120x.net,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,yzqzbtkr.betfidokade.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,koiffqfm.enfejarkade.online,"js.clearfake, domain",n/a
@@ -106,8 +102,7 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,DOMAIN,photo-47857.cfd,"unknown_loader, domain",n/a
 2026-06-13,threatfox,DOMAIN,vkmz8u3b.enfejarkade.online,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,xetxx.bankefile.com,"js.clearfake, domain",n/a
-2026-06-12,tweetfeed,URL,http://23.94.252.241/share/new_agreement_timo_MAY27.exe,n/a,https://x.com/ctrlaltintel/status/2065468632323469379
-2026-06-12,tweetfeed,URL,http://agencialiitributariall.eu.cc,phishing,https://x.com/skocherhan/status/2065509930551939144
+2026-06-13,threatfox,DOMAIN,jrmcsezq.hugugbime.xyz,"js.clearfake, domain",n/a
 2026-06-12,tweetfeed,URL,https://7777zzzzhfgfytryft.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065524578755952737
 2026-06-12,tweetfeed,URL,https://polyelectrolyte.com/it/fatture/,phishing,https://x.com/skocherhan/status/2065525303632425138
 2026-06-12,tweetfeed,URL,http://usps.postvtb.shop,n/a,https://x.com/skocherhan/status/2065530560563306553
@@ -623,7 +618,6 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,URL,http://8.222.192.153,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065856746191761817
 2026-06-13,tweetfeed,URL,http://amazon-clone-six-rho.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2065856767653745136
 2026-06-13,tweetfeed,URL,http://tier-suffering-contamination-cumulative.trycloudflare.com,CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
-2026-06-12,tweetfeed,DOMAIN,agencialiitributariall.eu.cc,phishing,https://x.com/skocherhan/status/2065509930551939144
 2026-06-12,tweetfeed,DOMAIN,7777zzzzhfgfytryft.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065524578755952737
 2026-06-12,tweetfeed,DOMAIN,polyelectrolyte.com,phishing,https://x.com/skocherhan/status/2065525303632425138
 2026-06-12,tweetfeed,DOMAIN,usps.postvtb.shop,n/a,https://x.com/skocherhan/status/2065530560563306553
@@ -1122,7 +1116,6 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,DOMAIN,pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,DOMAIN,amazon-clone-six-rho.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2065856767653745136
 2026-06-13,tweetfeed,DOMAIN,tier-suffering-contamination-cumulative.trycloudflare.com,CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
-2026-06-12,tweetfeed,IP,23.94.252.241,n/a,https://x.com/ctrlaltintel/status/2065468632323469379
 2026-06-12,tweetfeed,IP,45.74.47.19,phishing,https://x.com/PhishStats/status/2065539852460863626
 2026-06-13,tweetfeed,IP,43.157.186.67,phishing,https://x.com/tial_cl/status/2065579082843123864
 2026-06-13,tweetfeed,IP,43.166.238.238,phishing,https://x.com/tial_cl/status/2065579082843123864
@@ -1139,6 +1132,22 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,IP,117.89.249.254,n/a,https://x.com/sicehice/status/2065805348452155600
 2026-06-13,tweetfeed,IP,193.233.112.248,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,IP,8.222.192.153,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065856746191761817
+2026-06-13,tweetfeed,HASH_SHA256,e33a657bcb3e7d1826983323c61064825294dc7919855b8b7716adbfdda3b482,n/a,https://x.com/skocherhan/status/2065867155225149476
+2026-06-13,tweetfeed,HASH_SHA256,f141a754b57f677ef050db53a7ee5a13ec71be75fb8107af94791546d89569b3,n/a,https://x.com/skocherhan/status/2065867155225149476
+2026-06-13,tweetfeed,HASH_SHA256,8cee82d43fd476f48ed69586faa53cdfe371c42cac39c0a0f65c9adb1c2c0602,n/a,https://x.com/skocherhan/status/2065867155225149476
+2026-06-13,tweetfeed,HASH_SHA256,1174cfd0b31cd99aa94f7eb53aca60517baaeb3025cf88cc7f81d204037a1bd4,n/a,https://x.com/skocherhan/status/2065867155225149476
+2026-06-13,tweetfeed,IP,23.254.165.250,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
+2026-06-13,tweetfeed,IP,23.238.2.158,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
+2026-06-13,tweetfeed,IP,192.129.231.178,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
+2026-06-13,tweetfeed,IP,192.119.89.8,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
+2026-06-13,tweetfeed,IP,192.236.143.49,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
+2026-06-13,tweetfeed,IP,192.236.142.14,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
+2026-06-13,tweetfeed,IP,192.129.211.142,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
 2026-06-13,tweetfeed,HASH_MD5,f27aac446be266dfe6b86d9dc960feff,n/a,https://x.com/skocherhan/status/2065802401030807645
 2026-06-13,tweetfeed,HASH_MD5,0f384ec874171f57d331ef68f9d9d90e,"C2, CobaltStrike, Havoc, malware",https://x.com/skocherhan/status/2065860494880088347
 2026-06-13,tweetfeed,HASH_MD5,112cc66323d5115ae18d80ce9e681c9f,CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
+2026-06-13,tweetfeed,HASH_MD5,003ef6732551dc40df31b7fbc0852c40,n/a,https://x.com/skocherhan/status/2065869637988868470
+2026-06-13,tweetfeed,HASH_MD5,88e4e4d4e69a9a75695843a86127d5a3,n/a,https://x.com/skocherhan/status/2065872462537949671
+2026-06-13,tweetfeed,HASH_MD5,a47898f57c81150937300b20ce31f965,n/a,https://x.com/skocherhan/status/2065873995367420328
+2026-06-13,tweetfeed,HASH_MD5,3acd42d258d9e2989c0ff25f58a7224a,n/a,https://x.com/skocherhan/status/2065874451271479484
+2026-06-13,tweetfeed,HASH_MD5,6f9a570a89181818633b79e9d605c73f,n/a,https://x.com/skocherhan/status/2065877981684277747
