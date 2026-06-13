@@ -6,18 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-06,threatfox,URL,http://aloowforest.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://speedtestip.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://many-verses.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://worldofpoetry.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://crazypictures.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://clonecloud-my.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://agustfreeday-my.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://flowers-my.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://gservice-node.io/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://217.12.206.230/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://185.99.133.246/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://195.123.227.138/c2sock,"win.lumma, url",n/a
 2026-06-06,threatfox,URL,http://177.104.165.104:9443/xmrig,"elf.xmrig, url",n/a
 2026-06-06,threatfox,URL,http://45.198.224.5/ok,"elf.mirai, url",n/a
 2026-06-06,threatfox,URL,https://loureiru.lol/file.js,"js.kongtuke, url",n/a
@@ -414,29 +402,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-13,threatfox,URL,http://mottla.shop:4190,"win.remus, url",n/a
 2026-06-13,threatfox,URL,http://abscete.info/ret/two/fre.php,"win.lokipws, url",n/a
-2026-06-06,threatfox,DOMAIN,zwbnyop.jamjahani.org,"js.clearfake, domain",n/a
-2026-06-06,threatfox,DOMAIN,eizgbh.xenicalby6.com,"js.clearfake, domain",n/a
-2026-06-06,threatfox,DOMAIN,rmjjmzw.jamjahani.online,"js.clearfake, domain",n/a
-2026-06-06,threatfox,DOMAIN,mpd.loniluekegerman.com,"win.vidar, domain",n/a
-2026-06-06,threatfox,DOMAIN,mpd.hidayahnetwork.com,"win.vidar, domain",n/a
-2026-06-06,threatfox,DOMAIN,solstice-line-drift.pro,"win.deerstealer, domain",n/a
-2026-06-06,threatfox,DOMAIN,mullenpalimpseststudio.com,"win.hijackloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion,"win.lockbit, domain",n/a
-2026-06-06,threatfox,DOMAIN,fusionjanicepalimpsest.com,"win.hijackloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,fortwaynejubileebrontide.com,"win.hijackloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,effinghampodiatriclore.com,"unknown_stealer, domain",n/a
-2026-06-06,threatfox,DOMAIN,gestcular.cfd,"win.hijackloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,777palm.com,"win.stealc, domain",n/a
-2026-06-06,threatfox,DOMAIN,tinneatonenessnabobical.com,"win.lockbit, domain",n/a
 2026-06-06,threatfox,DOMAIN,loureiru.lol,"js.kongtuke, domain",n/a
 2026-06-06,threatfox,DOMAIN,openmeadowlab.top,"js.smartapesg, domain",n/a
 2026-06-06,threatfox,DOMAIN,linkedmba.com,"win.castleloader, domain",n/a
@@ -4059,7 +4024,10 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,DOMAIN,wgtpfakz.akhlagvaahkam.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,p4pav6zh.garatequran.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,xmxmplzc.hugugmadanikatouzian.xyz,"js.clearfake, domain",n/a
-2026-06-06,tweetfeed,URL,https://anandsr-dev.github.io/facebookclone,n/a,n/a
+2026-06-13,threatfox,DOMAIN,dngzhceb.hugugmadani3.xyz,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,mhhalmi.pokerkade.online,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,nwklhlmm.hugugmadani6.xyz,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,ezrzb.downloadquran.xyz,"js.clearfake, domain",n/a
 2026-06-06,threatfox,HASH_SHA256,a4225ad00fbe2123e27d25bca0988586164e2467762d2d1db304300b2d24d04b,"unknown, sha256_hash",n/a
 2026-06-06,threatfox,HASH_SHA256,ea2bb5ebd6482e87f25949e792c976dfeaddc1bcb36e2c62476854e4aa22d3a7,"unknown, sha256_hash",n/a
 2026-06-06,threatfox,HASH_SHA256,7340167a765d3d005af93fd10dbd6af48abfd50055fd6b8fca987b7c1363e5d4,"unknown, sha256_hash",n/a
@@ -5552,7 +5520,13 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,URL,http://github.com/ReZeroIsMyLove,n/a,https://x.com/skocherhan/status/2065634486524481895
 2026-06-13,tweetfeed,URL,https://sm-bankcroup.namekaka.com/LsrGnOul/,phishing,https://x.com/masaomi346/status/2065636812593496199
 2026-06-13,tweetfeed,URL,http://s.packshaomai.com/sjK_KSi,"phishing, scam",https://x.com/urldna_bot/status/2065645383695454338
-2026-06-06,tweetfeed,DOMAIN,anandsr-dev.github.io,n/a,n/a
+2026-06-13,tweetfeed,URL,https://dardsaaz.com/docusign/,phishing,https://x.com/patialavii/status/2065652306859946061
+2026-06-13,threatfox,HASH_SHA256,49999f257686cfba6fe9504ff99a7776f998e3ba4887d28d2957f040ac346306,"win.amadey, sha256_hash",n/a
+2026-06-13,threatfox,HASH_SHA256,af71d8886f256bf2393b1bf6d44b2fcb50d7d546e49bb7b6fbe151a3cf2032f5,"win.ghost_rat, sha256_hash",n/a
+2026-06-13,threatfox,HASH_SHA256,13a1587305880da5fbd956cf9a1353a336996a66735f887004e38ed65b2f7ff1,"win.taurus_stealer, sha256_hash",n/a
+2026-06-13,threatfox,HASH_SHA256,e913c5f78dbe49989518ee50ee56cdb581a16a16b5ebb2ff567d526b238a0fc2,"win.nanocore, sha256_hash",n/a
+2026-06-13,threatfox,HASH_SHA256,24efe51c32a2017f5ad0aab43a2eb099eaf4379846f1b4e8a62093338ddae517,"win.nanocore, sha256_hash",n/a
+2026-06-13,threatfox,HASH_SHA256,f2cbfb04c06d7a29349769b1c9b2c5c6b9b34f1d9f827d89b444016069f36656,"win.lokipws, sha256_hash",n/a
 2026-06-06,tweetfeed,DOMAIN,dstrred.gcesc.xyz,n/a,n/a
 2026-06-06,tweetfeed,DOMAIN,paypal.loanapproval.in,n/a,n/a
 2026-06-06,tweetfeed,DOMAIN,netflix-clone-k25l.vercel.app,n/a,n/a
@@ -6757,6 +6731,13 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,DOMAIN,upgradnewhlp.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065585005066109195
 2026-06-13,tweetfeed,DOMAIN,sm-bankcroup.namekaka.com,phishing,https://x.com/masaomi346/status/2065636812593496199
 2026-06-13,tweetfeed,DOMAIN,s.packshaomai.com,"phishing, scam",https://x.com/urldna_bot/status/2065645383695454338
+2026-06-13,tweetfeed,DOMAIN,dardsaaz.com,phishing,https://x.com/patialavii/status/2065652306859946061
+2026-06-13,threatfox,HASH_MD5,347187dc7824a887b8f6a3272b3baf12,"win.amadey, md5_hash",n/a
+2026-06-13,threatfox,HASH_MD5,fceaf8af1a6e83e0a1ae35a4a2fa35a7,"win.ghost_rat, md5_hash",n/a
+2026-06-13,threatfox,HASH_MD5,8368894761e8f296575356fe49978880,"win.taurus_stealer, md5_hash",n/a
+2026-06-13,threatfox,HASH_MD5,94d2ca3c409914ad4d42ea57ce4b36b1,"win.nanocore, md5_hash",n/a
+2026-06-13,threatfox,HASH_MD5,e5cd97b309afed34383aff420333d831,"win.nanocore, md5_hash",n/a
+2026-06-13,threatfox,HASH_MD5,a1e49c1cf7db97c042a5e5403fed0c79,"win.lokipws, md5_hash",n/a
 2026-06-06,tweetfeed,HASH_SHA256,9abd94c3ce980d6f4153256e90280a1188261b602bb8caa4dbb527a74f951ca6,n/a,n/a
 2026-06-06,tweetfeed,IP,198.144.149.133,n/a,n/a
 2026-06-06,tweetfeed,HASH_SHA256,36abd242ddaa27f0160c539377a0e92cf781c1695137850acc87e3892b436d36,n/a,n/a
