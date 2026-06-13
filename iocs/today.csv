@@ -1,12 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-12,cisa_kev,CVE,CVE-2026-35273,"Oracle  PeopleSoft Enterprise PeopleTools, kev","Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-15"
-2026-06-12,threatfox,URL,https://secure-code.lol/o,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://bronzepavilion.top/signin/auth-json,"js.smartapesg, url",n/a
-2026-06-12,threatfox,URL,https://bronzepavilion.top/signin/route-script.js,"js.smartapesg, url",n/a
-2026-06-12,threatfox,URL,https://oliveiaa.icu/api/v1/status,"js.kongtuke, url",n/a
-2026-06-12,threatfox,URL,https://slivkishow.asia/,"unknown, url",n/a
-2026-06-12,threatfox,URL,https://ggt.glamisrent.com/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-13,threatfox,URL,http://mottla.shop:4190,"win.remus, url",n/a
 2026-06-13,threatfox,URL,http://abscete.info/ret/two/fre.php,"win.lokipws, url",n/a
 2026-06-13,threatfox,URL,https://galaxygraphicsprints.com/,"win.vidar, url",n/a
@@ -19,15 +12,6 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,URL,https://supertransfer.ch/,"unknown, url",n/a
 2026-06-13,threatfox,URL,https://divinenarratives.org/d.js,"js.smartapesg, url",n/a
 2026-06-13,threatfox,URL,https://bge-visa.com/,"unknown, url",n/a
-2026-06-12,threatfox,DOMAIN,secure-code.lol,"js.kongtuke, domain",n/a
-2026-06-12,threatfox,DOMAIN,bronzepavilion.top,"js.smartapesg, domain",n/a
-2026-06-12,threatfox,DOMAIN,gzcgy.hiwino.net,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,cxdba2b3.zabanmemari.shop,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,ddk5uk7m.zabanmemari.shop,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,htftvttj.1xyek.net,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,twhjk.hazaratkade.com,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,ggt.glamisrent.com,"win.vidar, domain",n/a
-2026-06-12,threatfox,DOMAIN,ggt.gerbongsm188.top,"win.vidar, domain",n/a
 2026-06-12,threatfox,DOMAIN,wnwrwqfz.4030bet.app,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,nylmc.hotbetkade.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,tngbqcwl.22betkade.online,"js.clearfake, domain",n/a
@@ -113,7 +97,10 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,DOMAIN,avexor.top,"js.smartapesg, domain",n/a
 2026-06-13,threatfox,DOMAIN,frreliny.com,"win.unidentified_001, domain",n/a
 2026-06-13,threatfox,DOMAIN,boqetwvb.bcgamekade.online,"js.clearfake, domain",n/a
-2026-06-12,tweetfeed,URL,https://sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
+2026-06-13,threatfox,DOMAIN,dyqanvdt.betfidokade.com,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,bqxhfhog.bet313.org,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,phw2uk1e.casinokade.online,"js.clearfake, domain",n/a
+2026-06-13,threatfox,DOMAIN,k969mylb.casinokade.online,"js.clearfake, domain",n/a
 2026-06-12,tweetfeed,URL,http://98.92.188.200,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065494359676694673
 2026-06-12,tweetfeed,URL,https://services-webs.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065494376587952597
 2026-06-12,tweetfeed,URL,http://23.94.252.241/share/new_agreement_timo_MAY27.exe,n/a,https://x.com/ctrlaltintel/status/2065468632323469379
@@ -626,7 +613,10 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,URL,https://mg.page-xiongmao.com,phishing,https://x.com/kubotaa3/status/2065803581161353400
 2026-06-13,tweetfeed,URL,http://117.89.249.254:48099/Mozi.m,n/a,https://x.com/sicehice/status/2065805348452155600
 2026-06-13,tweetfeed,URL,https://lapsus.bz,n/a,https://x.com/fbgwls245/status/2065811244863594623
-2026-06-12,tweetfeed,DOMAIN,sky-102963.square.site,"phishing, scam",https://x.com/urldna_bot/status/2065464177976553897
+2026-06-13,tweetfeed,URL,http://fdijfeuhfeuofjweoxhjy.anondns.net,Xworm,https://x.com/skocherhan/status/2065832905511764034
+2026-06-13,tweetfeed,URL,http://a.pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
+2026-06-13,tweetfeed,URL,http://pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
+2026-06-13,tweetfeed,URL,http://193.233.112.248:6767,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-12,tweetfeed,DOMAIN,services-webs.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065494376587952597
 2026-06-12,tweetfeed,DOMAIN,agencialiitributariall.eu.cc,phishing,https://x.com/skocherhan/status/2065509930551939144
 2026-06-12,tweetfeed,DOMAIN,7777zzzzhfgfytryft.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065524578755952737
@@ -1122,7 +1112,9 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,DOMAIN,ssl.gov-nih.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
 2026-06-13,tweetfeed,DOMAIN,mg.page-xiongmao.com,phishing,https://x.com/kubotaa3/status/2065803581161353400
 2026-06-13,tweetfeed,DOMAIN,lapsus.bz,n/a,https://x.com/fbgwls245/status/2065811244863594623
-2026-06-12,tweetfeed,HASH_SHA256,b2fbf223cd886a164807903d9145430a119b48ef2859104aa0acc376ac8ecae3,n/a,https://x.com/impost0r_/status/2065437932140294336
+2026-06-13,tweetfeed,DOMAIN,fdijfeuhfeuofjweoxhjy.anondns.net,Xworm,https://x.com/skocherhan/status/2065832905511764034
+2026-06-13,tweetfeed,DOMAIN,a.pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
+2026-06-13,tweetfeed,DOMAIN,pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-12,tweetfeed,IP,98.92.188.200,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065494359676694673
 2026-06-12,tweetfeed,IP,23.94.252.241,n/a,https://x.com/ctrlaltintel/status/2065468632323469379
 2026-06-12,tweetfeed,IP,45.74.47.19,phishing,https://x.com/PhishStats/status/2065539852460863626
@@ -1139,4 +1131,5 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,IP,31.76.87.52,n/a,https://x.com/smica83/status/2065734861873205474
 2026-06-13,tweetfeed,HASH_SHA256,f4ce325551dff223ea27cee8fbaad5b63b1d62057786050169761d8fdd2f4e14,n/a,https://x.com/smica83/status/2065734861873205474
 2026-06-13,tweetfeed,IP,117.89.249.254,n/a,https://x.com/sicehice/status/2065805348452155600
+2026-06-13,tweetfeed,IP,193.233.112.248,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,HASH_MD5,f27aac446be266dfe6b86d9dc960feff,n/a,https://x.com/skocherhan/status/2065802401030807645
