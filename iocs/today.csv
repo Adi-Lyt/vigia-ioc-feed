@@ -1,15 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-12,cisa_kev,CVE,CVE-2026-35273,"Oracle  PeopleSoft Enterprise PeopleTools, kev","Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-15"
-2026-06-12,threatfox,URL,https://riverbreezeintl.com/,"unknown, url",n/a
-2026-06-12,threatfox,URL,https://178.105.226.167/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://167.233.40.16/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://46.224.173.3/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://65.21.96.132/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://65.21.96.134/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://167.233.39.81/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://167.233.60.161/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://178.105.87.41/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://135.181.224.78/,"win.vidar, url",n/a
 2026-06-12,threatfox,URL,https://puz.glamisrent.com/,"win.vidar, url",n/a
 2026-06-12,threatfox,URL,https://puz.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-12,threatfox,URL,http://94.183.232.247/Ciabins.sh,"unknown, url",n/a
@@ -30,257 +20,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-13,threatfox,URL,http://mottla.shop:4190,"win.remus, url",n/a
 2026-06-13,threatfox,URL,http://abscete.info/ret/two/fre.php,"win.lokipws, url",n/a
-2026-06-12,threatfox,DOMAIN,arqn7djf.vajename.xyz,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,jyp2epby.vajename.xyz,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,3d-data.dk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,1cm.org.hk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,16store.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,nffhlpcv.testdrivepaye3.com,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,willkoai.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,winninggoaltips.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,www.inmark.cz,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,www.yosushimania.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,xn--fachbersetzungen-mg-89b.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,yourlifegym.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,zahidtarique.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,zmks.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,skyscreamarts.net,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,stangecouture.com.ng,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,stephensetterlun.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,strategick9.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,swansonva.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,toonphd.co.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ucdb.top,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ufahram.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,unipurebiotech.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,veb-schwarzdruck.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,veradax.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,virusbeats.nl,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,wanderlustpottery.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,westermann-geruestbau.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,whiteclouds.edu.in,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,wi127.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,red-can.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,redversservices.co.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,remodeljax.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,remtel62.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,resttogo.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,riceaudio.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,rkme.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,road2fitness.net,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,roexca.es,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,rollerfahrer-magazin.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,roulettespel.info,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,rugbyroar.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,safatezemir.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,scandalic.fr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,sedatifpc.sk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,segupro.net,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,servicebits.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,sesiliakadrie.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,setugarg.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,shesays.business,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,si-ti.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,nancyheins.life,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,nasrev.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,newbook-awards.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,nicolasdescoteaux.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,novacare.be,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ochaven.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,official-akari.sakura.ne.jp,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,old.dlindemann.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ontdekthuiszorg.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,osmann-versicherungen.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ouroborostravel.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,parquedasreligioes.com.br,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,penelopejbarker.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,poitzmann-geissel.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,pro-sud-micro.fr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,provenpropertymanagement.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,qdsyringe.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,realmaze.nl,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,reanimation-zel.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,iberochile.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,idealclean.cz,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,iradetechnologies.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,jakartaselatanforklift.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,jdgillett.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,jetkurutemizleme.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,kateel.fr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,kovcheg37.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,kxnan.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,lanica.cz,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,lmbcreates.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,louisattorneys.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,marksantbergen.nl,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,melquesistemas.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,meynardie.net,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,mitchellproperties.info,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,dosenversteck.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,eastjournal.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ecolospazzacamino.it,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ecorium.tech,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,emtron.ca,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,escollerascatalunya.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,espero.ir,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,eyelashmakeupartist.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,fnord.com.br,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,francalima.info,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,gershpatrick.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ghrycun.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,gotthilft.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,green-riders.ma,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,habutaetofu.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,hartmann-itcoaching.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,heronservis.cz,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,hogeinzetroulette.info,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,horlogescomtoises.fr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,hottama.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,annamojo.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,antifur.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,avtomsport.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,aynavziv.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,brianjcoleman.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,bryanskspirtprom.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,chimstedtphoto.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,chrisbalck.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,cimetierejuifmarrakech.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,claude-cubizolles.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,comitedentreprise.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,contielektro.cz,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,croydoncommunitychurch.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,cypsa32.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,dealsforall.online,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,derdoc.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,dieruchs.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,djvictor1200.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,dkrnl.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,1688.bxprint.cn,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,adictosalainformatica.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,akarisakura-official.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ambulancepartners.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,anja-bourdais.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,anjabourdais.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,wnfo1c8w.tanasobmafhumi.xyz,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,ozymtyh.tahgigbazargan.xyz,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,recuperacionescobohermanos.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,shop.bosfam.ba,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,steepdvapeco.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,stephanieg.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,susannelouise.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,sweetdreamsanesthesiaomaha.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,swingsavings.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,vjequipamentospr.com.br,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,wepo.co.il,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,greatganesh.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,haghverdi.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,herenciaba.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,hilaryfarr.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,homestaypenanghnz.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ibce.biz,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,informasiya.com.az,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ingram.ba,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,kleinspoortjie.co.za,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,landscapesnaturally.co.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,lanna365.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,mls-services.co.za,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,niz.ba,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,opcina-kljuc.ba,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,pitosengineering.gr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,portfoliojimmy.azurewebsites.net,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,prettyhousecompany.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,prodaja.niz.ba,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,proizvodnja.niz.ba,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,protennis.com.ar,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,pvzaccounting.co.za,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,deming.no,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,digion.ca,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,doking.shop,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,dolbear.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,dorkyappergrub.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,duhautdemonarbre.fr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,emilclaeson.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ezinsurance318.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,famillerussello.fr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,galaxygoldbuyers.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,gamehub.sg,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,girlifi.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,bukvalno.ba,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,buzzing-basement.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,cabinet-hypnose.fr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,capitalshelterltd.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ccoouab.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,centerstagelakeforest.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,cerodeforestacion.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,chiefsafetysolutions.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,chrispoorten.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,christianbonke.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,cjliegelfoundation.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,clinicadc.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,colonyparklakeside.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,colonyparklakeside.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,cornishpilgrimage.org.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,cyberdurden.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,danilovskih.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,amybaker.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,amyhotzwellness.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,andreapaolinelli.it,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,andrespilar.com.ar,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,annhagedorn.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,apahi.or.id,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,apartmani-majda.eu,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,arendalsjakk.no,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,arnanmax.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,atprogetti.it,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,auffiundabi.de,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,b-magic.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,balkan-express.eu,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,baobichen.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,belajarlisensi.id,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,bellarochelle.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,benawifi.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,benoit.dausse.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,benoregan.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,beurse.nl,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,billdunn.co.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,blinqeyelashes.com.au,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,blueridgetinyhouse.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,bolandkerk.co.za,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,brandnumarketing.co.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,bso-buitengewoon.nl,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,4uagenciamarketing.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,7breakthroughhabits.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,7oz-school.ru,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,7thstatedesigns.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,a-talentagency.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,abra.org.tw,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,abutterflysjourney.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,academia1750.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,aceitedeolivanatural.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,adelkdantas.com.br,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,aeae.me,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,aerayne.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,afsart.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,agamoveis.com.br,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,agenciaopen.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,agenciaspacial.com.br,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,agmfencing.co.uk,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,aitowa.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,aiueo.web.id,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,akselmed.pl,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,alexandersingh.org,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,alixar.gr,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,altafrica.co.za,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,alzconstruction.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,ameenfermeria.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,www.wildnor.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,medmakine.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,asiasim.ir,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,lannalee.com.lannaleemaheux.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,majkproperty.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,merafondeur.com,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,marolive.es,"win.strelastealer, domain",n/a
-2026-06-12,threatfox,DOMAIN,miloserd.ru,"win.strelastealer, domain",n/a
 2026-06-12,threatfox,DOMAIN,tfpvi.testranandegi.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,cnurx.testranandegi.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,jebclxk.raftarsazmani.xyz,"js.clearfake, domain",n/a
@@ -408,30 +147,7 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,DOMAIN,ggcjxgov.fununetadris.shop,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,v47e4385.fununetadris.shop,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,gsdzofat.winxbet.co,"js.clearfake, domain",n/a
-2026-06-12,tweetfeed,URL,https://github.com/DataDog/guarddog/blob/main/tests,n/a,https://x.com/struppigel/status/2065307199124000899
-2026-06-12,tweetfeed,URL,http://142.11.200.186,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,URL,http://142.11.200.187,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,URL,http://142.11.200.188,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,URL,http://142.11.200.189,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,URL,http://142.11.200.190,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,URL,http://azurenetfiles.net,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.tyhjhs.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.jaicbwcpzx.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.ctwhlm.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.nicolaskurtovic.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.ttzwaaam.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.zxgksjzwzhw.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.grapevinedrugmart.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.itsokaymovie.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.guangzhouspanet.com/newsinvestor-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,https://smbc-cardindex.kpnxzqd.com/newsinvestore-jp,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,URL,http://69.164.245.166,n/a,https://x.com/nextronresearch/status/2065351311403475258
-2026-06-12,tweetfeed,URL,https://irsil.pt/whiper/,phishing,https://x.com/JAMESWT_WT/status/2065352083256090773
-2026-06-12,tweetfeed,URL,https://considerate-cyan-crocodile.31-22-7-7.cpanel.site/ultimate/,phishing,https://x.com/JAMESWT_WT/status/2065352083256090773
-2026-06-12,tweetfeed,URL,https://promerico.eu.cc/card.html,phishing,https://x.com/PhishStats/status/2065352475805208590
-2026-06-12,threatfox,HASH_SHA256,ef9a91a7f3423d779353baebed34aa1f3b6104e7e4730c77fe8457b42a576ac5,"elf.tsunami, sha256_hash",n/a
-2026-06-12,threatfox,HASH_SHA256,e9c924c170332d42cae71bb9113ed9556cf91d5c50257b316eb433be9a211fb7,"elf.tsunami, sha256_hash",n/a
-2026-06-12,threatfox,HASH_SHA256,f32b209d33c4194f37dbbf2a677c4faf78cf6b24cf2474bf1c14aed17af40b2e,"elf.tsunami, sha256_hash",n/a
+2026-06-13,threatfox,DOMAIN,sh6rkpx6.shartmag.bet,"js.clearfake, domain",n/a
 2026-06-12,tweetfeed,URL,https://webbbadminoffice247.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065373600132034577
 2026-06-12,tweetfeed,URL,http://ftp.melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
 2026-06-12,tweetfeed,URL,http://162.0.209.89,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
@@ -902,20 +618,10 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,URL,http://btc291.com,phishing,https://x.com/skocherhan/status/2065680079741489267
 2026-06-13,tweetfeed,URL,https://qontomsg07.web.app,"phishing, scam",https://x.com/urldna_bot/status/2065705772600684663
 2026-06-13,tweetfeed,URL,https://msasistemas.com.ar/services/correos-org/c/corr.php,phishing,https://x.com/PhishStats/status/2065716661714346012
-2026-06-12,tweetfeed,DOMAIN,azurenetfiles.net,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.tyhjhs.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.jaicbwcpzx.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.ctwhlm.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.nicolaskurtovic.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.ttzwaaam.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.zxgksjzwzhw.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.grapevinedrugmart.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.itsokaymovie.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.guangzhouspanet.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,smbc-cardindex.kpnxzqd.com,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,DOMAIN,irsil.pt,phishing,https://x.com/JAMESWT_WT/status/2065352083256090773
-2026-06-12,tweetfeed,DOMAIN,considerate-cyan-crocodile.31-22-7-7.cpanel.site,phishing,https://x.com/JAMESWT_WT/status/2065352083256090773
-2026-06-12,tweetfeed,DOMAIN,promerico.eu.cc,phishing,https://x.com/PhishStats/status/2065352475805208590
+2026-06-13,tweetfeed,URL,http://104.253.79.245:3000,n/a,https://x.com/smica83/status/2065725972356223156
+2026-06-13,tweetfeed,URL,https://influence-meets-town-came.trycloudflare.com/gun/,opendir,https://x.com/smica83/status/2065729692913553438
+2026-06-13,tweetfeed,URL,https://mirrors-curves-tumor-venues.trycloudflare.com,opendir,https://x.com/smica83/status/2065730001832378803
+2026-06-13,tweetfeed,URL,https://mortality-artists-intend-bishop.trycloudflare.com/28392/,opendir,https://x.com/smica83/status/2065730410303082913
 2026-06-12,tweetfeed,DOMAIN,webbbadminoffice247.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065373600132034577
 2026-06-12,tweetfeed,DOMAIN,ftp.melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
 2026-06-12,tweetfeed,DOMAIN,melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
@@ -1366,16 +1072,9 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,DOMAIN,btc291.com,phishing,https://x.com/skocherhan/status/2065680079741489267
 2026-06-13,tweetfeed,DOMAIN,qontomsg07.web.app,"phishing, scam",https://x.com/urldna_bot/status/2065705772600684663
 2026-06-13,tweetfeed,DOMAIN,msasistemas.com.ar,phishing,https://x.com/PhishStats/status/2065716661714346012
-2026-06-12,tweetfeed,IP,142.11.200.186,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,IP,142.11.200.187,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,IP,142.11.200.188,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,IP,142.11.200.189,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,IP,142.11.200.190,n/a,https://x.com/rxerium/status/2065324203557937185
-2026-06-12,tweetfeed,IP,45.202.1.82,n/a,https://x.com/KesaGataMe0/status/2065328500178080233
-2026-06-12,tweetfeed,IP,69.164.245.166,n/a,https://x.com/nextronresearch/status/2065351311403475258
-2026-06-12,tweetfeed,HASH_SHA256,7089c8c1c117fa7ffdc68abe4b3c4a6f83b2b4f1827d805bf52d8705cf14eaab,n/a,https://x.com/nextronresearch/status/2065351311403475258
-2026-06-12,tweetfeed,HASH_SHA256,3de7ccdf0fbe423b5646640d572a8a675f275e82f38eee76e067864b9993e730,n/a,https://x.com/nextronresearch/status/2065351311403475258
-2026-06-12,tweetfeed,IP,47.85.10.171,phishing,https://x.com/PhishStats/status/2065352475805208590
+2026-06-13,tweetfeed,DOMAIN,influence-meets-town-came.trycloudflare.com,opendir,https://x.com/smica83/status/2065729692913553438
+2026-06-13,tweetfeed,DOMAIN,mirrors-curves-tumor-venues.trycloudflare.com,opendir,https://x.com/smica83/status/2065730001832378803
+2026-06-13,tweetfeed,DOMAIN,mortality-artists-intend-bishop.trycloudflare.com,opendir,https://x.com/smica83/status/2065730410303082913
 2026-06-12,tweetfeed,HASH_SHA256,01f8832e1da252782190d58b1d4ed7cebb9c6dade34ca58dd19eebd5e537d604,n/a,https://x.com/smica83/status/2065366053861953750
 2026-06-12,tweetfeed,IP,162.0.209.89,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
 2026-06-12,tweetfeed,HASH_SHA256,615f9ecc51ccce0de6e88dcff70662f77965214bf5ad0cc7e07bc4fae72c40d0,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
@@ -1405,6 +1104,8 @@ date,user,type,ioc,tags,context
 2026-06-13,tweetfeed,HASH_SHA256,53fb76a04bf57ec5ab4b160cb9f314825ff42fb3a7209435a74cfcaf47d6114e,phishing,https://x.com/patialavii/status/2065643412347662845
 2026-06-13,tweetfeed,HASH_SHA256,27e65692270c2425f261ff58b55c21c1f8488f613a10e95eff761e597e466bf2,phishing,https://x.com/patialavii/status/2065648636474937397
 2026-06-13,tweetfeed,IP,181.88.192.198,phishing,https://x.com/PhishStats/status/2065716661714346012
+2026-06-13,tweetfeed,IP,104.253.79.245,n/a,https://x.com/smica83/status/2065725972356223156
+2026-06-13,tweetfeed,HASH_SHA256,ebcd0b8e1822095be663cb987dcc4e99d622567fff4a53cf04bc4bc3e151bc1d,n/a,https://x.com/smica83/status/2065725972356223156
 2026-06-12,tweetfeed,HASH_MD5,3adcf5fca3f4fe23a9b73951e20d43bc,n/a,https://x.com/suyog41/status/2065407928249495664
 2026-06-12,tweetfeed,HASH_MD5,ba036fbf209b2dbdfec3fd3dee9b1798,n/a,https://x.com/suyog41/status/2065407928249495664
 2026-06-12,tweetfeed,HASH_MD5,c0796f2ee614e1711d5355ee42dcbf62,n/a,https://x.com/suyog41/status/2065407928249495664
