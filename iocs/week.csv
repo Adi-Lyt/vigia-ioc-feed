@@ -6,28 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-06,threatfox,URL,http://177.104.165.104:9443/xmrig,"elf.xmrig, url",n/a
-2026-06-06,threatfox,URL,http://45.198.224.5/ok,"elf.mirai, url",n/a
-2026-06-06,threatfox,URL,https://loureiru.lol/file.js,"js.kongtuke, url",n/a
-2026-06-06,threatfox,URL,https://loureiru.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-06-06,threatfox,URL,https://loureiru.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-06,threatfox,URL,https://loureiru.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-06-06,threatfox,URL,http://2flowers-my.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://vipcloud-my.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://gstatic-node.io/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://solopodvip-my.xyz/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://winhttp.dll/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://82.117.255.80/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://195.123.226.91/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,http://195.123.226.167/c2sock,"win.lumma, url",n/a
-2026-06-06,threatfox,URL,https://openmeadowlab.top/health/session-deploy.js,"js.smartapesg, url",n/a
-2026-06-06,threatfox,URL,https://openmeadowlab.top/health/public-layout,"js.smartapesg, url",n/a
-2026-06-06,threatfox,URL,https://openmeadowlab.top/health/signup-module.js,"js.smartapesg, url",n/a
-2026-06-06,threatfox,URL,https://diranda.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-06-06,threatfox,URL,https://captcha-checkpoint.top/o,"js.kongtuke, url",n/a
-2026-06-06,threatfox,URL,https://copperbeacon.top/health/session-deploy.js,"js.smartapesg, url",n/a
-2026-06-06,threatfox,URL,http://196.251.107.104/Psd8eZaW/index.php,"win.amadey, url",n/a
-2026-06-06,threatfox,URL,https://pas.sm188star.top/,"win.vidar, url",n/a
 2026-06-06,threatfox,URL,http://45.205.1.59/ok,"elf.mirai, url",n/a
 2026-06-07,threatfox,URL,http://176.65.139.151/Sakura.sh,"elf.mirai, url",n/a
 2026-06-07,threatfox,URL,http://78.40.117.175:8000/xmrig,"elf.xmrig, url",n/a
@@ -402,43 +380,6 @@ date,user,type,ioc,tags,context
 2026-06-12,threatfox,URL,https://ggt.gerbongsm188.top/,"win.vidar, url",n/a
 2026-06-13,threatfox,URL,http://mottla.shop:4190,"win.remus, url",n/a
 2026-06-13,threatfox,URL,http://abscete.info/ret/two/fre.php,"win.lokipws, url",n/a
-2026-06-06,threatfox,DOMAIN,loureiru.lol,"js.kongtuke, domain",n/a
-2026-06-06,threatfox,DOMAIN,openmeadowlab.top,"js.smartapesg, domain",n/a
-2026-06-06,threatfox,DOMAIN,linkedmba.com,"win.castleloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,allenjarmon.com,"win.castleloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,writersfm.com,"win.castleloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,crewlworkinew.com,"win.castleloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,linkedwiz.com,"win.castleloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,amazon-cz.com,"win.castleloader, domain",n/a
-2026-06-06,threatfox,DOMAIN,groupewadesecurity.com,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,saludmasculina-mx.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-ar.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,salud-masculina-mex.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-bro.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-bf.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,salud-masculina-mexic.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-poc.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,reclaimremedy.vip,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,insightinnovation.info,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,cipherinsight.info,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-go.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-iq.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-aro.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-ira.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-pou.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,labibsyagakport.com,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,sihat-alrajul-qe.buzz,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,refundrescue.info,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,koloosdas.life,"win.rhadamanthys, domain",n/a
-2026-06-06,threatfox,DOMAIN,captcha-checkpoint.top,"js.kongtuke, domain",n/a
-2026-06-06,threatfox,DOMAIN,secure.therunningink.com,"js.fakeupdates, domain",n/a
-2026-06-06,threatfox,DOMAIN,temp.logicfrontier.cc,"unknown, domain",n/a
-2026-06-06,threatfox,DOMAIN,mdprzinwo.xyz,"win.snappy_client, domain",n/a
-2026-06-06,threatfox,DOMAIN,gvrrgvn.jamjahani.promo,"js.clearfake, domain",n/a
-2026-06-06,threatfox,DOMAIN,jamjahani.promo,"js.clearfake, domain",n/a
-2026-06-06,"threatfox,tweetfeed",DOMAIN,pas.sm188star.top,"win.vidar, domain",n/a
-2026-06-06,threatfox,DOMAIN,kaxofkea.bizbetslot.net,"js.clearfake, domain",n/a
-2026-06-06,threatfox,DOMAIN,33aesmo5.bizbetslot.net,"js.clearfake, domain",n/a
 2026-06-06,threatfox,DOMAIN,bushesbone.xyz,"unknown_loader, domain",n/a
 2026-06-06,threatfox,DOMAIN,khndao.x50wheel.bet,"js.clearfake, domain",n/a
 2026-06-06,threatfox,DOMAIN,posdteu.shop,"win.remus, domain",n/a
@@ -4028,9 +3969,6 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,DOMAIN,mhhalmi.pokerkade.online,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,nwklhlmm.hugugmadani6.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,ezrzb.downloadquran.xyz,"js.clearfake, domain",n/a
-2026-06-06,threatfox,HASH_SHA256,a4225ad00fbe2123e27d25bca0988586164e2467762d2d1db304300b2d24d04b,"unknown, sha256_hash",n/a
-2026-06-06,threatfox,HASH_SHA256,ea2bb5ebd6482e87f25949e792c976dfeaddc1bcb36e2c62476854e4aa22d3a7,"unknown, sha256_hash",n/a
-2026-06-06,threatfox,HASH_SHA256,7340167a765d3d005af93fd10dbd6af48abfd50055fd6b8fca987b7c1363e5d4,"unknown, sha256_hash",n/a
 2026-06-06,tweetfeed,URL,https://paypal.loanapproval.in,n/a,n/a
 2026-06-06,tweetfeed,URL,http://43.128.26.132,n/a,n/a
 2026-06-06,tweetfeed,URL,https://netflix-clone-k25l.vercel.app,n/a,n/a
