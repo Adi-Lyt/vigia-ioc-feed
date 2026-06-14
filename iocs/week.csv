@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-07,threatfox,URL,http://78.40.117.175:8000/xmrig,"elf.xmrig, url",n/a
-2026-06-07,threatfox,URL,https://auyflxp.emshab.bet/67f96131-221b-4322-8c31-cbfd82a14546,"unknown, url",n/a
 2026-06-07,threatfox,URL,http://94.26.83.133/4940cc4b5ddb4a2bb8f8.php,"win.stealc, url",n/a
 2026-06-08,threatfox,URL,https://ebuydepot.com/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://healgram.gr/,"win.vidar, url",n/a
@@ -402,100 +400,6 @@ date,user,type,ioc,tags,context
 2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/create.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/connection.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,https://agn-deco.ro/,"win.vidar, url",n/a
-2026-06-07,threatfox,DOMAIN,xsutsu.jamjahani2026.football,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,po6drihx.onexprobet.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,ddimsjy.pasoorbazi.casino,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,pasoorbazi.casino,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,wxjbkv.onlineshart.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,whdecl.oxidbet.bet,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,mutvwz.ozabet90.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,b4376y8b.asion.gr,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,2jgfxx83.liketudong.biz,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,30tr04n4gr4m4.cndb-jsdelivr-net.christmas,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,udyvsthy.quantum-vault.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,runtime-foundry.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,kernel-cascade.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,thickentributary.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,j1jh2b9y.jacksorbetter.casino,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,container-atlas.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,auyflxp.emshab.bet,"unknown, domain",n/a
-2026-06-07,threatfox,DOMAIN,seuvsq.pablobet90.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,eqzsjra.pasur21.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,quyycf.parsball.casino,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,edge-bloom-platform.garden,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,wildflower-routing-path.garden,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,wildflower-path-mapping.garden,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,dedicatetake-outpure.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,eh-masled.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,vsif6dio.animalspintroll-xerography.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,correction-pancake-seissy.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,serverlesscontrolplane.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,distributed-event-processing-lab.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,telemetry-stream-core.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,edge-network-hub.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,49h06cy9.pashtuns-study-rose-hip.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,microservicecluster.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,neural-routing-fabric.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,packet-relay-engine.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,sgs68ivh.binary-dock.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,puffingsiterreorganize.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,smuggler-beluga-notion.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,5nan0z8w.sniffingviableoffice.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,runtime-control-plane.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,kadush-sideburnsushan.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,packet-routing-lab.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,enterprise-security-log.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,system-analytics-pro-guide.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,ws09ax4h.limous-nitout.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,smartworkflowmanagement.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,pro-cyber-defense.courses,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,layer-obs-usget-tron.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,ywh94lky.champag-mannered.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,card-oracle-mac-laptop.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,handout-voivo-desk-ship-link.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,master-voivo-system-shop-slink.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,stack-core-node-date-hash.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,global-infra-logic-get-hash.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,edge-processing-network.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,desk-sensor-tabel-tunnel-key.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,meta-data-shredding-cleanup-utility.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,analytical-traffic-audit-record-file.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,conjur-kremlinshort.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,64bc33vp.chequecholeric.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,packetdistributionmesh.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,telemetry-observability-core.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,decentralizedmessagingframework.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,microkernel-routing-engine.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,decentralizedworkflowengine.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,obese-uzousweb-play.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,accoun-table-unleash-soft.wiki,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,dnmjbsbqsb.com,"win.valley_rat, domain",n/a
-2026-06-07,threatfox,DOMAIN,recargapopular.com,"unknown, domain",n/a
-2026-06-07,threatfox,DOMAIN,welovechinatown.info,"unknown, domain",n/a
-2026-06-07,threatfox,DOMAIN,glokchapigui.co,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,perspectives-family.org,"win.nanocore, domain",n/a
-2026-06-07,threatfox,DOMAIN,cccflknorgnsd.cn,"win.valley_rat, domain",n/a
-2026-06-07,threatfox,DOMAIN,xm06vmby.repu1sivebrazen.digital,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,bj88jpn.com,"win.quasar_rat, domain",n/a
-2026-06-07,threatfox,DOMAIN,bj88indo.net,"win.quasar_rat, domain",n/a
-2026-06-07,threatfox,DOMAIN,kjkgsi-gsjgkan-wintersga.pages.dev,"unknown_stealer, domain",n/a
-2026-06-07,threatfox,DOMAIN,3000vps.kozow.com,"win.dcrat, domain",n/a
-2026-06-07,threatfox,DOMAIN,vps3000.kozow.com,"win.asyncrat, domain",n/a
-2026-06-07,threatfox,DOMAIN,clients.enigmasolutions.xyz,"win.netwire, domain",n/a
-2026-06-07,threatfox,DOMAIN,startmenuexperiencehosting.ydns.eu,"win.asyncrat, domain",n/a
-2026-06-07,threatfox,DOMAIN,test.accendente.tn,"win.njrat, domain",n/a
-2026-06-07,threatfox,DOMAIN,2ffahbg8eydhr96hx3x2lje2ymygt5iq.duckdns.org,"win.njrat, domain",n/a
-2026-06-07,threatfox,DOMAIN,muhoste.ddnsfree.com,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,remcoss.onmypc.org,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,systen32.ddns.net,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,remco102.duckdns.org,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,cashout2018.ddnss.de,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,wiskiriski15.duckdns.org,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,bobo231.hopto.org,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,remco101.duckdns.org,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,plunder.nsupdate.info,"win.remcos, domain",n/a
-2026-06-07,threatfox,DOMAIN,manuel3.publicvm.com,"win.quasar_rat, domain",n/a
-2026-06-07,threatfox,DOMAIN,office365update.duckdns.org,"win.nanocore, domain",n/a
 2026-06-07,threatfox,DOMAIN,jrekcyl.pasoor11.bet,"js.clearfake, domain",n/a
 2026-06-07,threatfox,DOMAIN,rd7o3xct.parsgoal90.com,"js.clearfake, domain",n/a
 2026-06-07,threatfox,DOMAIN,u8z97prx.parsgoal90.com,"js.clearfake, domain",n/a
@@ -4058,7 +3962,6 @@ date,user,type,ioc,tags,context
 2026-06-14,threatfox,DOMAIN,eviwuji.megaparikade.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,rteutcjg.hugugtatbigi.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,zrbhitjy.hugugmadanikatouzian.xyz,"js.clearfake, domain",n/a
-2026-06-07,threatfox,HASH_SHA256,4bc74592e63eddfbf8d60991f1987369fd94983cbe1aea350f31f50bad2e2ccb,"unknown, sha256_hash",n/a
 2026-06-07,tweetfeed,URL,https://dericko-droid.github.io/Netflix/Cadastro.html,n/a,n/a
 2026-06-07,tweetfeed,URL,https://chainmoduledapp.web.app,n/a,n/a
 2026-06-07,tweetfeed,URL,http://sites.google.com/view/naver-com-acct26-web3fm-1,n/a,n/a
@@ -5685,7 +5588,6 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,URL,http://69.48.229.22,n/a,https://x.com/smica83/status/2066165482424606736
 2026-06-14,tweetfeed,URL,http://galiciaoffices.help,n/a,https://x.com/skocherhan/status/2066166921309929840
 2026-06-14,tweetfeed,URL,http://ptcgdempresa.help,n/a,https://x.com/skocherhan/status/2066166921309929840
-2026-06-07,threatfox,HASH_MD5,c15b5b6667ea2766cc5e7187818414b2,"unknown, md5_hash",n/a
 2026-06-07,tweetfeed,DOMAIN,dericko-droid.github.io,n/a,n/a
 2026-06-07,tweetfeed,DOMAIN,chainmoduledapp.web.app,n/a,n/a
 2026-06-07,tweetfeed,DOMAIN,nid-naverkuf.servehalflife.com,n/a,n/a
