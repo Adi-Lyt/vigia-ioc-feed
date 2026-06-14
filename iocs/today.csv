@@ -13,7 +13,6 @@ date,user,type,ioc,tags,context
 2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/create.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/connection.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,https://agn-deco.ro/,"win.vidar, url",n/a
-2026-06-13,threatfox,DOMAIN,jrmcsezq.hugugbime.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,wdbcypih.hugugedari.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,osggwts6.fubet24.net,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,lmjkrmqt.fubet24.net,"js.clearfake, domain",n/a
@@ -208,6 +207,8 @@ date,user,type,ioc,tags,context
 2026-06-14,threatfox,DOMAIN,npmc4uw2.zabanenglishanari.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,xntwroz.melbetkade.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,cfwrfrqx.leaguejazire.com,"js.clearfake, domain",n/a
+2026-06-14,threatfox,DOMAIN,fsphwjzi.maharatmodiran.xyz,"js.clearfake, domain",n/a
+2026-06-14,threatfox,DOMAIN,emqtqmnj.mabanishimi.xyz,"js.clearfake, domain",n/a
 2026-06-13,tweetfeed,URL,https://muski-gupta.github.io/NETFLIX_CLONE/,"phishing, scam",https://x.com/urldna_bot/status/2065886969217888378
 2026-06-13,tweetfeed,URL,http://abbeyhomes.top,n/a,https://x.com/skocherhan/status/2065889086041133144
 2026-06-13,tweetfeed,URL,http://method8888.ddns.net,Remcos,https://x.com/skocherhan/status/2065890468836028630
@@ -471,17 +472,6 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,DOMAIN,ptcgdempresa.help,n/a,https://x.com/skocherhan/status/2066166921309929840
 2026-06-14,tweetfeed,DOMAIN,yahoojkj.github.io,"phishing, scam",https://x.com/urldna_bot/status/2066188958447341769
 2026-06-14,tweetfeed,DOMAIN,seitentaisei1304.github.io,"phishing, scam",https://x.com/urldna_bot/status/2066219164008612315
-2026-06-13,tweetfeed,HASH_SHA256,e33a657bcb3e7d1826983323c61064825294dc7919855b8b7716adbfdda3b482,n/a,https://x.com/skocherhan/status/2065867155225149476
-2026-06-13,tweetfeed,HASH_SHA256,f141a754b57f677ef050db53a7ee5a13ec71be75fb8107af94791546d89569b3,n/a,https://x.com/skocherhan/status/2065867155225149476
-2026-06-13,tweetfeed,HASH_SHA256,8cee82d43fd476f48ed69586faa53cdfe371c42cac39c0a0f65c9adb1c2c0602,n/a,https://x.com/skocherhan/status/2065867155225149476
-2026-06-13,tweetfeed,HASH_SHA256,1174cfd0b31cd99aa94f7eb53aca60517baaeb3025cf88cc7f81d204037a1bd4,n/a,https://x.com/skocherhan/status/2065867155225149476
-2026-06-13,tweetfeed,IP,23.254.165.250,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
-2026-06-13,tweetfeed,IP,23.238.2.158,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
-2026-06-13,tweetfeed,IP,192.129.231.178,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
-2026-06-13,tweetfeed,IP,192.119.89.8,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
-2026-06-13,tweetfeed,IP,192.236.143.49,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
-2026-06-13,tweetfeed,IP,192.236.142.14,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
-2026-06-13,tweetfeed,IP,192.129.211.142,"DPRK, Lazarus",https://x.com/_IMalihi_/status/2065870493505233151
 2026-06-13,tweetfeed,IP,91.227.114.8,Remcos,https://x.com/skocherhan/status/2065890468836028630
 2026-06-13,tweetfeed,IP,91.195.240.94,phishing,https://x.com/PhishStats/status/2065898403272290411
 2026-06-13,tweetfeed,IP,213.218.160.89,n/a,https://x.com/smica83/status/2065904165830750357
@@ -514,11 +504,6 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,HASH_SHA256,26af0b30bc86ab158950a7c0dd487f0fb58e03bb02a32dffab30f61b6c7edee9,n/a,https://x.com/smica83/status/2066165482424606736
 2026-06-14,tweetfeed,IP,104.236.69.171,CobaltStrike,https://x.com/skocherhan/status/2066182570962747631
 2026-06-14,tweetfeed,IP,45.152.243.170,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066219136569757752
-2026-06-13,tweetfeed,HASH_MD5,003ef6732551dc40df31b7fbc0852c40,n/a,https://x.com/skocherhan/status/2065869637988868470
-2026-06-13,tweetfeed,HASH_MD5,88e4e4d4e69a9a75695843a86127d5a3,n/a,https://x.com/skocherhan/status/2065872462537949671
-2026-06-13,tweetfeed,HASH_MD5,a47898f57c81150937300b20ce31f965,n/a,https://x.com/skocherhan/status/2065873995367420328
-2026-06-13,tweetfeed,HASH_MD5,3acd42d258d9e2989c0ff25f58a7224a,n/a,https://x.com/skocherhan/status/2065874451271479484
-2026-06-13,tweetfeed,HASH_MD5,6f9a570a89181818633b79e9d605c73f,n/a,https://x.com/skocherhan/status/2065877981684277747
 2026-06-13,tweetfeed,HASH_MD5,4104b9f80bc82cf655340a8181aa52d4,n/a,https://x.com/skocherhan/status/2065882085466779928
 2026-06-13,tweetfeed,HASH_MD5,ea47fd87c1b109d5fd529c213aea6b30,n/a,https://x.com/Now_on_VT/status/2065893944060227919
 2026-06-13,tweetfeed,HASH_MD5,a12c8b9622b99ea8751b6203267b4319,n/a,https://x.com/skocherhan/status/2065913297577066601
