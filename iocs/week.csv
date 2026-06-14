@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-07,threatfox,URL,http://176.65.139.151/Sakura.sh,"elf.mirai, url",n/a
 2026-06-07,threatfox,URL,http://78.40.117.175:8000/xmrig,"elf.xmrig, url",n/a
 2026-06-07,threatfox,URL,https://auyflxp.emshab.bet/67f96131-221b-4322-8c31-cbfd82a14546,"unknown, url",n/a
 2026-06-07,threatfox,URL,http://94.26.83.133/4940cc4b5ddb4a2bb8f8.php,"win.stealc, url",n/a
@@ -389,12 +388,6 @@ date,user,type,ioc,tags,context
 2026-06-13,threatfox,URL,https://supertransfer.ch/,"unknown, url",n/a
 2026-06-13,threatfox,URL,https://divinenarratives.org/d.js,"js.smartapesg, url",n/a
 2026-06-13,threatfox,URL,https://bge-visa.com/,"unknown, url",n/a
-2026-06-07,threatfox,DOMAIN,zfrfayl.one1xbet.app,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,l9tynneu.mybookieiran.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,ofin6ctx.mybookieiran.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,a96ampff.mrgreenbetiran.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,ksaj1cgw.mrgreenbetiran.com,"js.clearfake, domain",n/a
-2026-06-07,threatfox,DOMAIN,avygupe.one1xbet.casino,"js.clearfake, domain",n/a
 2026-06-07,threatfox,DOMAIN,et5qogz2.one1xbet.promo,"js.clearfake, domain",n/a
 2026-06-07,threatfox,DOMAIN,nqbecrh.one1x.bet,"js.clearfake, domain",n/a
 2026-06-07,threatfox,DOMAIN,g2z2cnlz.pascal.casino,"js.clearfake, domain",n/a
@@ -6736,7 +6729,6 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,DOMAIN,robiox.com.py,"phishing, scam",https://x.com/urldna_bot/status/2066068156804645009
 2026-06-14,tweetfeed,DOMAIN,bestprint.cfd,phishing,https://x.com/Malwarehunterr/status/2066085559764918377
 2026-06-14,tweetfeed,DOMAIN,titanprint.co.in,phishing,https://x.com/Malwarehunterr/status/2066085559764918377
-2026-06-07,tweetfeed,HASH_SHA256,ad21af758af28b7675c55e64bf5a9b3318f286e4963ff72470a311c2e18f42ff,n/a,n/a
 2026-06-07,tweetfeed,HASH_SHA256,9fee0a50e6dbd19fb478225eaa0935fc2737c7d6b857ad325b1fc4d0b5988e2b,n/a,n/a
 2026-06-07,tweetfeed,IP,74.80.110.197,n/a,n/a
 2026-06-07,tweetfeed,HASH_SHA256,5af77b5f5d014162cd3bf43314ebb91f39658c5be335c1efff7c9564e298e719,n/a,n/a
