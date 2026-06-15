@@ -6,12 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,http://45.12.253.74/pineapple.php,"win.gcleaner, url",n/a
-2026-06-08,threatfox,URL,http://45.12.253.56/advertisting/plus.php,"win.gcleaner, url",n/a
-2026-06-08,threatfox,URL,http://45.12.253.72/default/puk.php,"win.gcleaner, url",n/a
-2026-06-08,threatfox,URL,http://45.12.253.72/default/stuk.php,"win.gcleaner, url",n/a
-2026-06-08,threatfox,URL,http://45.12.253.75/dll.php,"win.gcleaner, url",n/a
-2026-06-08,threatfox,URL,http://appwebstat.biz/info.php,"win.ccleaner_backdoor, url",n/a
 2026-06-08,threatfox,URL,http://212.192.246.217/access.php,"win.gcleaner, url",n/a
 2026-06-08,threatfox,URL,http://45.9.20.13/partner/loot.php,"win.gcleaner, url",n/a
 2026-06-08,threatfox,URL,http://37.0.8.39/access.php,"win.gcleaner, url",n/a
@@ -386,41 +380,6 @@ date,user,type,ioc,tags,context
 2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/connection.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,https://agn-deco.ro/,"win.vidar, url",n/a
 2026-06-14,threatfox,URL,https://avpungxx.com/,"win.vidar, url",n/a
-2026-06-08,threatfox,DOMAIN,zqzlac.vezaratshart.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,sesksz.venusbet90.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,ylljjmv.wolfenm.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,wolfenm.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,bzwbfps.winxbet.co,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,florida-grower.com,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,ms365-team.com,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,tmegramapps.com,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,endpointmapperprocess.com,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,pepedrop.yachts,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,zmzk2dyqak0lcsej.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,y7dcrc1ssuhvpzm4.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,za0994spazvcyo39.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,wjhc5uqb3nine0qv.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,x0p7kv4g5g27h7to.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,tk0mqqvqzjunlyv6.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,rdv2slcujtsiga6c.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,khbilua706wrezbf.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,l7wgh93czcwqhlyt.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,hcbh8ykvhlaq13ga.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,fao70xbsy9gff0ll.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,gebyqsk76vri0ocd.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,dvteixixhs2m8ryu.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,21wg02hmrp1ldfn7.org,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,kitsoinsbebeclique.shop,"win.socks5_systemz, domain",n/a
-2026-06-08,threatfox,DOMAIN,wmds946t.life,"win.bumblebee, domain",n/a
-2026-06-08,threatfox,DOMAIN,wejqwed.link,"win.fickerstealer, domain",n/a
-2026-06-08,threatfox,DOMAIN,ed2efjw.link,"win.fickerstealer, domain",n/a
-2026-06-08,threatfox,DOMAIN,fasdas.link,"win.fickerstealer, domain",n/a
-2026-06-08,threatfox,DOMAIN,trenity.top,"win.redline_stealer, domain",n/a
-2026-06-08,threatfox,DOMAIN,fhgerbugjreqnhfegrb.top,"win.redline_stealer, domain",n/a
-2026-06-08,threatfox,DOMAIN,popshues.top,"win.redline_stealer, domain",n/a
-2026-06-08,threatfox,DOMAIN,marduk.top,"win.redline_stealer, domain",n/a
-2026-06-08,threatfox,DOMAIN,sweyblidian.com,"win.hancitor, domain",n/a
-2026-06-08,threatfox,DOMAIN,lukkeze.club,"win.fickerstealer, domain",n/a
 2026-06-08,threatfox,DOMAIN,qll4p9fw.one1xiran.bet,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,jfdewff.link,"win.fickerstealer, domain",n/a
 2026-06-08,threatfox,DOMAIN,musonare.top,"win.metastealer, domain",n/a
@@ -3877,12 +3836,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,ggt.glamisrents.com,"win.vidar, domain",n/a
 2026-06-15,threatfox,DOMAIN,pod.turbo88jp.top,"win.vidar, domain",n/a
 2026-06-15,threatfox,DOMAIN,utnoqzc.melbetkade.com,"js.clearfake, domain",n/a
-2026-06-08,tweetfeed,URL,https://muunpolicy.com,n/a,n/a
-2026-06-08,tweetfeed,URL,https://github.com/lonergigs-code/DocuSign/releases/download/V1.9.1/DocusignSetup.exe,n/a,n/a
-2026-06-08,tweetfeed,URL,http://rbbytati25iy2.anondns.net:8041,n/a,n/a
-2026-06-08,tweetfeed,URL,https://yariyogaci.z7.web.core.windows.net,n/a,n/a
-2026-06-08,tweetfeed,URL,http://maplecirrus.com,n/a,n/a
-2026-06-08,tweetfeed,URL,https://ts3world.it.com/QeU3aS,n/a,n/a
 2026-06-08,tweetfeed,URL,http://82.221.101.203,n/a,n/a
 2026-06-08,tweetfeed,URL,http://aktivaasi-daanaa-paaylateeerr.newxt.my.id,n/a,n/a
 2026-06-08,tweetfeed,URL,https://regulatory-review.com,n/a,n/a
@@ -5488,10 +5441,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,https://bk.sbishinisiebank.convertaesvit.com,phishing,https://x.com/masaomi346/status/2066376127522967761
 2026-06-15,tweetfeed,URL,https://bk.sbishinisiebank.terapiaseves.com,phishing,https://x.com/masaomi346/status/2066376127522967761
 2026-06-15,tweetfeed,URL,https://agua-assassina.com/cb/index.php,phishing,https://x.com/AddressIntel/status/2066385228654870776
-2026-06-08,tweetfeed,DOMAIN,muunpolicy.com,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,yariyogaci.z7.web.core.windows.net,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,maplecirrus.com,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,ts3world.it.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,aktivaasi-daanaa-paaylateeerr.newxt.my.id,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,regulatory-review.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,store-eu-par-5.gofile.io,n/a,n/a
@@ -6758,21 +6707,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,DOMAIN,ravi8295.github.io,"phishing, scam",https://x.com/urldna_bot/status/2066370168289116408
 2026-06-15,tweetfeed,DOMAIN,bk.sbishinisiebank.convertaesvit.com,phishing,https://x.com/masaomi346/status/2066376127522967761
 2026-06-15,tweetfeed,DOMAIN,bk.sbishinisiebank.terapiaseves.com,phishing,https://x.com/masaomi346/status/2066376127522967761
-2026-06-08,tweetfeed,HASH_SHA256,60f104030a7e6fc47d5ce7c286c5172e9f835a09b5a560350ac71d0c25f8c187,n/a,n/a
-2026-06-08,tweetfeed,IP,118.179.197.30,n/a,n/a
-2026-06-08,tweetfeed,IP,52.239.224.161,n/a,n/a
-2026-06-08,tweetfeed,IP,159.183.224.108,n/a,n/a
-2026-06-08,tweetfeed,IP,14.128.53.229,n/a,n/a
-2026-06-08,tweetfeed,IP,47.76.156.68,n/a,n/a
-2026-06-08,tweetfeed,IP,49.232.91.148,n/a,n/a
-2026-06-08,tweetfeed,IP,124.220.102.195,n/a,n/a
-2026-06-08,tweetfeed,IP,137.220.170.48,n/a,n/a
-2026-06-08,tweetfeed,IP,149.30.245.82,n/a,n/a
-2026-06-08,tweetfeed,IP,154.23.182.174,n/a,n/a
-2026-06-08,tweetfeed,IP,156.247.40.182,n/a,n/a
-2026-06-08,tweetfeed,IP,192.253.229.39,n/a,n/a
-2026-06-08,tweetfeed,IP,192.253.229.238,n/a,n/a
-2026-06-08,tweetfeed,IP,207.56.119.59,n/a,n/a
 2026-06-08,tweetfeed,HASH_SHA256,6f270d547199d22e35a5c4e7b004aa77a0755feebf5198fd94fb52089671a27d,n/a,n/a
 2026-06-08,tweetfeed,IP,82.221.101.203,n/a,n/a
 2026-06-08,tweetfeed,HASH_SHA256,24bc3936ae9054ab66ace68d6b23ca3e8853ebb7239c32651d36c93459d51793,n/a,n/a
