@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,https://sad.firesupport.com/,"win.vidar, url",n/a
-2026-06-08,threatfox,URL,https://sad.fixsm188.top/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://spaceco.com/ch,"js.smartapesg, url",n/a
 2026-06-08,threatfox,URL,https://emberhorizon.top/role/role-view.js,"js.smartapesg, url",n/a
 2026-06-08,threatfox,URL,https://emberhorizon.top/role/api-sessionstore,"js.smartapesg, url",n/a
@@ -316,17 +314,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-15,threatfox,URL,http://littletonlawnpro.com:5789,"win.remus, url",n/a
 2026-06-15,threatfox,URL,http://apprxc.xyz:5003,"win.remus, url",n/a
-2026-06-08,threatfox,DOMAIN,zebswzz.one1xbet.net,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,chinabowl.club,"unknown_webinject, domain",n/a
-2026-06-08,threatfox,DOMAIN,lizablud.shop,"unknown_webinject, domain",n/a
-2026-06-08,threatfox,DOMAIN,flnntj.persianabet.casino,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,persianabet.casino,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,idwpuur.ninjafruitcubes.bet,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,sad.firesupport.com,"win.vidar, domain",n/a
-2026-06-08,threatfox,DOMAIN,sad.fixsm188.top,"win.vidar, domain",n/a
-2026-06-08,threatfox,DOMAIN,hfgzvf.perfectgameiran.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,perfectgameiran.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,syheuby.mangobetfarsi.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,persianshart.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,ikbnssq.persian.sex,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,persian.sex,"js.clearfake, domain",n/a
@@ -3438,7 +3425,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,dvbkmkq.rocketbet.pro,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,cs.tpedu2metricstw.dpdns.org,"win.cobalt_strike, domain",n/a
 2026-06-15,threatfox,DOMAIN,ardaplumeit.top,"win.cobalt_strike, domain",n/a
-2026-06-08,tweetfeed,URL,https://ieeiorg.weebly.com,n/a,n/a
 2026-06-08,tweetfeed,URL,https://pixeldrain.com/api/file/LzanPeGx,n/a,n/a
 2026-06-08,tweetfeed,URL,https://pixeldrain.com/api/file/D9PJKAPs,n/a,n/a
 2026-06-08,tweetfeed,URL,https://pixeldrain.com/api/file/CzqF2m3e,n/a,n/a
@@ -5105,7 +5091,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,http://ultrafima.com/ionos/b2286bd03c73e76f930941af9fcfc59d92a64fc4/2aa3db7deeec7493846b28be834bdc8d/index.html,"phishing, scam",https://x.com/urldna_bot/status/2066551360690999517
 2026-06-15,tweetfeed,URL,https://www.maomaojiaoyi.com,phishing,https://x.com/harugasumi/status/2066552091297096040
 2026-06-15,tweetfeed,URL,https://i.meetu.best,phishing,https://x.com/harugasumi/status/2066552091297096040
-2026-06-08,tweetfeed,DOMAIN,ieeiorg.weebly.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,pixeldrain.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,theblackpearl.com.au,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,trutly.v6.army,n/a,n/a
