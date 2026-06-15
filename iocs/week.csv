@@ -1,18 +1,10 @@
 date,user,type,ioc,tags,context
 2026-06-12,cisa_kev,CVE,CVE-2026-35273,"Oracle  PeopleSoft Enterprise PeopleTools, kev","Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-15"
 2026-06-08,cisa_kev,CVE,CVE-2026-50751,"Check Point Security Gateway, kev","Check Point Security Gateway contains an improper authentication vulnerability in IKEv1 key exchange that could allow an unauthenticated remote attacker to bypass user authentication and establish a remote access VPN connection without a valid user password. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-11"
-2026-06-08,cisa_kev,CVE,CVE-2026-42271,"BerriAI LiteLLM, kev","BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-22"
 2026-06-09,cisa_kev,CVE,CVE-2026-11645,"Google Chromium V8, kev","Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,https://spaceco.com/ch,"js.smartapesg, url",n/a
-2026-06-08,threatfox,URL,https://emberhorizon.top/role/role-view.js,"js.smartapesg, url",n/a
-2026-06-08,threatfox,URL,https://emberhorizon.top/role/api-sessionstore,"js.smartapesg, url",n/a
-2026-06-08,threatfox,URL,https://emberhorizon.top/role/refresh-layout.js,"js.smartapesg, url",n/a
-2026-06-08,threatfox,URL,https://kevinfreels.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://clearskyfarms.com/,"win.vidar, url",n/a
-2026-06-08,threatfox,URL,https://apworsindos.com/test/,"win.latrodectus, url",n/a
 2026-06-08,threatfox,URL,https://reminasolirol.com/test/,"win.latrodectus, url",n/a
 2026-06-08,threatfox,URL,https://gts.firesupport.com/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://gts.fixsm188.top/,"win.vidar, url",n/a
@@ -316,18 +308,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,http://apprxc.xyz:5003,"win.remus, url",n/a
 2026-06-15,threatfox,URL,https://dom.glamisrents.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://dom.goturbo88.top/,"win.vidar, url",n/a
-2026-06-08,threatfox,DOMAIN,persianshart.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,ikbnssq.persian.sex,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,persian.sex,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,0fqk0ho2.mrbet90.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,v6o8c9xi.mrbet90.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,emberhorizon.top,"js.smartapesg, domain",n/a
-2026-06-08,threatfox,DOMAIN,enterprise1.pages.dev,"win.cobalt_strike, domain",n/a
-2026-06-08,threatfox,DOMAIN,endpoint.xsn10.com,"win.cobalt_strike, domain",n/a
-2026-06-08,threatfox,DOMAIN,api.asn15.com,"win.cobalt_strike, domain",n/a
-2026-06-08,threatfox,DOMAIN,22wsnikmydlkyx4cwmiykxis7kjy4ugmlz453amazqhflwo3wjsz5tad.onion,"win.cobalt_strike, domain",n/a
-2026-06-08,threatfox,DOMAIN,t748i6is.volleyball.vip,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,marketing.gundf.de,"win.strelastealer, domain",n/a
 2026-06-08,threatfox,DOMAIN,hfpfhy7zytroclo.top,"js.kongtuke, domain",n/a
 2026-06-08,threatfox,DOMAIN,webdot.ddns.net,"win.purelogs, domain",n/a
 2026-06-08,threatfox,DOMAIN,pbtgvx.pablobet90.com,"js.clearfake, domain",n/a
@@ -3435,13 +3415,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,dom.glamisrents.com,"win.vidar, domain",n/a
 2026-06-15,threatfox,DOMAIN,kulnpioc.mabanishimi.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,32asinc.duckdns.org,"win.asyncrat, domain",n/a
-2026-06-08,tweetfeed,URL,https://pixeldrain.com/api/file/LzanPeGx,n/a,n/a
-2026-06-08,tweetfeed,URL,https://pixeldrain.com/api/file/D9PJKAPs,n/a,n/a
-2026-06-08,tweetfeed,URL,https://pixeldrain.com/api/file/CzqF2m3e,n/a,n/a
-2026-06-08,tweetfeed,URL,http://122.50.1.162:46525/Mozi.m,n/a,n/a
-2026-06-08,tweetfeed,URL,http://38.79.154.87/ohshit.sh,n/a,n/a
-2026-06-08,threatfox,HASH_SHA256,e3300ce9dce0d41690e711b8ee3bb5498ccf25c68d4bafe35416a77a2d88cbd2,"win.cobalt_strike, sha256_hash",n/a
-2026-06-08,threatfox,HASH_SHA256,83a85d92277f0c762414e97f26538e4657f28a1cebe3e4f5d5d32e5ecf7b458a,"win.cobalt_strike, sha256_hash",n/a
 2026-06-08,tweetfeed,URL,https://theblackpearl.com.au,n/a,n/a
 2026-06-08,tweetfeed,URL,http://trutly.v6.army,n/a,n/a
 2026-06-08,tweetfeed,URL,http://66.23.233.188,n/a,n/a
@@ -5101,7 +5074,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,http://ultrafima.com/ionos/b2286bd03c73e76f930941af9fcfc59d92a64fc4/2aa3db7deeec7493846b28be834bdc8d/index.html,"phishing, scam",https://x.com/urldna_bot/status/2066551360690999517
 2026-06-15,tweetfeed,URL,https://www.maomaojiaoyi.com,phishing,https://x.com/harugasumi/status/2066552091297096040
 2026-06-15,tweetfeed,URL,https://i.meetu.best,phishing,https://x.com/harugasumi/status/2066552091297096040
-2026-06-08,tweetfeed,DOMAIN,pixeldrain.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,theblackpearl.com.au,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,trutly.v6.army,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,ksb.com.de,n/a,n/a
@@ -6426,15 +6398,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,DOMAIN,ultrafima.com,"phishing, scam",https://x.com/urldna_bot/status/2066551360690999517
 2026-06-15,tweetfeed,DOMAIN,maomaojiaoyi.com,phishing,https://x.com/harugasumi/status/2066552091297096040
 2026-06-15,tweetfeed,DOMAIN,i.meetu.best,phishing,https://x.com/harugasumi/status/2066552091297096040
-2026-06-08,tweetfeed,HASH_SHA256,ea586cf89af8057ab44053cae16ea496fdb0337f88404db9618d0e0308b8a9e6,n/a,n/a
-2026-06-08,tweetfeed,HASH_SHA256,87fde30bc260a22caefc58e431e805330b5c0503ff5550ba571634756115387d,n/a,n/a
-2026-06-08,tweetfeed,IP,122.50.1.162,n/a,n/a
-2026-06-08,tweetfeed,IP,5.231.70.13,n/a,n/a
-2026-06-08,tweetfeed,IP,38.79.154.87,n/a,n/a
-2026-06-08,tweetfeed,HASH_SHA256,8e0abd410c5fa71886d8780038a47a155f9f69a83bbe04e5a42aa90e98926f61,n/a,n/a
-2026-06-08,tweetfeed,HASH_SHA256,4d23299c42ea2dfe54d8105b06c9519320c3c085c55f86c0c197e6709b7527b7,n/a,n/a
-2026-06-08,tweetfeed,HASH_SHA256,440455d3e1e1266135fd55855ab23eafe0cbe50b7fd5de627da5acf94b518099,n/a,n/a
-2026-06-08,tweetfeed,HASH_SHA256,729a43b9ee96bee519dcc0c1aa65ee7a04cc5f979de44f665af77f731fc08897,n/a,n/a
 2026-06-08,tweetfeed,HASH_SHA256,cc39b407a1f4f217139af9d3aee4765a4d9390080739153d449515750236607a,n/a,n/a
 2026-06-08,tweetfeed,HASH_SHA256,f8acf437b17ed52cd7b37fd1a7ec7a9eccd7144cbb8e132d7f74b4afe7de0d1b,n/a,n/a
 2026-06-08,tweetfeed,HASH_SHA256,8d45ae4cf4356c118fbe4fe462c69a73d63ced0e445e2c9db31c409fdcaf40c5,n/a,n/a
@@ -6675,15 +6638,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,IP,172.245.106.54,"Xworm, opendir",https://x.com/James_inthe_box/status/2066508959566188911
 2026-06-15,tweetfeed,HASH_SHA256,95fdd6fe3c222a51a8038d8340e43338b7655d477da6f7eaede7925cf22f0106,n/a,https://x.com/L0Psec/status/2066540844006375831
 2026-06-15,tweetfeed,IP,45.95.186.237,n/a,https://x.com/L0Psec/status/2066540845893861386
-2026-06-08,tweetfeed,HASH_MD5,626ba90b1843c3034d89c0431753ff29,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,13d2e96b1a93293cde26dbeeed1429f1,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,2b24feea0e39cc2f4a6ae1435089e149,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,39641f84af78c901ae0be075ece8bb72,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,ad45b8f42deaec7d7785435ca17a9ead,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,7d0c8649f19b429d4cdb9488bdeb4912,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,ce0172df139c4171c1c08e15e75ec741,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,acc0ce7d8d74a0fd3e1dd84db2d43084,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,91bb80eb5533dfe38def929d00238a92,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,4483c987a478c51831b3ca263f465b0a,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,46e075c946a9dcf1ccb2c82f2c75564e,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,6e700fa68b1a4dce7836cdeb2f7505c3,n/a,n/a
