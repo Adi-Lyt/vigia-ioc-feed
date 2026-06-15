@@ -6,27 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,https://tknmetal.net/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://victormeloadvogado.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://oficialwebsitepromotion.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://www.jkbuildersg.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://www.kevinfreels.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://ireflect.net/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://www.iconlng.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://www.danielediana.it/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://developmental-twins.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://www.ciberci.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://www.argirisangelopoulos.gr/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://buktijpmaluku.info/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://andreawirsum.com/de/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://www.altecva.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://wowlowski.icu/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-08,threatfox,URL,https://wowlowski.icu/file.js,"js.kongtuke, url",n/a
-2026-06-08,threatfox,URL,https://wowlowski.icu/api/v1/session,"js.kongtuke, url",n/a
-2026-06-08,threatfox,URL,https://wowlowski.icu/api/v1/status,"js.kongtuke, url",n/a
-2026-06-08,threatfox,URL,https://aura-checkpoint.top/o,"js.kongtuke, url",n/a
-2026-06-08,threatfox,URL,https://jkylenewton.com/,"unknown, url",n/a
-2026-06-08,threatfox,URL,https://visualimpressao.com.br/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://sad.firesupport.com/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://sad.fixsm188.top/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://spaceco.com/ch,"js.smartapesg, url",n/a
@@ -335,21 +314,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://eichmnnn.icu/file.js,"js.kongtuke, url",n/a
 2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/session,"js.kongtuke, url",n/a
 2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-08,threatfox,DOMAIN,souljaboynft.io,"win.nanocore, domain",n/a
-2026-06-08,threatfox,DOMAIN,00000l.nvms9000.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,horizon.nvms9000updates.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,000.nvms9000.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,0000.nvms9000.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,000.hikvision-cctv.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,0000.hikvision-cctv.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,00000.hikvision-cctv.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,0000g7bd7.hikvision-cctv.su,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,botdealers.st,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,kys.botdealers.st,"elf.mirai, domain",n/a
-2026-06-08,threatfox,DOMAIN,wowlowski.icu,"js.kongtuke, domain",n/a
-2026-06-08,threatfox,DOMAIN,aura-checkpoint.top,"js.kongtuke, domain",n/a
-2026-06-08,threatfox,DOMAIN,app-front.anmaradigital.com,"js.fakeupdates, domain",n/a
-2026-06-08,threatfox,DOMAIN,fporlgd.penality.bet,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,qcqsin.yasbet90.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,vvpfsda.pasoor11.bet,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,e20yl90d.parsgoal90.com,"js.clearfake, domain",n/a
@@ -3462,7 +3426,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,paqyqptu.hugugtejarat4.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,yuehqazj.hugugtejarat4.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,eminley.ydns.eu,"win.xworm, domain",n/a
-2026-06-08,tweetfeed,URL,http://netflix-clone-beta-taupe.vercel.app,n/a,n/a
 2026-06-08,tweetfeed,URL,https://mprda.org/js/sr/page/index.php,n/a,n/a
 2026-06-08,tweetfeed,URL,http://agenciatributariat.eu.cc,n/a,n/a
 2026-06-08,tweetfeed,URL,http://py-installer.com,n/a,n/a
@@ -5126,7 +5089,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,http://172.245.106.54:3333,"Xworm, opendir",https://x.com/James_inthe_box/status/2066508959566188911
 2026-06-15,threatfox,HASH_SHA256,681c3b22d00252e557c458a84f4fdbf37e23ce34db9ba4bd419d17ba6c5ce937,"unknown, sha256_hash",n/a
 2026-06-15,tweetfeed,URL,https://site-6aa3879fh.godaddysites.com,"phishing, scam",https://x.com/urldna_bot/status/2066521147051504111
-2026-06-08,tweetfeed,DOMAIN,netflix-clone-beta-taupe.vercel.app,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,mprda.org,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,agenciatributariat.eu.cc,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,py-installer.com,n/a,n/a
