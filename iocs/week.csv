@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,https://ebuydepot.com/,"win.vidar, url",n/a
-2026-06-08,threatfox,URL,https://healgram.gr/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://zark.ltd/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://45.91.81.190:8443,"unknown, url",n/a
 2026-06-08,threatfox,URL,https://103.214.174.248:8443,"unknown, url",n/a
@@ -400,10 +398,6 @@ date,user,type,ioc,tags,context
 2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/connection.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,https://agn-deco.ro/,"win.vidar, url",n/a
 2026-06-14,threatfox,URL,https://avpungxx.com/,"win.vidar, url",n/a
-2026-06-08,threatfox,DOMAIN,etpvftw.one1x.bet,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,1hrrc4q6.onexboro.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,eterjrb.one1x.bet,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,omxvqrt.penalty.casino,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,uadcmxt.kbshavanese.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,1nmuyb5y.parspoker90.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,hhb3xwzf.parspoker90.com,"js.clearfake, domain",n/a
