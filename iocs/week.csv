@@ -386,6 +386,7 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://ggt.glamisrents.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://steamcommunity.com/profiles/76561198689449626,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://telegram.me/turb00m,"win.vidar, url",n/a
+2026-06-15,threatfox,URL,https://infobhz.com.br/,"unknown, url",n/a
 2026-06-08,threatfox,DOMAIN,allcountiesroofingltd.co.uk,"js.iclickfix, domain",n/a
 2026-06-08,threatfox,DOMAIN,altecva.com,"js.iclickfix, domain",n/a
 2026-06-08,threatfox,DOMAIN,amici-di-pogrande.it,"js.iclickfix, domain",n/a
@@ -3819,6 +3820,10 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,ikg.glamisrents.com,"win.vidar, domain",n/a
 2026-06-15,threatfox,DOMAIN,bcfrgjpx.sakhtemandade.shop,"js.clearfake, domain",n/a
 2026-06-15,darkweb_forums,URL,https://t.me/Breach_VIP,"darkweb, telegram_threat_actors",commit ca55385d / telegram_threat_actors.md
+2026-06-15,threatfox,DOMAIN,mukvsxft.sazebetonarme.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,tcp.tcptunnel.shop,"unknown_rat, domain",n/a
+2026-06-15,threatfox,DOMAIN,lmgz1tb4.garatequran.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,fhprjdfj.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
 2026-06-08,tweetfeed,URL,https://gtfhtrh-www4-04.sfo3.digitaloceanspaces.com,n/a,n/a
 2026-06-08,tweetfeed,URL,http://regfh-kkk3--055.atl1.digitaloceanspaces.com,n/a,n/a
 2026-06-08,tweetfeed,URL,https://tsrtlwebmlspprt.weebly.com,n/a,n/a
@@ -6912,6 +6917,8 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,HASH_SHA256,26af0b30bc86ab158950a7c0dd487f0fb58e03bb02a32dffab30f61b6c7edee9,n/a,https://x.com/smica83/status/2066165482424606736
 2026-06-14,tweetfeed,IP,104.236.69.171,CobaltStrike,https://x.com/skocherhan/status/2066182570962747631
 2026-06-14,tweetfeed,IP,45.152.243.170,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066219136569757752
+2026-06-15,tweetfeed,IP,45.144.222.126,"C2, stealer",https://x.com/Fact_Finder03/status/2066412486069571893
+2026-06-15,tweetfeed,IP,41.216.188.213,C2,https://x.com/Fact_Finder03/status/2066422706682105997
 2026-06-08,tweetfeed,HASH_MD5,ed73908c65575cae4ae7debf23220056,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,9ff0d43cc02136108bcc9744240c3aa7,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,0829d12b6898ab4799930b3be297896b,n/a,n/a
