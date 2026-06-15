@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-14,threatfox,URL,https://avpungxx.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://95.216.152.191/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://178.105.210.87/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://204.168.163.225/,"win.vidar, url",n/a
@@ -39,12 +38,10 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://lbs-lamb-withdrawal-thickness.trycloudflare.com/,"unknown_loader, url",n/a
 2026-06-15,threatfox,URL,https://sharedtafel.com/Grandfest.exe,"unknown_rat, url",n/a
 2026-06-15,threatfox,URL,https://two-verif.lol/o,"js.kongtuke, url",n/a
-2026-06-14,threatfox,DOMAIN,irtefuln.masirpayambari.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,zxokl.mabaninazaridelavar.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,dtgncsqn.masirpayambari.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,xtyqemyq.masaelmohandesi.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,qchwdca.rocketbet.pro,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,rne9p9if.shartbandikade.online,"js.clearfake, domain",n/a
+2026-06-15,threatfox,URL,https://seanofficials.com/,"unknown, url",n/a
+2026-06-15,threatfox,URL,https://jadepassagehub.top/rate/metrics-json.js,"js.smartapesg, url",n/a
+2026-06-15,threatfox,URL,https://jadepassagehub.top/rate/legacy-fetch,"js.smartapesg, url",n/a
+2026-06-15,threatfox,URL,https://jadepassagehub.top/rate/reset-dom.js,"js.smartapesg, url",n/a
 2026-06-14,threatfox,DOMAIN,igcokmdd.prozhecart.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,aasdaonz.mechanickhodakarami.shop,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,qj2ddn7c.zabanmemari.shop,"js.clearfake, domain",n/a
@@ -183,7 +180,10 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,ljhxazhv.mechanickhodakarami.shop,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,x8268vj9.hugugmadanikatouzian.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,ckdydch.shansbartar.bet,"js.clearfake, domain",n/a
-2026-06-14,tweetfeed,URL,https://www.robiox.com.py/users/252826447446/profile,"phishing, scam",https://x.com/urldna_bot/status/2066249344244670820
+2026-06-15,threatfox,DOMAIN,jehezikh.prozhecart.com,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,jadepassagehub.top,"js.smartapesg, domain",n/a
+2026-06-15,threatfox,DOMAIN,btskl.downloadquran.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,xkpxrkko.mechanicsayalat.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,HASH_SHA256,b48c97d1dadc4cb7e0c3303d556a1217cccdd8839fe739d71a7c5f977b4810bd,"win.valley_rat, sha256_hash",n/a
 2026-06-14,threatfox,HASH_SHA256,2b35aa9c70ef66197abfb9bc409952897f9f70818633ab43da85b3825b256307,"win.azorult, sha256_hash",n/a
 2026-06-14,threatfox,HASH_SHA256,3dc1a7ac46a1616fe180f42e26d25ea9638f90c73073542b49a8575e2f110174,"win.ghostnet, sha256_hash",n/a
@@ -306,6 +306,17 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,HASH_SHA256,da8d89a25d0edc6186a9e70bca59e37a25b1f4ab84966ed1e4b9aa35d2c20601,"unknown, sha256_hash",n/a
 2026-06-15,threatfox,HASH_SHA256,a92d28f1d32e3a9ab7c3691f8bfca8f7586bb0666adbba47eab3e1a8faf7ecc0,"unknown, sha256_hash",n/a
 2026-06-15,threatfox,HASH_SHA256,c0d896e94c4dd8b64f400d16ec3cb59f3c51fc940d06241a028d0204d0407a94,"win.asyncrat, sha256_hash",n/a
+2026-06-15,tweetfeed,URL,http://45.80.228.227,INCRansom,https://x.com/nahamike01/status/2066520206651129945
+2026-06-15,tweetfeed,URL,http://incblog.su,INCRansom,https://x.com/nahamike01/status/2066520206651129945
+2026-06-15,tweetfeed,URL,http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion,INCRansom,https://x.com/nahamike01/status/2066520206651129945
+2026-06-15,tweetfeed,URL,https://pub-2f1bcdf12a2e44408e7a58efe6006d43.r2.dev/LICENSES.chromium.dat,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,URL,http://138.124.186.2:7000,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,URL,http://pub-2f1bcdf12a2e44408e7a58efe6006d43.r2.dev,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,URL,http://bsc.blockrazor.xyz,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,URL,http://mgo.gstats-api-contact.cc,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,URL,http://xn--fiqq24b9hejs1c.clickvector.tech,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,URL,http://185.76.243.85:443,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,URL,http://amazon-clone-jade-ten.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2066611751949316293
 2026-06-14,threatfox,HASH_MD5,36b013c5e39acbe752709d0b2fc01006,"win.valley_rat, md5_hash",n/a
 2026-06-14,threatfox,HASH_MD5,81a6699618caa9d38a99aac19a33b770,"win.ghostnet, md5_hash",n/a
 2026-06-14,threatfox,HASH_MD5,73da2c02c6f8bfd4662dc84820dcd983,"win.azorult, md5_hash",n/a
@@ -407,6 +418,12 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,DOMAIN,educargames.com.br,phishing,https://x.com/patialavii/status/2066575055472205889
 2026-06-15,tweetfeed,DOMAIN,workspaceviewers.com,phishing,https://x.com/patialavii/status/2066577092582776976
 2026-06-15,tweetfeed,DOMAIN,pub-08c4eecd5bcd44d090c4e0250d46725f.r2.dev,phishing,https://x.com/patialavii/status/2066577092582776976
+2026-06-15,tweetfeed,DOMAIN,incblog.su,INCRansom,https://x.com/nahamike01/status/2066520206651129945
+2026-06-15,tweetfeed,DOMAIN,incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion,INCRansom,https://x.com/nahamike01/status/2066520206651129945
+2026-06-15,tweetfeed,DOMAIN,pub-2f1bcdf12a2e44408e7a58efe6006d43.r2.dev,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,DOMAIN,bsc.blockrazor.xyz,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,DOMAIN,xn--fiqq24b9hejs1c.clickvector.tech,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,DOMAIN,amazon-clone-jade-ten.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2066611751949316293
 2026-06-15,tweetfeed,IP,45.144.222.126,"C2, stealer",https://x.com/Fact_Finder03/status/2066412486069571893
 2026-06-15,tweetfeed,IP,41.216.188.213,C2,https://x.com/Fact_Finder03/status/2066422706682105997
 2026-06-15,tweetfeed,IP,49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
@@ -444,6 +461,9 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,HASH_SHA256,8b8fccafc9abffb4e23f839672a953c454d4a63f42ac2de08e36955f306d9019,phishing,https://x.com/patialavii/status/2066575055472205889
 2026-06-15,tweetfeed,HASH_SHA256,4b6e6db485cf455d9c6e0fcac297d7a1ed62f21d7abb66fb9fdb8ce787dae1fa,phishing,https://x.com/patialavii/status/2066577092582776976
 2026-06-15,tweetfeed,IP,35.212.143.21,malware,https://x.com/SpamAuditor/status/2066596798190481534
+2026-06-15,tweetfeed,IP,45.80.228.227,INCRansom,https://x.com/nahamike01/status/2066520206651129945
+2026-06-15,tweetfeed,IP,138.124.186.2,n/a,https://x.com/Kostastsale/status/2066545189137629302
+2026-06-15,tweetfeed,IP,185.76.243.85,n/a,https://x.com/Kostastsale/status/2066545189137629302
 2026-06-15,tweetfeed,HASH_MD5,19a8ff5982eab8056b9559e8801e83ab,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
 2026-06-15,tweetfeed,HASH_MD5,377357ee1340b2bbd546af2bb81bb25b,n/a,https://x.com/Dixit_404/status/2066447360889381254
 2026-06-15,tweetfeed,HASH_MD5,afd949746b510609714185dab7b2c1db,n/a,https://x.com/Dixit_404/status/2066447360889381254
