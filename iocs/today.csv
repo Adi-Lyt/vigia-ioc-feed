@@ -34,7 +34,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,http://apprxc.xyz:5003,"win.remus, url",n/a
 2026-06-15,threatfox,URL,https://dom.glamisrents.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://dom.goturbo88.top/,"win.vidar, url",n/a
-2026-06-14,threatfox,DOMAIN,cfwrfrqx.leaguejazire.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,fsphwjzi.maharatmodiran.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,emqtqmnj.mabanishimi.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,irtefuln.masirpayambari.xyz,"js.clearfake, domain",n/a
@@ -168,8 +167,10 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,dom.glamisrents.com,"win.vidar, domain",n/a
 2026-06-15,threatfox,DOMAIN,kulnpioc.mabanishimi.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,32asinc.duckdns.org,"win.asyncrat, domain",n/a
-2026-06-14,tweetfeed,URL,http://45.152.243.170,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066219136569757752
-2026-06-14,tweetfeed,URL,http://seitentaisei1304.github.io/Netflix-Clone/,"phishing, scam",https://x.com/urldna_bot/status/2066219164008612315
+2026-06-15,threatfox,DOMAIN,aiaufdwh.masirpayambari.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,rgojzoub.masaelmohandesi.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,bodvlnfv.masaelmohandesi.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,tonajukbhuakpo2.shop,"unknown_loader, domain",n/a
 2026-06-14,tweetfeed,URL,https://www.robiox.com.py/users/252826447446/profile,"phishing, scam",https://x.com/urldna_bot/status/2066249344244670820
 2026-06-14,threatfox,HASH_SHA256,b48c97d1dadc4cb7e0c3303d556a1217cccdd8839fe739d71a7c5f977b4810bd,"win.valley_rat, sha256_hash",n/a
 2026-06-14,threatfox,HASH_SHA256,2b35aa9c70ef66197abfb9bc409952897f9f70818633ab43da85b3825b256307,"win.azorult, sha256_hash",n/a
@@ -280,7 +281,8 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,http://ultrafima.com/ionos/b2286bd03c73e76f930941af9fcfc59d92a64fc4/2aa3db7deeec7493846b28be834bdc8d/index.html,"phishing, scam",https://x.com/urldna_bot/status/2066551360690999517
 2026-06-15,tweetfeed,URL,https://www.maomaojiaoyi.com,phishing,https://x.com/harugasumi/status/2066552091297096040
 2026-06-15,tweetfeed,URL,https://i.meetu.best,phishing,https://x.com/harugasumi/status/2066552091297096040
-2026-06-14,tweetfeed,DOMAIN,seitentaisei1304.github.io,"phishing, scam",https://x.com/urldna_bot/status/2066219164008612315
+2026-06-15,tweetfeed,URL,https://ghyytttdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066581554889998499
+2026-06-15,tweetfeed,URL,http://172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
 2026-06-14,threatfox,HASH_MD5,36b013c5e39acbe752709d0b2fc01006,"win.valley_rat, md5_hash",n/a
 2026-06-14,threatfox,HASH_MD5,81a6699618caa9d38a99aac19a33b770,"win.ghostnet, md5_hash",n/a
 2026-06-14,threatfox,HASH_MD5,73da2c02c6f8bfd4662dc84820dcd983,"win.azorult, md5_hash",n/a
@@ -374,7 +376,7 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,DOMAIN,ultrafima.com,"phishing, scam",https://x.com/urldna_bot/status/2066551360690999517
 2026-06-15,tweetfeed,DOMAIN,maomaojiaoyi.com,phishing,https://x.com/harugasumi/status/2066552091297096040
 2026-06-15,tweetfeed,DOMAIN,i.meetu.best,phishing,https://x.com/harugasumi/status/2066552091297096040
-2026-06-14,tweetfeed,IP,45.152.243.170,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066219136569757752
+2026-06-15,tweetfeed,DOMAIN,ghyytttdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066581554889998499
 2026-06-15,tweetfeed,IP,45.144.222.126,"C2, stealer",https://x.com/Fact_Finder03/status/2066412486069571893
 2026-06-15,tweetfeed,IP,41.216.188.213,C2,https://x.com/Fact_Finder03/status/2066422706682105997
 2026-06-15,tweetfeed,IP,49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
@@ -407,6 +409,14 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,IP,172.245.106.54,"Xworm, opendir",https://x.com/James_inthe_box/status/2066508959566188911
 2026-06-15,tweetfeed,HASH_SHA256,95fdd6fe3c222a51a8038d8340e43338b7655d477da6f7eaede7925cf22f0106,n/a,https://x.com/L0Psec/status/2066540844006375831
 2026-06-15,tweetfeed,IP,45.95.186.237,n/a,https://x.com/L0Psec/status/2066540845893861386
+2026-06-15,tweetfeed,IP,172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
 2026-06-15,tweetfeed,HASH_MD5,19a8ff5982eab8056b9559e8801e83ab,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
 2026-06-15,tweetfeed,HASH_MD5,377357ee1340b2bbd546af2bb81bb25b,n/a,https://x.com/Dixit_404/status/2066447360889381254
 2026-06-15,tweetfeed,HASH_MD5,afd949746b510609714185dab7b2c1db,n/a,https://x.com/Dixit_404/status/2066447360889381254
+2026-06-15,tweetfeed,HASH_MD5,334d5e38774bd0289346231a92a444cf,n/a,https://x.com/k3yp0d/status/2066583932993225057
+2026-06-15,tweetfeed,HASH_MD5,0c57def86b9d0e9df50101f45243b7a3,n/a,https://x.com/k3yp0d/status/2066583932993225057
+2026-06-15,tweetfeed,HASH_MD5,3c1f7d9d157c38d17a44f62b6560d3b4,n/a,https://x.com/k3yp0d/status/2066583932993225057
+2026-06-15,tweetfeed,HASH_MD5,d66de5d6dbcb6f460ae6240de8b7aab0,n/a,https://x.com/k3yp0d/status/2066583932993225057
+2026-06-15,tweetfeed,HASH_MD5,610696d1d05099125258d25a661704ce,n/a,https://x.com/k3yp0d/status/2066583932993225057
+2026-06-15,tweetfeed,HASH_MD5,db6bc0e947acba379e540349f74fc6ee,n/a,https://x.com/k3yp0d/status/2066583932993225057
+2026-06-15,tweetfeed,HASH_MD5,b56a18df4daf038785891f33c3e89489,n/a,https://x.com/k3yp0d/status/2066583932993225057
