@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,https://kidsandtas.edu.do/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://tknmetal.net/,"unknown, url",n/a
 2026-06-08,threatfox,URL,https://victormeloadvogado.com/,"unknown, url",n/a
 2026-06-08,threatfox,URL,https://oficialwebsitepromotion.com/,"unknown, url",n/a
@@ -3447,8 +3446,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,a.qqmusic1.com,"win.valley_rat, domain",n/a
 2026-06-15,threatfox,DOMAIN,ncpzdseh.usoleamoozesh.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com,"win.cobalt_strike, domain",n/a
-2026-06-08,tweetfeed,URL,https://ambitious-watching-754171.framer.app,n/a,n/a
-2026-06-08,tweetfeed,URL,http://cpanel.site/cp/a,n/a,n/a
 2026-06-08,tweetfeed,URL,https://redword.smessierimessi.it/ww,n/a,n/a
 2026-06-08,tweetfeed,URL,https://wordpress-renewal.customisedcreations.online,n/a,n/a
 2026-06-08,tweetfeed,URL,https://yurasezeyu.z1.web.core.windows.net,n/a,n/a
@@ -5041,7 +5038,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,http://ebixexam.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
 2026-06-15,tweetfeed,URL,http://ebix-itrack.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
 2026-06-15,tweetfeed,URL,http://195.86.16.135,phishing,https://x.com/Metemcyber/status/2066500002671939913
-2026-06-08,tweetfeed,DOMAIN,ambitious-watching-754171.framer.app,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,redword.smessierimessi.it,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,wordpress-renewal.customisedcreations.online,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,yurasezeyu.z1.web.core.windows.net,n/a,n/a
@@ -6546,7 +6542,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,HASH_SHA256,fab731cd8005d9d73a8fe862a8bfea32c945bd957bbb9861f36401d18b878c8b,n/a,https://x.com/nextronresearch/status/2066499099508027802
 2026-06-15,tweetfeed,HASH_SHA256,2cfede38fb121a71a2f3607474aa8cd588a99f51b37e5e6f0d8cb789fa275032,n/a,https://x.com/nextronresearch/status/2066499099508027802
 2026-06-15,tweetfeed,IP,195.86.16.135,phishing,https://x.com/Metemcyber/status/2066500002671939913
-2026-06-08,tweetfeed,HASH_MD5,0829d12b6898ab4799930b3be297896b,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,626ba90b1843c3034d89c0431753ff29,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,13d2e96b1a93293cde26dbeeed1429f1,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,2b24feea0e39cc2f4a6ae1435089e149,n/a,n/a
