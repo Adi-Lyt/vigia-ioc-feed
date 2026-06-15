@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,https://zark.ltd/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://45.91.81.190:8443,"unknown, url",n/a
 2026-06-08,threatfox,URL,https://103.214.174.248:8443,"unknown, url",n/a
 2026-06-08,threatfox,URL,https://108.61.193.37:8443,"unknown, url",n/a
@@ -398,10 +397,6 @@ date,user,type,ioc,tags,context
 2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/connection.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,https://agn-deco.ro/,"win.vidar, url",n/a
 2026-06-14,threatfox,URL,https://avpungxx.com/,"win.vidar, url",n/a
-2026-06-08,threatfox,DOMAIN,uadcmxt.kbshavanese.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,1nmuyb5y.parspoker90.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,hhb3xwzf.parspoker90.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,dihsov.jamjahani.cash,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,ghbfozy.olabahiskayit.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,iidqou.jamjahani.app,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,dphxsy.perfectgame.casino,"js.clearfake, domain",n/a
@@ -3965,12 +3960,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,lhpahogn.karafarini.shop,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,sdppicy4.shansline.com,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,qelljcx.megaparikade.com,"js.clearfake, domain",n/a
-2026-06-08,tweetfeed,URL,http://176.65.149.168/bins/kaizen.mpsl,n/a,n/a
-2026-06-08,tweetfeed,URL,http://vitacocoyougoloco.potassium.st/r,n/a,n/a
-2026-06-08,tweetfeed,URL,http://vitacocoyougoloco.potassium.st,n/a,n/a
-2026-06-08,tweetfeed,URL,https://sated.es/archive/login.php,n/a,n/a
-2026-06-08,tweetfeed,URL,https://rjfyqbr.info/action=services,n/a,n/a
-2026-06-08,tweetfeed,URL,http://asmedicalsystems.com,n/a,n/a
 2026-06-08,tweetfeed,URL,http://arpitgoel889.github.io/Instagram/,n/a,n/a
 2026-06-08,tweetfeed,URL,https://muunpolicy.com,n/a,n/a
 2026-06-08,tweetfeed,URL,https://github.com/lonergigs-code/DocuSign/releases/download/V1.9.1/DocusignSetup.exe,n/a,n/a
@@ -5579,10 +5568,6 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,URL,https://mxbobnz.info/stance/mFY3joiA7GPOTFUqB3j,phishing,https://x.com/masaomi346/status/2066291717687693712
 2026-06-15,tweetfeed,URL,https://sweepstakes8690.godaddysites.com,"phishing, scam",https://x.com/urldna_bot/status/2066309780696604688
 2026-06-15,tweetfeed,URL,https://rastreioapple.support,"phishing, scam",https://x.com/urldna_bot/status/2066339953290760500
-2026-06-08,tweetfeed,DOMAIN,vitacocoyougoloco.potassium.st,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,sated.es,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,rjfyqbr.info,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,asmedicalsystems.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,arpitgoel889.github.io,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,muunpolicy.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,yariyogaci.z7.web.core.windows.net,n/a,n/a
@@ -6851,10 +6836,6 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,DOMAIN,mxbobnz.info,phishing,https://x.com/masaomi346/status/2066291717687693712
 2026-06-15,tweetfeed,DOMAIN,sweepstakes8690.godaddysites.com,"phishing, scam",https://x.com/urldna_bot/status/2066309780696604688
 2026-06-15,tweetfeed,DOMAIN,rastreioapple.support,"phishing, scam",https://x.com/urldna_bot/status/2066339953290760500
-2026-06-08,tweetfeed,IP,20.210.107.25,n/a,n/a
-2026-06-08,tweetfeed,IP,176.65.149.168,n/a,n/a
-2026-06-08,tweetfeed,IP,217.60.195.70,n/a,n/a
-2026-06-08,tweetfeed,IP,185.56.45.29,n/a,n/a
 2026-06-08,tweetfeed,IP,103.214.174.248,n/a,n/a
 2026-06-08,tweetfeed,IP,45.91.81.190,n/a,n/a
 2026-06-08,tweetfeed,IP,108.61.193.37,n/a,n/a
@@ -7121,8 +7102,6 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,HASH_SHA256,26af0b30bc86ab158950a7c0dd487f0fb58e03bb02a32dffab30f61b6c7edee9,n/a,https://x.com/smica83/status/2066165482424606736
 2026-06-14,tweetfeed,IP,104.236.69.171,CobaltStrike,https://x.com/skocherhan/status/2066182570962747631
 2026-06-14,tweetfeed,IP,45.152.243.170,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066219136569757752
-2026-06-08,tweetfeed,HASH_MD5,671e829904df853cc40eb71e5ccb4c0a,n/a,n/a
-2026-06-08,tweetfeed,HASH_MD5,994f6319e47c61fc6a424e5f2b279f96,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,ed73908c65575cae4ae7debf23220056,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,9ff0d43cc02136108bcc9744240c3aa7,n/a,n/a
 2026-06-08,tweetfeed,HASH_MD5,0829d12b6898ab4799930b3be297896b,n/a,n/a
