@@ -37,8 +37,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://telegram.me/turb00m,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://infobhz.com.br/,"unknown, url",n/a
 2026-06-15,threatfox,URL,http://cacywears.ga/index.php,"win.smokeloader, url",n/a
-2026-06-14,threatfox,DOMAIN,crghbprm.shartbandi.games,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,fnuqorvu.sazebetonarme.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,whatdatcindy.com,"win.satacom, domain",n/a
 2026-06-14,threatfox,DOMAIN,g4me.flashpopdownloadbutton.monster,"win.satacom, domain",n/a
 2026-06-14,threatfox,DOMAIN,account-auth.userlogin.kro.kr,"win.kimsuky, domain",n/a
@@ -255,8 +253,14 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,fhprjdfj.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,amrwjltv.tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,onnzlkiy.shartbandi.games,"js.clearfake, domain",n/a
-2026-06-14,tweetfeed,URL,https://bestprint.cfd,phishing,https://x.com/Malwarehunterr/status/2066085559764918377
-2026-06-14,tweetfeed,URL,https://titanprint.co.in,phishing,https://x.com/Malwarehunterr/status/2066085559764918377
+2026-06-15,threatfox,DOMAIN,qqpidjr.megaparikade.com,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,fcxkiekt.tasisathosseini.shop,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,bigfrogs.info,"unknown_loader, domain",n/a
+2026-06-15,threatfox,DOMAIN,strayweirds.info,"unknown_loader, domain",n/a
+2026-06-15,threatfox,DOMAIN,marmoteilefinance.com,"unknown_loader, domain",n/a
+2026-06-15,threatfox,DOMAIN,mjwougwp.tarikhravannovin.shop,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,0dt4r35j.gavaedfagahe.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,pbh3hti8.gavaedfagahe.xyz,"js.clearfake, domain",n/a
 2026-06-14,tweetfeed,URL,https://varmnail.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066098360868565336
 2026-06-14,tweetfeed,URL,https://onboarding.rideunitedsd.com/conto/hype/,phishing,https://x.com/PhishStats/status/2066102773788074418
 2026-06-14,threatfox,HASH_SHA256,38fead1469cca1192eedb9dd2fc305ddbb15760771223891d8e7db1a7a8fe2ea,"unknown_stealer, sha256_hash",n/a
@@ -352,8 +356,9 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,https://gmxtech009.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066400399280447664
 2026-06-15,tweetfeed,URL,http://112.213.124.132,"C2, malware",https://x.com/etugenio/status/2066406081044062327
 2026-06-15,darkweb_forums,DOMAIN,Breach.VIP,"darkweb, telegram_threat_actors",commit ca55385d / telegram_threat_actors.md
-2026-06-14,tweetfeed,DOMAIN,bestprint.cfd,phishing,https://x.com/Malwarehunterr/status/2066085559764918377
-2026-06-14,tweetfeed,DOMAIN,titanprint.co.in,phishing,https://x.com/Malwarehunterr/status/2066085559764918377
+2026-06-15,tweetfeed,URL,https://49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
+2026-06-15,tweetfeed,URL,http://49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
+2026-06-15,tweetfeed,URL,http://ftp.tecmon.hr,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
 2026-06-14,tweetfeed,DOMAIN,varmnail.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066098360868565336
 2026-06-14,tweetfeed,DOMAIN,onboarding.rideunitedsd.com,phishing,https://x.com/PhishStats/status/2066102773788074418
 2026-06-14,tweetfeed,DOMAIN,comcastauabrn0lasjpdqmailacctvoice.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066128553494581557
@@ -406,6 +411,7 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,DOMAIN,bk.sbishinisiebank.convertaesvit.com,phishing,https://x.com/masaomi346/status/2066376127522967761
 2026-06-15,tweetfeed,DOMAIN,bk.sbishinisiebank.terapiaseves.com,phishing,https://x.com/masaomi346/status/2066376127522967761
 2026-06-15,tweetfeed,DOMAIN,gmxtech009.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066400399280447664
+2026-06-15,tweetfeed,DOMAIN,ftp.tecmon.hr,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
 2026-06-14,tweetfeed,IP,147.79.79.227,phishing,https://x.com/PhishStats/status/2066102773788074418
 2026-06-14,tweetfeed,HASH_SHA256,45fd64a2e3114008f400bb2d9fa775001de652595ffe61c01521eb227a0ba320,n/a,https://x.com/Now_on_VT/status/2066115306842464275
 2026-06-14,tweetfeed,IP,209.25.140.27,n/a,https://x.com/skocherhan/status/2066120513596924262
@@ -419,5 +425,16 @@ date,user,type,ioc,tags,context
 2026-06-14,tweetfeed,IP,45.152.243.170,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066219136569757752
 2026-06-15,tweetfeed,IP,45.144.222.126,"C2, stealer",https://x.com/Fact_Finder03/status/2066412486069571893
 2026-06-15,tweetfeed,IP,41.216.188.213,C2,https://x.com/Fact_Finder03/status/2066422706682105997
+2026-06-15,tweetfeed,IP,49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
+2026-06-15,tweetfeed,IP,185.103.166.93,n/a,https://x.com/solostalking/status/2066446492253278472
+2026-06-15,tweetfeed,HASH_SHA256,1e2ef22ca61194eef3911d49157d1feb3e0892ee2fb5aea7d31c2bd16a15d005,n/a,https://x.com/solostalking/status/2066446492253278472
+2026-06-15,tweetfeed,IP,85.239.155.68,n/a,https://x.com/solostalking/status/2053696616104857659
+2026-06-15,tweetfeed,HASH_SHA256,1d9224a72e64bb2aad289edc81ea0720c764511c3e2b5beb5d0d5ce82a719abd,n/a,https://x.com/nextronresearch/status/2066449234816065588
+2026-06-15,tweetfeed,HASH_SHA256,fdb3907ddda9ff9bd9ec4f8bd29aad823da77b5b3bf599813fecd034b0221189,n/a,https://x.com/nextronresearch/status/2066449234816065588
+2026-06-15,tweetfeed,HASH_SHA256,ac013a0b99d54e8ff9d243fd522609d1819054f48c62de9f618e594875030585,n/a,https://x.com/smica83/status/2066449483773182026
+2026-06-15,tweetfeed,HASH_SHA256,0ab127cae401c8e422362c94ebe20578d26a11dd22513b6e9810c5cbe0f2832c,n/a,https://x.com/smica83/status/2066449483773182026
 2026-06-14,tweetfeed,HASH_MD5,c72a0aa147bb1ae893aca2cff9a6833c,n/a,https://x.com/skocherhan/status/2066167170178908636
 2026-06-14,tweetfeed,HASH_MD5,963b95e0585aa7939156507a6836f9ef,n/a,https://x.com/skocherhan/status/2066167688880091276
+2026-06-15,tweetfeed,HASH_MD5,19a8ff5982eab8056b9559e8801e83ab,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
+2026-06-15,tweetfeed,HASH_MD5,377357ee1340b2bbd546af2bb81bb25b,n/a,https://x.com/Dixit_404/status/2066447360889381254
+2026-06-15,tweetfeed,HASH_MD5,afd949746b510609714185dab7b2c1db,n/a,https://x.com/Dixit_404/status/2066447360889381254
