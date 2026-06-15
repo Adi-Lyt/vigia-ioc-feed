@@ -1,11 +1,4 @@
 date,user,type,ioc,tags,context
-2026-06-14,threatfox,URL,http://fusesd.shop:6431,"win.remus, url",n/a
-2026-06-14,threatfox,URL,http://sekirolegion.duckdns.org/api/endpoint.php,"unknown_stealer, url",n/a
-2026-06-14,threatfox,URL,http://ptlegion.duckdns.org/api/endpoint.php,"unknown_stealer, url",n/a
-2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/update.php,"unknown_stealer, url",n/a
-2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/config.php,"unknown_stealer, url",n/a
-2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/create.php,"unknown_stealer, url",n/a
-2026-06-14,threatfox,URL,http://silentlegion.duckdns.org/gate/connection.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,https://agn-deco.ro/,"win.vidar, url",n/a
 2026-06-14,threatfox,URL,https://avpungxx.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://95.216.152.191/,"win.vidar, url",n/a
@@ -31,111 +24,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://telegram.me/turb00m,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://infobhz.com.br/,"unknown, url",n/a
 2026-06-15,threatfox,URL,http://cacywears.ga/index.php,"win.smokeloader, url",n/a
-2026-06-14,threatfox,DOMAIN,xyxoieix.testpaye.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,sekirolegion.duckdns.org,"unknown_stealer, domain",n/a
-2026-06-14,threatfox,DOMAIN,ptlegion.duckdns.org,"unknown_stealer, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01687.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01687.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01687.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01687.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01688.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01688.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01688.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01688.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01689.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01689.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01689.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01690.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01689.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01690.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01690.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01690.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01691.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01691.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01691.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01691.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01692.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01692.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01692.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s01692.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1408.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1408.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1408.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1408.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1694.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1694.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1694.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1694.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1696.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1696.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1696.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1696.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s17.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s17.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1702.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1702.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1702.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1702.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1708.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1708.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1708.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1708.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1710.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1710.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1710.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1710.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1726.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1726.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1726.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1726.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1728.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1728.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1728.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1728.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1730.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1730.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1730.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1730.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1732.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1732.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1732.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1732.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1734.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1734.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1734.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1734.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1736.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1736.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1736.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1736.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1738.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1738.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1738.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1740.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1738.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1740.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1740.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1742.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1740.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1742.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1742.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1742.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1744.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1744.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1744.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1744.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1746.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1746.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1746.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1746.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1747.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1747.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1747.novel-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1747.star-layer.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1748.byte-buff.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,s1748.house-spirit.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,zggkpuuy.testdrivepaye3.com,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,sys.systemworld.info,"win.cobalt_strike, domain",n/a
 2026-06-14,threatfox,DOMAIN,silentlegion.duckdns.org,"jar.supremebot, domain",n/a
 2026-06-14,threatfox,DOMAIN,wbnggxoc.tractor11.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,4v96patx.vajename.xyz,"js.clearfake, domain",n/a
@@ -242,36 +130,11 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,fqcwxddh.tractor11.com,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,hfl413ch.geotechnictahuni.store,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,ttmwdcsm.testranandegi.com,"js.clearfake, domain",n/a
-2026-06-14,tweetfeed,URL,https://titanprint.co.in/@Cyberdost,phishing,https://x.com/skocherhan/status/2066124509254475970
-2026-06-14,tweetfeed,URL,https://comcastauabrn0lasjpdqmailacctvoice.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066128553494581557
-2026-06-14,tweetfeed,URL,http://crsorgi.gov.in.web.indexe.buzz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.index.web-index.info,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.index.certificate-veryfied.dc-p.xyz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.verfy.store,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.verifycertificate.info,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.verifycertificate.biz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.verifycertificatecrs.co.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.crsverifycertificate.co.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi-gov.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.websecure.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.viewd.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.verifyy.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.ec.cc,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.checkbd.in.cscvles.shop,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.crs-gov.com,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.codezfree.online,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi-gov-in.pro,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.ineu.eu.cc,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov-ln.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in-co.pw,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.index.dc-p.xyz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.web.dccertificate.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.verfiys.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://dc.crsorgi.gov.in.veriye.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://crsorgi.gov.vaiw.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://crsorgi-gov.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://crsorgi.gov.in.web.index.birthcetficate.co,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,URL,http://crosagi-gov-in.info,phishing,https://x.com/skocherhan/status/2066130507427983633
+2026-06-15,threatfox,DOMAIN,qeqnjdds.hugugmadani6.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,kcgxidkf.hugugmadani6.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,a.qqmusic1.com,"win.valley_rat, domain",n/a
+2026-06-15,threatfox,DOMAIN,ncpzdseh.usoleamoozesh.xyz,"js.clearfake, domain",n/a
+2026-06-15,threatfox,DOMAIN,8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com,"win.cobalt_strike, domain",n/a
 2026-06-14,tweetfeed,URL,https://clientmeetingzoomspace.com/Windows/invite.php,phishing,https://x.com/patialavii/status/2066141716315558363
 2026-06-14,tweetfeed,URL,https://user-support.online/api/agent/download/6a22e84654ddf3633644d077?type=vbs,phishing,https://x.com/patialavii/status/2066141716315558363
 2026-06-14,tweetfeed,URL,https://user-support.online/api/agent/download/6a22e84654ddf3633644d077?type=exe,phishing,https://x.com/patialavii/status/2066141716315558363
@@ -311,35 +174,11 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,http://194.11.226.41:4000,n/a,https://x.com/nextronresearch/status/2066474280087384217
 2026-06-15,tweetfeed,URL,https://air-ana.sihuame.com/xUQxKkji/,phishing,https://x.com/masaomi346/status/2066476064080363537
 2026-06-15,tweetfeed,URL,http://ja.html-5.me,APT,https://x.com/byrne_emmy12099/status/2066483046308839882
-2026-06-14,tweetfeed,DOMAIN,comcastauabrn0lasjpdqmailacctvoice.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066128553494581557
-2026-06-14,tweetfeed,DOMAIN,crsorgi.gov.in.web.indexe.buzz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.index.web-index.info,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.index.certificate-veryfied.dc-p.xyz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.verfy.store,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.verifycertificate.info,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.verifycertificate.biz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.verifycertificatecrs.co.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.crsverifycertificate.co.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi-gov.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.websecure.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.viewd.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.verifyy.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.ec.cc,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.checkbd.in.cscvles.shop,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.crs-gov.com,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.codezfree.online,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi-gov-in.pro,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.ineu.eu.cc,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov-ln.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in-co.pw,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.index.dc-p.xyz,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.web.dccertificate.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.verfiys.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.veriye.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,crsorgi.gov.vaiw.in,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,crsorgi-gov.site,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,crsorgi.gov.in.web.index.birthcetficate.co,phishing,https://x.com/skocherhan/status/2066130507427983633
-2026-06-14,tweetfeed,DOMAIN,crosagi-gov-in.info,phishing,https://x.com/skocherhan/status/2066130507427983633
+2026-06-15,tweetfeed,URL,https://cuentaenrecupe.webcindario.com,"phishing, scam",https://x.com/urldna_bot/status/2066490988265103623
+2026-06-15,tweetfeed,URL,http://zoom-ebix.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
+2026-06-15,tweetfeed,URL,http://ebixexam.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
+2026-06-15,tweetfeed,URL,http://ebix-itrack.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
+2026-06-15,tweetfeed,URL,http://195.86.16.135,phishing,https://x.com/Metemcyber/status/2066500002671939913
 2026-06-14,tweetfeed,DOMAIN,clientmeetingzoomspace.com,phishing,https://x.com/patialavii/status/2066141716315558363
 2026-06-14,tweetfeed,DOMAIN,user-support.online,phishing,https://x.com/patialavii/status/2066141716315558363
 2026-06-14,tweetfeed,DOMAIN,docsonlineshare.shorepowersolution.net,phishing,https://x.com/patialavii/status/2066144167655575632
@@ -365,6 +204,10 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,DOMAIN,mailupdateview.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066460781256851478
 2026-06-15,tweetfeed,DOMAIN,air-ana.sihuame.com,phishing,https://x.com/masaomi346/status/2066476064080363537
 2026-06-15,tweetfeed,DOMAIN,ja.html-5.me,APT,https://x.com/byrne_emmy12099/status/2066483046308839882
+2026-06-15,tweetfeed,DOMAIN,cuentaenrecupe.webcindario.com,"phishing, scam",https://x.com/urldna_bot/status/2066490988265103623
+2026-06-15,tweetfeed,DOMAIN,zoom-ebix.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
+2026-06-15,tweetfeed,DOMAIN,ebixexam.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
+2026-06-15,tweetfeed,DOMAIN,ebix-itrack.com,n/a,https://x.com/nextronresearch/status/2066497017287729210
 2026-06-14,tweetfeed,HASH_SHA256,17e46f389c35bd5db3118562ac2500cb3bdd6d72ebbc432d2a986087e36fae5f,phishing,https://x.com/patialavii/status/2066141716315558363
 2026-06-14,tweetfeed,HASH_SHA256,160c4e5bd3f09c53a09e5fc95c34cf9fc2e96525e72412645350ba27a7025b34,phishing,https://x.com/patialavii/status/2066144167655575632
 2026-06-14,tweetfeed,IP,112.213.124.132,n/a,https://x.com/smica83/status/2066151086721827002
@@ -391,6 +234,14 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,HASH_SHA256,cc5c72e90d7eda42e66a54c0197abbba1951561d3d864963b6aca7fe43a0ab06,n/a,https://x.com/nextronresearch/status/2066474280087384217
 2026-06-15,tweetfeed,HASH_SHA256,22480680a22ba444a3924f906cbec947d11f011200b89ef6b67afd48b4c71d77,n/a,https://x.com/nextronresearch/status/2066474280087384217
 2026-06-15,tweetfeed,HASH_SHA256,ee48acc900deb4acd48d16fa5a08dc6d3be63bb6a915ba077c4cbeabe0451549,APT,https://x.com/byrne_emmy12099/status/2066483046308839882
+2026-06-15,tweetfeed,HASH_SHA256,d542394a43a58b5dfb2c2edce7c59aaf87ffdfbcec09c44815ca593bcdaed17d,APT,https://x.com/byrne_emmy12099/status/2066484942834679964
+2026-06-15,tweetfeed,HASH_SHA256,3063285af5c7586ad04178c52b55da2bc1970cb7ae4fadba2195ad4a3fb8ac50,n/a,https://x.com/nextronresearch/status/2066497577206325421
+2026-06-15,tweetfeed,HASH_SHA256,befcffc4494e71f0efa03db4b3cfb71f72eab2ee9b406e867569062f238d4c3b,n/a,https://x.com/nextronresearch/status/2066497577206325421
+2026-06-15,tweetfeed,HASH_SHA256,abfac8026d1974220871568caf9344cbffed19a184ff098c0912ffbb4f1e42d5,n/a,https://x.com/nextronresearch/status/2066497577206325421
+2026-06-15,tweetfeed,HASH_SHA256,853ed3a26188e4cd89db50ebf50dd0c7b9392c056f637ba3af042c0156877a65,n/a,https://x.com/nextronresearch/status/2066497577206325421
+2026-06-15,tweetfeed,HASH_SHA256,fab731cd8005d9d73a8fe862a8bfea32c945bd957bbb9861f36401d18b878c8b,n/a,https://x.com/nextronresearch/status/2066499099508027802
+2026-06-15,tweetfeed,HASH_SHA256,2cfede38fb121a71a2f3607474aa8cd588a99f51b37e5e6f0d8cb789fa275032,n/a,https://x.com/nextronresearch/status/2066499099508027802
+2026-06-15,tweetfeed,IP,195.86.16.135,phishing,https://x.com/Metemcyber/status/2066500002671939913
 2026-06-14,tweetfeed,HASH_MD5,c72a0aa147bb1ae893aca2cff9a6833c,n/a,https://x.com/skocherhan/status/2066167170178908636
 2026-06-14,tweetfeed,HASH_MD5,963b95e0585aa7939156507a6836f9ef,n/a,https://x.com/skocherhan/status/2066167688880091276
 2026-06-15,tweetfeed,HASH_MD5,19a8ff5982eab8056b9559e8801e83ab,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
