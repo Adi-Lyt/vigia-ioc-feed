@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-09,cisa_kev,CVE,CVE-2026-7473,"Arista Extensible Operating System, kev","Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
-2026-06-08,threatfox,URL,https://weekfoc.cyou,"win.lumma, url",n/a
 2026-06-08,threatfox,URL,https://135.181.224.73/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://135.181.224.76/,"win.vidar, url",n/a
 2026-06-08,threatfox,URL,https://135.181.224.74/,"win.vidar, url",n/a
@@ -387,13 +386,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://telegram.me/turb00m,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://infobhz.com.br/,"unknown, url",n/a
 2026-06-15,threatfox,URL,http://cacywears.ga/index.php,"win.smokeloader, url",n/a
-2026-06-08,threatfox,DOMAIN,mpozwop.winxbet.co,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,xzelng.jamjahani.cash,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,throtboy.duckdns.org,"win.remcos, domain",n/a
-2026-06-08,threatfox,DOMAIN,yynpur.perfectgame.casino,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,ebwgtb.vezaratshart.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,5dwz6wj9.yekbetiran.com,"js.clearfake, domain",n/a
-2026-06-08,threatfox,DOMAIN,anpysts.yasbetapp.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,inmjycz.olabahiskayit.com,"js.clearfake, domain",n/a
 2026-06-08,threatfox,DOMAIN,reg.turbo88op.top,"win.vidar, domain",n/a
 2026-06-08,threatfox,DOMAIN,lla.firesupport.com,"win.vidar, domain",n/a
@@ -3533,9 +3525,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,DOMAIN,fhprjdfj.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,amrwjltv.tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,onnzlkiy.shartbandi.games,"js.clearfake, domain",n/a
-2026-06-08,tweetfeed,URL,https://gtfhtrh-www4-04.sfo3.digitaloceanspaces.com,n/a,n/a
-2026-06-08,tweetfeed,URL,http://regfh-kkk3--055.atl1.digitaloceanspaces.com,n/a,n/a
-2026-06-08,tweetfeed,URL,https://tsrtlwebmlspprt.weebly.com,n/a,n/a
 2026-06-08,tweetfeed,URL,https://cloud.mail.ru/public/RFLP/RVckpRqm1,n/a,n/a
 2026-06-08,tweetfeed,URL,https://collaborative-stories-062625.framer.app,n/a,n/a
 2026-06-08,tweetfeed,URL,https://github.com/lonergigs-code/DocuSign/releases/,n/a,n/a
@@ -5136,9 +5125,6 @@ date,user,type,ioc,tags,context
 2026-06-15,tweetfeed,URL,https://gmxtech009.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066400399280447664
 2026-06-15,tweetfeed,URL,http://112.213.124.132,"C2, malware",https://x.com/etugenio/status/2066406081044062327
 2026-06-15,darkweb_forums,DOMAIN,Breach.VIP,"darkweb, telegram_threat_actors",commit ca55385d / telegram_threat_actors.md
-2026-06-08,tweetfeed,DOMAIN,gtfhtrh-www4-04.sfo3.digitaloceanspaces.com,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,regfh-kkk3--055.atl1.digitaloceanspaces.com,n/a,n/a
-2026-06-08,tweetfeed,DOMAIN,tsrtlwebmlspprt.weebly.com,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,cloud.mail.ru,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,collaborative-stories-062625.framer.app,n/a,n/a
 2026-06-08,tweetfeed,DOMAIN,bbytati25iy2.anondns.net,n/a,n/a
