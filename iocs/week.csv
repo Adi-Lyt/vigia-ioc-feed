@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-09,threatfox,URL,https://jkbuildersg.com/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,http://kidos-bank.ru/index.htm,"win.berbew, url",n/a
 2026-06-09,threatfox,URL,http://kaspersky.ru/index.htm,"win.berbew, url",n/a
 2026-06-09,threatfox,URL,http://parex-bank.ru/index.htm,"win.berbew, url",n/a
@@ -313,13 +312,6 @@ date,user,type,ioc,tags,context
 2026-06-15,threatfox,URL,https://usa.glamisrents.com/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://sip.rzrrent.com/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://sip.hanyasm188.top/,"win.vidar, url",n/a
-2026-06-09,threatfox,DOMAIN,wsiflnb.persian.sex,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,mnnwpo.jamjahani2026.football,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,jjcuameq.parspoker90.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,rgcecjho.parspoker90.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,scsadmm.penaltibazi.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,aoeseeuk.winpars.casino,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,winpars.casino,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,kodhfeq.one1xbet.net,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,nkfjdum.pasoor11.bet,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,hxmhpw.pishbinibet.casino,"js.clearfake, domain",n/a
@@ -3404,10 +3396,9 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,cpclyyro.hugugtejarat4.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,mszrd.mabanieslami2.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,nvxwrvxi.tasisathosseini.shop,"js.clearfake, domain",n/a
-2026-06-09,tweetfeed,URL,https://refinedland.s3.us-east-1.amazonaws.com/dropbox/legalnotification.html,n/a,n/a
-2026-06-09,tweetfeed,URL,https://rsvpinvitations.de/Letsparty/Invite.php,n/a,n/a
-2026-06-09,tweetfeed,URL,https://rsvpinvitations.de/Letsparty/ScreenConnect.ClientSetup.msi,n/a,n/a
-2026-06-09,tweetfeed,URL,https://lw.ldxbch.com/xinfinifix/xinfini/,n/a,n/a
+2026-06-16,threatfox,DOMAIN,tfpypiqq.karbordriyaziyat.xyz,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,gyrtdqr.shartbandikade.online,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,ruynyxnj.karafarini.shop,"js.clearfake, domain",n/a
 2026-06-09,tweetfeed,URL,https://markin.github.io,n/a,n/a
 2026-06-09,tweetfeed,URL,https://ww2.uc-aa.kuang-ren.com/yeRytiJn/,n/a,n/a
 2026-06-09,tweetfeed,URL,https://bolsasgotadagua.com/ftx/,n/a,n/a
@@ -5073,9 +5064,6 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,http://omqon.com,n/a,https://x.com/Q8CyberTi/status/2066687752456843589
 2026-06-16,tweetfeed,URL,http://wildspark.click,n/a,https://x.com/Q8CyberTi/status/2066687752456843589
 2026-06-16,tweetfeed,URL,https://facebook-login.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2066702343085686999
-2026-06-09,tweetfeed,DOMAIN,refinedland.s3.us-east-1.amazonaws.com,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,rsvpinvitations.de,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,lw.ldxbch.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,markin.github.io,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,ww2.uc-aa.kuang-ren.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,bolsasgotadagua.com,n/a,n/a
@@ -6403,7 +6391,6 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,omqon.com,n/a,https://x.com/Q8CyberTi/status/2066687752456843589
 2026-06-16,tweetfeed,DOMAIN,wildspark.click,n/a,https://x.com/Q8CyberTi/status/2066687752456843589
 2026-06-16,tweetfeed,DOMAIN,facebook-login.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2066702343085686999
-2026-06-09,tweetfeed,HASH_SHA256,e58250fade0b1dc001004bb357bdb264b47e0d94b738d989626f9ba173030705,n/a,n/a
 2026-06-09,tweetfeed,HASH_SHA256,c179af135a73c7b3f86c8767380a7717a8e9a9a2d12534982c1a957282e1b0ff,n/a,n/a
 2026-06-09,tweetfeed,IP,43.133.2.37,n/a,n/a
 2026-06-09,tweetfeed,HASH_SHA256,63b4608310328a326976ec8041efc0af60adba345952d21181e1c76e838d4cc4,n/a,n/a
