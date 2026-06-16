@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-15,threatfox,URL,https://dom.glamisrents.com/,"win.vidar, url",n/a
-2026-06-15,threatfox,URL,https://dom.goturbo88.top/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://lbs-lamb-withdrawal-thickness.trycloudflare.com/,"unknown_loader, url",n/a
 2026-06-15,threatfox,URL,https://sharedtafel.com/Grandfest.exe,"unknown_rat, url",n/a
 2026-06-15,threatfox,URL,https://two-verif.lol/o,"js.kongtuke, url",n/a
@@ -36,14 +34,9 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,URL,https://out.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://treviro.icu/api/v1/status,"js.kongtuke, url",n/a
 2026-06-16,threatfox,URL,https://verif-human.lol/o,"js.kongtuke, url",n/a
-2026-06-15,threatfox,DOMAIN,rdpztlxu.maharatmodiran.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,general.activeworkshops.com,"win.remcos, domain",n/a
-2026-06-15,threatfox,DOMAIN,l3fcolra.fubet24.net,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,divaselinsajep.com,"win.deerstealer, domain",n/a
-2026-06-15,threatfox,DOMAIN,dom.goturbo88.top,"win.vidar, domain",n/a
-2026-06-15,threatfox,DOMAIN,dom.glamisrents.com,"win.vidar, domain",n/a
-2026-06-15,threatfox,DOMAIN,kulnpioc.mabanishimi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,32asinc.duckdns.org,"win.asyncrat, domain",n/a
+2026-06-16,threatfox,URL,https://yan.rzrrent.com/,"win.vidar, url",n/a
+2026-06-16,threatfox,URL,https://yan.hanyasm188.top/,"win.vidar, url",n/a
+2026-06-16,threatfox,URL,https://cpajoliette.com/q,"js.smartapesg, url",n/a
 2026-06-15,threatfox,DOMAIN,aiaufdwh.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,rgojzoub.masaelmohandesi.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,bodvlnfv.masaelmohandesi.xyz,"js.clearfake, domain",n/a
@@ -204,6 +197,10 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,rb907ecj.modiriyatnikbakht.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,mvipnisr.mabanishimi.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,ojrxidv.shartbandifootballkade.online,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,spnzuoez.masaelmohandesi.xyz,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,03mnh00l.hugugmadani6.xyz,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,yan.rzrrent.com,"win.vidar, domain",n/a
+2026-06-16,threatfox,DOMAIN,yan.hanyasm188.top,"win.vidar, domain",n/a
 2026-06-15,tweetfeed,URL,https://ghyytttdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066581554889998499
 2026-06-15,tweetfeed,URL,http://172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
 2026-06-15,tweetfeed,URL,http://ptnrmat.xyz,C2,https://x.com/volrant136/status/2066542631711343042
@@ -293,6 +290,10 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,https://storage.googleapis.com/snapshothelper/he.txt,APT,https://x.com/askardyuss/status/2066859258130665974
 2026-06-16,tweetfeed,URL,http://api.keensie.com:5198,APT,https://x.com/askardyuss/status/2066859258130665974
 2026-06-16,tweetfeed,URL,http://194.11.226.41,n/a,https://x.com/L0Psec/status/2066917383671804032
+2026-06-16,tweetfeed,URL,https://alphabetica.net/ftx/,phishing,https://x.com/patialavii/status/2066933719919981012
+2026-06-16,tweetfeed,URL,https://pub-7ca279d6f40848f5a017b1a52061dad6.r2.dev/eDocSign-MAI31MSDSUE.zip,phishing,https://x.com/patialavii/status/2066933719919981012
+2026-06-16,tweetfeed,URL,https://securefirstfinancialfcu.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066943931363860886
+2026-06-16,tweetfeed,URL,http://t1p.de/kyokq,phishing,https://x.com/wirnachrichten/status/2066944194178846898
 2026-06-15,tweetfeed,DOMAIN,ghyytttdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066581554889998499
 2026-06-15,tweetfeed,DOMAIN,ptnrmat.xyz,C2,https://x.com/volrant136/status/2066542631711343042
 2026-06-15,tweetfeed,DOMAIN,adabroker.com.tr,n/a,https://x.com/Huntio/status/2066563445739118692
@@ -351,6 +352,10 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,tide-39.com,n/a,https://x.com/stop_spammerz/status/2066868071524921443
 2026-06-16,tweetfeed,DOMAIN,atom.freehosting.dev,APT,https://x.com/byrne_emmy12099/status/2066871365534437482
 2026-06-16,tweetfeed,DOMAIN,r70p8r0t7odq23ef0789iyut6d8vsf08zx2srd5286920wwy8sx097gtv.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066883538775945460
+2026-06-16,tweetfeed,DOMAIN,alphabetica.net,phishing,https://x.com/patialavii/status/2066933719919981012
+2026-06-16,tweetfeed,DOMAIN,pub-7ca279d6f40848f5a017b1a52061dad6.r2.dev,phishing,https://x.com/patialavii/status/2066933719919981012
+2026-06-16,tweetfeed,DOMAIN,securefirstfinancialfcu.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066943931363860886
+2026-06-16,tweetfeed,DOMAIN,t1p.de,phishing,https://x.com/wirnachrichten/status/2066944194178846898
 2026-06-15,tweetfeed,IP,172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
 2026-06-15,tweetfeed,IP,5.255.127.55,n/a,https://x.com/Huntio/status/2066563445739118692
 2026-06-15,tweetfeed,HASH_SHA256,8b8fccafc9abffb4e23f839672a953c454d4a63f42ac2de08e36955f306d9019,phishing,https://x.com/patialavii/status/2066575055472205889
