@@ -1,11 +1,8 @@
 date,user,type,ioc,tags,context
 2026-06-12,cisa_kev,CVE,CVE-2026-35273,"Oracle  PeopleSoft Enterprise PeopleTools, kev","Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-15"
-2026-06-09,cisa_kev,CVE,CVE-2026-20245,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system. Action: Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable. Due: 2026-06-23"
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-09,threatfox,URL,http://spasopro.at/Lsge63sd3/index.php,"win.amadey, url",n/a
-2026-06-09,threatfox,URL,https://amazonattention.com/verify,"unknown, url",n/a
 2026-06-10,threatfox,URL,https://luk.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-10,threatfox,URL,https://luk.gagahsm188.top/,"win.vidar, url",n/a
 2026-06-10,threatfox,URL,http://zsigmu.shop:7673,"win.remus, url",n/a
@@ -281,19 +278,6 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,URL,https://yan.rzrrent.com/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://yan.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://cpajoliette.com/q,"js.smartapesg, url",n/a
-2026-06-09,threatfox,DOMAIN,rywwahl.romabet90.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pilotkadomen.club,"unknown_stealer, domain",n/a
-2026-06-09,threatfox,DOMAIN,az2030port.duckdns.org,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,update-svc-4853.duckdns.org,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,spasopro.at,"win.amadey, domain",n/a
-2026-06-09,threatfox,DOMAIN,mirroflobsny.sytes.net,"win.quasar_rat, domain",n/a
-2026-06-09,threatfox,DOMAIN,wirroflobsny.ydns.eu,"win.quasar_rat, domain",n/a
-2026-06-09,threatfox,DOMAIN,stringcard.space,"unknown_loader, domain",n/a
-2026-06-09,threatfox,DOMAIN,xepjlus.riverpoker1.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,1tzunno5.onexboro.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pssoduvnzud.xyz,"win.servhelper, domain",n/a
-2026-06-09,threatfox,DOMAIN,dsfamsi4b.cn,"win.servhelper, domain",n/a
-2026-06-09,threatfox,DOMAIN,asfjjasguasus.xyz,"win.servhelper, domain",n/a
 2026-06-09,threatfox,DOMAIN,scvnivk.sabaad724.bet,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,autoupdaters.com,"unknown, domain",n/a
 2026-06-09,threatfox,DOMAIN,autoupdatethis.com,"unknown, domain",n/a
@@ -3322,115 +3306,9 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,03mnh00l.hugugmadani6.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,yan.rzrrent.com,"win.vidar, domain",n/a
 2026-06-16,threatfox,DOMAIN,yan.hanyasm188.top,"win.vidar, domain",n/a
-2026-06-09,tweetfeed,URL,https://link-matamask.teachable.com,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pot18ice.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pot16ice.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc12osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc35osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pass25op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc34osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nuser-login.poldoc34osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc36osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc3osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pld8ker.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc23osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc13osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc1osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc10osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://poldoc4osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://plice32osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pal22osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.plice32osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-corp.pal22osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://plice31osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.plice31osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://plice35osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://plice22osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://plice8osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pal14osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pal35osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pal7osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pal0osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pass2op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pass5op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-cloud.pass5op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://polr7es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pxl34op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pass6op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pold13kr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins19ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://iec28px.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pes28ip.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins5ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://msi5ex.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://iec12px.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins27ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://plod17kor.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://peld7or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-cloud.peld7or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://peld12or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://peld2or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://plod5kor.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-corp.plod5kor.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pold9kr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-corp.pold9kr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pld1ker.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pot28sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.pot28sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-corp.pold13kr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pols32kc.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pols11kc.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pot32sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pol15sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nuser-login.pol15sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pot39sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pot10sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://polr35es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://polr10es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-corp.polr10es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-corp.polr35es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://polr6es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.polr7es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pol35odr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.pol35odr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://pnx4ods.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nid-user.pnx4ods.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.ins19ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins29ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins10ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.ins10ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins23ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-cloud.ins23ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins15ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-corp.ins27ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins6ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nid-user.ins6ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nuser-login.pes28ip.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ns18ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nid-user.ins5ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nos16ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ns13ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins1ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ins16ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-cloud.ins16ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://ns17ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-store.ns17ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://iec11px.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://n-cloud.nos37ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://mts2op.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nos37ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nid-user.nos37ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nos35ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nos36ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nos34ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://mts18op.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://nid-user.mts18op.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://iec26px.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,URL,http://korea-gov-org.pages.dev,n/a,n/a
-2026-06-09,threatfox,HASH_SHA256,3cea9df086d111a71c24822aa626380105347dd6d458ae7971557684bf12e097,"win.xtinyloader, sha256_hash",n/a
-2026-06-09,threatfox,HASH_SHA256,34f0612b6ceff640754500f6c0f4d70e385db4cbe1807fa6974808e9b66cbb96,"win.nanocore, sha256_hash",n/a
-2026-06-09,threatfox,HASH_SHA256,90fe8c831a681c8c1dc77a271bb417fd52479fe6fc79d6cb9b7ffaf13f801f93,"js.kongtuke, sha256_hash",n/a
-2026-06-09,threatfox,HASH_SHA256,6af715b5105d6d16e02ee6d1de14410a8a0fd2fb3d7b752bb24be25105fac0b2,"js.kongtuke, sha256_hash",n/a
+2026-06-16,threatfox,DOMAIN,mohandesitraffic.shop,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,llmpgrax.mechanickhodakarami.shop,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,moqlgtez.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-09,tweetfeed,URL,http://hypernexlogic.sbs,n/a,n/a
 2026-06-09,tweetfeed,URL,http://tauvzgtnkvzyaxn.p-e.kr,n/a,n/a
 2026-06-09,tweetfeed,URL,http://tykqgpsmqaoh.o-r.kr,n/a,n/a
@@ -4945,102 +4823,15 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,https://pub-7ca279d6f40848f5a017b1a52061dad6.r2.dev/eDocSign-MAI31MSDSUE.zip,phishing,https://x.com/patialavii/status/2066933719919981012
 2026-06-16,tweetfeed,URL,https://securefirstfinancialfcu.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066943931363860886
 2026-06-16,tweetfeed,URL,http://t1p.de/kyokq,phishing,https://x.com/wirnachrichten/status/2066944194178846898
-2026-06-09,tweetfeed,DOMAIN,link-matamask.teachable.com,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pot18ice.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pot16ice.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc12osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc35osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pass25op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc34osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nuser-login.poldoc34osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc36osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc3osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pld8ker.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc23osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc13osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc1osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc10osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,poldoc4osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,plice32osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pal22osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.plice32osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-corp.pal22osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,plice31osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.plice31osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,plice35osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,plice22osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,plice8osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pal14osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pal35osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pal7osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pal0osp.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pass2op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pass5op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-cloud.pass5op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,polr7es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pxl34op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pass6op.dns.army,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,peld7or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-cloud.peld7or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,peld12or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,peld2or.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,plod5kor.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-corp.plod5kor.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pold9kr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-corp.pold9kr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pld1ker.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pot28sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.pot28sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-corp.pold13kr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pols32kc.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pols11kc.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pot32sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pol15sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nuser-login.pol15sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pot39sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pot10sx.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,polr35es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,polr10es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-corp.polr10es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-corp.polr35es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,polr6es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.polr7es.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pol35odr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.pol35odr.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,pnx4ods.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nid-user.pnx4ods.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.ins19ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ins29ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ins10ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.ins10ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ins23ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-cloud.ins23ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ins15ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-corp.ins27ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ins6ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nid-user.ins6ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nuser-login.pes28ip.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ns18ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nid-user.ins5ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nos16ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ns13ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ins1ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ins16ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-cloud.ins16ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,ns17ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-store.ns17ios.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,iec11px.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,n-cloud.nos37ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,mts2op.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nos37ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nid-user.nos37ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nos35ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nos36ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nos34ips.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,mts18op.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,nid-user.mts18op.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,iec26px.dynv6.net,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,korea-gov-org.pages.dev,n/a,n/a
+2026-06-16,tweetfeed,URL,http://194.14.217.88,"APT, malware",https://x.com/phatomcandle/status/2066943909172027691
+2026-06-16,threatfox,HASH_SHA256,f3e1459d687da13f8455a49ada4ba782c433a08bf17bf268a965038ef39a5317,"win.phemedrone_stealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,c32864b6ddfede2177fc0c4ba11ca21ae80cc0c3e1b3d218f4920ea2ddc3e46a,"win.timbre_stealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,879950da6d18cac34619af10099bd5cfe766436f6ad2df7aabd4d5439154f462,"win.yibackdoor, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,f993630f802c3958c1ed9f5e8f1f09ab8c568a55c26658172105eabf20d3080b,"win.svcstealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,0da7be1647f31711fd16932c46c9897f5d5d321746d4e8ff0f5184c59d08cbe4,"win.deerstealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,e38a83583a9e712d2163224485ecd934e9b27a6850bbe3c022d6344d0298a188,"win.salatstealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,d313447f8bc9b4e058ca7b3de4cb73f03be0713a730b73cc03a9faecbeb288bc,"py.creal_stealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,b4f2276d77aab7af850e2994faf1f44524a4356ed3ffea0e1ddd4e56dfb274c7,"win.darktortilla, sha256_hash",n/a
 2026-06-09,tweetfeed,DOMAIN,hypernexlogic.sbs,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,tauvzgtnkvzyaxn.p-e.kr,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,tykqgpsmqaoh.o-r.kr,n/a,n/a
@@ -6239,9 +6030,13 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,pub-7ca279d6f40848f5a017b1a52061dad6.r2.dev,phishing,https://x.com/patialavii/status/2066933719919981012
 2026-06-16,tweetfeed,DOMAIN,securefirstfinancialfcu.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066943931363860886
 2026-06-16,tweetfeed,DOMAIN,t1p.de,phishing,https://x.com/wirnachrichten/status/2066944194178846898
-2026-06-09,tweetfeed,HASH_SHA256,0b1b69fd0b2263b1f655f14b3054d4261741ca0d758ccc300134000f17019825,n/a,n/a
-2026-06-09,tweetfeed,IP,12.3.2.48,n/a,n/a
-2026-06-09,tweetfeed,IP,178.16.55.28,n/a,n/a
+2026-06-16,threatfox,HASH_MD5,6cc2ef716ba1fd8af7ee825cd332b158,"win.phemedrone_stealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,fc5a6cafed04f3f052d8b94d20eeb650,"win.timbre_stealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,6bc2ac222f8d27464fe186b5f2a055e7,"win.yibackdoor, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,b77625cae72301aa6736c543f1c9d80f,"win.deerstealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,5bf6e385651d48acf554428e8301ef5b,"win.salatstealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,dcad6b0d28491d35d79b9f28728ae9e3,"py.creal_stealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,345a1ab350f2c7ddabf686e27e784941,"win.darktortilla, md5_hash",n/a
 2026-06-09,tweetfeed,IP,185.93.6.134,n/a,n/a
 2026-06-09,tweetfeed,HASH_SHA256,d9d07a5ef476e789d4c7abadfa120bdfe55e11b529ead26492da3925d6399614,n/a,n/a
 2026-06-10,tweetfeed,IP,152.89.28.134,n/a,n/a
@@ -6490,12 +6285,12 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,HASH_SHA256,470df164b6437f5629414772f544ec7352aad725c983eed8dc2e6261b8ea78aa,n/a,https://x.com/byrne_emmy12099/status/2066872947508425169
 2026-06-16,tweetfeed,HASH_SHA256,775f42fbcdb8e0fa2a7df87ec4f2b89a94e4b37fc068f86e043b7f018396658b,n/a,https://x.com/L0Psec/status/2066917394832855413
 2026-06-16,tweetfeed,IP,175.110.122.37,phishing,https://x.com/marcandrebeaul1/status/2066917599217135731
-2026-06-09,tweetfeed,HASH_MD5,b21210068e777353b370f9e745f9ce79,n/a,n/a
+2026-06-16,tweetfeed,IP,194.14.217.88,"APT, malware",https://x.com/phatomcandle/status/2066943909172027691
 2026-06-10,tweetfeed,HASH_MD5,8f6a945dc91d75580db5d82d0355afb8,n/a,n/a
 2026-06-10,tweetfeed,HASH_MD5,1c56aca36f2350698d745e2a7f088873,n/a,n/a
 2026-06-10,tweetfeed,HASH_MD5,bd260bf220b310ebdd9ab0b50114f627,RAT,https://x.com/goldenjackel12/status/2064679226838806667
 2026-06-10,tweetfeed,HASH_MD5,c6409e078bad9094ab4b26dad5219f6c,RAT,https://x.com/goldenjackel12/status/2064679226838806667
-2026-06-10,tweetfeed,HASH_MD5,e228b521325b001cecf46224c8e96562,stealer,https://x.com/suyog41/status/2064703943679135919
+2026-06-10,"threatfox,tweetfeed",HASH_MD5,e228b521325b001cecf46224c8e96562,stealer,https://x.com/suyog41/status/2064703943679135919
 2026-06-10,tweetfeed,HASH_MD5,21846f393d51dbc36c9eafe1cba34346,n/a,https://x.com/sicehice/status/2064709628798156927
 2026-06-10,tweetfeed,HASH_MD5,a860fdd6f0bd38510c779b1fba339c46,n/a,https://x.com/sicehice/status/2064710203623240094
 2026-06-10,tweetfeed,HASH_MD5,1d7faffd7c08f1b1bf3fa090ceb77992,n/a,https://x.com/Dixit_404/status/2064729354173919522
