@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-09,threatfox,URL,https://reconciliarspaterapeutico.com.br/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://gerrirsen.icu/file.js,"js.kongtuke, url",n/a
 2026-06-09,threatfox,URL,https://gerrirsen.icu/api/v1/session,"js.kongtuke, url",n/a
 2026-06-09,threatfox,URL,https://gerrirsen.icu/api/v1/verify,"js.kongtuke, url",n/a
@@ -288,24 +287,7 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,URL,https://178.105.230.82/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://65.21.96.130/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://cas.rzrrent.com/,"win.vidar, url",n/a
-2026-06-09,threatfox,DOMAIN,clhfgcomacdn.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,hasmeverdcdn.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,hftplcnsns.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,srtydnnc.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,bhfgtrns-js.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,claufancdn.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,shkcinnc.beer,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,japanpatagonia.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,showmecoffee.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,coffeefrombrazil.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,legitmobile.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,tommysdemons.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,xdavnode.pro,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,fithusbandplan.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,profilab.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,sampatiguide.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,xcoffeeteaandwatherx.monster,"unknown, domain",n/a
-2026-06-09,threatfox,DOMAIN,salppir.red90.casino,"js.clearfake, domain",n/a
+2026-06-16,threatfox,URL,https://cas.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-09,threatfox,DOMAIN,blkfazi.xenicalby6.com,"js.clearfake, domain",n/a
 2026-06-09,threatfox,DOMAIN,nihaoclub.asia,"unknown, domain",n/a
 2026-06-09,threatfox,DOMAIN,w18yfaze.yekbetiran.com,"js.clearfake, domain",n/a
@@ -3327,8 +3309,10 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,xoqlqpdb.psgnewsiran.com,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,cnuwz.bankefile.com,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,tuwlc2yd.hesabdarinoravesh.xyz,"js.clearfake, domain",n/a
-2026-06-09,tweetfeed,URL,https://bill-boss-mac.github.io,n/a,n/a
-2026-06-09,tweetfeed,URL,https://mex-lam.weebly.com,n/a,n/a
+2026-06-16,threatfox,DOMAIN,mxmzjcfl.sakhtemandade.shop,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,trwqprv.shartmag.bet,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,zgdpxwcq.sadreislam.xyz,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,cas.hanyasm188.top,"win.vidar, domain",n/a
 2026-06-09,tweetfeed,URL,https://vidmateapps.com/?type=verify&key=cgtunxtnyx,n/a,n/a
 2026-06-09,tweetfeed,URL,https://atlas2222.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,URL,http://lab99.sbs,n/a,n/a
@@ -5002,8 +4986,11 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,https://es-com-556444.quest,n/a,https://x.com/malwrhunterteam/status/2066820173646995906
 2026-06-16,tweetfeed,URL,http://93.190.247.238,n/a,https://x.com/malwrhunterteam/status/2066820436734750729
 2026-06-16,tweetfeed,URL,https://11032026sver.blob.core.windows.net/homeplus/Document_71,n/a,https://x.com/smica83/status/2066820598446084247
-2026-06-09,tweetfeed,DOMAIN,bill-boss-mac.github.io,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,mex-lam.weebly.com,n/a,n/a
+2026-06-16,tweetfeed,URL,http://verified-violation.github.io/appeal,"phishing, scam",https://x.com/urldna_bot/status/2066823163074232346
+2026-06-16,tweetfeed,URL,https://universidad-central.fwh.is,phishing,https://x.com/PhishStats/status/2066829193451585687
+2026-06-16,tweetfeed,URL,http://morg-234.com,"malware, phishing",https://x.com/Malwarehunterr/status/2066829136090526017
+2026-06-16,tweetfeed,URL,http://pub-53cea2db57dc4d53a276334acb98f5c0.r2.dev/ScreenConnect.ClientSetup.exe,"malware, phishing",https://x.com/Malwarehunterr/status/2066829136090526017
+2026-06-16,tweetfeed,URL,https://files.catbox.moe/o8gday.rar,n/a,https://x.com/smica83/status/2066834716200763650
 2026-06-09,tweetfeed,DOMAIN,vidmateapps.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,atlas2222.weebly.com,n/a,n/a
 2026-06-09,"threatfox,tweetfeed",DOMAIN,lab99.sbs,n/a,n/a
@@ -6333,9 +6320,10 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,orange-bizarre-lynx-526.mypinata.cloud,n/a,https://x.com/smica83/status/2066818631627837502
 2026-06-16,tweetfeed,DOMAIN,es-com-556444.quest,n/a,https://x.com/malwrhunterteam/status/2066820173646995906
 2026-06-16,tweetfeed,DOMAIN,11032026sver.blob.core.windows.net,n/a,https://x.com/smica83/status/2066820598446084247
-2026-06-09,tweetfeed,HASH_SHA256,63b4608310328a326976ec8041efc0af60adba345952d21181e1c76e838d4cc4,n/a,n/a
-2026-06-09,tweetfeed,IP,38.76.177.46,n/a,n/a
-2026-06-09,tweetfeed,IP,43.99.101.175,n/a,n/a
+2026-06-16,tweetfeed,DOMAIN,verified-violation.github.io,"phishing, scam",https://x.com/urldna_bot/status/2066823163074232346
+2026-06-16,tweetfeed,DOMAIN,universidad-central.fwh.is,phishing,https://x.com/PhishStats/status/2066829193451585687
+2026-06-16,tweetfeed,DOMAIN,morg-234.com,"malware, phishing",https://x.com/Malwarehunterr/status/2066829136090526017
+2026-06-16,tweetfeed,DOMAIN,pub-53cea2db57dc4d53a276334acb98f5c0.r2.dev,"malware, phishing",https://x.com/Malwarehunterr/status/2066829136090526017
 2026-06-09,tweetfeed,IP,43.128.252.32,n/a,n/a
 2026-06-09,tweetfeed,IP,216.126.225.243,n/a,n/a
 2026-06-09,"threatfox,tweetfeed",HASH_SHA256,48f2a3bfb7a70b97875e56d932ada0d975cd5ee154a99caf7d93550275a1548a,n/a,n/a
@@ -6586,6 +6574,10 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,IP,93.190.247.238,n/a,https://x.com/malwrhunterteam/status/2066820436734750729
 2026-06-16,tweetfeed,HASH_SHA256,8a39f1b359e722b45c7e28013eb44f212341e7eeaa68667c86936f3adad03c96,n/a,https://x.com/smica83/status/2066820598446084247
 2026-06-16,tweetfeed,HASH_SHA256,f9b58db28ab7ed018ef8a0090c07570b0c1848d9fc97fcbb9b2f1fde79a07cb5,n/a,https://x.com/smica83/status/2066821686058447088
+2026-06-16,tweetfeed,HASH_SHA256,9d78980a066b5403998f58720e3d0a5f2a5c9e7da2ba0a6ffaf2f6b3e5b0fa23,n/a,https://x.com/smica83/status/2066824143698341897
+2026-06-16,tweetfeed,IP,185.27.134.151,phishing,https://x.com/PhishStats/status/2066829193451585687
+2026-06-16,tweetfeed,HASH_SHA256,850f4b36791744182bd1e7fdc9dab227579b7258daec0970f96b103d8c8c6276,"malware, phishing",https://x.com/Malwarehunterr/status/2066829136090526017
+2026-06-16,tweetfeed,HASH_SHA256,95474a0563fffacc71a71caaecb47538194e596bf04c71d7ed18805d9d3c315e,n/a,https://x.com/smica83/status/2066834716200763650
 2026-06-09,tweetfeed,HASH_MD5,e5ad9a167a9cc6aec0884b12558f5355,n/a,n/a
 2026-06-09,tweetfeed,HASH_MD5,287306bd1bf2eb7659fab8c2dcd4ab89,n/a,n/a
 2026-06-09,tweetfeed,HASH_MD5,b21210068e777353b370f9e745f9ce79,n/a,n/a
