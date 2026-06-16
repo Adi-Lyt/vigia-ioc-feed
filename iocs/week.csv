@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-11,cisa_kev,CVE,CVE-2026-10520,"Ivanti Sentry, kev","Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-14"
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-09,threatfox,URL,https://chtreeandgardenservices.co.uk/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://nxx.glamisdunesrentals.com/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://nxx.gagahsm188.top/,"win.vidar, url",n/a
 2026-06-09,threatfox,URL,https://championscollision1.com/,"win.vidar, url",n/a
@@ -288,14 +287,9 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,URL,http://66.94.119.99/Lsge63sd3/index.php,"win.amadey, url",n/a
 2026-06-16,threatfox,URL,https://plunkev.ca/,"unknown, url",n/a
 2026-06-16,threatfox,URL,https://ezpzjunkremoval.com/,"win.vidar, url",n/a
-2026-06-09,threatfox,DOMAIN,pishbinifoori.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,jgjuwx.pishbiniclass.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pishbiniclass.com,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,rcyrnur.pokerprado.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,pokerprado.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,r2qz0qa2.poker-online.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,9r6xw7w2.poker-online.bet,"js.clearfake, domain",n/a
-2026-06-09,threatfox,DOMAIN,rmipclt.penality.bet,"js.clearfake, domain",n/a
+2026-06-16,threatfox,URL,https://135.181.77.214/,"win.vidar, url",n/a
+2026-06-16,threatfox,URL,https://178.105.230.82/,"win.vidar, url",n/a
+2026-06-16,threatfox,URL,https://65.21.96.130/,"win.vidar, url",n/a
 2026-06-09,threatfox,DOMAIN,nxx.glamisdunesrentals.com,"win.vidar, domain",n/a
 2026-06-09,threatfox,DOMAIN,nxx.gagahsm188.top,"win.vidar, domain",n/a
 2026-06-09,threatfox,DOMAIN,gwjjko.onlineshart.com,"js.clearfake, domain",n/a
@@ -3329,9 +3323,26 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,zsmhobv.shartmag.bet,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,qvwjatwu.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,naqsigxg.masaelmohandesi.xyz,"js.clearfake, domain",n/a
-2026-06-09,tweetfeed,URL,https://celebrategoods.com/wzvwxtvh/,n/a,n/a
-2026-06-09,tweetfeed,URL,http://43.133.2.37,n/a,n/a
-2026-06-09,tweetfeed,URL,http://Wertoptimierung.de,n/a,n/a
+2026-06-16,threatfox,DOMAIN,ckvcsacd.mechanicsayalat.xyz,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,antigravity.study,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,chatgpt-web.vip,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,clip-stash.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,defi-xstocks.vip,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,gafaiyfx.mechanickhodakarami.shop,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,sane-cdn-js.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,framesavecloudjs.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,ns-claude-js.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,web-safe.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,web-protection.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,ns-server-jscdn.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,dhnsdns.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,letsgomakemoneyoncaptcha.beer,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,bootstrup-cdn-ns.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,vsactivens.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,clnsdns.beer,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,webanalytics-cdn.icu,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,webanalytics-cdn.cyou,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,webanalytics-cdn.sbs,"unknown, domain",n/a
 2026-06-09,tweetfeed,URL,https://qvfhwfh.ztvpanm.cn/apusetop/jupindx/,n/a,n/a
 2026-06-09,tweetfeed,URL,https://junjiredcl.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,URL,https://filipesantoswp.com/cb4/,n/a,n/a
@@ -4999,8 +5010,10 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,https://ozonhend.eu.org/payout_exchange,"phishing, scam",https://x.com/Malwarehunterr/status/2066769108721697224
 2026-06-16,tweetfeed,URL,https://mg.duclbhk.com/en-us.microsoft-teams/Windows/invite.php,phishing,https://x.com/patialavii/status/2066769796876878059
 2026-06-16,tweetfeed,URL,https://mg.duclbhk.com/en-us.microsoft-teams/Windows/download.php,phishing,https://x.com/patialavii/status/2066769796876878059
-2026-06-09,tweetfeed,DOMAIN,celebrategoods.com,n/a,n/a
-2026-06-09,tweetfeed,DOMAIN,Wertoptimierung.de,n/a,n/a
+2026-06-16,tweetfeed,URL,http://45.77.242.76,n/a,https://x.com/ElementalX2/status/2066778907521724688
+2026-06-16,tweetfeed,URL,https://passionate-elk-993866.instawp.xyz/mtlouba/hsen/,phishing,https://x.com/JAMESWT_WT/status/2066782280652128359
+2026-06-16,tweetfeed,URL,http://readfile.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
+2026-06-16,tweetfeed,URL,http://login.vvorkpage.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
 2026-06-09,tweetfeed,DOMAIN,qvfhwfh.ztvpanm.cn,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,junjiredcl.weebly.com,n/a,n/a
 2026-06-09,tweetfeed,DOMAIN,filipesantoswp.com,n/a,n/a
@@ -6328,7 +6341,9 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,ozonhend.eu.org,"phishing, scam",https://x.com/Malwarehunterr/status/2066769108721697224
 2026-06-16,tweetfeed,DOMAIN,mg.duclbhk.com,phishing,https://x.com/patialavii/status/2066769796876878059
 2026-06-16,tweetfeed,DOMAIN,dstrred.grewm.xyz,"malware, phishing",https://x.com/masaomi346/status/2066769817601036397
-2026-06-09,tweetfeed,IP,43.133.2.37,n/a,n/a
+2026-06-16,tweetfeed,DOMAIN,passionate-elk-993866.instawp.xyz,phishing,https://x.com/JAMESWT_WT/status/2066782280652128359
+2026-06-16,tweetfeed,DOMAIN,readfile.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
+2026-06-16,tweetfeed,DOMAIN,login.vvorkpage.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
 2026-06-09,tweetfeed,HASH_SHA256,63b4608310328a326976ec8041efc0af60adba345952d21181e1c76e838d4cc4,n/a,n/a
 2026-06-09,tweetfeed,IP,38.76.177.46,n/a,n/a
 2026-06-09,tweetfeed,IP,43.99.101.175,n/a,n/a
@@ -6571,6 +6586,8 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,HASH_SHA256,6d15ac1d471e8be4a823c7728d7d82fdb98e57827fae880c585a81de56b390cc,phishing,https://x.com/patialavii/status/2066769796876878059
 2026-06-16,tweetfeed,HASH_SHA256,7ebfbc9b097dae3a6018986fd40d4f22689f07bc5e20e04b0b84b9ff2ca3dd9e,"malware, phishing",https://x.com/masaomi346/status/2066769817601036397
 2026-06-16,tweetfeed,IP,107.189.20.42,C2,https://x.com/Fact_Finder03/status/2066770247907152329
+2026-06-16,tweetfeed,IP,45.77.242.76,n/a,https://x.com/ElementalX2/status/2066778907521724688
+2026-06-16,tweetfeed,IP,190.102.41.231,"C2, RAT",https://x.com/Fact_Finder03/status/2066779322959196592
 2026-06-09,tweetfeed,HASH_MD5,e5ad9a167a9cc6aec0884b12558f5355,n/a,n/a
 2026-06-09,tweetfeed,HASH_MD5,287306bd1bf2eb7659fab8c2dcd4ab89,n/a,n/a
 2026-06-09,tweetfeed,HASH_MD5,b21210068e777353b370f9e745f9ce79,n/a,n/a
