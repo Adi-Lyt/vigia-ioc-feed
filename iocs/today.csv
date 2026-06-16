@@ -37,10 +37,6 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,URL,https://yan.rzrrent.com/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://yan.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://cpajoliette.com/q,"js.smartapesg, url",n/a
-2026-06-15,threatfox,DOMAIN,aiaufdwh.masirpayambari.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,rgojzoub.masaelmohandesi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,bodvlnfv.masaelmohandesi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,tonajukbhuakpo2.shop,"unknown_loader, domain",n/a
 2026-06-15,threatfox,DOMAIN,moonzonet.com,"unknown, domain",n/a
 2026-06-15,threatfox,DOMAIN,metsfgsd.duckdns.org,"unknown_rat, domain",n/a
 2026-06-15,threatfox,DOMAIN,landgforce.duckdns.org,"unknown_rat, domain",n/a
@@ -201,8 +197,9 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,03mnh00l.hugugmadani6.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,yan.rzrrent.com,"win.vidar, domain",n/a
 2026-06-16,threatfox,DOMAIN,yan.hanyasm188.top,"win.vidar, domain",n/a
-2026-06-15,tweetfeed,URL,https://ghyytttdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066581554889998499
-2026-06-15,tweetfeed,URL,http://172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
+2026-06-16,threatfox,DOMAIN,mohandesitraffic.shop,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,llmpgrax.mechanickhodakarami.shop,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,moqlgtez.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-15,tweetfeed,URL,http://ptnrmat.xyz,C2,https://x.com/volrant136/status/2066542631711343042
 2026-06-15,tweetfeed,URL,http://5.255.127.55:8020,n/a,https://x.com/Huntio/status/2066563445739118692
 2026-06-15,tweetfeed,URL,http://adabroker.com.tr,n/a,https://x.com/Huntio/status/2066563445739118692
@@ -294,7 +291,15 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,https://pub-7ca279d6f40848f5a017b1a52061dad6.r2.dev/eDocSign-MAI31MSDSUE.zip,phishing,https://x.com/patialavii/status/2066933719919981012
 2026-06-16,tweetfeed,URL,https://securefirstfinancialfcu.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066943931363860886
 2026-06-16,tweetfeed,URL,http://t1p.de/kyokq,phishing,https://x.com/wirnachrichten/status/2066944194178846898
-2026-06-15,tweetfeed,DOMAIN,ghyytttdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066581554889998499
+2026-06-16,tweetfeed,URL,http://194.14.217.88,"APT, malware",https://x.com/phatomcandle/status/2066943909172027691
+2026-06-16,threatfox,HASH_SHA256,f3e1459d687da13f8455a49ada4ba782c433a08bf17bf268a965038ef39a5317,"win.phemedrone_stealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,c32864b6ddfede2177fc0c4ba11ca21ae80cc0c3e1b3d218f4920ea2ddc3e46a,"win.timbre_stealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,879950da6d18cac34619af10099bd5cfe766436f6ad2df7aabd4d5439154f462,"win.yibackdoor, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,f993630f802c3958c1ed9f5e8f1f09ab8c568a55c26658172105eabf20d3080b,"win.svcstealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,0da7be1647f31711fd16932c46c9897f5d5d321746d4e8ff0f5184c59d08cbe4,"win.deerstealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,e38a83583a9e712d2163224485ecd934e9b27a6850bbe3c022d6344d0298a188,"win.salatstealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,d313447f8bc9b4e058ca7b3de4cb73f03be0713a730b73cc03a9faecbeb288bc,"py.creal_stealer, sha256_hash",n/a
+2026-06-16,threatfox,HASH_SHA256,b4f2276d77aab7af850e2994faf1f44524a4356ed3ffea0e1ddd4e56dfb274c7,"win.darktortilla, sha256_hash",n/a
 2026-06-15,tweetfeed,DOMAIN,ptnrmat.xyz,C2,https://x.com/volrant136/status/2066542631711343042
 2026-06-15,tweetfeed,DOMAIN,adabroker.com.tr,n/a,https://x.com/Huntio/status/2066563445739118692
 2026-06-15,tweetfeed,DOMAIN,courier.co.il,n/a,https://x.com/Huntio/status/2066563445739118692
@@ -356,7 +361,13 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,pub-7ca279d6f40848f5a017b1a52061dad6.r2.dev,phishing,https://x.com/patialavii/status/2066933719919981012
 2026-06-16,tweetfeed,DOMAIN,securefirstfinancialfcu.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066943931363860886
 2026-06-16,tweetfeed,DOMAIN,t1p.de,phishing,https://x.com/wirnachrichten/status/2066944194178846898
-2026-06-15,tweetfeed,IP,172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
+2026-06-16,threatfox,HASH_MD5,6cc2ef716ba1fd8af7ee825cd332b158,"win.phemedrone_stealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,fc5a6cafed04f3f052d8b94d20eeb650,"win.timbre_stealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,6bc2ac222f8d27464fe186b5f2a055e7,"win.yibackdoor, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,b77625cae72301aa6736c543f1c9d80f,"win.deerstealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,5bf6e385651d48acf554428e8301ef5b,"win.salatstealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,dcad6b0d28491d35d79b9f28728ae9e3,"py.creal_stealer, md5_hash",n/a
+2026-06-16,threatfox,HASH_MD5,345a1ab350f2c7ddabf686e27e784941,"win.darktortilla, md5_hash",n/a
 2026-06-15,tweetfeed,IP,5.255.127.55,n/a,https://x.com/Huntio/status/2066563445739118692
 2026-06-15,tweetfeed,HASH_SHA256,8b8fccafc9abffb4e23f839672a953c454d4a63f42ac2de08e36955f306d9019,phishing,https://x.com/patialavii/status/2066575055472205889
 2026-06-15,tweetfeed,HASH_SHA256,4b6e6db485cf455d9c6e0fcac297d7a1ed62f21d7abb66fb9fdb8ce787dae1fa,phishing,https://x.com/patialavii/status/2066577092582776976
@@ -399,13 +410,7 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,HASH_SHA256,470df164b6437f5629414772f544ec7352aad725c983eed8dc2e6261b8ea78aa,n/a,https://x.com/byrne_emmy12099/status/2066872947508425169
 2026-06-16,tweetfeed,HASH_SHA256,775f42fbcdb8e0fa2a7df87ec4f2b89a94e4b37fc068f86e043b7f018396658b,n/a,https://x.com/L0Psec/status/2066917394832855413
 2026-06-16,tweetfeed,IP,175.110.122.37,phishing,https://x.com/marcandrebeaul1/status/2066917599217135731
-2026-06-15,tweetfeed,HASH_MD5,334d5e38774bd0289346231a92a444cf,n/a,https://x.com/k3yp0d/status/2066583932993225057
-2026-06-15,tweetfeed,HASH_MD5,0c57def86b9d0e9df50101f45243b7a3,n/a,https://x.com/k3yp0d/status/2066583932993225057
-2026-06-15,tweetfeed,HASH_MD5,3c1f7d9d157c38d17a44f62b6560d3b4,n/a,https://x.com/k3yp0d/status/2066583932993225057
-2026-06-15,tweetfeed,HASH_MD5,d66de5d6dbcb6f460ae6240de8b7aab0,n/a,https://x.com/k3yp0d/status/2066583932993225057
-2026-06-15,tweetfeed,HASH_MD5,610696d1d05099125258d25a661704ce,n/a,https://x.com/k3yp0d/status/2066583932993225057
-2026-06-15,tweetfeed,HASH_MD5,db6bc0e947acba379e540349f74fc6ee,n/a,https://x.com/k3yp0d/status/2066583932993225057
-2026-06-15,tweetfeed,HASH_MD5,b56a18df4daf038785891f33c3e89489,n/a,https://x.com/k3yp0d/status/2066583932993225057
+2026-06-16,tweetfeed,IP,194.14.217.88,"APT, malware",https://x.com/phatomcandle/status/2066943909172027691
 2026-06-16,tweetfeed,HASH_MD5,57b209e119107993182ebdb54512c1d1,"Android, Trojan, malware",https://x.com/ReBensk/status/2066766132909146310
 2026-06-16,tweetfeed,HASH_MD5,8f8f854ca90586f7bcb29d2dd2f760c5,"Android, Trojan, malware",https://x.com/ReBensk/status/2066767299085008905
 2026-06-16,tweetfeed,HASH_MD5,9e5aa0e8a010b44528a731a2693a7ded,"Android, Trojan, malware",https://x.com/ReBensk/status/2066767737385525296
