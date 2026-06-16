@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-15,threatfox,URL,http://cacywears.ga/index.php,"win.smokeloader, url",n/a
 2026-06-15,threatfox,URL,https://gnw.glamisrents.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://gnw.goturbo88.top/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/status,"js.kongtuke, url",n/a
@@ -34,8 +33,6 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,URL,https://135.181.77.214/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://178.105.230.82/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://65.21.96.130/,"win.vidar, url",n/a
-2026-06-15,threatfox,DOMAIN,amrwjltv.tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,onnzlkiy.shartbandi.games,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,qqpidjr.megaparikade.com,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,fcxkiekt.tasisathosseini.shop,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,bigfrogs.info,"unknown_loader, domain",n/a
@@ -176,6 +173,9 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,webanalytics-cdn.icu,"unknown, domain",n/a
 2026-06-16,threatfox,DOMAIN,webanalytics-cdn.cyou,"unknown, domain",n/a
 2026-06-16,threatfox,DOMAIN,webanalytics-cdn.sbs,"unknown, domain",n/a
+2026-06-16,threatfox,DOMAIN,3kh6tu2u.shimiumumi.xyz,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,nglrdgbx.prozhedownload.com,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,nnozsfst.prozhecart.com,"js.clearfake, domain",n/a
 2026-06-15,tweetfeed,URL,https://49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
 2026-06-15,tweetfeed,URL,http://49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
 2026-06-15,tweetfeed,URL,http://ftp.tecmon.hr,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
@@ -320,6 +320,8 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,https://passionate-elk-993866.instawp.xyz/mtlouba/hsen/,phishing,https://x.com/JAMESWT_WT/status/2066782280652128359
 2026-06-16,tweetfeed,URL,http://readfile.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
 2026-06-16,tweetfeed,URL,http://login.vvorkpage.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
+2026-06-16,tweetfeed,URL,https://dgpugzqswtczge.web.app,"phishing, scam",https://x.com/urldna_bot/status/2066792940815413683
+2026-06-16,tweetfeed,URL,http://audio92872.icu,phishing,https://x.com/Malwarehunterr/status/2066798461551620197
 2026-06-15,tweetfeed,DOMAIN,ftp.tecmon.hr,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
 2026-06-15,tweetfeed,DOMAIN,mailupdateview.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066460781256851478
 2026-06-15,tweetfeed,DOMAIN,air-ana.sihuame.com,phishing,https://x.com/masaomi346/status/2066476064080363537
@@ -435,6 +437,8 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,passionate-elk-993866.instawp.xyz,phishing,https://x.com/JAMESWT_WT/status/2066782280652128359
 2026-06-16,tweetfeed,DOMAIN,readfile.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
 2026-06-16,tweetfeed,DOMAIN,login.vvorkpage.online,phishing,https://x.com/Malwarehunterr/status/2066789192483680353
+2026-06-16,tweetfeed,DOMAIN,dgpugzqswtczge.web.app,"phishing, scam",https://x.com/urldna_bot/status/2066792940815413683
+2026-06-16,tweetfeed,DOMAIN,audio92872.icu,phishing,https://x.com/Malwarehunterr/status/2066798461551620197
 2026-06-15,tweetfeed,IP,49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
 2026-06-15,tweetfeed,IP,185.103.166.93,n/a,https://x.com/solostalking/status/2066446492253278472
 2026-06-15,tweetfeed,HASH_SHA256,1e2ef22ca61194eef3911d49157d1feb3e0892ee2fb5aea7d31c2bd16a15d005,n/a,https://x.com/solostalking/status/2066446492253278472
