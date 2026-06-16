@@ -1,13 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
-2026-06-15,threatfox,URL,https://gnw.glamisrents.com/,"win.vidar, url",n/a
-2026-06-15,threatfox,URL,https://gnw.goturbo88.top/,"win.vidar, url",n/a
-2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/status,"js.kongtuke, url",n/a
-2026-06-15,threatfox,URL,https://one-verif.lol/o,"js.kongtuke, url",n/a
-2026-06-15,threatfox,URL,https://eichmnnn.icu/file.js,"js.kongtuke, url",n/a
-2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/session,"js.kongtuke, url",n/a
-2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-15,threatfox,URL,http://littletonlawnpro.com:5789,"win.remus, url",n/a
 2026-06-15,threatfox,URL,http://apprxc.xyz:5003,"win.remus, url",n/a
 2026-06-15,threatfox,URL,https://dom.glamisrents.com/,"win.vidar, url",n/a
@@ -40,22 +33,9 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,URL,https://treviro.icu/file.js,"js.kongtuke, url",n/a
 2026-06-16,threatfox,URL,https://treviro.icu/api/v1/session,"js.kongtuke, url",n/a
 2026-06-16,threatfox,URL,https://treviro.icu/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-15,threatfox,DOMAIN,vdljitxt.hugugtatbigi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,wgmqenjy.hugugtatbigi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,gnw.glamisrents.com,"win.vidar, domain",n/a
-2026-06-15,threatfox,DOMAIN,gnw.goturbo88.top,"win.vidar, domain",n/a
-2026-06-15,threatfox,DOMAIN,zvxuc.darsnamejame.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,opyo2s3o.akhlagvaahkam.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,one-verif.lol,"js.kongtuke, domain",n/a
-2026-06-15,threatfox,DOMAIN,froqlquf.hugugmadanikatouzian.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,aenvmnaq.hugugmadanikatouzian.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,0hz5u1mn.moarefeslami.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,4u3hglwc.moarefeslami.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,0snofqmc.megaparikade.com,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,svs-verificationdate.beer,"unknown, domain",n/a
-2026-06-15,threatfox,DOMAIN,qbuhghd.melbetkade.com,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,eichmnnn.icu,"js.kongtuke, domain",n/a
-2026-06-15,threatfox,DOMAIN,griontera.com,"unknown, domain",n/a
+2026-06-16,threatfox,URL,https://dom-inn.de/,"unknown, url",n/a
+2026-06-16,threatfox,URL,https://out.rzrrent.com/,"win.vidar, url",n/a
+2026-06-16,threatfox,URL,https://out.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-15,threatfox,DOMAIN,files.smartpcai.com,"js.fakeupdates, domain",n/a
 2026-06-15,threatfox,DOMAIN,paqyqptu.hugugtejarat4.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,yuehqazj.hugugtejarat4.xyz,"js.clearfake, domain",n/a
@@ -194,80 +174,12 @@ date,user,type,ioc,tags,context
 2026-06-16,threatfox,DOMAIN,ocampus.freeddns.org,"win.remcos, domain",n/a
 2026-06-16,threatfox,DOMAIN,swgtcampus0101.duckdns.org,"win.remcos, domain",n/a
 2026-06-16,threatfox,DOMAIN,amsholdings.ddns.net,"win.remcos, domain",n/a
-2026-06-15,tweetfeed,URL,https://luxwatchs.shop/1775621983937/checkouts/c2c4a7f698658382d39568c5a789b4e8?buyScence=detail,phishing,https://x.com/Metemcyber/status/2066501906785296708
-2026-06-15,tweetfeed,URL,https://cqizvybx.bhmsbp.cn/iiufhys/eorio/loging/,phishing,https://x.com/Metemcyber/status/2066504579030917181
-2026-06-15,tweetfeed,URL,http://passcode-apple-id-lost-phone.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://your-lost-iphone-apple-suspended.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://apple.id-trove.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://appleid-security.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://findmyphone-italy.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://fmi-es.xyz,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://iappareil.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://icloud.com-buscar.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://icloudfind-online.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://icloudfind-signin.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://icloudfotos-es.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://icloudmaps.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://iphone-locator.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://isupport-center.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://isupport-location.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://isupport-os.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lcloud.connecte-app.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lnfo-map.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://localisation-sync.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://localisation-sys.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://localisation.connecte-app.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://locate-device.center,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://official.isupport-center.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://sim-detector.click,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://accesomex-lcloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://aplle-activa-find.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://app-1cloud-find-1.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://col-ilogincloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://dispositivo-i-cloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://dispositivo-idcloud-ld.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://dispositivo-perdidomex.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://ecuador-lcloud.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://ecuador-lcloudd.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://encontrar-i-cloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://encontrar-i-phone.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://encontrar-mapps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://find-account.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://find-my-phone-al-ldevices-offline.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://findldmaps-asistenmxn.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://finmy-phonesupport.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://flnd-iph-fmi.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://flnd-iph-icl.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://flnd-lcloud-devic.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://flnd-locate-icl.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://icloud-usa-mx.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://info-account-ios.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://info-account-ios26.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lcloud-accesomex.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lcloud-encontrarmaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lcloud-iphonemaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lcloud-maps26.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lcloud-mex-loginmaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lflind-lcloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://locmy-phone.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://logginapp-lcloudmx.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://lphone-i-cloudmaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://mail.dispositivo-i-cloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://mail.dispositivo-idcloud-ld.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://mail.lcloud-accesomex.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://mail.logginapp-lcloudmx.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://www-applecol-support-encontrar.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://www.dispositivo-i-cloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://www.dispositivo-idcloud-ld.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://www.lcloud-accesomex.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://id-assistancia.co,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://apple-support-inc.co,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://buscar-apple-es.co,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://buscar-apple-es.live,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://apple-support-inc.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,URL,http://172.245.209.253/203/,"Xworm, opendir",https://x.com/James_inthe_box/status/2066508959566188911
-2026-06-15,tweetfeed,URL,http://172.245.106.54:3333,"Xworm, opendir",https://x.com/James_inthe_box/status/2066508959566188911
-2026-06-15,threatfox,HASH_SHA256,681c3b22d00252e557c458a84f4fdbf37e23ce34db9ba4bd419d17ba6c5ce937,"unknown, sha256_hash",n/a
+2026-06-16,threatfox,DOMAIN,out.rzrrent.com,"win.vidar, domain",n/a
+2026-06-16,threatfox,DOMAIN,out.hanyasm188.top,"win.vidar, domain",n/a
+2026-06-16,threatfox,DOMAIN,uaxjdnjn.tarikhravannovin.shop,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,anxjzoez.shartbandi.games,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,vwdpxdo.shartmag.bet,"js.clearfake, domain",n/a
+2026-06-16,threatfox,DOMAIN,wlqmmlhp.sazebetonarme.xyz,"js.clearfake, domain",n/a
 2026-06-15,tweetfeed,URL,https://site-6aa3879fh.godaddysites.com,"phishing, scam",https://x.com/urldna_bot/status/2066521147051504111
 2026-06-15,tweetfeed,URL,https://telepas-ae.com/arrrr/?utm_source=remarkety&utm_medium=email&utm_campaign=Newsletter,phishing,https://x.com/Dkavalanche/status/2066535302336762162
 2026-06-15,tweetfeed,URL,http://45.95.186.237:8000,n/a,https://x.com/L0Psec/status/2066540845893861386
@@ -360,73 +272,8 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,URL,http://185.102.115.108:4000/photo/74cbea88/get-photo?f=1&token=511bcf75-fa0b-4b0c-a6ee-191616855b0f,booking,https://x.com/JAMESWT_WT/status/1952729228975153388
 2026-06-16,tweetfeed,URL,https://so-jp.xyz/Lolipop-jp-lolipop-ne-jp-webmail/lolipop/index.html,phishing,https://x.com/masaomi346/status/2066866041226244421
 2026-06-16,tweetfeed,URL,https://tide-39.com/curl/004afcb930cad18082916805ad633715e52e24d962a04f3fad9e6c52a4da7ea0,n/a,https://x.com/stop_spammerz/status/2066868071524921443
-2026-06-15,tweetfeed,DOMAIN,cqizvybx.bhmsbp.cn,phishing,https://x.com/Metemcyber/status/2066504579030917181
-2026-06-15,tweetfeed,DOMAIN,passcode-apple-id-lost-phone.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,your-lost-iphone-apple-suspended.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,apple.id-trove.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,appleid-security.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,findmyphone-italy.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,fmi-es.xyz,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,iappareil.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,icloud.com-buscar.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,icloudfind-online.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,icloudfind-signin.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,icloudfotos-es.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,icloudmaps.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,iphone-locator.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,isupport-center.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,isupport-location.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,isupport-os.info,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lcloud.connecte-app.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lnfo-map.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,localisation-sync.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,localisation-sys.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,localisation.connecte-app.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,locate-device.center,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,official.isupport-center.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,sim-detector.click,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,accesomex-lcloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,aplle-activa-find.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,app-1cloud-find-1.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,col-ilogincloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,dispositivo-i-cloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,dispositivo-idcloud-ld.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,dispositivo-perdidomex.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,ecuador-lcloud.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,ecuador-lcloudd.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,encontrar-i-cloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,encontrar-i-phone.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,encontrar-mapps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,find-account.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,find-my-phone-al-ldevices-offline.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,findldmaps-asistenmxn.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,finmy-phonesupport.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,flnd-iph-fmi.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,flnd-iph-icl.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,flnd-lcloud-devic.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,flnd-locate-icl.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,icloud-usa-mx.com,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,info-account-ios.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,info-account-ios26.help,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lcloud-accesomex.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lcloud-encontrarmaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lcloud-iphonemaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lcloud-maps26.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lcloud-mex-loginmaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lflind-lcloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,locmy-phone.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,logginapp-lcloudmx.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,lphone-i-cloudmaps.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,mail.dispositivo-i-cloud.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,mail.dispositivo-idcloud-ld.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,mail.lcloud-accesomex.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,mail.logginapp-lcloudmx.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,www-applecol-support-encontrar.us,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,id-assistancia.co,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,apple-support-inc.co,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,buscar-apple-es.co,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,buscar-apple-es.live,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,DOMAIN,apple-support-inc.info,phishing,https://x.com/tial_cl/status/2066507265067147765
+2026-06-16,tweetfeed,URL,http://atom.freehosting.dev,APT,https://x.com/byrne_emmy12099/status/2066871365534437482
+2026-06-16,tweetfeed,URL,https://r70p8r0t7odq23ef0789iyut6d8vsf08zx2srd5286920wwy8sx097gtv.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066883538775945460
 2026-06-15,tweetfeed,DOMAIN,site-6aa3879fh.godaddysites.com,"phishing, scam",https://x.com/urldna_bot/status/2066521147051504111
 2026-06-15,tweetfeed,DOMAIN,telepas-ae.com,phishing,https://x.com/Dkavalanche/status/2066535302336762162
 2026-06-15,tweetfeed,DOMAIN,driverhubpro.net,n/a,https://x.com/L0Psec/status/2066540847659651369
@@ -489,10 +336,8 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,DOMAIN,synergyconsulting.com.br,malware,https://x.com/Malwarehunterr/status/2066862838275301537
 2026-06-16,tweetfeed,DOMAIN,so-jp.xyz,phishing,https://x.com/masaomi346/status/2066866041226244421
 2026-06-16,tweetfeed,DOMAIN,tide-39.com,n/a,https://x.com/stop_spammerz/status/2066868071524921443
-2026-06-15,tweetfeed,IP,45.140.19.184,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,IP,84.200.192.106,phishing,https://x.com/tial_cl/status/2066507265067147765
-2026-06-15,tweetfeed,IP,172.245.209.253,"Xworm, opendir",https://x.com/James_inthe_box/status/2066508959566188911
-2026-06-15,tweetfeed,IP,172.245.106.54,"Xworm, opendir",https://x.com/James_inthe_box/status/2066508959566188911
+2026-06-16,tweetfeed,DOMAIN,atom.freehosting.dev,APT,https://x.com/byrne_emmy12099/status/2066871365534437482
+2026-06-16,tweetfeed,DOMAIN,r70p8r0t7odq23ef0789iyut6d8vsf08zx2srd5286920wwy8sx097gtv.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066883538775945460
 2026-06-15,tweetfeed,HASH_SHA256,95fdd6fe3c222a51a8038d8340e43338b7655d477da6f7eaede7925cf22f0106,n/a,https://x.com/L0Psec/status/2066540844006375831
 2026-06-15,tweetfeed,IP,45.95.186.237,n/a,https://x.com/L0Psec/status/2066540845893861386
 2026-06-15,tweetfeed,IP,172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
@@ -533,6 +378,9 @@ date,user,type,ioc,tags,context
 2026-06-16,tweetfeed,IP,93.190.247.29,n/a,https://x.com/stop_spammerz/status/2066868071524921443
 2026-06-16,tweetfeed,IP,93.190.247.228,n/a,https://x.com/stop_spammerz/status/2066868071524921443
 2026-06-16,tweetfeed,IP,93.190.247.209,n/a,https://x.com/stop_spammerz/status/2066868071524921443
+2026-06-16,tweetfeed,HASH_SHA256,4c971f81627b87691e617e89cb97a38295a28d86eb93505b3c72c8e276c97114,APT,https://x.com/byrne_emmy12099/status/2066871365534437482
+2026-06-16,tweetfeed,HASH_SHA256,5f75a27e075280c83a18fe11e8390bf3446e380aacb67022aba6622465853488,n/a,https://x.com/byrne_emmy12099/status/2066872947508425169
+2026-06-16,tweetfeed,HASH_SHA256,470df164b6437f5629414772f544ec7352aad725c983eed8dc2e6261b8ea78aa,n/a,https://x.com/byrne_emmy12099/status/2066872947508425169
 2026-06-15,tweetfeed,HASH_MD5,334d5e38774bd0289346231a92a444cf,n/a,https://x.com/k3yp0d/status/2066583932993225057
 2026-06-15,tweetfeed,HASH_MD5,0c57def86b9d0e9df50101f45243b7a3,n/a,https://x.com/k3yp0d/status/2066583932993225057
 2026-06-15,tweetfeed,HASH_MD5,3c1f7d9d157c38d17a44f62b6560d3b4,n/a,https://x.com/k3yp0d/status/2066583932993225057
