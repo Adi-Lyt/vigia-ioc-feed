@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
-2026-06-16,threatfox,URL,https://treviro.icu/api/v1/status,"js.kongtuke, url",n/a
-2026-06-16,threatfox,URL,https://verif-human.lol/o,"js.kongtuke, url",n/a
 2026-06-16,threatfox,URL,https://yan.rzrrent.com/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://yan.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://cpajoliette.com/q,"js.smartapesg, url",n/a
@@ -109,11 +107,6 @@ date,user,type,ioc,tags,context
 2026-06-17,threatfox,URL,https://readingtime.space/,"unknown, url",n/a
 2026-06-17,threatfox,URL,https://svb.rzrrent.com/,"win.vidar, url",n/a
 2026-06-17,threatfox,URL,https://svb.hanyasm188.top/,"win.vidar, url",n/a
-2026-06-16,threatfox,DOMAIN,whid-cloude.us.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,verif-human.lol,"js.kongtuke, domain",n/a
-2026-06-16,threatfox,DOMAIN,gzljyxqt.jam-jahani.com,"js.clearfake, domain",n/a
-2026-06-16,threatfox,DOMAIN,olttywek.hugugtejarat4.xyz,"js.clearfake, domain",n/a
-2026-06-16,threatfox,DOMAIN,essentials733.duckdns.org,"win.remcos, domain",n/a
 2026-06-16,darkweb_forums,URL,https://x.com/Anubis__media,"darkweb, ransomware_gang",commit 57ee5913 / ransomware_gang.md
 2026-06-16,darkweb_forums,URL,https://x.com/lockbitsupp,"darkweb, twitter_threat_actors",commit 28326170 / twitter_threat_actors.md
 2026-06-16,darkweb_forums,URL,https://x.com/NullBulgeGroup,"darkweb, twitter_threat_actors",commit 28326170 / twitter_threat_actors.md
@@ -520,6 +513,7 @@ date,user,type,ioc,tags,context
 2026-06-17,threatfox,DOMAIN,ugygn.shartmag.bet,"js.clearfake, domain",n/a
 2026-06-17,threatfox,DOMAIN,uwso33yr.riyazinikokar.xyz,"js.clearfake, domain",n/a
 2026-06-17,threatfox,DOMAIN,cjbbdtba.maharatmodiran.xyz,"js.clearfake, domain",n/a
+2026-06-17,threatfox,DOMAIN,c.360ctct.com,"win.valley_rat, domain",n/a
 2026-06-16,tweetfeed,URL,https://storage.googleapis.com/snapshothelper/he.txt,APT,https://x.com/askardyuss/status/2066859258130665974
 2026-06-16,tweetfeed,URL,http://api.keensie.com:5198,APT,https://x.com/askardyuss/status/2066859258130665974
 2026-06-16,tweetfeed,URL,http://194.11.226.41,n/a,https://x.com/L0Psec/status/2066917383671804032
