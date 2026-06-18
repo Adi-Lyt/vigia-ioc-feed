@@ -4,12 +4,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-54420,"LiteSpeed cPanel Plugin, kev","LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-18"
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
-2026-06-11,threatfox,URL,http://151.243.18.28/4940cc4b5ddb4a2bb8f8.php,"win.stealc, url",n/a
-2026-06-11,threatfox,URL,http://5.83.134.26/ssh,"unknown, url",n/a
-2026-06-11,threatfox,URL,https://bw-development.app/Antibot2,"unknown, url",n/a
-2026-06-11,threatfox,URL,https://github.com/hothehottest/Recaptcha-2/releases/download/Recaptcha-2/boost.zip,"unknown, url",n/a
-2026-06-11,threatfox,URL,https://ghukonhgf.com/api/,"unknown, url",n/a
-2026-06-11,threatfox,URL,https://sup.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,http://154.198.50.76:8080/upload,"unknown, url",n/a
 2026-06-11,threatfox,URL,https://ffe.gasturbo88.top/,"win.vidar, url",n/a
 2026-06-11,threatfox,URL,https://ffe.glamisdunesrentals.com/,"win.vidar, url",n/a
@@ -291,13 +285,6 @@ date,user,type,ioc,tags,context
 2026-06-17,threatfox,URL,https://get.rzrrent.com/,"win.vidar, url",n/a
 2026-06-17,threatfox,URL,https://get.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-18,threatfox,URL,https://get.harussm188.top/,"win.vidar, url",n/a
-2026-06-11,threatfox,DOMAIN,qlvwxer.karafarini.shop,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,ifvtbgbf.maharatmodiran.xyz,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,dmwncnnnp.defamogadas.xyz,"js.clearfake, domain",n/a
-2026-06-11,threatfox,DOMAIN,dstwl.com,"osx.amos, domain",n/a
-2026-06-11,threatfox,DOMAIN,ghukonhgf.com,"unknown, domain",n/a
-2026-06-11,threatfox,DOMAIN,sup.gasturbo88.top,"win.vidar, domain",n/a
-2026-06-11,threatfox,DOMAIN,rjwfiwgjr.defamogadas.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,kuonnjkj.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,hzvvlqps.mechanicsayalat.xyz,"js.clearfake, domain",n/a
 2026-06-11,threatfox,DOMAIN,1v6le0j1.andisheeslami2.xyz,"js.clearfake, domain",n/a
@@ -3201,14 +3188,6 @@ date,user,type,ioc,tags,context
 2026-06-18,threatfox,DOMAIN,get.harussm188.top,"win.vidar, domain",n/a
 2026-06-18,threatfox,DOMAIN,acu1ajv0.irxbetkade.com,"js.clearfake, domain",n/a
 2026-06-18,threatfox,DOMAIN,irxbetkade.com,"js.clearfake, domain",n/a
-2026-06-11,threatfox,HASH_SHA256,b56a2ccafe31b6c664c021ec418a660661e5d6d87e1c339beba3b7a4b684d067,"osx.amos, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,01e33f12a8ee57c89624aeeeb97e57896927483d1442eea22ec6bfddc12f8879,"osx.amos, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,9a2869a42f54beb07d4d56a16cd56f507a1ae5a9df2e4d816776472cbf4438c6,"osx.amos, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,7c69d70092676725b6e9269e08f842b22a21eff319240a31b2dfc44147d05d05,"unknown, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,13059a7cf8cc3820f5d36262c5f5d375465297a6fff8fcefc5fd8d520030ff96,"unknown, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,8eac8373cb9b6a8004942871ebc691d900a8116c9dede5e3a222392227033245,"unknown, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,07353da1a94a7dc214947fc35f134452b4dba8a6ae81464328d9cf0d1cedc6ba,"unknown, sha256_hash",n/a
-2026-06-11,threatfox,HASH_SHA256,bbc8da2cceb3a174e2b0df87bc43c54d3cf3edadb585658bb65517c8f88249b8,"unknown, sha256_hash",n/a
 2026-06-11,tweetfeed,URL,https://gmxla.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2064950800791589019
 2026-06-11,tweetfeed,URL,http://jiugui22.com,n/a,https://x.com/smica83/status/2064974323132121555
 2026-06-11,tweetfeed,URL,http://8.218.196.168,n/a,https://x.com/smica83/status/2064974323132121555
