@@ -51,7 +51,7 @@ date,user,type,ioc,tags,context
 2026-06-18,threatfox,URL,https://qantify.net/,"unknown, url",n/a
 2026-06-18,threatfox,URL,https://nabane.com.mx/,"unknown, url",n/a
 2026-06-18,threatfox,URL,https://mingliu.com.tw/,"unknown, url",n/a
-2026-06-17,threatfox,DOMAIN,vprhcxyu.masirpayambari.xyz,"js.clearfake, domain",n/a
+2026-06-18,threatfox,URL,https://birdybird.rest/,"unknown, url",n/a
 2026-06-17,threatfox,DOMAIN,bvsfuyvu.leaguejazire.com,"js.clearfake, domain",n/a
 2026-06-17,threatfox,DOMAIN,ugygn.shartmag.bet,"js.clearfake, domain",n/a
 2026-06-17,threatfox,DOMAIN,uwso33yr.riyazinikokar.xyz,"js.clearfake, domain",n/a
@@ -154,6 +154,8 @@ date,user,type,ioc,tags,context
 2026-06-18,threatfox,DOMAIN,psh.harussm188.top,"win.vidar, domain",n/a
 2026-06-18,threatfox,DOMAIN,oxidbetkade.online,"js.clearfake, domain",n/a
 2026-06-18,threatfox,DOMAIN,lnc1c2cf.anodaz.vip,"js.clearfake, domain",n/a
+2026-06-18,threatfox,DOMAIN,wasthereasolutiin.airdns.org,"win.remcos, domain",n/a
+2026-06-18,threatfox,DOMAIN,5zn1z0hp.dancebetyek.app,"js.clearfake, domain",n/a
 2026-06-17,tweetfeed,URL,http://ch.10001mb.com,APT,https://x.com/byrne_emmy12099/status/2067239373519921623
 2026-06-17,tweetfeed,URL,https://shubhamvatsjha7.github.io/Netflix-Clone/,"phishing, scam",https://x.com/urldna_bot/status/2067245945499050432
 2026-06-17,tweetfeed,URL,http://abiorime.cfd,n/a,https://x.com/stop_spammerz/status/2067267920174948693
@@ -259,6 +261,8 @@ date,user,type,ioc,tags,context
 2026-06-18,tweetfeed,URL,https://myartes.com,n/a,https://x.com/malwrhunterteam/status/2067572466365407686
 2026-06-18,tweetfeed,URL,https://myartes.com/downloads/artes.zip,n/a,https://x.com/malwrhunterteam/status/2067572466365407686
 2026-06-18,tweetfeed,URL,https://cloud-a34c2.web.app,"phishing, scam",https://x.com/urldna_bot/status/2067578120048164974
+2026-06-18,tweetfeed,URL,https://docview.ink/uploads/2571422?id=4NrwntIssAKNpcP,n/a,https://x.com/smica83/status/2067587696134889943
+2026-06-18,tweetfeed,URL,https://api.telegram.org/bot8607410780:AAFFAbWvRKge7ejJ_a16PINkZxWk4Pw7pII/getUpdates?offset=0&limit=1,n/a,https://x.com/smica83/status/2067591469175554126
 2026-06-17,tweetfeed,DOMAIN,ch.10001mb.com,APT,https://x.com/byrne_emmy12099/status/2067239373519921623
 2026-06-17,tweetfeed,DOMAIN,shubhamvatsjha7.github.io,"phishing, scam",https://x.com/urldna_bot/status/2067245945499050432
 2026-06-17,tweetfeed,DOMAIN,abiorime.cfd,n/a,https://x.com/stop_spammerz/status/2067267920174948693
@@ -347,11 +351,7 @@ date,user,type,ioc,tags,context
 2026-06-18,tweetfeed,DOMAIN,larpers.eu,n/a,https://x.com/malwrhunterteam/status/2067568146005799181
 2026-06-18,tweetfeed,DOMAIN,myartes.com,n/a,https://x.com/malwrhunterteam/status/2067572466365407686
 2026-06-18,tweetfeed,DOMAIN,cloud-a34c2.web.app,"phishing, scam",https://x.com/urldna_bot/status/2067578120048164974
-2026-06-17,tweetfeed,HASH_SHA256,ad7e4f47f9ddb2f97c8818d89374a82278922bac1bc41209ecd0b5ad027dcb45,n/a,https://x.com/nextronresearch/status/2067230614424600844
-2026-06-17,tweetfeed,HASH_SHA256,b3007c3b0f140df374a6756215bde55409124822203d309dcc82e10aa8115a91,n/a,https://x.com/nextronresearch/status/2067230614424600844
-2026-06-17,tweetfeed,HASH_SHA256,db1cb4aaee4ad2f1b2907b2c2d3393544a6a05f9a4d8819eb0078606402c416c,n/a,https://x.com/nextronresearch/status/2067230614424600844
-2026-06-17,tweetfeed,HASH_SHA256,e9f8a7e6275c263d2a1c9c5c9725addbf484c77c1aa8387093c16f50ebdc11ab,n/a,https://x.com/nextronresearch/status/2067230614424600844
-2026-06-17,tweetfeed,HASH_SHA256,201bf959b5038616ff4618fde3f4832e00a3d2b4203e6c302bd62bcd0be20250,ransomware,https://x.com/nextronresearch/status/2067230997620404725
+2026-06-18,tweetfeed,DOMAIN,docview.ink,n/a,https://x.com/smica83/status/2067587696134889943
 2026-06-17,tweetfeed,HASH_SHA256,56a90f247ccffb63543d99a659f9517edde587f6e85752c82a9919e325de3ee5,APT,https://x.com/byrne_emmy12099/status/2067239373519921623
 2026-06-17,tweetfeed,HASH_SHA256,49d21cbaa94b58c5d5a0db941a4171218d78ac5eabe99a31bda3a98c66a1e6c7,n/a,https://x.com/smica83/status/2067242214246228083
 2026-06-17,tweetfeed,IP,79.137.202.216,n/a,https://x.com/stop_spammerz/status/2067267920174948693
@@ -404,6 +404,12 @@ date,user,type,ioc,tags,context
 2026-06-18,tweetfeed,HASH_SHA256,d01af3cb30106d2003c96787fa3172d6f2f1ddf9a25376ec7a3dc48d77c1dcdb,n/a,https://x.com/smica83/status/2067553406303052240
 2026-06-18,tweetfeed,HASH_SHA256,63ac6f81355d2fbc833c95e7173526f7192fa9bfa3c0e77747d924b89851b683,n/a,https://x.com/smica83/status/2067558404277535000
 2026-06-18,tweetfeed,HASH_SHA256,72cb750a86b5756d3b6be614b6942e1bf9732c7d7a27b35ab8e8f769e6eb53c1,n/a,https://x.com/smica83/status/2067559772178522429
+2026-06-18,tweetfeed,HASH_SHA256,540da969ed2a0d828e208c99f3afb4b0763a7076144e1b9edd6ca9c7db0dbeae,n/a,https://x.com/smica83/status/2067587696134889943
+2026-06-18,tweetfeed,HASH_SHA256,f703cc7a7fd6fade50913e5959a9232c91c5a20509e5683a5b9d7d43869a7ee0,n/a,https://x.com/smica83/status/2067589078753698161
+2026-06-18,tweetfeed,HASH_SHA256,e88055f104f600e8b088c91ef9404662a9e8e6f27a5a8de813d95c078d951d11,n/a,https://x.com/smica83/status/2067589792544534909
+2026-06-18,tweetfeed,HASH_SHA256,c82cce1c0343e619db192a24c525e8e02345a7618a260f22a8f926843cae235b,n/a,https://x.com/smica83/status/2067590334163394943
+2026-06-18,tweetfeed,HASH_SHA256,fea90bb194ec6f6399dd7e88a47c67760935faf6e737b2ac6715b43e9cb94f66,n/a,https://x.com/smica83/status/2067590847822974997
+2026-06-18,tweetfeed,HASH_SHA256,bbbd375392829b5f4f247a60b1a6aa98a4d0fef45d75747ad7b11cb77294dbd8,n/a,https://x.com/smica83/status/2067591469175554126
 2026-06-17,tweetfeed,HASH_MD5,758aad5f507b93d31de0ba269de67500,malware,https://x.com/askardyuss/status/2067229010732454042
 2026-06-17,tweetfeed,HASH_MD5,9b974b43bdbce0265a3ffa17e7899aa0,malware,https://x.com/askardyuss/status/2067229010732454042
 2026-06-17,tweetfeed,HASH_MD5,4cbfce17e2733c3926997aab98c20b8f,malware,https://x.com/askardyuss/status/2067229010732454042
