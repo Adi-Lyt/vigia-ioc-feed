@@ -1,15 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-18,threatfox,URL,https://henriqueq.xyz/api/v1/session,"js.kongtuke, url",n/a
-2026-06-18,threatfox,URL,https://henriqueq.xyz/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-18,threatfox,URL,https://henriqueq.xyz/api/v1/status,"js.kongtuke, url",n/a
-2026-06-18,threatfox,URL,https://one-check.lol/o,"js.kongtuke, url",n/a
-2026-06-18,threatfox,URL,https://ambergallery.top/auth/verify-cookie.js,"js.smartapesg, url",n/a
-2026-06-18,threatfox,URL,https://trecoshop.com.br/,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://one-confirm.lol/m,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://www.dropbox.com/scl/fi/5s7jeh4brmv6zttfswcd3/kkkkkk1.zip?rlkey=rddyt5s55ghjnv6rgtyzyes4p&dl=1,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://chinarice.asia/,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://snakcscornerbd.com/,"unknown, url",n/a
 2026-06-18,threatfox,URL,https://domokitw.lol/downloads,"unknown_stealer, url",n/a
 2026-06-18,threatfox,URL,https://voltix.gd/App/Voltix.zip,"unknown_stealer, url",n/a
 2026-06-18,threatfox,URL,https://sonofar.com/,"unknown, url",n/a
@@ -109,15 +99,6 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,URL,http://185.94.182.57:35814/Mozi.m,"elf.mozi, url",n/a
 2026-06-19,threatfox,URL,http://139.135.59.145:34945/Mozi.a,"elf.mozi, url",n/a
 2026-06-19,threatfox,URL,http://103.146.111.93:37443/Mozi.m,"elf.mozi, url",n/a
-2026-06-18,threatfox,DOMAIN,henriqueq.xyz,"js.kongtuke, domain",n/a
-2026-06-18,threatfox,DOMAIN,one-check.lol,"js.kongtuke, domain",n/a
-2026-06-18,threatfox,DOMAIN,ambergallery.top,"js.smartapesg, domain",n/a
-2026-06-18,threatfox,DOMAIN,xeno.lat,"unknown, domain",n/a
-2026-06-18,threatfox,DOMAIN,metrics.demobunfiber.top,"win.amatera, domain",n/a
-2026-06-18,threatfox,DOMAIN,luvioros-play.site,"unknown, domain",n/a
-2026-06-18,threatfox,DOMAIN,analyticstrack-pzh.click,"win.hijackloader, domain",n/a
-2026-06-18,threatfox,DOMAIN,analyticstrack-api.click,"win.hijackloader, domain",n/a
-2026-06-18,threatfox,DOMAIN,pixel.analyticstrack-pzh.click,"win.hijackloader, domain",n/a
 2026-06-18,threatfox,DOMAIN,birdybird.rest,"unknown, domain",n/a
 2026-06-18,threatfox,DOMAIN,codecerification.beer,"unknown, domain",n/a
 2026-06-18,threatfox,DOMAIN,hostphpwindowsappsconecting.ydns.eu,"win.vjw0rm, domain",n/a
@@ -174,8 +155,6 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,DOMAIN,xxs3dmkoflcfrkon7a2guje2ojsyv63z7eyxpctjota7xil646v4byyd.onion,"win.lockbit, domain",n/a
 2026-06-19,threatfox,DOMAIN,smqqrbvjf7kfcikigbq5hxzq5y6n2as7oy4bmb6dsrb4keyn3korxcid.onion,"win.lockbit, domain",n/a
 2026-06-19,threatfox,DOMAIN,dy6t49rl.akhlagvaahkam.xyz,"js.clearfake, domain",n/a
-2026-06-18,threatfox,HASH_SHA256,3d1d192e9879d33a954ea6e5eb0199cd3cb03622d88f2aebd50074eade956f61,"unknown, sha256_hash",n/a
-2026-06-18,threatfox,HASH_SHA256,a8fe7ea23ff20fb3ab2bcd122650e0fd0c6f9d384c11570a37290126f5cbef32,"unknown, sha256_hash",n/a
 2026-06-18,tweetfeed,URL,http://docs.files-windows.top/j658K,n/a,https://x.com/askardyuss/status/2067464824431542632
 2026-06-18,tweetfeed,URL,http://docs.files-windows.top,n/a,https://x.com/askardyuss/status/2067464824431542632
 2026-06-18,tweetfeed,URL,http://124.156.169.80,n/a,https://x.com/smica83/status/2067529571436523884
