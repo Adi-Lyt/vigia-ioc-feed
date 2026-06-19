@@ -1,9 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-18,threatfox,URL,https://siledepartamentos.com/,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://qantify.net/,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://nabane.com.mx/,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://mingliu.com.tw/,"unknown, url",n/a
 2026-06-18,threatfox,URL,https://birdybird.rest/,"unknown, url",n/a
 2026-06-18,threatfox,URL,https://onetime-v.lol/o,"js.kongtuke, url",n/a
 2026-06-18,threatfox,URL,https://ivorycompass.top/token/callback-compiler,"js.smartapesg, url",n/a
@@ -96,8 +92,14 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,URL,http://khabarraja.com:4437,"win.remus, url",n/a
 2026-06-19,threatfox,URL,https://fed.rzrrent.com/,"win.vidar, url",n/a
 2026-06-19,threatfox,URL,https://fed.harussm188.top/,"win.vidar, url",n/a
-2026-06-18,threatfox,DOMAIN,oxidbetkade.online,"js.clearfake, domain",n/a
-2026-06-18,threatfox,DOMAIN,lnc1c2cf.anodaz.vip,"js.clearfake, domain",n/a
+2026-06-19,threatfox,URL,https://beroniw.com/hwkOP5,"win.netsupportmanager_rat, url",n/a
+2026-06-19,threatfox,URL,https://jobs.trabajoseguro.info/,"unknown, url",n/a
+2026-06-19,threatfox,URL,http://91.92.34.228/test22.txt,"win.netsupportmanager_rat, url",n/a
+2026-06-19,threatfox,URL,https://ivorycourtyard.top/middleware/version-schema,"js.smartapesg, url",n/a
+2026-06-19,threatfox,URL,https://ivorycourtyard.top/middleware/endpoint-asset.js,"js.smartapesg, url",n/a
+2026-06-19,threatfox,URL,https://holopebamiy.bond/,"unknown, url",n/a
+2026-06-19,threatfox,URL,https://prd.rzrrent.com/,"win.vidar, url",n/a
+2026-06-19,threatfox,URL,https://prd.harussm188.top/,"win.vidar, url",n/a
 2026-06-18,threatfox,DOMAIN,wasthereasolutiin.airdns.org,"win.remcos, domain",n/a
 2026-06-18,threatfox,DOMAIN,5zn1z0hp.dancebetyek.app,"js.clearfake, domain",n/a
 2026-06-18,threatfox,DOMAIN,onetime-v.lol,"js.kongtuke, domain",n/a
@@ -155,10 +157,17 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,DOMAIN,fed.harussm188.top,"win.vidar, domain",n/a
 2026-06-19,threatfox,DOMAIN,eub0atxx.tafsirnasiri.xyz,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,elbowfrisk.digital,"js.clearfake, domain",n/a
-2026-06-18,tweetfeed,URL,https://larpers.eu/login,n/a,https://x.com/malwrhunterteam/status/2067568146005799181
-2026-06-18,tweetfeed,URL,https://myartes.com,n/a,https://x.com/malwrhunterteam/status/2067572466365407686
-2026-06-18,tweetfeed,URL,https://myartes.com/downloads/artes.zip,n/a,https://x.com/malwrhunterteam/status/2067572466365407686
-2026-06-18,tweetfeed,URL,https://cloud-a34c2.web.app,"phishing, scam",https://x.com/urldna_bot/status/2067578120048164974
+2026-06-19,threatfox,DOMAIN,www.api-aws.xyz,"win.cobalt_strike, domain",n/a
+2026-06-19,threatfox,DOMAIN,xeno.getslax.com,"unknown, domain",n/a
+2026-06-19,threatfox,DOMAIN,khabarraja.com,"win.remus, domain",n/a
+2026-06-19,threatfox,DOMAIN,flowmasterservices.com,"win.remus, domain",n/a
+2026-06-19,threatfox,DOMAIN,golviewcheckus.com,"win.netsupportmanager_rat, domain",n/a
+2026-06-19,threatfox,DOMAIN,zbxcgtqt.com,"win.netsupportmanager_rat, domain",n/a
+2026-06-19,threatfox,DOMAIN,coraline.buzz,"unknown, domain",n/a
+2026-06-19,threatfox,DOMAIN,ivorycourtyard.top,"js.smartapesg, domain",n/a
+2026-06-19,threatfox,DOMAIN,beroniw.com,"win.netsupportmanager_rat, domain",n/a
+2026-06-19,threatfox,DOMAIN,prd.rzrrent.com,"win.vidar, domain",n/a
+2026-06-19,threatfox,DOMAIN,prd.harussm188.top,"win.vidar, domain",n/a
 2026-06-18,tweetfeed,URL,https://docview.ink/uploads/2571422?id=4NrwntIssAKNpcP,n/a,https://x.com/smica83/status/2067587696134889943
 2026-06-18,tweetfeed,URL,https://api.telegram.org/bot8607410780:AAFFAbWvRKge7ejJ_a16PINkZxWk4Pw7pII/getUpdates?offset=0&limit=1,n/a,https://x.com/smica83/status/2067591469175554126
 2026-06-18,tweetfeed,URL,http://amazon-clone-mocha-three.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2067608325835944043
@@ -216,9 +225,6 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,URL,http://mail.avicennaalliedhealthinstitute.org/stubcc.ps1,n/a,https://x.com/tdatwja/status/2067877755270889525
 2026-06-19,tweetfeed,URL,http://78.110.122.17,"C2, malware",https://x.com/etugenio/status/2067903231674433779
 2026-06-19,tweetfeed,URL,http://C2はd2cff16eusb8mg.cloudfront.net,n/a,https://x.com/skocherhan/status/2067890025627361724
-2026-06-18,tweetfeed,DOMAIN,larpers.eu,n/a,https://x.com/malwrhunterteam/status/2067568146005799181
-2026-06-18,tweetfeed,DOMAIN,myartes.com,n/a,https://x.com/malwrhunterteam/status/2067572466365407686
-2026-06-18,tweetfeed,DOMAIN,cloud-a34c2.web.app,"phishing, scam",https://x.com/urldna_bot/status/2067578120048164974
 2026-06-18,tweetfeed,DOMAIN,docview.ink,n/a,https://x.com/smica83/status/2067587696134889943
 2026-06-18,tweetfeed,DOMAIN,amazon-clone-mocha-three.vercel.app,"phishing, scam",https://x.com/urldna_bot/status/2067608325835944043
 2026-06-18,tweetfeed,DOMAIN,sai-on.matooee.com,phishing,https://x.com/masaomi346/status/2067615460125016346
@@ -276,5 +282,6 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,IP,35.215.78.7,phishing,https://x.com/romonlyht/status/2067869252674257126
 2026-06-19,tweetfeed,IP,85.17.116.190,phishing,https://x.com/threadlinqs/status/2067872030964187606
 2026-06-19,tweetfeed,IP,78.110.122.17,"C2, malware",https://x.com/etugenio/status/2067903231674433779
+2026-06-19,tweetfeed,HASH_SHA256,fb931baac66bfc116deb10fa81417fb3da61e4362cd2997ee1eaa577e96272f3,n/a,https://x.com/zachxbt/status/2067938523986932005
 2026-06-19,tweetfeed,HASH_MD5,49f273b1c605d717495ed437fbd3b5ef,n/a,https://x.com/tdatwja/status/2067877755270889525
 2026-06-19,tweetfeed,HASH_MD5,d7d17646d5ed29c9299be936f034f902,n/a,https://x.com/unpacker/status/2067878096804712952
