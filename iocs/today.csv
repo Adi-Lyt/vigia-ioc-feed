@@ -1,5 +1,4 @@
 date,user,type,ioc,tags,context
-2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
 2026-06-18,threatfox,URL,https://cdn.jsdelivr.net/gh/arinao7/6e91d58f-acdf/e62,"js.clearfake, url",n/a
 2026-06-18,threatfox,URL,https://bou.harussm188.top/,"win.vidar, url",n/a
 2026-06-18,threatfox,URL,https://bou.rzrrent.com/,"win.vidar, url",n/a
