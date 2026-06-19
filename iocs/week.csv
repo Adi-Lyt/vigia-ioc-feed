@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-12,threatfox,URL,https://misterslivker.asia/,"unknown, url",n/a
 2026-06-12,threatfox,URL,https://secure-code.lol/o,"js.kongtuke, url",n/a
 2026-06-12,threatfox,URL,https://bronzepavilion.top/signin/auth-json,"js.smartapesg, url",n/a
 2026-06-12,threatfox,URL,https://bronzepavilion.top/signin/route-script.js,"js.smartapesg, url",n/a
@@ -366,23 +365,10 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,URL,https://prd.rzrrent.com/,"win.vidar, url",n/a
 2026-06-19,threatfox,URL,https://prd.harussm188.top/,"win.vidar, url",n/a
 2026-06-19,threatfox,URL,https://prd.sm188login.icu/,"win.vidar, url",n/a
-2026-06-12,threatfox,DOMAIN,onetasknext.eastasia.cloudapp.azure.com,"js.ether_rat, domain",n/a
-2026-06-12,threatfox,DOMAIN,sydelorme.com,"js.ether_rat, domain",n/a
-2026-06-12,threatfox,DOMAIN,davidkapor.com,"js.ether_rat, domain",n/a
-2026-06-12,threatfox,DOMAIN,swgraphic.com,"js.ether_rat, domain",n/a
-2026-06-12,threatfox,DOMAIN,foodnflavors.com,"js.ether_rat, domain",n/a
-2026-06-12,threatfox,DOMAIN,procuducts.southafricanorth.cloudapp.azure.com,"js.ether_rat, domain",n/a
-2026-06-12,threatfox,DOMAIN,ljist.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,ktokj.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,vspdk.tahgigbazargan.xyz,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,claimsj.cyou,"win.lumma, domain",n/a
-2026-06-12,"threatfox,tweetfeed",DOMAIN,passedt.cyou,"win.lumma, domain",n/a
-2026-06-12,threatfox,DOMAIN,cohesrc.cyou,"win.lumma, domain",n/a
-2026-06-12,"threatfox,tweetfeed",DOMAIN,montgqd.cyou,"win.lumma, domain",n/a
-2026-06-12,"threatfox,tweetfeed",DOMAIN,familbi.cyou,"win.lumma, domain",n/a
-2026-06-12,"threatfox,tweetfeed",DOMAIN,feathqz.cyou,"win.lumma, domain",n/a
-2026-06-12,"threatfox,tweetfeed",DOMAIN,pitchgb.cyou,"win.lumma, domain",n/a
-2026-06-12,threatfox,DOMAIN,rizvw.sanjeshravani.shop,"js.clearfake, domain",n/a
+2026-06-19,threatfox,URL,http://27.215.55.164:43326/Mozi.m,"elf.mozi, url",n/a
+2026-06-19,threatfox,URL,http://223.123.42.234:43318/Mozi.a,"elf.mozi, url",n/a
+2026-06-19,threatfox,URL,http://223.123.38.127:60991/Mozi.m,"elf.mozi, url",n/a
+2026-06-19,threatfox,URL,http://103.141.5.137:41713/Mozi.a,"elf.mozi, url",n/a
 2026-06-12,threatfox,DOMAIN,eqnenkch.zabanhaggani.shop,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,hodomoxq.1xborokade.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,slivkishow.asia,"unknown, domain",n/a
@@ -1526,10 +1512,6 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,DOMAIN,prd.rzrrent.com,"win.vidar, domain",n/a
 2026-06-19,threatfox,DOMAIN,prd.harussm188.top,"win.vidar, domain",n/a
 2026-06-19,threatfox,DOMAIN,prd.sm188login.icu,"win.vidar, domain",n/a
-2026-06-12,tweetfeed,URL,https://considerable-arizona-institutes-duties.trycloudflare.com/5492488/,opendir,https://x.com/smica83/status/2065420239572017470
-2026-06-12,tweetfeed,URL,https://inspector-agreed-labels-cells.trycloudflare.com/hus/,opendir,https://x.com/smica83/status/2065420540567830541
-2026-06-12,tweetfeed,URL,https://www.vitorialowcost.pt/ultimate/,phishing,https://x.com/AddressIntel/status/2065423895943868535
-2026-06-12,tweetfeed,URL,http://tazororaretirement.co.zw/airdash/en/dMRzxyhMTmb5LQgqxUBV,"phishing, scam",https://x.com/urldna_bot/status/2065433992006885487
 2026-06-12,tweetfeed,URL,https://confidio-check.free.nf/it/fatture/,phishing,https://x.com/AddressIntel/status/2065438992535806241
 2026-06-12,tweetfeed,URL,http://152.32.138.15,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,URL,http://51.79.185.184,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
@@ -2729,9 +2711,8 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,URL,http://78.110.122.17,"C2, malware",https://x.com/etugenio/status/2067903231674433779
 2026-06-19,tweetfeed,URL,http://C2はd2cff16eusb8mg.cloudfront.net,n/a,https://x.com/skocherhan/status/2067890025627361724
 2026-06-19,tweetfeed,URL,http://89.32.41.16/bins/kla.sh,n/a,https://x.com/sicehice/status/2067947967378579847
-2026-06-12,tweetfeed,DOMAIN,considerable-arizona-institutes-duties.trycloudflare.com,opendir,https://x.com/smica83/status/2065420239572017470
-2026-06-12,tweetfeed,DOMAIN,inspector-agreed-labels-cells.trycloudflare.com,opendir,https://x.com/smica83/status/2065420540567830541
-2026-06-12,tweetfeed,DOMAIN,tazororaretirement.co.zw,"phishing, scam",https://x.com/urldna_bot/status/2065433992006885487
+2026-06-19,tweetfeed,URL,http://137.220.136.172,n/a,https://x.com/smica83/status/2067964011627372886
+2026-06-19,tweetfeed,URL,https://btrusss.com/Downloads/Doc06192026-05435.js,n/a,https://x.com/smica83/status/2067965904734875985
 2026-06-12,tweetfeed,DOMAIN,confidio-check.free.nf,phishing,https://x.com/AddressIntel/status/2065438992535806241
 2026-06-12,tweetfeed,DOMAIN,aointerviews.com,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,DOMAIN,cert.smartbtc.dynv6.net,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
@@ -3706,7 +3687,7 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,DOMAIN,login.ableceo.com,phishing,https://x.com/romonlyht/status/2067862955807633706
 2026-06-19,tweetfeed,DOMAIN,login.hecaimian.com,phishing,https://x.com/romonlyht/status/2067869252674257126
 2026-06-19,tweetfeed,DOMAIN,smbc-card.inteastonuglaskers-au.com,phishing,https://x.com/masaomi346/status/2067883061963092373
-2026-06-12,tweetfeed,HASH_SHA256,e2e594d05dcb2542d100985f6f7d48b227c078b27b83e2cc225e855d6b7c4676,n/a,https://x.com/smica83/status/2065421612153815519
+2026-06-19,tweetfeed,DOMAIN,btrusss.com,n/a,https://x.com/smica83/status/2067965904734875985
 2026-06-12,tweetfeed,IP,152.32.138.15,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,IP,51.79.185.184,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
 2026-06-12,tweetfeed,IP,176.111.220.168,"DPRK, Kimsuky",https://x.com/_IMalihi_/status/2065448396836495551
@@ -3962,6 +3943,10 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,HASH_SHA256,b28c2832db2275496441568ca94960333d143b363e911d087f41e484f04fb515,n/a,https://x.com/smica83/status/2067947662393876929
 2026-06-19,tweetfeed,IP,88.229.203.146,n/a,https://x.com/sicehice/status/2067947967378579847
 2026-06-19,tweetfeed,IP,89.32.41.16,n/a,https://x.com/sicehice/status/2067947967378579847
+2026-06-19,tweetfeed,HASH_SHA256,118f4e201466783ec9abf4c27eb76396e351bf2932dcd28fb4f4973140928184,n/a,https://x.com/smica83/status/2067962066736984249
+2026-06-19,tweetfeed,IP,137.220.136.172,n/a,https://x.com/smica83/status/2067964011627372886
+2026-06-19,tweetfeed,HASH_SHA256,c7e7fff9cb09288720d717c9bd989ac56961c08aeddc718f4772eacdbf66f206,n/a,https://x.com/smica83/status/2067964011627372886
+2026-06-19,tweetfeed,HASH_SHA256,4ed23e6e4679fc32ece44484db23b5a5fc544da0ff5abea109b938f3e0c005f1,n/a,https://x.com/smica83/status/2067965904734875985
 2026-06-13,tweetfeed,HASH_MD5,f27aac446be266dfe6b86d9dc960feff,n/a,https://x.com/skocherhan/status/2065802401030807645
 2026-06-13,tweetfeed,HASH_MD5,0f384ec874171f57d331ef68f9d9d90e,"C2, CobaltStrike, Havoc, malware",https://x.com/skocherhan/status/2065860494880088347
 2026-06-13,tweetfeed,HASH_MD5,112cc66323d5115ae18d80ce9e681c9f,CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
