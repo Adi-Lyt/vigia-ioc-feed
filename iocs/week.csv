@@ -4,10 +4,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-12,threatfox,URL,https://puz.glamisrent.com/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,https://puz.gerbongsm188.top/,"win.vidar, url",n/a
-2026-06-12,threatfox,URL,http://94.183.232.247/Ciabins.sh,"unknown, url",n/a
-2026-06-12,threatfox,URL,http://nostrendezvous.com:5789,"win.remus, url",n/a
 2026-06-12,threatfox,URL,https://oliveiaa.icu/file.js,"js.kongtuke, url",n/a
 2026-06-12,threatfox,URL,https://linenvoyage.top/signin/profile-parser.js,"js.smartapesg, url",n/a
 2026-06-12,threatfox,URL,https://oliveiaa.icu/api/v1/session,"js.kongtuke, url",n/a
@@ -367,16 +363,6 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,URL,http://khabarraja.com:4437,"win.remus, url",n/a
 2026-06-19,threatfox,URL,https://fed.rzrrent.com/,"win.vidar, url",n/a
 2026-06-19,threatfox,URL,https://fed.harussm188.top/,"win.vidar, url",n/a
-2026-06-12,threatfox,DOMAIN,nbyap.danestanihavarzeshi.com,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,sqgdb.tractor11.com,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,vleqz.tractor11.com,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,puz.gerbongsm188.top,"win.vidar, domain",n/a
-2026-06-12,threatfox,DOMAIN,puz.glamisrent.com,"win.vidar, domain",n/a
-2026-06-12,threatfox,DOMAIN,mdgg3n1z.vanatarsim.xyz,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,nostrendezvous.com,"win.remus, domain",n/a
-2026-06-12,threatfox,DOMAIN,esnjo.tractor11.com,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,brrls.rahnemayenegaresh.site,"js.clearfake, domain",n/a
-2026-06-12,threatfox,DOMAIN,aknoq.tractor11.com,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,fuwtp.tafsirnasiri.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,uss6wss6.hesabdarieskandari.xyz,"js.clearfake, domain",n/a
 2026-06-12,threatfox,DOMAIN,qsbsd.sadreislam.xyz,"js.clearfake, domain",n/a
@@ -1545,6 +1531,8 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,DOMAIN,elroiseeme02.ip-ddns.com,"win.nanocore, domain",n/a
 2026-06-19,threatfox,DOMAIN,fed.rzrrent.com,"win.vidar, domain",n/a
 2026-06-19,threatfox,DOMAIN,fed.harussm188.top,"win.vidar, domain",n/a
+2026-06-19,threatfox,DOMAIN,eub0atxx.tafsirnasiri.xyz,"js.clearfake, domain",n/a
+2026-06-19,threatfox,DOMAIN,elbowfrisk.digital,"js.clearfake, domain",n/a
 2026-06-12,tweetfeed,URL,http://ftp.melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
 2026-06-12,tweetfeed,URL,http://162.0.209.89,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
 2026-06-12,tweetfeed,URL,http://melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
@@ -2757,6 +2745,7 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,URL,https://smbc-card.inteastonuglaskers-au.com/memx-force-login-index/,phishing,https://x.com/masaomi346/status/2067883061963092373
 2026-06-19,tweetfeed,URL,http://mail.avicennaalliedhealthinstitute.org/stubcc.ps1,n/a,https://x.com/tdatwja/status/2067877755270889525
 2026-06-19,tweetfeed,URL,http://78.110.122.17,"C2, malware",https://x.com/etugenio/status/2067903231674433779
+2026-06-19,tweetfeed,URL,http://C2はd2cff16eusb8mg.cloudfront.net,n/a,https://x.com/skocherhan/status/2067890025627361724
 2026-06-12,tweetfeed,DOMAIN,ftp.melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
 2026-06-12,tweetfeed,DOMAIN,melrz.com,"AgentTesla, infostealer, phishing",https://x.com/Kb4Threatlabs/status/2065392702414528607
 2026-06-12,tweetfeed,DOMAIN,owa-europa-uni-de-lm-auth-proxy.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2065403790941925878
