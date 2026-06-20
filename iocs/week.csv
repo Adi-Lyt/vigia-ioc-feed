@@ -362,8 +362,6 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,URL,http://103.141.5.137:41713/Mozi.a,"elf.mozi, url",n/a
 2026-06-19,threatfox,URL,https://cdn.jsdelivr.net/gh/arinao7/86227780-d251hllg,"js.clearfake, url",n/a
 2026-06-19,threatfox,URL,https://www.ski-snowboardvancouver.ca/d.js,"js.smartapesg, url",n/a
-2026-06-13,threatfox,DOMAIN,9xt13o7k.moarefeslami.xyz,"js.clearfake, domain",n/a
-2026-06-13,threatfox,DOMAIN,fmhkmjyi.hugugtejarat4.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,qjgjbwpw.hugugnasiri.xyz,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,cdvmgdw.melbetkade.com,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,wutgubeq.hugugtatbigi.xyz,"js.clearfake, domain",n/a
@@ -1469,7 +1467,6 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,DOMAIN,www.ski-snowboardvancouver.ca,"js.smartapesg, domain",n/a
 2026-06-19,threatfox,DOMAIN,byz28tfk.rasmfani.xyz,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,i83pv2vx.ravabetensani.site,"js.clearfake, domain",n/a
-2026-06-13,tweetfeed,URL,https://bit.ly/3Bg5pia,"phishing, scam",https://x.com/urldna_bot/status/2065615171947540936
 2026-06-13,tweetfeed,URL,http://github.com/ReZeroIsMyLove,n/a,https://x.com/skocherhan/status/2065634486524481895
 2026-06-13,tweetfeed,URL,https://sm-bankcroup.namekaka.com/LsrGnOul/,phishing,https://x.com/masaomi346/status/2065636812593496199
 2026-06-13,tweetfeed,URL,http://s.packshaomai.com/sjK_KSi,"phishing, scam",https://x.com/urldna_bot/status/2065645383695454338
@@ -2353,6 +2350,7 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,URL,http://outlook-ms365.com,phishing,https://x.com/skocherhan/status/2068084617236677054
 2026-06-20,tweetfeed,URL,https://line.me.ja.iormin.com,phishing,https://x.com/masaomi346/status/2068108855440294349
 2026-06-20,tweetfeed,URL,http://login.yunxingholdings.com/home,phishing,https://x.com/masaomi346/status/2068130205794021554
+2026-06-20,tweetfeed,URL,https://cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
 2026-06-13,tweetfeed,DOMAIN,sm-bankcroup.namekaka.com,phishing,https://x.com/masaomi346/status/2065636812593496199
 2026-06-13,tweetfeed,DOMAIN,s.packshaomai.com,"phishing, scam",https://x.com/urldna_bot/status/2065645383695454338
 2026-06-13,tweetfeed,DOMAIN,dardsaaz.com,phishing,https://x.com/patialavii/status/2065652306859946061
@@ -3018,6 +3016,7 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,DOMAIN,outlook-ms365.com,phishing,https://x.com/skocherhan/status/2068084617236677054
 2026-06-20,tweetfeed,DOMAIN,line.me.ja.iormin.com,phishing,https://x.com/masaomi346/status/2068108855440294349
 2026-06-20,tweetfeed,DOMAIN,login.yunxingholdings.com,phishing,https://x.com/masaomi346/status/2068130205794021554
+2026-06-20,tweetfeed,DOMAIN,cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
 2026-06-13,tweetfeed,HASH_SHA256,53fb76a04bf57ec5ab4b160cb9f314825ff42fb3a7209435a74cfcaf47d6114e,phishing,https://x.com/patialavii/status/2065643412347662845
 2026-06-13,tweetfeed,HASH_SHA256,27e65692270c2425f261ff58b55c21c1f8488f613a10e95eff761e597e466bf2,phishing,https://x.com/patialavii/status/2065648636474937397
 2026-06-13,tweetfeed,IP,181.88.192.198,phishing,https://x.com/PhishStats/status/2065716661714346012
@@ -3290,6 +3289,9 @@ date,user,type,ioc,tags,context
 2026-06-19,tweetfeed,IP,176.120.22.224,NetSupport,https://x.com/skocherhan/status/2068059388028338687
 2026-06-19,tweetfeed,IP,212.193.30.45,n/a,https://x.com/vmray/status/2068071864036131167
 2026-06-19,tweetfeed,IP,212.193.30.29,n/a,https://x.com/vmray/status/2068071864036131167
+2026-06-20,tweetfeed,HASH_SHA256,9f446f0786e39a2adde962b99d42eaaa75dbffe23f2464f6173d60c8f6e7d6dc,APT,https://x.com/byrne_emmy12099/status/2068136098161889699
+2026-06-20,tweetfeed,HASH_SHA256,97fc1862fb55813ee199bbaef378bdf2e904cb73930a6a56903bef5614f2726b,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
+2026-06-20,tweetfeed,HASH_SHA256,c534df540c66e8578cf8400280cf8d8a4ed7a21a93fda27ec2e29e912f0dacaf,n/a,https://x.com/byrne_emmy12099/status/2068141479676318028
 2026-06-13,tweetfeed,HASH_MD5,f27aac446be266dfe6b86d9dc960feff,n/a,https://x.com/skocherhan/status/2065802401030807645
 2026-06-13,tweetfeed,HASH_MD5,0f384ec874171f57d331ef68f9d9d90e,"C2, CobaltStrike, Havoc, malware",https://x.com/skocherhan/status/2065860494880088347
 2026-06-13,tweetfeed,HASH_MD5,112cc66323d5115ae18d80ce9e681c9f,CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
