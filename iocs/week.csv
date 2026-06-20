@@ -3,15 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-13,threatfox,URL,http://alchsp.xyz:7673,"win.remus, url",n/a
-2026-06-13,threatfox,URL,http://verification-js-cdn.boats/5c89e36548466c44,"unknown, url",n/a
-2026-06-13,threatfox,URL,http://verification-js-cdn.boats/5c89e36548466c44?_=1,"unknown, url",n/a
-2026-06-13,threatfox,URL,http://verification-js-cdn.boats/5c89e36548466c44?ack=1,"unknown, url",n/a
-2026-06-13,threatfox,URL,https://devltd.us/flomos1.zip,"unknown, url",n/a
-2026-06-13,threatfox,URL,http://verification-js-cdn.boats/67422f998296584824aa06c4066c9074457e4dd28a5a84cb209900f0c82a47f0,"unknown, url",n/a
-2026-06-13,threatfox,URL,https://supertransfer.ch/,"unknown, url",n/a
-2026-06-13,threatfox,URL,https://divinenarratives.org/d.js,"js.smartapesg, url",n/a
-2026-06-13,threatfox,URL,https://bge-visa.com/,"unknown, url",n/a
 2026-06-14,threatfox,URL,https://whatdatcindy.com/nfront.php,"win.satacom, url",n/a
 2026-06-14,threatfox,URL,https://sindppence.org.br/,"unknown, url",n/a
 2026-06-14,threatfox,URL,https://mampodik.asia/,"unknown, url",n/a
@@ -381,15 +372,6 @@ date,user,type,ioc,tags,context
 2026-06-20,threatfox,URL,http://153.117.13.227:34153/Mozi.m,"elf.mozi, url",n/a
 2026-06-20,threatfox,URL,http://mathlah.com:9432,"win.remus, url",n/a
 2026-06-20,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/mcv4f-jp5/launching,"js.clearfake, url",n/a
-2026-06-13,threatfox,DOMAIN,qoutbfpg.bet120x.net,"js.clearfake, domain",n/a
-2026-06-13,threatfox,DOMAIN,qzxjphs.megaparikade.com,"js.clearfake, domain",n/a
-2026-06-13,threatfox,DOMAIN,vbotnt1.duckdns.org,"elf.mirai, domain",n/a
-2026-06-13,threatfox,DOMAIN,framework-css-styles-js.beer,"win.vidar, domain",n/a
-2026-06-13,threatfox,DOMAIN,verification-js-cdn.boats,"win.vidar, domain",n/a
-2026-06-13,threatfox,DOMAIN,divinenarratives.org,"js.smartapesg, domain",n/a
-2026-06-13,threatfox,DOMAIN,avexor.top,"js.smartapesg, domain",n/a
-2026-06-13,threatfox,DOMAIN,frreliny.com,"win.unidentified_001, domain",n/a
-2026-06-13,threatfox,DOMAIN,boqetwvb.bcgamekade.online,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,dyqanvdt.betfidokade.com,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,bqxhfhog.bet313.org,"js.clearfake, domain",n/a
 2026-06-13,threatfox,DOMAIN,phw2uk1e.casinokade.online,"js.clearfake, domain",n/a
@@ -1468,24 +1450,6 @@ date,user,type,ioc,tags,context
 2026-06-20,threatfox,DOMAIN,58shz66o.tahlilsazeha.xyz,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,zxe9u0st.sigaribetkade.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,4q74zsh8.raftarsazmani.xyz,"js.clearfake, domain",n/a
-2026-06-13,tweetfeed,URL,http://arickfhsr.icu,phishing,https://x.com/Malwarehunterr/status/2065765175735840834
-2026-06-13,tweetfeed,URL,http://ssl.gov-ole.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-occ.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-oxz.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-rjj.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-piq.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-ned.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-pnl.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-pgb.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-qkv.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-qok.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-rhq.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-oel.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-okz.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,http://ssl.gov-nih.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,URL,https://mg.page-xiongmao.com,phishing,https://x.com/kubotaa3/status/2065803581161353400
-2026-06-13,tweetfeed,URL,http://117.89.249.254:48099/Mozi.m,n/a,https://x.com/sicehice/status/2065805348452155600
-2026-06-13,tweetfeed,URL,https://lapsus.bz,n/a,https://x.com/fbgwls245/status/2065811244863594623
 2026-06-13,tweetfeed,URL,http://fdijfeuhfeuofjweoxhjy.anondns.net,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,URL,http://a.pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,URL,http://pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
@@ -2309,23 +2273,12 @@ date,user,type,ioc,tags,context
 2026-06-20,tweetfeed,URL,https://5ptinvite.cloud,phishing,https://x.com/patialavii/status/2068324901472366671
 2026-06-20,tweetfeed,URL,https://us04webb-zoom.one,phishing,https://x.com/patialavii/status/2068328011938791502
 2026-06-20,tweetfeed,URL,https://us04webb-zoom.one/Windows/download.php,phishing,https://x.com/patialavii/status/2068328011938791502
-2026-06-13,tweetfeed,DOMAIN,arickfhsr.icu,phishing,https://x.com/Malwarehunterr/status/2065765175735840834
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-ole.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-occ.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-oxz.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-rjj.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-piq.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-ned.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-pnl.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-pgb.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-qkv.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-qok.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-rhq.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-oel.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-okz.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,ssl.gov-nih.garden,n/a,https://x.com/skocherhan/status/2065802977814659146
-2026-06-13,tweetfeed,DOMAIN,mg.page-xiongmao.com,phishing,https://x.com/kubotaa3/status/2065803581161353400
-2026-06-13,tweetfeed,DOMAIN,lapsus.bz,n/a,https://x.com/fbgwls245/status/2065811244863594623
+2026-06-20,tweetfeed,URL,http://cdnpro-987.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
+2026-06-20,tweetfeed,URL,http://cdnportal-us.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
+2026-06-20,tweetfeed,URL,http://178.16.55.191,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
+2026-06-20,threatfox,HASH_SHA256,bfdb075aa514cb43b711bab06e775c081671863bc89c8e84763864e0aa35dd2c,"win.akira, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,5c6cce76a28898a242265b4eb3a3b14558dfb9a67319cfe0ac0bd175addb5b9a,"win.akira, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,34c843387845479329052ec7a71f6445c7530b6fee2eabb458da2338d1af41e4,"win.akira, sha256_hash",n/a
 2026-06-13,tweetfeed,DOMAIN,fdijfeuhfeuofjweoxhjy.anondns.net,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,DOMAIN,a.pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,DOMAIN,pizapiza.ca,Xworm,https://x.com/skocherhan/status/2065832905511764034
@@ -2935,7 +2888,8 @@ date,user,type,ioc,tags,context
 2026-06-20,tweetfeed,DOMAIN,houstontacolover.com,phishing,https://x.com/patialavii/status/2068322368670544362
 2026-06-20,tweetfeed,DOMAIN,5ptinvite.cloud,phishing,https://x.com/patialavii/status/2068324901472366671
 2026-06-20,tweetfeed,DOMAIN,us04webb-zoom.one,phishing,https://x.com/patialavii/status/2068328011938791502
-2026-06-13,tweetfeed,IP,117.89.249.254,n/a,https://x.com/sicehice/status/2065805348452155600
+2026-06-20,tweetfeed,DOMAIN,cdnpro-987.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
+2026-06-20,tweetfeed,DOMAIN,cdnportal-us.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
 2026-06-13,tweetfeed,IP,193.233.112.248,Xworm,https://x.com/skocherhan/status/2065832905511764034
 2026-06-13,tweetfeed,IP,8.222.192.153,"C2, Havoc, malware",https://x.com/phatomcandle/status/2065856746191761817
 2026-06-13,tweetfeed,HASH_SHA256,e33a657bcb3e7d1826983323c61064825294dc7919855b8b7716adbfdda3b482,n/a,https://x.com/skocherhan/status/2065867155225149476
@@ -3208,6 +3162,7 @@ date,user,type,ioc,tags,context
 2026-06-20,tweetfeed,IP,23.95.31.58,C2,https://x.com/Fact_Finder03/status/2068308057550102931
 2026-06-20,tweetfeed,IP,136.116.65.13,C2,https://x.com/Fact_Finder03/status/2068310733927125499
 2026-06-20,tweetfeed,HASH_SHA256,b42afabdb3d2d78f369c3f09c0b12d09f0c3f04d1768a1e9aaab6bf0368f2f60,phishing,https://x.com/patialavii/status/2068320803721273386
+2026-06-20,tweetfeed,IP,70.39.198.181,C2,https://x.com/Fact_Finder03/status/2068356668791075048
 2026-06-13,tweetfeed,HASH_MD5,0f384ec874171f57d331ef68f9d9d90e,"C2, CobaltStrike, Havoc, malware",https://x.com/skocherhan/status/2065860494880088347
 2026-06-13,tweetfeed,HASH_MD5,112cc66323d5115ae18d80ce9e681c9f,CobaltStrike,https://x.com/skocherhan/status/2065862291749224483
 2026-06-13,tweetfeed,HASH_MD5,003ef6732551dc40df31b7fbc0852c40,n/a,https://x.com/skocherhan/status/2065869637988868470
