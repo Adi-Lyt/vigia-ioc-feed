@@ -93,7 +93,6 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,URL,http://103.141.5.137:41713/Mozi.a,"elf.mozi, url",n/a
 2026-06-19,threatfox,URL,https://cdn.jsdelivr.net/gh/arinao7/86227780-d251hllg,"js.clearfake, url",n/a
 2026-06-19,threatfox,URL,https://www.ski-snowboardvancouver.ca/d.js,"js.smartapesg, url",n/a
-2026-06-19,threatfox,DOMAIN,aulvud5j.dancebetyek.app,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,imodobeness.at,"elf.ngioweb, domain",n/a
 2026-06-19,threatfox,DOMAIN,iruledolical.org,"elf.ngioweb, domain",n/a
 2026-06-19,threatfox,DOMAIN,unibokosion.cc,"elf.ngioweb, domain",n/a
@@ -152,11 +151,8 @@ date,user,type,ioc,tags,context
 2026-06-19,threatfox,DOMAIN,byz28tfk.rasmfani.xyz,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,i83pv2vx.ravabetensani.site,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,e57ra5jx.plinkobet.casino,"js.clearfake, domain",n/a
-2026-06-19,tweetfeed,URL,https://www.eprotect360.com/#yourname,ransomware,https://x.com/e_Protect360_/status/2067812115360944249
-2026-06-19,tweetfeed,URL,https://venomhawk.cloud/teams/Windows/invite.php,phishing,https://x.com/patialavii/status/2067812251512533177
-2026-06-19,tweetfeed,URL,https://store-na-phx-5.gofile.io/download/direct/66b13c86-f2fa-40b2-bfc3-3a9cb4c7a7b4/Update_Access.exe,phishing,https://x.com/patialavii/status/2067812251512533177
-2026-06-19,tweetfeed,URL,https://paikarihatbd.com/cvs/docu/Windows/invite.php,phishing,https://x.com/patialavii/status/2067817109900734900
-2026-06-19,tweetfeed,URL,https://schoolofnaturopathicmedicaltraining.com/cvs/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2067817109900734900
+2026-06-20,threatfox,DOMAIN,g6gib60b.raftarsazmani.xyz,"js.clearfake, domain",n/a
+2026-06-20,threatfox,DOMAIN,0odlgi4q.motuntakhasosi.store,"js.clearfake, domain",n/a
 2026-06-19,tweetfeed,URL,http://www.yzmdz.com/home,phishing,https://x.com/masaomi346/status/2067826821803245846
 2026-06-19,tweetfeed,URL,https://lsxmianguan.com/lgdqjr,phishing,https://x.com/romonlyht/status/2067845587727487480
 2026-06-19,tweetfeed,URL,https://zhc-ninegamesports.com/DnyLVNic,phishing,https://x.com/romonlyht/status/2067845587727487480
@@ -307,10 +303,17 @@ date,user,type,ioc,tags,context
 2026-06-20,tweetfeed,URL,https://line.me.ja.iormin.com,phishing,https://x.com/masaomi346/status/2068108855440294349
 2026-06-20,tweetfeed,URL,http://login.yunxingholdings.com/home,phishing,https://x.com/masaomi346/status/2068130205794021554
 2026-06-20,tweetfeed,URL,https://cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
-2026-06-19,tweetfeed,DOMAIN,eprotect360.com,ransomware,https://x.com/e_Protect360_/status/2067812115360944249
-2026-06-19,tweetfeed,DOMAIN,venomhawk.cloud,phishing,https://x.com/patialavii/status/2067812251512533177
-2026-06-19,tweetfeed,DOMAIN,store-na-phx-5.gofile.io,phishing,https://x.com/patialavii/status/2067812251512533177
-2026-06-19,tweetfeed,DOMAIN,schoolofnaturopathicmedicaltraining.com,phishing,https://x.com/patialavii/status/2067817109900734900
+2026-06-20,threatfox,HASH_SHA256,55f65c7a077407e09b5bf46c0d1885e88759583bb56ee3c5495804d0da127dab,"win.wannacryptor, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,d34be339fd8c47756de5b4e6c402612a333c50b9e1fa4bffdd32cb3f9d5c1d74,"py.venus_stealer, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,ef0e9301403d58a4729aaa9cd81abf942b1c8a301a651b1512bc2b5d9e599303,"win.nanocore, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,c2c8ed567f9c65686c4f6599e9259bd31d2ad984c24cf17ad9ebd9d594dcb0ba,"win.nanocore, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,2e16f46c063ff79af0b312364375706e98674b5869a4c9bb9f96a14b77277c5b,"win.nanocore, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,ce990051cbbec61b7e5fda012e29bc9776d0f298cc586c20ed13f949f34db37b,"win.nanocore, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,8408c932e1f5f49509bdb4a3d27b358de7309a660a4fa01841dbf0f2d1b4bf40,"win.wannacryptor, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,b8431716195045f269fabd7d4e58fc37d24281a7bc0e4af3ce5424276add5792,"win.nanocore, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,798138899fae930a2eb5d70aafd8ba622fd1674fec571e282e9c9589b39cffef,"win.nanocore, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,8d347ecef1e388d150a55d84f0397dc39be24d22c456681eb57ca23580f4083f,"win.wannacryptor, sha256_hash",n/a
+2026-06-20,threatfox,HASH_SHA256,aa40a70d1dbf91af1d2bfc5209417fadb3b4ad2192a4ea4cbf802e2b10d5b0ce,"win.wannacryptor, sha256_hash",n/a
 2026-06-19,tweetfeed,DOMAIN,yzmdz.com,phishing,https://x.com/masaomi346/status/2067826821803245846
 2026-06-19,tweetfeed,DOMAIN,lsxmianguan.com,phishing,https://x.com/romonlyht/status/2067845587727487480
 2026-06-19,tweetfeed,DOMAIN,zhc-ninegamesports.com,phishing,https://x.com/romonlyht/status/2067845587727487480
@@ -439,7 +442,17 @@ date,user,type,ioc,tags,context
 2026-06-20,tweetfeed,DOMAIN,line.me.ja.iormin.com,phishing,https://x.com/masaomi346/status/2068108855440294349
 2026-06-20,tweetfeed,DOMAIN,login.yunxingholdings.com,phishing,https://x.com/masaomi346/status/2068130205794021554
 2026-06-20,tweetfeed,DOMAIN,cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
-2026-06-19,tweetfeed,HASH_SHA256,8a75b0ddf71f6604c804b67484adee112c8a35255a8e39064e436f90d5cd04ba,phishing,https://x.com/patialavii/status/2067812251512533177
+2026-06-20,threatfox,HASH_MD5,3e90a82f5360cae528a12c76d22fe6a2,"win.wannacryptor, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,63ffc60f431eb604910d605d8d72754b,"py.venus_stealer, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,93e61d5a877bbb937e885d3ca385ac8a,"win.nanocore, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,10cf94eef24c8932d28698e02faf43e5,"win.nanocore, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,2470c9c99f13ded1f5b86a2fabde0780,"win.nanocore, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,1702f6476993eb605fe93eebbbc5fc42,"win.nanocore, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,e80c4a3ceb6417d7194183326d498ea5,"win.wannacryptor, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,63ab7828b518397c0b01596c92a0a0b0,"win.nanocore, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,d3e37de6dd2dc8ce1bb72536259529cc,"win.nanocore, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,9d9e293be0bc3323060ff6271cc00d4f,"win.wannacryptor, md5_hash",n/a
+2026-06-20,threatfox,HASH_MD5,6640820a921a5235ffa3448c7640039c,"win.wannacryptor, md5_hash",n/a
 2026-06-19,tweetfeed,IP,159.183.224.104,phishing,https://x.com/romonlyht/status/2067845587727487480
 2026-06-19,tweetfeed,IP,154.219.121.135,phishing,https://x.com/romonlyht/status/2067845587727487480
 2026-06-19,tweetfeed,IP,35.215.103.71,phishing,https://x.com/romonlyht/status/2067848749943263244
