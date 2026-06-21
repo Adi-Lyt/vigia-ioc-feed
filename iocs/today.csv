@@ -21,8 +21,6 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,URL,http://223.123.42.235:41900/Mozi.a,"elf.mozi, url",n/a
 2026-06-21,threatfox,URL,http://110.39.255.247:35440/Mozi.m,"elf.mozi, url",n/a
 2026-06-21,threatfox,URL,http://110.36.86.0:55983/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,DOMAIN,7cj04th6.shartland.com,"js.clearfake, domain",n/a
-2026-06-20,threatfox,DOMAIN,v8xihekm.ramzfile.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,yek1.bet,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,87khq5gx.ravabetensani.site,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,rurhmgw2.readthisintro.xyz,"js.clearfake, domain",n/a
@@ -360,6 +358,8 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,HASH_SHA256,7de36ce97ba0da128ce80fd2f2bb279dc8d116766cd2303ae914ed22f5643f69,"win.akira, sha256_hash",n/a
 2026-06-21,threatfox,HASH_SHA256,de8cbfe0366a0c2a1921aed25f0110cc7c800c04dfff985c1de27dc047bf715e,"win.akira, sha256_hash",n/a
 2026-06-21,threatfox,HASH_SHA256,9928da49334113c458714bd518941cf3dfe0052f2021ec0ee8368beed6a5eb3b,"win.akira, sha256_hash",n/a
+2026-06-21,tweetfeed,URL,https://khoancatbetong89.vn/zoom/Windows/invite.php,phishing,https://x.com/patialavii/status/2068552176872653239
+2026-06-21,tweetfeed,URL,https://khoancatbetong89.vn/zoom/Windows/download.php,phishing,https://x.com/patialavii/status/2068552176872653239
 2026-06-20,tweetfeed,DOMAIN,cff-mufg.hgntd.com,phishing,https://x.com/masaomi346/status/2068246281903067234
 2026-06-20,tweetfeed,DOMAIN,aumri.ae,Remcos,https://x.com/skocherhan/status/2068255486374183013
 2026-06-20,tweetfeed,DOMAIN,dentalux202.ydns.eu,Remcos,https://x.com/skocherhan/status/2068255486374183013
@@ -439,6 +439,7 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,DOMAIN,api.softwareupdatenews.com,n/a,https://x.com/500mk500/status/2068475253597069451
 2026-06-21,tweetfeed,DOMAIN,dzerl.com,n/a,https://x.com/500mk500/status/2068475253597069451
 2026-06-21,tweetfeed,DOMAIN,xyfmxx.com,phishing,https://x.com/masaomi346/status/2068531956447690943
+2026-06-21,tweetfeed,DOMAIN,khoancatbetong89.vn,phishing,https://x.com/patialavii/status/2068552176872653239
 2026-06-20,tweetfeed,HASH_SHA256,675bba15b954318398f1a34aef4ecffce515feb35130fb12a89471fc9873a645,n/a,https://x.com/cyb3rops/status/2068244526611788001
 2026-06-20,tweetfeed,HASH_SHA256,068d0e4464823e90d9534c983acec21d2bf52b9134dd40304b2beb9b20c5a0ce,n/a,https://x.com/cyb3rops/status/2068244526611788001
 2026-06-20,tweetfeed,IP,2.26.252.44,phishing,https://x.com/PhishStats/status/2068305319474663558
@@ -468,3 +469,4 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,IP,181.215.18.89,n/a,https://x.com/malpulse/status/2068506823133462893
 2026-06-21,tweetfeed,HASH_SHA256,aeb972af2b685115c16acde4689c39bb3ac892438b0f131369fe3e661a7d0586,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
 2026-06-21,tweetfeed,HASH_SHA256,bff0c109b341cad0cf9130b7c5e3380b31d96381170d092b5e02886fac95f14d,n/a,https://x.com/byrne_emmy12099/status/2068566862015946892
+2026-06-21,tweetfeed,HASH_SHA256,d12af789ffa55828debceb3cd888f2794f5ee3165ed4f8973da103e7638f6136,phishing,https://x.com/patialavii/status/2068552176872653239
