@@ -375,7 +375,6 @@ date,user,type,ioc,tags,context
 2026-06-20,threatfox,URL,http://193.148.57.10/88004f4d3e32489389ea.php,"win.stealc, url",n/a
 2026-06-20,threatfox,URL,https://almontm.xyz/file.js,"js.kongtuke, url",n/a
 2026-06-21,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/8a-96dfe89a4aa3/hum-id46,"js.clearfake, url",n/a
-2026-06-14,threatfox,DOMAIN,qcfxtzci.leaguejazire.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,qjivlnde.maharatmodiran.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,hhbpyr7b.ravanshenakhti.shop,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,nztdbnij.mabanishimi.xyz,"js.clearfake, domain",n/a
@@ -1420,7 +1419,8 @@ date,user,type,ioc,tags,context
 2026-06-20,threatfox,DOMAIN,l3q1ng7a.azmoondadrasi.xyz,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,zabantehrani.shop,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,g9lo26em.shartland.com,"js.clearfake, domain",n/a
-2026-06-14,tweetfeed,URL,http://ryo.gamer.free,APT,https://x.com/byrne_emmy12099/status/2065959040107352202
+2026-06-21,threatfox,DOMAIN,bbzvqin8.zamineravan.xyz,"js.clearfake, domain",n/a
+2026-06-21,threatfox,DOMAIN,zamineravan.xyz,"js.clearfake, domain",n/a
 2026-06-14,tweetfeed,URL,https://cobig99.github.io/microsoft365-en-us-excel/,"phishing, scam",https://x.com/urldna_bot/status/2065977567543173630
 2026-06-14,threatfox,HASH_SHA256,b90911b23eee913a11dc19e983910497c3822f2c0f12722672cb790cadf3f4fa,"win.troystealer, sha256_hash",n/a
 2026-06-14,threatfox,HASH_SHA256,9555123bcc8f0720640dc56fa9e17452a3f2224038f2385e292f64df7c70fa8d,"win.phemedrone_stealer, sha256_hash",n/a
@@ -2234,7 +2234,11 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,URL,http://caixesp-finbk.com,phishing,https://x.com/skocherhan/status/2068486845025923461
 2026-06-21,tweetfeed,URL,https://particuliers-socgen.com/index.php,phishing,https://x.com/PhishStats/status/2068488788565700886
 2026-06-21,tweetfeed,URL,http://64.89.163.8/hiddenbin/Space.apk,malware,https://x.com/deobfuscately/status/2068489140770046377
-2026-06-14,tweetfeed,DOMAIN,ryo.gamer.free,APT,https://x.com/byrne_emmy12099/status/2065959040107352202
+2026-06-21,tweetfeed,URL,http://webfurina.com,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,URL,http://en.footballcharge.us,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,URL,http://cdn.datacenterate.com,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,URL,http://api.softwareupdatenews.com,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,URL,http://dzerl.com,n/a,https://x.com/500mk500/status/2068475253597069451
 2026-06-14,tweetfeed,DOMAIN,cobig99.github.io,"phishing, scam",https://x.com/urldna_bot/status/2065977567543173630
 2026-06-14,threatfox,HASH_MD5,4fb1d95832b2daa5125f7ff2e618df0b,"win.troystealer, md5_hash",n/a
 2026-06-14,threatfox,HASH_MD5,b01231990bfbb7857d28c8e24aa6251b,"win.phemedrone_stealer, md5_hash",n/a
@@ -2881,11 +2885,11 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,HASH_MD5,e76c8f8521a3c532b93466301076cccb,"win.valley_rat, md5_hash",n/a
 2026-06-21,tweetfeed,DOMAIN,caixesp-finbk.com,phishing,https://x.com/skocherhan/status/2068486845025923461
 2026-06-21,tweetfeed,DOMAIN,particuliers-socgen.com,phishing,https://x.com/PhishStats/status/2068488788565700886
-2026-06-14,tweetfeed,HASH_SHA256,4ab376542deaf25b4d3e4ce84e44640dccb9358978e70da8e0dea6c93e8b12eb,APT,https://x.com/byrne_emmy12099/status/2065959040107352202
-2026-06-14,tweetfeed,HASH_SHA256,ff9fc67f0857b090471cf81ace69843fbf4d6cc8a7ee9b6928e3c46428fca8f9,n/a,https://x.com/byrne_emmy12099/status/2065960582067683416
-2026-06-14,tweetfeed,HASH_SHA256,85515d5ea0afa7ad00fefef81ab48e26e028487aea1eb084c176275301f16c37,n/a,https://x.com/byrne_emmy12099/status/2065960582067683416
-2026-06-14,tweetfeed,HASH_SHA256,7e5f73108ec7be17defc7d27a6757d5c69ad997fa38480d5a404c1b1e9ab0ada,n/a,https://x.com/byrne_emmy12099/status/2065960706391077294
-2026-06-14,tweetfeed,HASH_SHA256,466d1fe10dd722b5485b19a71ca0f9cd9f973b3f93749d981b1bf073169fe6f0,n/a,https://x.com/byrne_emmy12099/status/2065960706391077294
+2026-06-21,tweetfeed,DOMAIN,webfurina.com,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,DOMAIN,en.footballcharge.us,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,DOMAIN,cdn.datacenterate.com,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,DOMAIN,api.softwareupdatenews.com,n/a,https://x.com/500mk500/status/2068475253597069451
+2026-06-21,tweetfeed,DOMAIN,dzerl.com,n/a,https://x.com/500mk500/status/2068475253597069451
 2026-06-14,tweetfeed,HASH_SHA256,583168d153c88925067761e066a0869aa3cc946ace3672d8614e1bc2ad3ccd82,n/a,https://x.com/smica83/status/2066060904672690491
 2026-06-14,tweetfeed,IP,147.79.79.227,phishing,https://x.com/PhishStats/status/2066102773788074418
 2026-06-14,tweetfeed,HASH_SHA256,45fd64a2e3114008f400bb2d9fa775001de652595ffe61c01521eb227a0ba320,n/a,https://x.com/Now_on_VT/status/2066115306842464275
@@ -3144,6 +3148,8 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,IP,176.65.139.195,n/a,https://x.com/skocherhan/status/2068474708756939163
 2026-06-21,tweetfeed,IP,180.178.160.59,phishing,https://x.com/PhishStats/status/2068488788565700886
 2026-06-21,tweetfeed,IP,64.89.163.8,malware,https://x.com/deobfuscately/status/2068489140770046377
+2026-06-21,tweetfeed,HASH_SHA256,855a97922d475731f0687634ef0f6af0b95a597e9717d89503541ce302b7bcb3,n/a,https://x.com/skocherhan/status/2068485116918149549
+2026-06-21,tweetfeed,IP,181.215.18.89,n/a,https://x.com/malpulse/status/2068506823133462893
 2026-06-14,tweetfeed,HASH_MD5,c72a0aa147bb1ae893aca2cff9a6833c,n/a,https://x.com/skocherhan/status/2066167170178908636
 2026-06-14,tweetfeed,HASH_MD5,963b95e0585aa7939156507a6836f9ef,n/a,https://x.com/skocherhan/status/2066167688880091276
 2026-06-15,tweetfeed,HASH_MD5,19a8ff5982eab8056b9559e8801e83ab,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
