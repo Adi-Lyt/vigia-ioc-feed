@@ -3,12 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-14,threatfox,URL,https://whatdatcindy.com/nfront.php,"win.satacom, url",n/a
-2026-06-14,threatfox,URL,https://sindppence.org.br/,"unknown, url",n/a
-2026-06-14,threatfox,URL,https://mampodik.asia/,"unknown, url",n/a
-2026-06-14,threatfox,URL,https://217.60.195.113/sh,"elf.redtail, url",n/a
-2026-06-14,threatfox,URL,http://nottinghamcarpetsandblinds.com:5789,"win.remus, url",n/a
-2026-06-14,threatfox,URL,http://151.240.151.64/9966f4d17e8f4875aad6.php,"win.stealc, url",n/a
 2026-06-14,threatfox,URL,http://fusesd.shop:6431,"win.remus, url",n/a
 2026-06-14,threatfox,URL,http://sekirolegion.duckdns.org/api/endpoint.php,"unknown_stealer, url",n/a
 2026-06-14,threatfox,URL,http://ptlegion.duckdns.org/api/endpoint.php,"unknown_stealer, url",n/a
@@ -392,18 +386,6 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,URL,http://223.123.42.235:41900/Mozi.a,"elf.mozi, url",n/a
 2026-06-21,threatfox,URL,http://110.39.255.247:35440/Mozi.m,"elf.mozi, url",n/a
 2026-06-21,threatfox,URL,http://110.36.86.0:55983/Mozi.m,"elf.mozi, url",n/a
-2026-06-14,threatfox,DOMAIN,whatdatcindy.com,"win.satacom, domain",n/a
-2026-06-14,threatfox,DOMAIN,g4me.flashpopdownloadbutton.monster,"win.satacom, domain",n/a
-2026-06-14,threatfox,DOMAIN,account-auth.userlogin.kro.kr,"win.kimsuky, domain",n/a
-2026-06-14,threatfox,DOMAIN,cqdprod.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,cqdsequoia.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,ghost-loader.com,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,cryptex-core.pw,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,nottinghamcarpetsandblinds.com,"win.remus, domain",n/a
-2026-06-14,"threatfox,tweetfeed",DOMAIN,mgo.gstats-api-contact.cc,"unknown, domain",n/a
-2026-06-14,threatfox,DOMAIN,fkqhi.drivingbook.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,xglycuye.tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,qlsgo9c9.shimiskoog.shop,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,winter.delicacyencrust.icu,"win.acr_stealer, domain",n/a
 2026-06-14,threatfox,DOMAIN,harmful.ferretcilantro.icu,"win.acr_stealer, domain",n/a
 2026-06-14,threatfox,DOMAIN,ndotkgyl.tasisathosseini.shop,"js.clearfake, domain",n/a
@@ -1421,15 +1403,8 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,DOMAIN,yezqbe5v.tarahisystem.xyz,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,xlp38wsp.yekiran.com,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,oyine.duckdns.org,"win.remcos, domain",n/a
-2026-06-14,tweetfeed,URL,https://varmnail.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066098360868565336
-2026-06-14,tweetfeed,URL,https://onboarding.rideunitedsd.com/conto/hype/,phishing,https://x.com/PhishStats/status/2066102773788074418
-2026-06-14,threatfox,HASH_SHA256,38fead1469cca1192eedb9dd2fc305ddbb15760771223891d8e7db1a7a8fe2ea,"unknown_stealer, sha256_hash",n/a
-2026-06-14,threatfox,HASH_SHA256,01baaef04cf032d418dcd85f047d129aa54b0eeabde2fed7287046c0604c3f1b,"elf.xmrig, sha256_hash",n/a
-2026-06-14,threatfox,HASH_SHA256,16d3440fcc067823afc44dcbccea9fbbc2f8c68ae53b7aea45f9adff4c127086,"elf.xmrig, sha256_hash",n/a
-2026-06-14,threatfox,HASH_SHA256,7c8e7619c5398d3b857e6f72cf791e2c2e27762ddd8521eb8971c893cdb8b1fc,"elf.redtail, sha256_hash",n/a
-2026-06-14,threatfox,HASH_SHA256,8a68d1c08ea31250063f70b1ccb5051db1f7ab6e17d46e9dd3cc292b9849878b,"elf.xmrig, sha256_hash",n/a
-2026-06-14,threatfox,HASH_SHA256,a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2,"elf.xmrig, sha256_hash",n/a
-2026-06-14,threatfox,HASH_SHA256,783adb7ad6b16fe9818f3e6d48b937c3ca1994ef24e50865282eeedeab7e0d59,"elf.xmrig, sha256_hash",n/a
+2026-06-21,threatfox,DOMAIN,mail-cross3.acilkredi.ch,"js.fakeupdates, domain",n/a
+2026-06-21,threatfox,DOMAIN,something0x.at,"osx.amos, domain",n/a
 2026-06-14,tweetfeed,URL,http://209.25.140.27:1788,n/a,https://x.com/skocherhan/status/2066120513596924262
 2026-06-14,threatfox,HASH_SHA256,4c16f19a06d210add2c21f0fa59b8a969ef0bc134f233c24dca0737ed8fa5485,"win.cobalt_strike, sha256_hash",n/a
 2026-06-14,threatfox,HASH_SHA256,eb45868316c1e4b7a2d3c61b032033b52be7f6a058322c6cea1ba9b0e2ffb549,"win.cobalt_strike, sha256_hash",n/a
@@ -2444,8 +2419,8 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,URL,https://khoancatbetong89.vn/zoom/Windows/download.php,phishing,https://x.com/patialavii/status/2068552176872653239
 2026-06-21,tweetfeed,URL,http://coin-team.com,scam,https://x.com/Cheekyfreaq/status/2068610975486394867
 2026-06-21,tweetfeed,URL,http://aqrl-trade.com,scam,https://x.com/emibolu199/status/2068614459543671154
-2026-06-14,tweetfeed,DOMAIN,varmnail.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066098360868565336
-2026-06-14,tweetfeed,DOMAIN,onboarding.rideunitedsd.com,phishing,https://x.com/PhishStats/status/2066102773788074418
+2026-06-21,tweetfeed,URL,https://mail-bfsa-gov-bd.netlify.app,n/a,https://x.com/volrant136/status/2068637244039258552
+2026-06-21,tweetfeed,URL,https://submit-form.com/Ec9XiqIPj,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-14,tweetfeed,DOMAIN,comcastauabrn0lasjpdqmailacctvoice.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066128553494581557
 2026-06-14,tweetfeed,DOMAIN,crsorgi.gov.in.web.indexe.buzz,phishing,https://x.com/skocherhan/status/2066130507427983633
 2026-06-14,tweetfeed,DOMAIN,dc.crsorgi.gov.in.index.web-index.info,phishing,https://x.com/skocherhan/status/2066130507427983633
@@ -3077,7 +3052,8 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,DOMAIN,khoancatbetong89.vn,phishing,https://x.com/patialavii/status/2068552176872653239
 2026-06-21,tweetfeed,DOMAIN,coin-team.com,scam,https://x.com/Cheekyfreaq/status/2068610975486394867
 2026-06-21,tweetfeed,DOMAIN,aqrl-trade.com,scam,https://x.com/emibolu199/status/2068614459543671154
-2026-06-14,tweetfeed,IP,147.79.79.227,phishing,https://x.com/PhishStats/status/2066102773788074418
+2026-06-21,tweetfeed,DOMAIN,mail-bfsa-gov-bd.netlify.app,n/a,https://x.com/volrant136/status/2068637244039258552
+2026-06-21,tweetfeed,DOMAIN,submit-form.com,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-14,tweetfeed,HASH_SHA256,45fd64a2e3114008f400bb2d9fa775001de652595ffe61c01521eb227a0ba320,n/a,https://x.com/Now_on_VT/status/2066115306842464275
 2026-06-14,tweetfeed,IP,209.25.140.27,n/a,https://x.com/skocherhan/status/2066120513596924262
 2026-06-14,tweetfeed,HASH_SHA256,17e46f389c35bd5db3118562ac2500cb3bdd6d72ebbc432d2a986087e36fae5f,phishing,https://x.com/patialavii/status/2066141716315558363
