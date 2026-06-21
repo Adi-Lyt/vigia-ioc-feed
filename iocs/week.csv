@@ -375,8 +375,6 @@ date,user,type,ioc,tags,context
 2026-06-20,threatfox,URL,http://193.148.57.10/88004f4d3e32489389ea.php,"win.stealc, url",n/a
 2026-06-20,threatfox,URL,https://almontm.xyz/file.js,"js.kongtuke, url",n/a
 2026-06-21,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/8a-96dfe89a4aa3/hum-id46,"js.clearfake, url",n/a
-2026-06-14,threatfox,DOMAIN,ycnrdnqk.prozhedownload.com,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,gbqlwrat.prozhecart.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,hogugzxj.questionsmotor.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,hduwrmy.megaparikade.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,fjagjlhm.psgnewsiran.com,"js.clearfake, domain",n/a
@@ -1412,6 +1410,7 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,DOMAIN,bbzvqin8.zamineravan.xyz,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,zamineravan.xyz,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,zamineravanshenasi.xyz,"js.clearfake, domain",n/a
+2026-06-21,threatfox,DOMAIN,xfq2kf92.angizeshfarahani.store,"js.clearfake, domain",n/a
 2026-06-14,tweetfeed,URL,https://facebook.hotzxgirl.online,"phishing, scam",https://x.com/urldna_bot/status/2066037999821832331
 2026-06-14,tweetfeed,URL,http://enltelpe-bestny.top,phishing,https://x.com/skocherhan/status/2066041426023010372
 2026-06-14,tweetfeed,URL,http://enltelpe-bestky.top,phishing,https://x.com/skocherhan/status/2066041426023010372
@@ -2215,6 +2214,9 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,URL,http://api.softwareupdatenews.com,n/a,https://x.com/500mk500/status/2068475253597069451
 2026-06-21,tweetfeed,URL,http://dzerl.com,n/a,https://x.com/500mk500/status/2068475253597069451
 2026-06-21,tweetfeed,URL,https://www.xyfmxx.com/home,phishing,https://x.com/masaomi346/status/2068531956447690943
+2026-06-21,tweetfeed,URL,https://drive.google.com/uc?export=download`&id=1FA9TvcakCgfeRdLaejIJbeoFjuI9GB6R,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
+2026-06-21,tweetfeed,URL,https://lutkdd.corpsecs.com,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
+2026-06-21,tweetfeed,URL,https://link24.kr/uWNIh2,n/a,https://x.com/byrne_emmy12099/status/2068566862015946892
 2026-06-14,tweetfeed,DOMAIN,facebook.hotzxgirl.online,"phishing, scam",https://x.com/urldna_bot/status/2066037999821832331
 2026-06-14,tweetfeed,DOMAIN,enltelpe-bestny.top,phishing,https://x.com/skocherhan/status/2066041426023010372
 2026-06-14,tweetfeed,DOMAIN,enltelpe-bestky.top,phishing,https://x.com/skocherhan/status/2066041426023010372
@@ -3111,6 +3113,8 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,IP,64.89.163.8,malware,https://x.com/deobfuscately/status/2068489140770046377
 2026-06-21,tweetfeed,HASH_SHA256,855a97922d475731f0687634ef0f6af0b95a597e9717d89503541ce302b7bcb3,n/a,https://x.com/skocherhan/status/2068485116918149549
 2026-06-21,tweetfeed,IP,181.215.18.89,n/a,https://x.com/malpulse/status/2068506823133462893
+2026-06-21,tweetfeed,HASH_SHA256,aeb972af2b685115c16acde4689c39bb3ac892438b0f131369fe3e661a7d0586,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
+2026-06-21,tweetfeed,HASH_SHA256,bff0c109b341cad0cf9130b7c5e3380b31d96381170d092b5e02886fac95f14d,n/a,https://x.com/byrne_emmy12099/status/2068566862015946892
 2026-06-14,tweetfeed,HASH_MD5,c72a0aa147bb1ae893aca2cff9a6833c,n/a,https://x.com/skocherhan/status/2066167170178908636
 2026-06-14,tweetfeed,HASH_MD5,963b95e0585aa7939156507a6836f9ef,n/a,https://x.com/skocherhan/status/2066167688880091276
 2026-06-15,tweetfeed,HASH_MD5,19a8ff5982eab8056b9559e8801e83ab,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
