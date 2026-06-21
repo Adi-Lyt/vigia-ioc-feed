@@ -53,7 +53,7 @@ date,user,type,ioc,tags,context
 2026-06-20,threatfox,DOMAIN,wc7skdzu.yakhbet.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,l3q1ng7a.azmoondadrasi.xyz,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,zabantehrani.shop,"js.clearfake, domain",n/a
-2026-06-20,tweetfeed,URL,http://login.yunxingholdings.com/home,phishing,https://x.com/masaomi346/status/2068130205794021554
+2026-06-21,threatfox,DOMAIN,g9lo26em.shartland.com,"js.clearfake, domain",n/a
 2026-06-20,tweetfeed,URL,https://cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
 2026-06-20,threatfox,HASH_SHA256,55f65c7a077407e09b5bf46c0d1885e88759583bb56ee3c5495804d0da127dab,"win.wannacryptor, sha256_hash",n/a
 2026-06-20,threatfox,HASH_SHA256,d34be339fd8c47756de5b4e6c402612a333c50b9e1fa4bffdd32cb3f9d5c1d74,"py.venus_stealer, sha256_hash",n/a
@@ -154,7 +154,9 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,HASH_SHA256,ef3b3ab549f0abd21112eaa6b2d92cc43268960cc784241dc0512b38db090923,"win.remotex, sha256_hash",n/a
 2026-06-21,threatfox,HASH_SHA256,6696a32df2f9598926cda34e6a239e24c66e417fe40617ad5853b2cb339481a4,"win.salatstealer, sha256_hash",n/a
 2026-06-21,threatfox,HASH_SHA256,0ecd4eed4e6933a51dbedfb4927b330135e0df7957e4e1eb6c6cee939a5bdec4,"win.valley_rat, sha256_hash",n/a
-2026-06-20,tweetfeed,DOMAIN,login.yunxingholdings.com,phishing,https://x.com/masaomi346/status/2068130205794021554
+2026-06-21,tweetfeed,URL,http://caixesp-finbk.com,phishing,https://x.com/skocherhan/status/2068486845025923461
+2026-06-21,tweetfeed,URL,https://particuliers-socgen.com/index.php,phishing,https://x.com/PhishStats/status/2068488788565700886
+2026-06-21,tweetfeed,URL,http://64.89.163.8/hiddenbin/Space.apk,malware,https://x.com/deobfuscately/status/2068489140770046377
 2026-06-20,tweetfeed,DOMAIN,cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
 2026-06-20,threatfox,HASH_MD5,3e90a82f5360cae528a12c76d22fe6a2,"win.wannacryptor, md5_hash",n/a
 2026-06-20,threatfox,HASH_MD5,63ffc60f431eb604910d605d8d72754b,"py.venus_stealer, md5_hash",n/a
@@ -238,6 +240,8 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,HASH_MD5,e716660c19bd9ca857be57cc3926d60a,"win.salatstealer, md5_hash",n/a
 2026-06-21,threatfox,HASH_MD5,be10a9ac2bfe28e74a4ed2029a077d28,"win.remotex, md5_hash",n/a
 2026-06-21,threatfox,HASH_MD5,e76c8f8521a3c532b93466301076cccb,"win.valley_rat, md5_hash",n/a
+2026-06-21,tweetfeed,DOMAIN,caixesp-finbk.com,phishing,https://x.com/skocherhan/status/2068486845025923461
+2026-06-21,tweetfeed,DOMAIN,particuliers-socgen.com,phishing,https://x.com/PhishStats/status/2068488788565700886
 2026-06-20,tweetfeed,HASH_SHA256,9f446f0786e39a2adde962b99d42eaaa75dbffe23f2464f6173d60c8f6e7d6dc,APT,https://x.com/byrne_emmy12099/status/2068136098161889699
 2026-06-20,tweetfeed,HASH_SHA256,97fc1862fb55813ee199bbaef378bdf2e904cb73930a6a56903bef5614f2726b,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
 2026-06-20,tweetfeed,HASH_SHA256,c534df540c66e8578cf8400280cf8d8a4ed7a21a93fda27ec2e29e912f0dacaf,n/a,https://x.com/byrne_emmy12099/status/2068141479676318028
@@ -264,3 +268,5 @@ date,user,type,ioc,tags,context
 2026-06-20,tweetfeed,HASH_SHA256,4c6c3fb40ded613933d00a87000b065649322eec736018493bc607ce72c76017,n/a,https://x.com/smica83/status/2068434724817604619
 2026-06-21,tweetfeed,IP,45.156.87.130,n/a,https://x.com/skocherhan/status/2068472852894900576
 2026-06-21,tweetfeed,IP,176.65.139.195,n/a,https://x.com/skocherhan/status/2068474708756939163
+2026-06-21,tweetfeed,IP,180.178.160.59,phishing,https://x.com/PhishStats/status/2068488788565700886
+2026-06-21,tweetfeed,IP,64.89.163.8,malware,https://x.com/deobfuscately/status/2068489140770046377
