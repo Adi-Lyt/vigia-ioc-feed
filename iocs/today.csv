@@ -21,7 +21,6 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,URL,http://223.123.42.235:41900/Mozi.a,"elf.mozi, url",n/a
 2026-06-21,threatfox,URL,http://110.39.255.247:35440/Mozi.m,"elf.mozi, url",n/a
 2026-06-21,threatfox,URL,http://110.36.86.0:55983/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,DOMAIN,yek1.bet,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,87khq5gx.ravabetensani.site,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,rurhmgw2.readthisintro.xyz,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,58shz66o.tahlilsazeha.xyz,"js.clearfake, domain",n/a
@@ -42,7 +41,8 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,DOMAIN,xfq2kf92.angizeshfarahani.store,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,justkiddin.live,"elf.mirai, domain",n/a
 2026-06-21,threatfox,DOMAIN,s3zzh7np.sigaribetkade.com,"js.clearfake, domain",n/a
-2026-06-20,tweetfeed,URL,https://cff-mufg.hgntd.com/benPPApe/,phishing,https://x.com/masaomi346/status/2068246281903067234
+2026-06-21,threatfox,DOMAIN,yezqbe5v.tarahisystem.xyz,"js.clearfake, domain",n/a
+2026-06-21,threatfox,DOMAIN,xlp38wsp.yekiran.com,"js.clearfake, domain",n/a
 2026-06-20,tweetfeed,URL,http://aumri.ae,Remcos,https://x.com/skocherhan/status/2068255486374183013
 2026-06-20,tweetfeed,URL,http://dentalux202.ydns.eu,Remcos,https://x.com/skocherhan/status/2068255486374183013
 2026-06-20,tweetfeed,URL,http://dentalux202bk.ydns.eu,Remcos,https://x.com/skocherhan/status/2068255486374183013
@@ -360,7 +360,8 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,HASH_SHA256,9928da49334113c458714bd518941cf3dfe0052f2021ec0ee8368beed6a5eb3b,"win.akira, sha256_hash",n/a
 2026-06-21,tweetfeed,URL,https://khoancatbetong89.vn/zoom/Windows/invite.php,phishing,https://x.com/patialavii/status/2068552176872653239
 2026-06-21,tweetfeed,URL,https://khoancatbetong89.vn/zoom/Windows/download.php,phishing,https://x.com/patialavii/status/2068552176872653239
-2026-06-20,tweetfeed,DOMAIN,cff-mufg.hgntd.com,phishing,https://x.com/masaomi346/status/2068246281903067234
+2026-06-21,tweetfeed,URL,http://coin-team.com,scam,https://x.com/Cheekyfreaq/status/2068610975486394867
+2026-06-21,tweetfeed,URL,http://aqrl-trade.com,scam,https://x.com/emibolu199/status/2068614459543671154
 2026-06-20,tweetfeed,DOMAIN,aumri.ae,Remcos,https://x.com/skocherhan/status/2068255486374183013
 2026-06-20,tweetfeed,DOMAIN,dentalux202.ydns.eu,Remcos,https://x.com/skocherhan/status/2068255486374183013
 2026-06-20,tweetfeed,DOMAIN,dentalux202bk.ydns.eu,Remcos,https://x.com/skocherhan/status/2068255486374183013
@@ -440,8 +441,8 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,DOMAIN,dzerl.com,n/a,https://x.com/500mk500/status/2068475253597069451
 2026-06-21,tweetfeed,DOMAIN,xyfmxx.com,phishing,https://x.com/masaomi346/status/2068531956447690943
 2026-06-21,tweetfeed,DOMAIN,khoancatbetong89.vn,phishing,https://x.com/patialavii/status/2068552176872653239
-2026-06-20,tweetfeed,HASH_SHA256,675bba15b954318398f1a34aef4ecffce515feb35130fb12a89471fc9873a645,n/a,https://x.com/cyb3rops/status/2068244526611788001
-2026-06-20,tweetfeed,HASH_SHA256,068d0e4464823e90d9534c983acec21d2bf52b9134dd40304b2beb9b20c5a0ce,n/a,https://x.com/cyb3rops/status/2068244526611788001
+2026-06-21,tweetfeed,DOMAIN,coin-team.com,scam,https://x.com/Cheekyfreaq/status/2068610975486394867
+2026-06-21,tweetfeed,DOMAIN,aqrl-trade.com,scam,https://x.com/emibolu199/status/2068614459543671154
 2026-06-20,tweetfeed,IP,2.26.252.44,phishing,https://x.com/PhishStats/status/2068305319474663558
 2026-06-20,tweetfeed,IP,23.95.31.58,C2,https://x.com/Fact_Finder03/status/2068308057550102931
 2026-06-20,tweetfeed,IP,136.116.65.13,C2,https://x.com/Fact_Finder03/status/2068310733927125499
@@ -470,3 +471,6 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,HASH_SHA256,aeb972af2b685115c16acde4689c39bb3ac892438b0f131369fe3e661a7d0586,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
 2026-06-21,tweetfeed,HASH_SHA256,bff0c109b341cad0cf9130b7c5e3380b31d96381170d092b5e02886fac95f14d,n/a,https://x.com/byrne_emmy12099/status/2068566862015946892
 2026-06-21,tweetfeed,HASH_SHA256,d12af789ffa55828debceb3cd888f2794f5ee3165ed4f8973da103e7638f6136,phishing,https://x.com/patialavii/status/2068552176872653239
+2026-06-21,tweetfeed,HASH_SHA256,6335589e1c41d306998b9cf265ee25739afcf25e0dd0ad1c28c74dc45cd3cd7a,phishing,https://x.com/skocherhan/status/2068609791312666788
+2026-06-21,tweetfeed,HASH_MD5,d5409fb88571901f90be82f69d48b50d,n/a,https://x.com/skocherhan/status/2068603414351622524
+2026-06-21,tweetfeed,HASH_MD5,f67b92fd8e324343e1ac281c71cd211a,n/a,https://x.com/skocherhan/status/2068604023519711688
