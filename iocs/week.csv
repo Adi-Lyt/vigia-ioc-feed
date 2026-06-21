@@ -3,7 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-14,threatfox,URL,https://agn-deco.ro/,"win.vidar, url",n/a
 2026-06-14,threatfox,URL,https://avpungxx.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://95.216.152.191/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://178.105.210.87/,"win.vidar, url",n/a
@@ -381,9 +380,6 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,URL,http://110.36.86.0:55983/Mozi.m,"elf.mozi, url",n/a
 2026-06-21,threatfox,URL,https://macos.certificates.ltd/apple/macos/installation/terminal/launcher,"osx.amos, url",n/a
 2026-06-21,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/d846-4abc/id-7843,"js.clearfake, url",n/a
-2026-06-14,threatfox,DOMAIN,wbnggxoc.tractor11.com,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,4v96patx.vajename.xyz,"js.clearfake, domain",n/a
-2026-06-14,threatfox,DOMAIN,cqtwbvlx.testranandegi.com,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,mxlsapwz.hugugmadani6.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,lvtimaax.usoleamoozesh.xyz,"js.clearfake, domain",n/a
 2026-06-14,threatfox,DOMAIN,sxzvcen2.shansline.com,"js.clearfake, domain",n/a
@@ -1289,13 +1285,6 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,DOMAIN,zyppn5vo.riyazishahkilid.xyz,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,macos.certificates.ltd,"osx.amos, domain",n/a
 2026-06-21,threatfox,DOMAIN,6w8npdwb.angizeshfarahani.store,"js.clearfake, domain",n/a
-2026-06-14,tweetfeed,URL,https://clientmeetingzoomspace.com/Windows/invite.php,phishing,https://x.com/patialavii/status/2066141716315558363
-2026-06-14,tweetfeed,URL,https://user-support.online/api/agent/download/6a22e84654ddf3633644d077?type=vbs,phishing,https://x.com/patialavii/status/2066141716315558363
-2026-06-14,tweetfeed,URL,https://user-support.online/api/agent/download/6a22e84654ddf3633644d077?type=exe,phishing,https://x.com/patialavii/status/2066141716315558363
-2026-06-14,tweetfeed,URL,https://docsonlineshare.shorepowersolution.net/docusign/d0cs/,phishing,https://x.com/patialavii/status/2066144167655575632
-2026-06-14,tweetfeed,URL,https://docsonlineshare.shorepowersolution.net/docusign/d0cs/Windows/download/index.php,phishing,https://x.com/patialavii/status/2066144167655575632
-2026-06-14,tweetfeed,URL,https://markatuna.com/docusign/docusign/,phishing,https://x.com/patialavii/status/2066147029995360459
-2026-06-14,tweetfeed,URL,http://112.213.124.132:4081/ws,n/a,https://x.com/smica83/status/2066151086721827002
 2026-06-14,tweetfeed,URL,https://airmilsihdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066158752378536036
 2026-06-14,tweetfeed,URL,http://69.48.229.22,n/a,https://x.com/smica83/status/2066165482424606736
 2026-06-14,tweetfeed,URL,http://galiciaoffices.help,n/a,https://x.com/skocherhan/status/2066166921309929840
@@ -2252,10 +2241,8 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,URL,https://mail-bfsa-gov-bd.netlify.app,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,URL,https://submit-form.com/Ec9XiqIPj,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,URL,https://mongroupegls.help/verification-m7wpmkr73c6f6ib3,phishing,https://x.com/PhishStats/status/2068667384999583774
-2026-06-14,tweetfeed,DOMAIN,clientmeetingzoomspace.com,phishing,https://x.com/patialavii/status/2066141716315558363
-2026-06-14,tweetfeed,DOMAIN,user-support.online,phishing,https://x.com/patialavii/status/2066141716315558363
-2026-06-14,tweetfeed,DOMAIN,docsonlineshare.shorepowersolution.net,phishing,https://x.com/patialavii/status/2066144167655575632
-2026-06-14,tweetfeed,DOMAIN,markatuna.com,phishing,https://x.com/patialavii/status/2066147029995360459
+2026-06-21,tweetfeed,URL,http://7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
+2026-06-21,tweetfeed,URL,http://eazk7las3xsvsyxgww3jgzammqjevso2ydnmlopdhl3u2muyrmmilrqd.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
 2026-06-14,tweetfeed,DOMAIN,airmilsihdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066158752378536036
 2026-06-14,tweetfeed,DOMAIN,galiciaoffices.help,n/a,https://x.com/skocherhan/status/2066166921309929840
 2026-06-14,tweetfeed,DOMAIN,ptcgdempresa.help,n/a,https://x.com/skocherhan/status/2066166921309929840
@@ -2857,10 +2844,8 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,DOMAIN,mail-bfsa-gov-bd.netlify.app,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,DOMAIN,submit-form.com,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,DOMAIN,mongroupegls.help,phishing,https://x.com/PhishStats/status/2068667384999583774
-2026-06-14,tweetfeed,HASH_SHA256,17e46f389c35bd5db3118562ac2500cb3bdd6d72ebbc432d2a986087e36fae5f,phishing,https://x.com/patialavii/status/2066141716315558363
-2026-06-14,tweetfeed,HASH_SHA256,160c4e5bd3f09c53a09e5fc95c34cf9fc2e96525e72412645350ba27a7025b34,phishing,https://x.com/patialavii/status/2066144167655575632
-2026-06-14,tweetfeed,IP,112.213.124.132,n/a,https://x.com/smica83/status/2066151086721827002
-2026-06-14,tweetfeed,HASH_SHA256,90b7b2c6f3d05234dc55678243039d7e51f0d54190239e5234a0005533337dc8,n/a,https://x.com/smica83/status/2066151086721827002
+2026-06-21,tweetfeed,DOMAIN,7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
+2026-06-21,tweetfeed,DOMAIN,eazk7las3xsvsyxgww3jgzammqjevso2ydnmlopdhl3u2muyrmmilrqd.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
 2026-06-14,tweetfeed,IP,69.48.229.22,n/a,https://x.com/smica83/status/2066165482424606736
 2026-06-14,tweetfeed,HASH_SHA256,26af0b30bc86ab158950a7c0dd487f0fb58e03bb02a32dffab30f61b6c7edee9,n/a,https://x.com/smica83/status/2066165482424606736
 2026-06-14,tweetfeed,IP,104.236.69.171,CobaltStrike,https://x.com/skocherhan/status/2066182570962747631
