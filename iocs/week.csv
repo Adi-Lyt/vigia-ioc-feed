@@ -3,7 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-15,threatfox,URL,http://cacywears.ga/index.php,"win.smokeloader, url",n/a
 2026-06-15,threatfox,URL,https://gnw.glamisrents.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://gnw.goturbo88.top/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://eichmnnn.icu/api/v1/status,"js.kongtuke, url",n/a
@@ -381,8 +380,70 @@ date,user,type,ioc,tags,context
 2026-06-22,threatfox,URL,https://46.224.16.213/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://46.62.226.239/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://167.233.131.186/,"win.vidar, url",n/a
-2026-06-15,threatfox,DOMAIN,amrwjltv.tarikhcheravanshenasi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,onnzlkiy.shartbandi.games,"js.clearfake, domain",n/a
+2026-06-22,threatfox,URL,https://5.75.221.125/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://91.98.109.24/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://167.233.132.8/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://triplords.in/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://ubytovani-hlohovec.cz/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://seedgoc.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://warriorsoftorah.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.andrewyoungkim.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://traillecaribbean.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://wandaspeaks.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://ushiroyama-koumuten.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://ur-schlecker.de/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://veducationservices.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://vaerdi.fr/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://thelightdevelopers.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://tienda.lapapadulce.cl/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://thesq.in/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://velazquezdrywall515.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.labormed.biz/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.luppolovers.it/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.manuelav.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.gtrecording.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://theloanbar.co/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.kotelvceneplynu.cz/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.gilles-hossepied.fr/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.fillerwholesale.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.mediamanova.se/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.inside-thebox.fr/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.estatelaw.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.jatka.org/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.egkart.co.in/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.eurohub.store/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.fithe.es/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.mistersawmill.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.erciyesenerji.com.tr/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.angryfox.it/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.comtecdev.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.animaroc.ma/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.dciinteriors.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.thetimesbusiness.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.phonerep.se/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.vlumber.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://xlxlux.com.br/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.penzionzemianskydvor.sk/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.poeles-granules-manosque.fr/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.mudanzasalcorcon.es/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.startupnewsindia.in/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.techsaeein.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.themoore-group.net/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.simbioseproxectos.gal/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://xn--72cf4ba3a3f6bcbb8a5rsa7c.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.rzeczoznawcaklama.pl/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.septondespositives.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://xn--normobariachrzstw-vyb35a.pl/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://www.spclvtflooring.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://youthfulstudio.com/,"unknown, url",n/a
+2026-06-22,threatfox,URL,https://91.98.96.126/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://91.98.105.63/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://91.98.106.140/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://95.217.244.13/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://91.98.99.76/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://91.98.100.19/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://95.217.244.189/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://65.109.246.92/,"win.vidar, url",n/a
 2026-06-15,threatfox,DOMAIN,qqpidjr.megaparikade.com,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,fcxkiekt.tasisathosseini.shop,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,bigfrogs.info,"unknown_loader, domain",n/a
@@ -1636,6 +1697,15 @@ date,user,type,ioc,tags,context
 2026-06-22,threatfox,DOMAIN,local-api-direct.r0csgo.com,"win.4h_rat, domain",n/a
 2026-06-22,threatfox,DOMAIN,cht.hitamsm188.top,"win.vidar, domain",n/a
 2026-06-22,threatfox,DOMAIN,cht.utvrent.com,"win.vidar, domain",n/a
+2026-06-22,threatfox,DOMAIN,ruffyayeaye.ddns.net,"win.remcos, domain",n/a
+2026-06-22,threatfox,DOMAIN,bonavol.com,"unknown, domain",n/a
+2026-06-22,threatfox,DOMAIN,leakads.com,"unknown, domain",n/a
+2026-06-22,threatfox,DOMAIN,animal342.duckdns.org,"win.remcos, domain",n/a
+2026-06-22,threatfox,DOMAIN,animal342bk.duckdns.org,"win.remcos, domain",n/a
+2026-06-22,threatfox,DOMAIN,megapariwin.casino,"js.clearfake, domain",n/a
+2026-06-22,threatfox,DOMAIN,fjaoi5is.megaparibet.vip,"js.clearfake, domain",n/a
+2026-06-22,threatfox,DOMAIN,megaparibet.vip,"js.clearfake, domain",n/a
+2026-06-22,darkweb_forums,URL,https://t.me/islamic_hacker_army1,"darkweb, telegram_threat_actors",commit 356c6aca / telegram_threat_actors.md
 2026-06-15,tweetfeed,URL,https://49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
 2026-06-15,tweetfeed,URL,http://49.232.4.71,"C2, CobaltStrike, malware",https://x.com/etugenio/status/2066440762737217575
 2026-06-15,tweetfeed,URL,http://ftp.tecmon.hr,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
@@ -3572,6 +3642,12 @@ date,user,type,ioc,tags,context
 2026-06-22,tweetfeed,HASH_SHA256,4ce45e016a304d813e67b29a08265b2101c2e15a09ace5de6539cad02567affe,n/a,https://x.com/nextronresearch/status/2068958596646265033
 2026-06-22,tweetfeed,IP,130.51.23.240,"C2, stealer",https://x.com/Fact_Finder03/status/2068959385792217391
 2026-06-22,tweetfeed,HASH_SHA256,fee97283b908b1d15a4a5f3d037a793f9e35072ad6244f556170722a2f2e04df,n/a,https://x.com/bomccss/status/2068964758032896087
+2026-06-22,tweetfeed,HASH_SHA256,6df13b336f3daccc29a5f24bd5824f4ae9b4d7c45ee9c9adcd7a36679ee009c5,n/a,https://x.com/GenThreatLabs/status/2068972067307811234
+2026-06-22,tweetfeed,HASH_SHA256,558dd73f708d4ea7b33fec295ac201ee5c76ba293856d8835225538c11ff208e,n/a,https://x.com/GenThreatLabs/status/2068972067307811234
+2026-06-22,tweetfeed,HASH_SHA256,9a93231038c7807c7c1376de1546cae94b6778106bb2ef115631da0991adbb91,n/a,https://x.com/GenThreatLabs/status/2068972067307811234
+2026-06-22,tweetfeed,HASH_SHA256,12335f9a1b7d3b84d2844b42f6f2ae03b70c2cc3d68e6c2dd468ee1ec6b2f3c1,n/a,https://x.com/GenThreatLabs/status/2068972067307811234
+2026-06-22,tweetfeed,HASH_SHA256,3d74a0fb447590ba7c054e6e7c6d182d145651f588aa4de8bf0972461d9652f2,n/a,https://x.com/GenThreatLabs/status/2068972067307811234
+2026-06-22,tweetfeed,IP,159.203.95.70,C2,https://x.com/Fact_Finder03/status/2068975024560894052
 2026-06-15,tweetfeed,HASH_MD5,19a8ff5982eab8056b9559e8801e83ab,"AgentTesla, malware",https://x.com/D3LabIT/status/2066444695073358160
 2026-06-15,tweetfeed,HASH_MD5,377357ee1340b2bbd546af2bb81bb25b,n/a,https://x.com/Dixit_404/status/2066447360889381254
 2026-06-15,tweetfeed,HASH_MD5,afd949746b510609714185dab7b2c1db,n/a,https://x.com/Dixit_404/status/2066447360889381254
@@ -3614,3 +3690,4 @@ date,user,type,ioc,tags,context
 2026-06-22,tweetfeed,HASH_MD5,dbfaf3b2b41b04fcf8a4cedc5933dd8f,n/a,https://x.com/tdatwja/status/2068950611849318441
 2026-06-22,tweetfeed,HASH_MD5,6730bc9c68080a4c6dcc7c14dbb1a0f4,"Android, Trojan, malware",https://x.com/ReBensk/status/2068959843638190521
 2026-06-22,tweetfeed,HASH_MD5,d72a9dd017a30a045cab8ad354b5a61d,"Android, Trojan, malware",https://x.com/ReBensk/status/2068960948942192964
+2026-06-22,tweetfeed,HASH_MD5,2a101642540c847c98df08a5b9647b40,stealer,https://x.com/suyog41/status/2068969362300793200
