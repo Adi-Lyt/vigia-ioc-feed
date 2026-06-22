@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-15,cisa_kev,CVE,CVE-2026-20262,"Cisco Catalyst SD-WAN Manager, kev","Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-29"
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-15,threatfox,URL,https://dom.glamisrents.com/,"win.vidar, url",n/a
-2026-06-15,threatfox,URL,https://dom.goturbo88.top/,"win.vidar, url",n/a
 2026-06-15,threatfox,URL,https://lbs-lamb-withdrawal-thickness.trycloudflare.com/,"unknown_loader, url",n/a
 2026-06-15,threatfox,URL,https://sharedtafel.com/Grandfest.exe,"unknown_rat, url",n/a
 2026-06-15,threatfox,URL,https://two-verif.lol/o,"js.kongtuke, url",n/a
@@ -738,14 +736,8 @@ date,user,type,ioc,tags,context
 2026-06-22,threatfox,URL,https://opa.utvrent.com/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/jjh-765/nxx-5,"js.clearfake, url",n/a
 2026-06-22,threatfox,URL,https://ext2.info/time.php,"unknown, url",n/a
-2026-06-15,threatfox,DOMAIN,rdpztlxu.maharatmodiran.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,general.activeworkshops.com,"win.remcos, domain",n/a
-2026-06-15,threatfox,DOMAIN,l3fcolra.fubet24.net,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,divaselinsajep.com,"win.deerstealer, domain",n/a
-2026-06-15,threatfox,DOMAIN,dom.goturbo88.top,"win.vidar, domain",n/a
-2026-06-15,threatfox,DOMAIN,dom.glamisrents.com,"win.vidar, domain",n/a
-2026-06-15,threatfox,DOMAIN,kulnpioc.mabanishimi.xyz,"js.clearfake, domain",n/a
-2026-06-15,threatfox,DOMAIN,32asinc.duckdns.org,"win.asyncrat, domain",n/a
+2026-06-22,threatfox,URL,https://git.hitamsm188.top/,"win.vidar, url",n/a
+2026-06-22,threatfox,URL,https://git.utvrent.com/,"win.vidar, url",n/a
 2026-06-15,threatfox,DOMAIN,aiaufdwh.masirpayambari.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,rgojzoub.masaelmohandesi.xyz,"js.clearfake, domain",n/a
 2026-06-15,threatfox,DOMAIN,bodvlnfv.masaelmohandesi.xyz,"js.clearfake, domain",n/a
@@ -2003,6 +1995,9 @@ date,user,type,ioc,tags,context
 2026-06-22,threatfox,DOMAIN,kesmn.com,"win.remcos, domain",n/a
 2026-06-22,threatfox,DOMAIN,c4cxraym.megaparicom.poker,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,megaparicom.poker,"js.clearfake, domain",n/a
+2026-06-22,threatfox,DOMAIN,git.utvrent.com,"win.vidar, domain",n/a
+2026-06-22,threatfox,DOMAIN,git.hitamsm188.top,"win.vidar, domain",n/a
+2026-06-22,threatfox,DOMAIN,pdfkade.com,"js.clearfake, domain",n/a
 2026-06-15,tweetfeed,URL,https://ghyytttdd.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2066581554889998499
 2026-06-15,tweetfeed,URL,http://172.193.180.150,"C2, Havoc, malware",https://x.com/phatomcandle/status/2066581520794649077
 2026-06-15,tweetfeed,URL,http://ptnrmat.xyz,C2,https://x.com/volrant136/status/2066542631711343042
