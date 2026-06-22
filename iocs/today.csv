@@ -21,7 +21,6 @@ date,user,type,ioc,tags,context
 2026-06-21,threatfox,URL,http://193.148.57.16/1109860002d645548e1b.php,"win.stealc, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/r4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
-2026-06-21,threatfox,DOMAIN,xfq2kf92.angizeshfarahani.store,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,justkiddin.live,"elf.mirai, domain",n/a
 2026-06-21,threatfox,DOMAIN,s3zzh7np.sigaribetkade.com,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,yezqbe5v.tarahisystem.xyz,"js.clearfake, domain",n/a
@@ -100,9 +99,6 @@ date,user,type,ioc,tags,context
 2026-06-22,threatfox,DOMAIN,303bet.bet,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,27hrchzs.megaparibet.games,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,megaparibet.games,"js.clearfake, domain",n/a
-2026-06-21,tweetfeed,URL,https://drive.google.com/uc?export=download`&id=1FA9TvcakCgfeRdLaejIJbeoFjuI9GB6R,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
-2026-06-21,tweetfeed,URL,https://lutkdd.corpsecs.com,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
-2026-06-21,tweetfeed,URL,https://link24.kr/uWNIh2,n/a,https://x.com/byrne_emmy12099/status/2068566862015946892
 2026-06-21,threatfox,HASH_SHA256,f5c6be4753d6613c97f1b10c4d93a5d97a8f4fb21eb13da0ed04b23a8a61c2f6,"js.beavertail, sha256_hash",n/a
 2026-06-21,threatfox,HASH_SHA256,7520924e8d680263216a8eae31e6e2fc4424024ab61d7eb1503b663cb82811d2,"js.beavertail, sha256_hash",n/a
 2026-06-21,threatfox,HASH_SHA256,c2bf4f7f74b80ed3d57473ba9e897fe5b8991e38a99343a46e0f8032e53a4ba7,"js.beavertail, sha256_hash",n/a
@@ -399,6 +395,9 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,URL,http://statifile.sbs,n/a,https://x.com/500mk500/status/2068775472205275468
 2026-06-21,tweetfeed,URL,http://stfile-ox.sbs,n/a,https://x.com/500mk500/status/2068775472205275468
 2026-06-22,tweetfeed,URL,http://sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid.onion,ransomware,https://x.com/fbgwls245/status/2068901304731308205
+2026-06-22,tweetfeed,URL,https://vy.ijnggpi.com/ftx/,phishing,https://x.com/patialavii/status/2068919332126835122
+2026-06-22,tweetfeed,URL,https://web-g63lkz.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2068919332126835122
+2026-06-22,tweetfeed,URL,https://line.me.ja.geraiqawti.com,phishing,https://x.com/masaomi346/status/2068928510304133140
 2026-06-21,tweetfeed,DOMAIN,khoancatbetong89.vn,phishing,https://x.com/patialavii/status/2068552176872653239
 2026-06-21,tweetfeed,DOMAIN,coin-team.com,scam,https://x.com/Cheekyfreaq/status/2068610975486394867
 2026-06-21,tweetfeed,DOMAIN,aqrl-trade.com,scam,https://x.com/emibolu199/status/2068614459543671154
@@ -473,8 +472,9 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,DOMAIN,statifile.sbs,n/a,https://x.com/500mk500/status/2068775472205275468
 2026-06-21,tweetfeed,DOMAIN,stfile-ox.sbs,n/a,https://x.com/500mk500/status/2068775472205275468
 2026-06-22,tweetfeed,DOMAIN,sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid.onion,ransomware,https://x.com/fbgwls245/status/2068901304731308205
-2026-06-21,tweetfeed,HASH_SHA256,aeb972af2b685115c16acde4689c39bb3ac892438b0f131369fe3e661a7d0586,"APT, Kimsuky",https://x.com/byrne_emmy12099/status/2068564471996645857
-2026-06-21,tweetfeed,HASH_SHA256,bff0c109b341cad0cf9130b7c5e3380b31d96381170d092b5e02886fac95f14d,n/a,https://x.com/byrne_emmy12099/status/2068566862015946892
+2026-06-22,tweetfeed,DOMAIN,vy.ijnggpi.com,phishing,https://x.com/patialavii/status/2068919332126835122
+2026-06-22,tweetfeed,DOMAIN,web-g63lkz.screenconnect.com,phishing,https://x.com/patialavii/status/2068919332126835122
+2026-06-22,tweetfeed,DOMAIN,line.me.ja.geraiqawti.com,phishing,https://x.com/masaomi346/status/2068928510304133140
 2026-06-21,tweetfeed,HASH_SHA256,d12af789ffa55828debceb3cd888f2794f5ee3165ed4f8973da103e7638f6136,phishing,https://x.com/patialavii/status/2068552176872653239
 2026-06-21,tweetfeed,HASH_SHA256,6335589e1c41d306998b9cf265ee25739afcf25e0dd0ad1c28c74dc45cd3cd7a,phishing,https://x.com/skocherhan/status/2068609791312666788
 2026-06-21,tweetfeed,HASH_SHA256,2b33df7907355444e551355ad0c4aa6f789cf1e3755f43295c4bbf2de02f7eed,n/a,https://x.com/smica83/status/2068628502660677962
@@ -486,6 +486,7 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,IP,154.31.217.203,"APT, malware",https://x.com/phatomcandle/status/2068755847854072238
 2026-06-21,tweetfeed,IP,31.59.121.53,phishing,https://x.com/PhishStats/status/2068766108547469742
 2026-06-21,tweetfeed,HASH_SHA256,28f58061348a1c54fa6e7ff6618630259618d4afdf78514d5fccfc993797cdff,n/a,https://x.com/smica83/status/2068778401582735716
+2026-06-22,tweetfeed,HASH_SHA256,a30a9779079dc897a15fed27f27f614fab77a20e953368808ba99ac6c6a3375b,phishing,https://x.com/patialavii/status/2068919332126835122
 2026-06-21,tweetfeed,HASH_MD5,d5409fb88571901f90be82f69d48b50d,n/a,https://x.com/skocherhan/status/2068603414351622524
 2026-06-21,tweetfeed,HASH_MD5,f67b92fd8e324343e1ac281c71cd211a,n/a,https://x.com/skocherhan/status/2068604023519711688
 2026-06-21,tweetfeed,HASH_MD5,793b3ce102de4ff8144793786efd1f1b,n/a,https://x.com/500mk500/status/2068432875670630830
