@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-16,threatfox,URL,https://coralmanor.top/token/scope-request,"js.smartapesg, url",n/a
-2026-06-16,threatfox,URL,https://coralmanor.top/token/signin-schema.js,"js.smartapesg, url",n/a
 2026-06-16,threatfox,URL,https://treviro.icu/file.js,"js.kongtuke, url",n/a
 2026-06-16,threatfox,URL,https://treviro.icu/api/v1/session,"js.kongtuke, url",n/a
 2026-06-16,threatfox,URL,https://treviro.icu/api/v1/verify,"js.kongtuke, url",n/a
@@ -741,20 +739,11 @@ date,user,type,ioc,tags,context
 2026-06-23,threatfox,URL,http://losslvs.surf:7802,"win.remus, url",n/a
 2026-06-23,threatfox,URL,http://62.60.226.159/post.php,"unknown_loader, url",n/a
 2026-06-23,threatfox,URL,http://62.60.226.159/debug.php,"unknown_loader, url",n/a
-2026-06-16,threatfox,DOMAIN,oisapmtg.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
-2026-06-16,threatfox,DOMAIN,animal-zoo-lake.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,ocean-animals.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,park-lake.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,coralmanor.top,"js.smartapesg, domain",n/a
-2026-06-16,threatfox,DOMAIN,bluyswow.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,bluyterm.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,getmorphy.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,xeno.projectryos.com,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,littletonlawnpro.com,"win.remus, domain",n/a
-2026-06-16,threatfox,DOMAIN,crimsonhub.cc,"unknown, domain",n/a
-2026-06-16,threatfox,DOMAIN,hatbusiness.xyz,"unknown_loader, domain",n/a
-2026-06-16,threatfox,DOMAIN,vodzlbpi.sanjeshravani.shop,"js.clearfake, domain",n/a
-2026-06-16,threatfox,DOMAIN,dnsduc1k.duckdns.org,"elf.mirai, domain",n/a
+2026-06-23,threatfox,URL,http://202.70.139.77:44049/Mozi.m,"elf.mozi, url",n/a
+2026-06-23,threatfox,URL,http://101.53.224.211:42723/Mozi.m,"elf.mozi, url",n/a
+2026-06-23,threatfox,URL,https://cobaltmeadow.top/profile/logout-state.js,"js.smartapesg, url",n/a
+2026-06-23,threatfox,URL,https://cobaltmeadow.top/profile/callback-schema.js,"js.smartapesg, url",n/a
+2026-06-23,threatfox,URL,https://cobaltmeadow.top/profile/private-sessionstore,"js.smartapesg, url",n/a
 2026-06-16,threatfox,DOMAIN,vue0sabv.vanatarsim.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,3hjfke61.usoleamoozesh.xyz,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,pgfor.bookdrive.xyz,"js.clearfake, domain",n/a
@@ -1980,8 +1969,8 @@ date,user,type,ioc,tags,context
 2026-06-23,threatfox,DOMAIN,claudesave.beer,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,2b4zfudu.ekhtelalat.xyz,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,ekhtelalat.xyz,"js.clearfake, domain",n/a
-2026-06-16,tweetfeed,URL,http://123plochki.online,phishing,https://x.com/Malwarehunterr/status/2066805235973226548
-2026-06-16,tweetfeed,URL,http://securedoc.labsuface.com,phishing,https://x.com/Malwarehunterr/status/2066805235973226548
+2026-06-23,threatfox,DOMAIN,l2ekym1s.megaparivip.vip,"js.clearfake, domain",n/a
+2026-06-23,threatfox,DOMAIN,cobaltmeadow.top,"js.smartapesg, domain",n/a
 2026-06-16,tweetfeed,URL,https://bestwindowconnect.duckdns.org/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,n/a,https://x.com/smica83/status/2066849246419013636
 2026-06-16,tweetfeed,URL,https://www.dropbox.com/scl/fi/hxmxguulpmlvz17c1pbg2/f1040.pdf?rlkey=6z5nqcztouxxznvjw583avcpf&st=ut6ymohq&dl=1,n/a,https://x.com/smica83/status/2066849246419013636
 2026-06-16,tweetfeed,URL,http://nyx8.net,n/a,https://x.com/smica83/status/2066851379050639686
@@ -2986,8 +2975,14 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,URL,http://185.103.166.93,n/a,https://x.com/smica83/status/2069378217950003416
 2026-06-23,tweetfeed,URL,http://123.5.149.113:43394/Mozi.m,n/a,https://x.com/sicehice/status/2069380657063629232
 2026-06-23,tweetfeed,URL,http://4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion,ransomware,https://x.com/fbgwls245/status/2069382800034386169
-2026-06-16,tweetfeed,DOMAIN,123plochki.online,phishing,https://x.com/Malwarehunterr/status/2066805235973226548
-2026-06-16,tweetfeed,DOMAIN,securedoc.labsuface.com,phishing,https://x.com/Malwarehunterr/status/2066805235973226548
+2026-06-23,tweetfeed,URL,http://resources.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,URL,http://drive.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,URL,http://concreteinportland.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,URL,http://31.77.189.40/kr4gg/franticsum.ps1,n/a,https://x.com/smica83/status/2069393150846677175
+2026-06-23,tweetfeed,URL,http://177.7.55.165:8080/14157.pdf,n/a,https://x.com/smica83/status/2069394918821277731
+2026-06-23,tweetfeed,URL,https://pub-2713864bea73468a9e2593854c0ff930.r2.dev/ScreenConnect.ClientSetup.msi,n/a,https://x.com/smica83/status/2069395849822511289
+2026-06-23,tweetfeed,URL,https://pastebin.com/raw/BzSAksuQ,n/a,https://x.com/smica83/status/2069395849822511289
+2026-06-23,tweetfeed,URL,https://pub-bc53cbce38554885bbcc4c38018e43b8.r2.dev/Hiring_Test_02.pdf,n/a,https://x.com/smica83/status/2069395849822511289
 2026-06-16,tweetfeed,DOMAIN,bestwindowconnect.duckdns.org,n/a,https://x.com/smica83/status/2066849246419013636
 2026-06-16,tweetfeed,DOMAIN,nyx8.net,n/a,https://x.com/smica83/status/2066851379050639686
 2026-06-16,tweetfeed,DOMAIN,3gunit.com,n/a,https://x.com/smica83/status/2066851379050639686
@@ -3630,6 +3625,11 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,DOMAIN,ins0mnia.ru,n/a,https://x.com/suyog41/status/2069339491094126652
 2026-06-23,tweetfeed,DOMAIN,cloud-stat.co,Magecart,https://x.com/sdcyberresearch/status/2069369647275671619
 2026-06-23,tweetfeed,DOMAIN,4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion,ransomware,https://x.com/fbgwls245/status/2069382800034386169
+2026-06-23,tweetfeed,DOMAIN,resources.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,DOMAIN,drive.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,DOMAIN,concreteinportland.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,DOMAIN,pub-2713864bea73468a9e2593854c0ff930.r2.dev,n/a,https://x.com/smica83/status/2069395849822511289
+2026-06-23,tweetfeed,DOMAIN,pub-bc53cbce38554885bbcc4c38018e43b8.r2.dev,n/a,https://x.com/smica83/status/2069395849822511289
 2026-06-16,tweetfeed,HASH_SHA256,5f3ad7b06e19a4bd5bdb522cd41ca313b0c89c0840cdefa75639231a81e4c8bc,n/a,https://x.com/smica83/status/2066849246419013636
 2026-06-16,tweetfeed,HASH_SHA256,96cd16eb3bb1797f3d9357ae221c6b3626c0a7ce2716f2904d121b8ddad91c05,n/a,https://x.com/smica83/status/2066851379050639686
 2026-06-16,tweetfeed,IP,107.172.235.213,"Remcos, opendir",https://x.com/James_inthe_box/status/2066858073566912893
@@ -3893,6 +3893,14 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,HASH_SHA256,fcd0615378546a7f70b2a81cd83cd1da2bbc0595c75869c7b42956bd69d0015a,n/a,https://x.com/smica83/status/2069378217950003416
 2026-06-23,tweetfeed,IP,123.5.149.113,n/a,https://x.com/sicehice/status/2069380657063629232
 2026-06-23,tweetfeed,IP,124.198.132.148,C2,https://x.com/Fact_Finder03/status/2069385227563061298
+2026-06-23,tweetfeed,HASH_SHA256,4ae372fda262327e446eec6a444ffb29b6e8a7f04336412356a979ee8181bcb5,n/a,https://x.com/smica83/status/2069392158449107290
+2026-06-23,tweetfeed,HASH_SHA256,42433b147937ac7a092aefecbd9981b3f7d7c6d0f58d548787c5f93978ee48f6,n/a,https://x.com/smica83/status/2069392158449107290
+2026-06-23,tweetfeed,IP,31.77.189.40,n/a,https://x.com/smica83/status/2069393150846677175
+2026-06-23,tweetfeed,HASH_SHA256,f304a0e7382b34bb3e60e470982356f74b928c9de3c6faf8968dc738fe753b99,n/a,https://x.com/smica83/status/2069393150846677175
+2026-06-23,tweetfeed,IP,213.139.77.109,C2,https://x.com/Fact_Finder03/status/2069393532410810434
+2026-06-23,tweetfeed,IP,177.7.55.165,n/a,https://x.com/smica83/status/2069394918821277731
+2026-06-23,tweetfeed,HASH_SHA256,02b252a4f8d7f7a5fb3d28a2c10e9be6a81efc00b09991d540aa21b0c4cdbd84,n/a,https://x.com/smica83/status/2069394918821277731
+2026-06-23,tweetfeed,HASH_SHA256,7c684801d0b1aa9d09f82bbeba02fe8953a728336e3a2453f49df122702dec7a,n/a,https://x.com/smica83/status/2069395849822511289
 2026-06-16,tweetfeed,HASH_MD5,b6086458973d7d41ca131a4b24840fa0,ransomware,https://x.com/siri_urz/status/2066852748126003680
 2026-06-16,tweetfeed,HASH_MD5,8838df7298abf4d4312648e2ee80bdee,APT,https://x.com/askardyuss/status/2066859258130665974
 2026-06-16,tweetfeed,HASH_MD5,c0aca5dfbbfcb1c9796b3d974b1ee78b,APT,https://x.com/askardyuss/status/2066859258130665974
@@ -3935,3 +3943,7 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,HASH_MD5,1d38e0d5e95f9887c118b44843cbbe20,infostealer,https://x.com/sicehice/status/2069244999523352746
 2026-06-23,tweetfeed,HASH_MD5,64f2681ad0940e6c2c9c76e6834117bf,APT,https://x.com/suyog41/status/2069306035496776105
 2026-06-23,tweetfeed,HASH_MD5,5caeef29faf5ee266fc05c72fefbfd71,n/a,https://x.com/suyog41/status/2069339491094126652
+2026-06-23,tweetfeed,HASH_MD5,b791c416988d068a3e548a0f21cd3518,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,HASH_MD5,c836a6bbe16354a21ee688e3eeb32d86,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,HASH_MD5,e70a5908e5eaee1bcd15eef82b1bcfdd,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
+2026-06-23,tweetfeed,HASH_MD5,adb67ffe941a706b6343f94413f6e5f2,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
