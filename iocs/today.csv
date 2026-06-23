@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-22,threatfox,URL,https://git.hitamsm188.top/,"win.vidar, url",n/a
-2026-06-22,threatfox,URL,https://git.utvrent.com/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://paz.hitamsm188.top/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://paz.utvrent.com/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://mascotfreights.com/,"unknown, url",n/a
@@ -53,9 +51,6 @@ date,user,type,ioc,tags,context
 2026-06-23,threatfox,URL,https://secondv.lol/o,"js.kongtuke, url",n/a
 2026-06-23,threatfox,URL,https://spc.esteghlal.news/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://spc.holidaysm188.top/,"win.vidar, url",n/a
-2026-06-22,threatfox,DOMAIN,git.utvrent.com,"win.vidar, domain",n/a
-2026-06-22,threatfox,DOMAIN,git.hitamsm188.top,"win.vidar, domain",n/a
-2026-06-22,threatfox,DOMAIN,pdfkade.com,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,one1xbetfa.com,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,megaparivip.com,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,xbf6th7x.megaparicom.poker,"js.clearfake, domain",n/a
