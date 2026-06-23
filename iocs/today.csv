@@ -137,6 +137,7 @@ date,user,type,ioc,tags,context
 2026-06-23,threatfox,DOMAIN,spc.holidaysm188.top,"win.vidar, domain",n/a
 2026-06-23,threatfox,DOMAIN,spc.esteghlal.news,"win.vidar, domain",n/a
 2026-06-23,threatfox,DOMAIN,haqoakt0.elmolnafs.xyz,"js.clearfake, domain",n/a
+2026-06-23,threatfox,DOMAIN,engelabeslami.xyz,"js.clearfake, domain",n/a
 2026-06-22,tweetfeed,URL,http://107.175.85.215,"APT, malware",https://x.com/skocherhan/status/2069121978460516646
 2026-06-22,tweetfeed,URL,https://questealer.world,n/a,https://x.com/skocherhan/status/2069123336903221526
 2026-06-22,tweetfeed,URL,https://questealer.world/app.js,n/a,https://x.com/skocherhan/status/2069123336903221526
@@ -214,6 +215,7 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,URL,https://store1.gofile.io/download/direct/20727213-cc78-4288-9ff8-7822f47602b8/backup146_6VBKQ14u.zip,n/a,https://x.com/smica83/status/2069425426049479070
 2026-06-23,threatfox,HASH_SHA256,000122bb86e71548cc16dd4c4f5bb6c8fdf548a098d1bd591ee10f1bc17f9883,"unknown, sha256_hash",n/a
 2026-06-23,threatfox,HASH_SHA256,0c5f1770ba4495fb3be0e3abd522a7b0685cb375e33acf5c42fde6cba0513c41,"unknown, sha256_hash",n/a
+2026-06-23,tweetfeed,URL,http://159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
 2026-06-22,tweetfeed,DOMAIN,questealer.world,n/a,https://x.com/skocherhan/status/2069123336903221526
 2026-06-22,tweetfeed,DOMAIN,get-service.store,n/a,https://x.com/malwrhunterteam/status/2069160888733462773
 2026-06-22,tweetfeed,DOMAIN,yourpayrollsuccess.com,n/a,https://x.com/smica83/status/2069201148024656316
@@ -300,6 +302,9 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,IP,104.194.153.144,n/a,https://x.com/malwrhunterteam/status/2069411902774472896
 2026-06-23,tweetfeed,HASH_SHA256,16a4fc7ddaa1ebd0d8604b04cf5a02168e89c5ff646c6a53fea5cfe9ceea7156,n/a,https://x.com/smica83/status/2069422213803979146
 2026-06-23,tweetfeed,HASH_SHA256,366cea7e24a56f592c284ddc88a8d7a0ce64eddfd5be2f35616fad947c073197,n/a,https://x.com/smica83/status/2069425426049479070
+2026-06-23,tweetfeed,IP,144.172.103.98,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
+2026-06-23,tweetfeed,IP,98.103.172.144,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
+2026-06-23,tweetfeed,IP,159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
 2026-06-22,tweetfeed,HASH_MD5,f72b1a333fa28b133df6476561142d6a,n/a,https://x.com/Threatlabz/status/2069190345418854810
 2026-06-22,tweetfeed,HASH_MD5,61d25684e6f42e386f40ee60f5c54dca,n/a,https://x.com/Threatlabz/status/2069190345418854810
 2026-06-23,tweetfeed,HASH_MD5,e766ecdf7cb2569f55b62b3a63b1a512,n/a,https://x.com/sicehice/status/2069226526357295256
