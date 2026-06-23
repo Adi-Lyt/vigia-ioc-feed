@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-16,cisa_kev,CVE,CVE-2026-48907,"Widget Factory Joomla Content Editor, kev","Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-19"
 2026-06-18,cisa_kev,CVE,CVE-2026-20253,"Splunk Enterprise, kev","Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-21"
-2026-06-16,threatfox,URL,https://coquinalawgroup.com/,"win.vidar, url",n/a
 2026-06-16,threatfox,URL,https://speed-optimizer.com/scripts/core.min.js,"js.fakeupdates, url",n/a
 2026-06-16,threatfox,URL,https://smenapodik.bond/,"unknown, url",n/a
 2026-06-16,threatfox,URL,http://66.94.119.99/Lsge63sd3/index.php,"win.amadey, url",n/a
@@ -726,8 +725,6 @@ date,user,type,ioc,tags,context
 2026-06-22,threatfox,URL,https://git.utvrent.com/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://paz.hitamsm188.top/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://paz.utvrent.com/,"win.vidar, url",n/a
-2026-06-16,threatfox,DOMAIN,82a3dcwt.sazehayefooladi.xyz,"js.clearfake, domain",n/a
-2026-06-16,threatfox,DOMAIN,vtulyasw.leaguejazire.com,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,mnzrz.azmoonzare.online,"js.clearfake, domain",n/a
 2026-06-16,threatfox,DOMAIN,speed-optimizer.com,"js.fakeupdates, domain",n/a
 2026-06-16,threatfox,DOMAIN,zejlnzmy.maharatmodiran.xyz,"js.clearfake, domain",n/a
@@ -2968,6 +2965,9 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,URL,https://buddhaindustries.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2069266167366082768
 2026-06-23,tweetfeed,URL,https://greatdtech.one/base/celebrate.html,phishing,https://x.com/patialavii/status/2069267727487996107
 2026-06-23,tweetfeed,URL,https://greatdtech.one/base/enviteme.zip,phishing,https://x.com/patialavii/status/2069267727487996107
+2026-06-23,tweetfeed,URL,https://www.365haodeng.com/home,phishing,https://x.com/Metemcyber/status/2069292486611366213
+2026-06-23,tweetfeed,URL,http://172.67.137.188,phishing,https://x.com/Metemcyber/status/2069292486611366213
+2026-06-23,tweetfeed,URL,http://104.21.54.96,phishing,https://x.com/Metemcyber/status/2069292486611366213
 2026-06-16,tweetfeed,DOMAIN,americanmovingco.org,phishing,https://x.com/patialavii/status/2066760824329552126
 2026-06-16,tweetfeed,DOMAIN,pub-39d6d02a847540d9bc106700b94cb04d.r2.dev,phishing,https://x.com/patialavii/status/2066760824329552126
 2026-06-16,tweetfeed,DOMAIN,dmwmztgi.nynrfba.cn,phishing,https://x.com/Metemcyber/status/2066762709815951504
@@ -3626,6 +3626,7 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,DOMAIN,seagateinternational.com,phishing,https://x.com/patialavii/status/2069266167366082768
 2026-06-23,tweetfeed,DOMAIN,buddhaindustries.screenconnect.com,phishing,https://x.com/patialavii/status/2069266167366082768
 2026-06-23,tweetfeed,DOMAIN,greatdtech.one,phishing,https://x.com/patialavii/status/2069267727487996107
+2026-06-23,tweetfeed,DOMAIN,365haodeng.com,phishing,https://x.com/Metemcyber/status/2069292486611366213
 2026-06-16,tweetfeed,IP,157.173.203.13,C2,https://x.com/Fact_Finder03/status/2066761141737697504
 2026-06-16,tweetfeed,HASH_SHA256,4caa11e13fda944c15a31b550fd2789feca7372ed872053829ffd335d2f7f9dc,phishing,https://x.com/patialavii/status/2066764830825230375
 2026-06-16,tweetfeed,HASH_SHA256,6d15ac1d471e8be4a823c7728d7d82fdb98e57827fae880c585a81de56b390cc,phishing,https://x.com/patialavii/status/2066769796876878059
