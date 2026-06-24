@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-17,threatfox,URL,https://zab.rzrrent.com/,"win.vidar, url",n/a
 2026-06-17,threatfox,URL,https://zab.hanyasm188.top/,"win.vidar, url",n/a
 2026-06-17,threatfox,URL,https://recreio.pet/,"unknown, url",n/a
 2026-06-17,threatfox,URL,https://scripterx.com/,"unknown, url",n/a
@@ -751,9 +750,6 @@ date,user,type,ioc,tags,context
 2026-06-23,threatfox,URL,https://spc.esteghlal.news/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://spc.holidaysm188.top/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://cdn.jsdelivr.net/gh/louis-mellor/2d-aee4-1433332c1@main/f5,"js.clearfake, url",n/a
-2026-06-17,threatfox,DOMAIN,zab.rzrrent.com,"win.vidar, domain",n/a
-2026-06-17,threatfox,DOMAIN,ghcruhhs.sanjeshvaandazegiri.shop,"js.clearfake, domain",n/a
-2026-06-17,threatfox,DOMAIN,ia9opth7.hugugtatbigi.xyz,"js.clearfake, domain",n/a
 2026-06-17,threatfox,DOMAIN,xsr8ggtp.riyaziatumumi.xyz,"js.clearfake, domain",n/a
 2026-06-17,threatfox,DOMAIN,riyaziatumumi.xyz,"js.clearfake, domain",n/a
 2026-06-17,threatfox,DOMAIN,gidptxnf.shartbandi.games,"js.clearfake, domain",n/a
@@ -3812,6 +3808,7 @@ date,user,type,ioc,tags,context
 2026-06-23,tweetfeed,IP,172.168.168.119,n/a,https://x.com/sicehice/status/2069501201205375082
 2026-06-23,tweetfeed,IP,156.192.207.235,Njrat,https://x.com/skocherhan/status/2069545525834125771
 2026-06-23,tweetfeed,IP,94.26.3.45,n/a,https://x.com/skocherhan/status/2069548905155473445
+2026-06-24,tweetfeed,HASH_SHA256,dcc7c52c852b33dad3427ced4bc7fe1cadc2cb202a1e23b8907f63693ed67973,"malware, phishing",https://x.com/masaomi346/status/2069579922830672236
 2026-06-17,tweetfeed,HASH_MD5,85c1f3ccbfad1126ef14b372ba38cbf8,"C2, Dcrat, malware",https://x.com/etugenio/status/2067154914455732287
 2026-06-17,tweetfeed,HASH_MD5,3dec4ac0f967baf21748c3dbcd22d5fc,n/a,https://x.com/sicehice/status/2067203813434405215
 2026-06-17,tweetfeed,HASH_MD5,d76f5631d55f301608ca14b38d282e02,n/a,https://x.com/sicehice/status/2067204065046438371
