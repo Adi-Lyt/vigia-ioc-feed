@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-23,threatfox,URL,https://spc.esteghlal.news/,"win.vidar, url",n/a
-2026-06-23,threatfox,URL,https://spc.holidaysm188.top/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://cdn.jsdelivr.net/gh/louis-mellor/2d-aee4-1433332c1@main/f5,"js.clearfake, url",n/a
 2026-06-24,threatfox,URL,https://lib.esteghlal.news/,"win.vidar, url",n/a
 2026-06-24,threatfox,URL,https://lib.holidaysm188.top/,"win.vidar, url",n/a
@@ -93,9 +91,8 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,URL,https://westmillsbritishschool.org/,"unknown, url",n/a
 2026-06-24,threatfox,URL,https://yesproperties.com.ng/,"unknown, url",n/a
 2026-06-24,threatfox,URL,https://tommy-v.lol/o,"js.kongtuke, url",n/a
-2026-06-23,threatfox,DOMAIN,spc.holidaysm188.top,"win.vidar, domain",n/a
-2026-06-23,threatfox,DOMAIN,spc.esteghlal.news,"win.vidar, domain",n/a
-2026-06-23,threatfox,DOMAIN,haqoakt0.elmolnafs.xyz,"js.clearfake, domain",n/a
+2026-06-24,threatfox,URL,https://ghr.esteghlal.news/,"win.vidar, url",n/a
+2026-06-24,threatfox,URL,https://ghr.holidaysm188.top/,"win.vidar, url",n/a
 2026-06-23,threatfox,DOMAIN,engelabeslami.xyz,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,s7w5r3s2.onebet1x.com,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,69xb4m1d.betmajic.cc,"js.clearfake, domain",n/a
@@ -282,6 +279,12 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,DOMAIN,ex-web.viottoenterprises.com,"js.fakeupdates, domain",n/a
 2026-06-24,threatfox,DOMAIN,tommy-v.lol,"js.kongtuke, domain",n/a
 2026-06-24,threatfox,DOMAIN,finger.claudenell.net,"js.clearfake, domain",n/a
+2026-06-24,threatfox,DOMAIN,online-blackjack-j.info,"js.clearfake, domain",n/a
+2026-06-24,threatfox,DOMAIN,ghr.holidaysm188.top,"win.vidar, domain",n/a
+2026-06-24,threatfox,DOMAIN,ghr.esteghlal.news,"win.vidar, domain",n/a
+2026-06-24,threatfox,DOMAIN,hbcq8sv3.oghabbet1.com,"js.clearfake, domain",n/a
+2026-06-24,threatfox,DOMAIN,oghabbet1.com,"js.clearfake, domain",n/a
+2026-06-24,threatfox,DOMAIN,4o63jpbm.ekhtelalat.xyz,"js.clearfake, domain",n/a
 2026-06-23,tweetfeed,URL,http://159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
 2026-06-23,threatfox,HASH_SHA256,1188d1f47cfc3797e1eb004e531b11b7a191a21475d97226dfa607db380b650b,"win.stealc, sha256_hash",n/a
 2026-06-23,threatfox,HASH_SHA256,33166e17fdb736cdfbe304002b081db17069618d5110e30b3a01d9086d5e1273,"win.stealc, sha256_hash",n/a
