@@ -3,11 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-23,threatfox,URL,https://ibharcan.com/q,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/callback-schema.js,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/private-sessionstore,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/logout-state.js,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://huu.esteghlal.news/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://gileert.xyz/file.js,"js.kongtuke, url",n/a
 2026-06-23,threatfox,URL,https://gileert.xyz/api/v1/session,"js.kongtuke, url",n/a
 2026-06-23,threatfox,URL,https://gileert.xyz/api/v1/verify,"js.kongtuke, url",n/a
@@ -55,12 +50,6 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,URL,http://kereta-tinted.com:8893,"win.remus, url",n/a
 2026-06-24,threatfox,URL,https://psh.esteghlal.news/,"win.vidar, url",n/a
 2026-06-24,threatfox,URL,https://psh.holidaysm188.top/,"win.vidar, url",n/a
-2026-06-23,threatfox,DOMAIN,one1xbet.win,"js.clearfake, domain",n/a
-2026-06-23,threatfox,DOMAIN,ibharcan.com,"js.smartapesg, domain",n/a
-2026-06-23,threatfox,DOMAIN,velvetcrossing.top,"js.smartapesg, domain",n/a
-2026-06-23,threatfox,DOMAIN,consumer.fsia.net,"js.fakeupdates, domain",n/a
-2026-06-23,threatfox,DOMAIN,b.360ctct.com,"win.valley_rat, domain",n/a
-2026-06-23,threatfox,DOMAIN,huu.esteghlal.news,"win.vidar, domain",n/a
 2026-06-23,threatfox,DOMAIN,newpopularimages.com,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,gileert.xyz,"js.kongtuke, domain",n/a
 2026-06-23,threatfox,DOMAIN,secondv.lol,"js.kongtuke, domain",n/a
@@ -243,9 +232,6 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,DOMAIN,zistzirezarebin.shop,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,psh.holidaysm188.top,"win.vidar, domain",n/a
 2026-06-24,threatfox,DOMAIN,psh.esteghlal.news,"win.vidar, domain",n/a
-2026-06-23,tweetfeed,URL,http://104.194.153.144,n/a,https://x.com/malwrhunterteam/status/2069411902774472896
-2026-06-23,tweetfeed,URL,http://Btc01.org,scam,https://x.com/TheEquitiesRoom/status/2069415383686066595
-2026-06-23,tweetfeed,URL,https://store1.gofile.io/download/direct/20727213-cc78-4288-9ff8-7822f47602b8/backup146_6VBKQ14u.zip,n/a,https://x.com/smica83/status/2069425426049479070
 2026-06-23,threatfox,HASH_SHA256,000122bb86e71548cc16dd4c4f5bb6c8fdf548a098d1bd591ee10f1bc17f9883,"unknown, sha256_hash",n/a
 2026-06-23,threatfox,HASH_SHA256,0c5f1770ba4495fb3be0e3abd522a7b0685cb375e33acf5c42fde6cba0513c41,"unknown, sha256_hash",n/a
 2026-06-23,tweetfeed,URL,http://159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
@@ -401,8 +387,7 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,URL,http://sbaritairunthaservice.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
 2026-06-24,tweetfeed,URL,http://upreio-group.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
 2026-06-24,tweetfeed,URL,http://btc204.com,phishing,https://x.com/skocherhan/status/2069772780623560930
-2026-06-23,tweetfeed,DOMAIN,Btc01.org,scam,https://x.com/TheEquitiesRoom/status/2069415383686066595
-2026-06-23,tweetfeed,DOMAIN,store1.gofile.io,n/a,https://x.com/smica83/status/2069425426049479070
+2026-06-24,tweetfeed,URL,https://www.kongztoken.live,phishing,https://x.com/PhishStats/status/2069780976931152204
 2026-06-23,threatfox,HASH_MD5,79187195d75a83469f94d84887157251,"win.stealc, md5_hash",n/a
 2026-06-23,threatfox,HASH_MD5,87c61136236dbb9ab635e379d866fe49,"win.stealc, md5_hash",n/a
 2026-06-23,threatfox,HASH_MD5,d2b4cb1d964d01bce7246acb289f2a23,"win.stealc, md5_hash",n/a
@@ -531,9 +516,7 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,DOMAIN,sbaritairunthaservice.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
 2026-06-24,tweetfeed,DOMAIN,upreio-group.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
 2026-06-24,tweetfeed,DOMAIN,btc204.com,phishing,https://x.com/skocherhan/status/2069772780623560930
-2026-06-23,tweetfeed,IP,104.194.153.144,n/a,https://x.com/malwrhunterteam/status/2069411902774472896
-2026-06-23,tweetfeed,HASH_SHA256,16a4fc7ddaa1ebd0d8604b04cf5a02168e89c5ff646c6a53fea5cfe9ceea7156,n/a,https://x.com/smica83/status/2069422213803979146
-2026-06-23,tweetfeed,HASH_SHA256,366cea7e24a56f592c284ddc88a8d7a0ce64eddfd5be2f35616fad947c073197,n/a,https://x.com/smica83/status/2069425426049479070
+2026-06-24,tweetfeed,DOMAIN,kongztoken.live,phishing,https://x.com/PhishStats/status/2069780976931152204
 2026-06-23,tweetfeed,IP,144.172.103.98,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
 2026-06-23,tweetfeed,IP,98.103.172.144,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
 2026-06-23,tweetfeed,IP,159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
@@ -573,6 +556,7 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,IP,163.129.78.5,C2,https://x.com/Fact_Finder03/status/2069753335092306170
 2026-06-24,tweetfeed,HASH_SHA256,0c0b11ee7dbb47097c677d5dac0c1030fd08b4bf9393fafb2e053af1ab4b8601,n/a,https://x.com/smica83/status/2069754619673068016
 2026-06-24,tweetfeed,HASH_SHA256,cd5a2e5352fddb3e46c36fe52ce460e3fbcf79a26b5421509f4a9a4a4fbd7c0e,n/a,https://x.com/smica83/status/2069765620057424322
+2026-06-24,tweetfeed,IP,216.198.79.1,phishing,https://x.com/PhishStats/status/2069780976931152204
 2026-06-23,tweetfeed,HASH_MD5,dddbda3b9463e5ba85802c12437e7cb0,Njrat,https://x.com/skocherhan/status/2069545525834125771
 2026-06-24,tweetfeed,HASH_MD5,095cce55438d772b24838f68e02805d0,"Android, Trojan, malware",https://x.com/ReBensk/status/2069674547054629264
 2026-06-24,tweetfeed,HASH_MD5,9038dc1997549084cd07394a146037e7,"Android, Trojan, malware",https://x.com/ReBensk/status/2069675449194873253
