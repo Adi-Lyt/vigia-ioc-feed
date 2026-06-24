@@ -3,10 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-23,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41vf67-74j/forw-74,"js.clearfake, url",n/a
-2026-06-23,threatfox,URL,http://62.60.226.159/api.php,"unknown, url",n/a
-2026-06-23,threatfox,URL,https://www.kozijnenmaster.nl/,"unknown, url",n/a
-2026-06-23,threatfox,URL,https://emergsol.com/,"unknown, url",n/a
 2026-06-23,threatfox,URL,http://losslvs.surf:7802,"win.remus, url",n/a
 2026-06-23,threatfox,URL,http://62.60.226.159/post.php,"unknown_loader, url",n/a
 2026-06-23,threatfox,URL,http://62.60.226.159/debug.php,"unknown_loader, url",n/a
@@ -55,13 +51,10 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,URL,http://8.217.17.75:2000/ml,"elf.mirai, url",n/a
 2026-06-24,threatfox,URL,http://153.117.33.214:54146/Mozi.m,"elf.mozi, url",n/a
 2026-06-24,threatfox,URL,http://103.66.148.82:35099/Mozi.m,"elf.mozi, url",n/a
-2026-06-23,threatfox,DOMAIN,ordiljgt.entegaljerm.xyz,"js.clearfake, domain",n/a
-2026-06-23,threatfox,DOMAIN,entegaljerm.xyz,"js.clearfake, domain",n/a
-2026-06-23,threatfox,DOMAIN,usoram2026.duckdns.org,"win.koadic, domain",n/a
-2026-06-23,threatfox,DOMAIN,rem.herbalsupplementss.com,"win.remcos, domain",n/a
-2026-06-23,threatfox,DOMAIN,jetbet1.online,"js.clearfake, domain",n/a
-2026-06-23,threatfox,DOMAIN,drinkappliance.cfd,"unknown_loader, domain",n/a
-2026-06-23,threatfox,DOMAIN,partyfriends.cfd,"unknown_loader, domain",n/a
+2026-06-24,threatfox,URL,https://superboomer.world/,"unknown, url",n/a
+2026-06-24,threatfox,URL,https://merkantalolol.asia/,"unknown, url",n/a
+2026-06-24,threatfox,URL,https://centrodeinfusaocuritiba.com.br/connatural/shortsighted,"unknown, url",n/a
+2026-06-24,threatfox,URL,https://demo.alkhateeb.ae/yachted/sibling/,"unknown, url",n/a
 2026-06-23,threatfox,DOMAIN,az6trzrx.one1xbet.vip,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,one1xbet.vip,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,photo-drivedownload.cloud,"unknown_loader, domain",n/a
@@ -114,8 +107,10 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,DOMAIN,jetbt7.online,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,m2p5bg3q.ahkam.xyz,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,annexs.xyz,"win.remus, domain",n/a
-2026-06-23,tweetfeed,URL,https://file.garden/aXq8qJ6QdkN8_3lW/NRH9nwh38anSMz7wPq.rar,n/a,https://x.com/smica83/status/2069331021846183939
-2026-06-23,tweetfeed,URL,http://ins0mnia.ru,n/a,https://x.com/suyog41/status/2069339491094126652
+2026-06-24,threatfox,DOMAIN,topclouddefence.com,"unknown, domain",n/a
+2026-06-24,threatfox,DOMAIN,gatekeepernet.com,"unknown, domain",n/a
+2026-06-24,threatfox,DOMAIN,captchadefence.com,"unknown, domain",n/a
+2026-06-24,threatfox,DOMAIN,personalprogrammupdater.com,"unknown, domain",n/a
 2026-06-23,tweetfeed,URL,http://202.61.72.198:443,n/a,https://x.com/mopisec/status/2069326792360648962
 2026-06-23,tweetfeed,URL,http://31.76.32.3,n/a,https://x.com/malwrhunterteam/status/2069346011303039158
 2026-06-23,tweetfeed,URL,https://89465167.lat/ca-government-alberta,phishing,https://x.com/PhishStats/status/2069363304770785490
@@ -261,8 +256,7 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,HASH_SHA256,0e838c6a588d00c029ea5e469e55e121688df7a6e8af7b75e53504dc81631cb5,"elf.mirai, sha256_hash",n/a
 2026-06-24,tweetfeed,URL,http://recodsonlinesnn.sbs,phishing,https://x.com/skocherhan/status/2069687189944889681
 2026-06-24,tweetfeed,URL,http://portalyouentregedree.icu,phishing,https://x.com/skocherhan/status/2069687189944889681
-2026-06-23,tweetfeed,DOMAIN,file.garden,n/a,https://x.com/smica83/status/2069331021846183939
-2026-06-23,tweetfeed,DOMAIN,ins0mnia.ru,n/a,https://x.com/suyog41/status/2069339491094126652
+2026-06-24,tweetfeed,URL,http://Deliverytradehub.com,scam,https://x.com/MICHEALDAVennn/status/2069701250166190561
 2026-06-23,tweetfeed,DOMAIN,cloud-stat.co,Magecart,https://x.com/sdcyberresearch/status/2069369647275671619
 2026-06-23,tweetfeed,DOMAIN,4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion,ransomware,https://x.com/fbgwls245/status/2069382800034386169
 2026-06-23,tweetfeed,DOMAIN,resources.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
@@ -378,7 +372,7 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,DOMAIN,jp.mercaire.xuavierso.com,phishing,https://x.com/Metemcyber/status/2069669454158668198
 2026-06-24,tweetfeed,DOMAIN,recodsonlinesnn.sbs,phishing,https://x.com/skocherhan/status/2069687189944889681
 2026-06-24,tweetfeed,DOMAIN,portalyouentregedree.icu,phishing,https://x.com/skocherhan/status/2069687189944889681
-2026-06-23,tweetfeed,HASH_SHA256,0554e81334b4df586aab293cf513cc14e3b6c58a7cfd108ab36a3ee3b0312c8a,n/a,https://x.com/smica83/status/2069331021846183939
+2026-06-24,tweetfeed,DOMAIN,Deliverytradehub.com,scam,https://x.com/MICHEALDAVennn/status/2069701250166190561
 2026-06-23,tweetfeed,IP,202.61.72.198,n/a,https://x.com/mopisec/status/2069326792360648962
 2026-06-23,tweetfeed,HASH_SHA256,c74d70892fc2193790bedc8c08539b390ea460bc0ef72cb568568943016c35f0,n/a,https://x.com/mopisec/status/2069326792360648962
 2026-06-23,tweetfeed,HASH_SHA256,fa14e758d5603486ccc312409984fa838f78262976365ae51a379f4b5e6a8bc1,n/a,https://x.com/smica83/status/2069339847131631730
@@ -424,7 +418,6 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,IP,8.211.158.90,phishing,https://x.com/Metemcyber/status/2069669454158668198
 2026-06-24,tweetfeed,IP,45.151.91.14,C2,https://x.com/Fact_Finder03/status/2069669996251529320
 2026-06-24,tweetfeed,IP,166.88.160.5,"C2, malware",https://x.com/etugenio/status/2069678495253357049
-2026-06-23,tweetfeed,HASH_MD5,5caeef29faf5ee266fc05c72fefbfd71,n/a,https://x.com/suyog41/status/2069339491094126652
 2026-06-23,tweetfeed,HASH_MD5,b791c416988d068a3e548a0f21cd3518,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
 2026-06-23,tweetfeed,HASH_MD5,c836a6bbe16354a21ee688e3eeb32d86,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
 2026-06-23,tweetfeed,HASH_MD5,e70a5908e5eaee1bcd15eef82b1bcfdd,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
