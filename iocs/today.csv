@@ -89,7 +89,6 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,URL,https://tommy-v.lol/o,"js.kongtuke, url",n/a
 2026-06-24,threatfox,URL,https://ghr.esteghlal.news/,"win.vidar, url",n/a
 2026-06-24,threatfox,URL,https://ghr.holidaysm188.top/,"win.vidar, url",n/a
-2026-06-23,threatfox,DOMAIN,engelabeslami.xyz,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,s7w5r3s2.onebet1x.com,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,69xb4m1d.betmajic.cc,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,8ra83hil.blackjackonlineplay83.com,"js.clearfake, domain",n/a
@@ -281,7 +280,6 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,DOMAIN,hbcq8sv3.oghabbet1.com,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,oghabbet1.com,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,4o63jpbm.ekhtelalat.xyz,"js.clearfake, domain",n/a
-2026-06-23,tweetfeed,URL,http://159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
 2026-06-23,threatfox,HASH_SHA256,1188d1f47cfc3797e1eb004e531b11b7a191a21475d97226dfa607db380b650b,"win.stealc, sha256_hash",n/a
 2026-06-23,threatfox,HASH_SHA256,33166e17fdb736cdfbe304002b081db17069618d5110e30b3a01d9086d5e1273,"win.stealc, sha256_hash",n/a
 2026-06-23,threatfox,HASH_SHA256,69e82da57188417c62f945e4d4747954ee3e75edfc82e7da9c28f67cef18430a,"win.stealc, sha256_hash",n/a
@@ -449,6 +447,7 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,HASH_SHA256,90a27fd7f19422c8b76ac2961c329b544ce06f1320c98295ab5fcaceff02d543,"py.venus_stealer, sha256_hash",n/a
 2026-06-24,threatfox,HASH_SHA256,e5f8ab450586be710d9bd3b2a9e6f421a77567736b920833868045e1f0c7b44c,"win.vidar, sha256_hash",n/a
 2026-06-24,threatfox,HASH_SHA256,294ae135fa8ca524f5a78f8a12e2ed99c535bc58c86333dba3759ab738e971c7,"win.vidar, sha256_hash",n/a
+2026-06-24,tweetfeed,URL,http://i-enpf.kz,phishing,https://x.com/askardyuss/status/2069849463108129278
 2026-06-23,threatfox,HASH_MD5,79187195d75a83469f94d84887157251,"win.stealc, md5_hash",n/a
 2026-06-23,threatfox,HASH_MD5,87c61136236dbb9ab635e379d866fe49,"win.stealc, md5_hash",n/a
 2026-06-23,threatfox,HASH_MD5,d2b4cb1d964d01bce7246acb289f2a23,"win.stealc, md5_hash",n/a
@@ -591,9 +590,8 @@ date,user,type,ioc,tags,context
 2026-06-24,threatfox,HASH_MD5,028f4d4e2a10746578248da6e51ff891,"py.venus_stealer, md5_hash",n/a
 2026-06-24,threatfox,HASH_MD5,ffba0d0ec1848f799a0ab489affb8ab7,"win.vidar, md5_hash",n/a
 2026-06-24,threatfox,HASH_MD5,86cdb9c9aed5bc74090be5d955162a2a,"win.vidar, md5_hash",n/a
-2026-06-23,tweetfeed,IP,144.172.103.98,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
-2026-06-23,tweetfeed,IP,98.103.172.144,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
-2026-06-23,tweetfeed,IP,159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
+2026-06-24,tweetfeed,DOMAIN,adamadvocacia.com,phishing,https://x.com/PhishStats/status/2069847538186715460
+2026-06-24,tweetfeed,DOMAIN,i-enpf.kz,phishing,https://x.com/askardyuss/status/2069849463108129278
 2026-06-23,tweetfeed,HASH_SHA256,420f1931af9b3f7d02c5edfc78eb69abdad6e71d2c3e9b81f9cbc3823a503654,n/a,https://x.com/smica83/status/2069491512736453040
 2026-06-23,tweetfeed,HASH_SHA256,d025a29613e300d7755f878eb1d23d8a8a042cb2d3eb9005d66664ab9b97c677,n/a,https://x.com/smica83/status/2069492791541989544
 2026-06-23,tweetfeed,IP,103.74.21.67,n/a,https://x.com/sicehice/status/2069501201205375082
@@ -637,6 +635,7 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,IP,176.65.139.158,n/a,https://x.com/sicehice/status/2069803947963912303
 2026-06-24,tweetfeed,HASH_SHA256,53abf37710d6f2e35694fbe7cfaf1108127cbc001ce3e6bf994d0486cae5a0e8,n/a,https://x.com/nextronresearch/status/2069802303817679083
 2026-06-24,tweetfeed,HASH_SHA256,13e9a3c41e038bf9d8fcb0831305819819e4f7f4452bc20a04b9bf2756ee22e8,n/a,https://x.com/nextronresearch/status/2069802303817679083
+2026-06-24,tweetfeed,IP,92.204.28.237,phishing,https://x.com/PhishStats/status/2069847538186715460
 2026-06-23,tweetfeed,HASH_MD5,dddbda3b9463e5ba85802c12437e7cb0,Njrat,https://x.com/skocherhan/status/2069545525834125771
 2026-06-24,tweetfeed,HASH_MD5,095cce55438d772b24838f68e02805d0,"Android, Trojan, malware",https://x.com/ReBensk/status/2069674547054629264
 2026-06-24,tweetfeed,HASH_MD5,9038dc1997549084cd07394a146037e7,"Android, Trojan, malware",https://x.com/ReBensk/status/2069675449194873253
