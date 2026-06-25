@@ -4,11 +4,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-18,threatfox,URL,https://domokitw.lol/downloads,"unknown_stealer, url",n/a
-2026-06-18,threatfox,URL,https://voltix.gd/App/Voltix.zip,"unknown_stealer, url",n/a
-2026-06-18,threatfox,URL,https://sonofar.com/,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://volunteerskonect.ca/,"unknown, url",n/a
-2026-06-18,threatfox,URL,https://madhavsamachar.com/,"unknown, url",n/a
 2026-06-18,threatfox,URL,https://cdn.jsdelivr.net/gh/arinao7/8327ac99-c06c-422f-bd2e-4a80978d52c9/api-45,"js.clearfake, url",n/a
 2026-06-18,threatfox,URL,https://psh.harussm188.top/,"win.vidar, url",n/a
 2026-06-18,threatfox,URL,https://psh.rzrrent.com/,"win.vidar, url",n/a
@@ -744,16 +739,12 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,URL,https://svmdamanjodi.org/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://akrtowing.ca/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://betterment-us.comalign.pro/betterment/wwws/betterment/app/login/secure.html,"unknown, url",n/a
-2026-06-18,threatfox,DOMAIN,birdybird.rest,"unknown, domain",n/a
-2026-06-18,threatfox,DOMAIN,codecerification.beer,"unknown, domain",n/a
-2026-06-18,threatfox,DOMAIN,hostphpwindowsappsconecting.ydns.eu,"win.vjw0rm, domain",n/a
-2026-06-18,threatfox,DOMAIN,notificacionesfiscalescol.github.io,"win.vjw0rm, domain",n/a
-2026-06-18,threatfox,DOMAIN,9jdr35y2.kir.bet,"js.clearfake, domain",n/a
-2026-06-18,threatfox,DOMAIN,office-rechnung.top,"win.purelogs, domain",n/a
-2026-06-18,threatfox,DOMAIN,small-morning-8be0.fsocietyandtools.workers.dev,"win.purelogs, domain",n/a
-2026-06-18,threatfox,DOMAIN,office-rechnung.life,"win.purelogs, domain",n/a
-2026-06-18,threatfox,DOMAIN,rechnung-lexware.top,"win.purelogs, domain",n/a
-2026-06-18,threatfox,DOMAIN,office-rechnung.icu,"win.purelogs, domain",n/a
+2026-06-25,threatfox,URL,https://op2.hopesm188.top/,"win.vidar, url",n/a
+2026-06-25,threatfox,URL,https://roshannrs.com/,"win.vidar, url",n/a
+2026-06-25,threatfox,URL,https://globe-media.com/,"win.vidar, url",n/a
+2026-06-25,threatfox,URL,https://global-newbusiness.com/,"win.vidar, url",n/a
+2026-06-25,threatfox,URL,https://crosscriminallaw.com/,"win.vidar, url",n/a
+2026-06-25,threatfox,URL,https://op2.fileboro.com/,"win.vidar, url",n/a
 2026-06-18,threatfox,DOMAIN,022iqw23.bet303.download,"js.clearfake, domain",n/a
 2026-06-18,threatfox,DOMAIN,psh.rzrrent.com,"win.vidar, domain",n/a
 2026-06-18,threatfox,DOMAIN,psh.harussm188.top,"win.vidar, domain",n/a
@@ -1714,8 +1705,8 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,DOMAIN,zauber-edgecb61leise.icu,"win.maskgramstealer, domain",n/a
 2026-06-25,threatfox,DOMAIN,samtpfotchensnezhok9566leisegepard.sbs,"win.maskgramstealer, domain",n/a
 2026-06-25,darkweb_forums,URL,https://t.me/+BhZxEGBzvPYwYTY1,"darkweb, telegram_threat_actors",commit eebdd8bc / telegram_threat_actors.md
-2026-06-18,tweetfeed,URL,https://sunny-dynamic-clocks-sessions.trycloudflare.com/juk/,opendir,https://x.com/smica83/status/2067533920762044547
-2026-06-18,tweetfeed,URL,http://ig.do/Blox-Fruits-private-Server-Code-312417323432023930417434378243,"phishing, scam",https://x.com/urldna_bot/status/2067547916797874556
+2026-06-25,threatfox,DOMAIN,op2.hopesm188.top,"win.vidar, domain",n/a
+2026-06-25,threatfox,DOMAIN,op2.fileboro.com,"win.vidar, domain",n/a
 2026-06-18,tweetfeed,URL,https://vcslive.net/txt/ionos.html,phishing,https://x.com/PhishStats/status/2067550319001632969
 2026-06-18,tweetfeed,URL,http://internal-services.analytis.co,n/a,https://x.com/smica83/status/2067553406303052240
 2026-06-18,tweetfeed,URL,http://hexfiles.lol,n/a,https://x.com/smica83/status/2067558404277535000
@@ -2789,8 +2780,6 @@ date,user,type,ioc,tags,context
 2026-06-25,tweetfeed,URL,http://92.118.126.192,n/a,https://x.com/malwrhunterteam/status/2070071435494588799
 2026-06-25,tweetfeed,URL,https://aws-backup-e9ec7f79ad980725.s3.us-east-2.amazonaws.com/Complaint-Case-File-Access.pdf.zip,n/a,https://x.com/smica83/status/2070074575673491529
 2026-06-25,tweetfeed,URL,http://151.244.111.24,n/a,https://x.com/malwrhunterteam/status/2070076578965455152
-2026-06-18,tweetfeed,DOMAIN,sunny-dynamic-clocks-sessions.trycloudflare.com,opendir,https://x.com/smica83/status/2067533920762044547
-2026-06-18,tweetfeed,DOMAIN,ig.do,"phishing, scam",https://x.com/urldna_bot/status/2067547916797874556
 2026-06-18,tweetfeed,DOMAIN,vcslive.net,phishing,https://x.com/PhishStats/status/2067550319001632969
 2026-06-18,tweetfeed,DOMAIN,internal-services.analytis.co,n/a,https://x.com/smica83/status/2067553406303052240
 2026-06-18,tweetfeed,DOMAIN,hexfiles.lol,n/a,https://x.com/smica83/status/2067558404277535000
@@ -3749,6 +3738,8 @@ date,user,type,ioc,tags,context
 2026-06-25,tweetfeed,HASH_SHA256,0db5f977a520eb406d2322be4d1443c84994c0246a50d93f4546dc2bcda3a58f,n/a,https://x.com/smica83/status/2070072675343458468
 2026-06-25,tweetfeed,HASH_SHA256,e8a061067a41b47aeaf71d261027d3c21a5b6606bfb04e03381f3e5bfad7ef5a,n/a,https://x.com/smica83/status/2070074575673491529
 2026-06-25,tweetfeed,IP,151.244.111.24,n/a,https://x.com/malwrhunterteam/status/2070076578965455152
+2026-06-25,tweetfeed,HASH_SHA256,f2db8c59456958ba56639e46e9e51cd1a44b46f2e337f3c557ccb15fc6638d86,n/a,https://x.com/smica83/status/2070082005946056779
+2026-06-25,tweetfeed,IP,143.92.37.168,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-19,tweetfeed,HASH_MD5,49f273b1c605d717495ed437fbd3b5ef,n/a,https://x.com/tdatwja/status/2067877755270889525
 2026-06-19,tweetfeed,HASH_MD5,d7d17646d5ed29c9299be936f034f902,n/a,https://x.com/unpacker/status/2067878096804712952
 2026-06-19,tweetfeed,HASH_MD5,0bb6f07054f3f783fbcd0a05b45c0dae,n/a,https://x.com/sicehice/status/2067947967378579847
@@ -3784,3 +3775,5 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,HASH_MD5,9038dc1997549084cd07394a146037e7,"Android, Trojan, malware",https://x.com/ReBensk/status/2069675449194873253
 2026-06-24,tweetfeed,HASH_MD5,0859085d3ab968de9ccfb9a829ea19af,n/a,https://x.com/sicehice/status/2069803947963912303
 2026-06-24,tweetfeed,HASH_MD5,41f9450bba235c37d40cd0315c1013cf,n/a,https://x.com/askardyuss/status/2069838771588378830
+2026-06-25,tweetfeed,HASH_MD5,d43fdaa1f0ee09d7e5f0f94ee9df7b6c,n/a,https://x.com/netresec/status/2070092270401917033
+2026-06-25,tweetfeed,HASH_MD5,8266b00c4e45d728cef78b3f5a865f68,n/a,https://x.com/netresec/status/2070092270401917033
