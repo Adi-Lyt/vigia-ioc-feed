@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/galinavsuk6/text-set/vdr,"js.clearfake, url",n/a
 2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/swiftvpnaccess/wanting-public-driver-barricade/256446-uuid,"js.clearfake, url",n/a
 2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/swiftvpnaccess/wanting-public-driver-barricade/78956-uuid,"js.clearfake, url",n/a
 2026-06-24,threatfox,URL,https://rdv.holidaysm188.top/,"win.vidar, url",n/a
@@ -80,6 +79,7 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,URL,https://denesii.com/wild/black,"js.kongtuke, url",n/a
 2026-06-25,threatfox,URL,http://176.65.144.120/bc850000649f490e9617.php,"win.stealc, url",n/a
 2026-06-25,threatfox,URL,http://182.116.54.21:41717/Mozi.a,"elf.mozi, url",n/a
+2026-06-25,threatfox,URL,https://garageplusnw.com/,"win.vidar, url",n/a
 2026-06-24,threatfox,DOMAIN,onlinecasinorouletteblackjack.com,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,b97pimiu.vip1x.bet,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,rdv.holidaysm188.top,"win.vidar, domain",n/a
@@ -155,6 +155,7 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,DOMAIN,instance-g63lkz-relay.screenconnect.com,"unknown_rat, domain",n/a
 2026-06-25,threatfox,DOMAIN,bellamacho.com,"unknown, domain",n/a
 2026-06-25,threatfox,DOMAIN,easy-pixx321.world,"unknown, domain",n/a
+2026-06-25,threatfox,DOMAIN,ex5nibpq.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-24,tweetfeed,URL,http://188.209.5.180:54857/Mozi.m,n/a,https://x.com/sicehice/status/2069882211906585070
 2026-06-25,tweetfeed,URL,https://tiktlk.xavierazipni.com,phishing,https://x.com/masaomi346/status/2069957527476002986
 2026-06-25,threatfox,HASH_SHA256,363ee51fc02f20cb206039434758c3afa1c71bc7d316c6db4a39b0d310ab92f9,"win.remcos, sha256_hash",n/a
