@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-18,threatfox,URL,https://get.harussm188.top/,"win.vidar, url",n/a
 2026-06-18,threatfox,URL,https://167.233.67.224/,"win.vidar, url",n/a
 2026-06-18,threatfox,URL,https://77.42.32.108/,"win.vidar, url",n/a
 2026-06-18,threatfox,URL,https://167.233.133.99/,"win.vidar, url",n/a
@@ -745,9 +744,10 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,URL,https://studioreverse.com.br/,"unknown, url",n/a
 2026-06-25,threatfox,URL,https://coralwayfinder.top/status/endpoint-effect.js,"js.smartapesg, url",n/a
 2026-06-25,threatfox,URL,http://110.37.84.200:46837/Mozi.m,"elf.mozi, url",n/a
-2026-06-18,threatfox,DOMAIN,get.harussm188.top,"win.vidar, domain",n/a
-2026-06-18,threatfox,DOMAIN,acu1ajv0.irxbetkade.com,"js.clearfake, domain",n/a
-2026-06-18,threatfox,DOMAIN,irxbetkade.com,"js.clearfake, domain",n/a
+2026-06-25,threatfox,URL,http://110.37.44.158:58509/Mozi.m,"elf.mozi, url",n/a
+2026-06-25,threatfox,URL,http://223.123.72.169:60310/Mozi.m,"elf.mozi, url",n/a
+2026-06-25,threatfox,URL,https://vfr.hopesm188.top/,"win.vidar, url",n/a
+2026-06-25,threatfox,URL,https://vfr.fileboro.com/,"win.vidar, url",n/a
 2026-06-18,threatfox,DOMAIN,fg7za1dh.casinobet.casino,"js.clearfake, domain",n/a
 2026-06-18,threatfox,DOMAIN,assiamakki.com,"unknown_stealer, domain",n/a
 2026-06-18,threatfox,DOMAIN,divastreet.online,"unknown_stealer, domain",n/a
@@ -1753,15 +1753,11 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,DOMAIN,c2.saintpetersburgresident.ru,"elf.mirai, domain",n/a
 2026-06-25,threatfox,DOMAIN,peer.saintpetersburgresident.ru,"elf.mirai, domain",n/a
 2026-06-25,threatfox,DOMAIN,verificationscodes.beer,"unknown, domain",n/a
-2026-06-18,tweetfeed,URL,http://常盤注文書0687-0408.zip,n/a,https://x.com/tdatwja/status/2067471602279932205
-2026-06-18,tweetfeed,URL,http://mail.avicennaalliedhealthinstitute.org/stubob.ps1,n/a,https://x.com/tdatwja/status/2067471602279932205
-2026-06-18,tweetfeed,URL,https://nifecomthlixzjj.top,n/a,https://x.com/bomccss/status/2067483519501447303
-2026-06-18,tweetfeed,URL,http://118.190.173.171:80/app/api/validActiveCode,n/a,https://x.com/bomccss/status/2067483522953257058
-2026-06-18,tweetfeed,URL,http://118.190.173.171:80/app/api/validActiveCodeFree,n/a,https://x.com/bomccss/status/2067483522953257058
-2026-06-18,tweetfeed,URL,http://108.187.7.80:443,n/a,https://x.com/bomccss/status/2067483522953257058
-2026-06-18,tweetfeed,URL,http://nifecomthlixzjj.top,n/a,https://x.com/tdatwja/status/2067465512393810250
-2026-06-18,tweetfeed,URL,http://108.187.7.80,n/a,https://x.com/tdatwja/status/2067465512393810250
-2026-06-18,tweetfeed,URL,https://mailupdateportall.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2067487532292485390
+2026-06-25,threatfox,DOMAIN,iiillillilliiliilllliilllililiillillililiiliillilliiiiiliiillli.cyou,"elf.mirai, domain",n/a
+2026-06-25,threatfox,DOMAIN,ddos.lat,"elf.mirai, domain",n/a
+2026-06-25,threatfox,DOMAIN,bill-toulas-egg-head-ugly-nigga.store,"elf.mirai, domain",n/a
+2026-06-25,threatfox,DOMAIN,vfr.fileboro.com,"win.vidar, domain",n/a
+2026-06-25,threatfox,DOMAIN,vfr.hopesm188.top,"win.vidar, domain",n/a
 2026-06-18,tweetfeed,URL,https://mail.avicennaalliedhealthinstitute.org/stubob.ps1,Formbook,https://x.com/bomccss/status/2067489465179004995
 2026-06-18,tweetfeed,URL,http://20260610091408.zip,n/a,https://x.com/bomccss/status/2067495617916760499
 2026-06-18,tweetfeed,URL,https://mail.avicennaalliedhealthinstitute.org/stubcc.ps1,Formbook,https://x.com/bomccss/status/2067495619783180672
@@ -2832,9 +2828,10 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,HASH_SHA256,363ee51fc02f20cb206039434758c3afa1c71bc7d316c6db4a39b0d310ab92f9,"win.remcos, sha256_hash",n/a
 2026-06-25,threatfox,HASH_SHA256,372f19a45d0eb4c8c52117c6ae2bb8040a91bc72be8670623f957a18c2166985,"win.remcos, sha256_hash",n/a
 2026-06-25,threatfox,HASH_SHA256,1eb89fbbdeaca143288cd71e73304fedf5abbeb093bfe64bce48ccb4e5158be9,"unknown, sha256_hash",n/a
-2026-06-18,tweetfeed,DOMAIN,mail.avicennaalliedhealthinstitute.org,n/a,https://x.com/tdatwja/status/2067471602279932205
-2026-06-18,tweetfeed,DOMAIN,nifecomthlixzjj.top,n/a,https://x.com/bomccss/status/2067483519501447303
-2026-06-18,tweetfeed,DOMAIN,mailupdateportall.weebly.com,"phishing, scam",https://x.com/urldna_bot/status/2067487532292485390
+2026-06-25,tweetfeed,URL,http://shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
+2026-06-25,tweetfeed,URL,https://hydrostreptomycin.yikuaiyansz.com/#/,phishing,https://x.com/Metemcyber/status/2070023099689714152
+2026-06-25,tweetfeed,URL,http://104.21.86.198,phishing,https://x.com/Metemcyber/status/2070023099689714152
+2026-06-25,tweetfeed,URL,https://bankigbhdonl.zya.me/?i=2,phishing,https://x.com/PhishStats/status/2070026384437645337
 2026-06-18,tweetfeed,DOMAIN,20260610091408.zip,n/a,https://x.com/bomccss/status/2067495617916760499
 2026-06-18,tweetfeed,DOMAIN,palletjackmaster.com,phishing,https://x.com/patialavii/status/2067460709664030943
 2026-06-18,tweetfeed,DOMAIN,paikarihatbd.com,phishing,https://x.com/patialavii/status/2067460709664030943
@@ -3544,16 +3541,9 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,DOMAIN,btc258.com,phishing,https://x.com/skocherhan/status/2069860576436928819
 2026-06-24,tweetfeed,DOMAIN,btc297.com,phishing,https://x.com/skocherhan/status/2069860576436928819
 2026-06-25,tweetfeed,DOMAIN,tiktlk.xavierazipni.com,phishing,https://x.com/masaomi346/status/2069957527476002986
-2026-06-18,tweetfeed,HASH_SHA256,f37f4c5796330bdf008cd7849c9411e9542989ee6be30903a8c5631f736b6bfd,n/a,https://x.com/tdatwja/status/2067471602279932205
-2026-06-18,tweetfeed,IP,178.104.81.225,C2,https://x.com/Fact_Finder03/status/2067477385633784163
-2026-06-18,tweetfeed,IP,151.243.126.22,C2,https://x.com/Fact_Finder03/status/2067479911439479038
-2026-06-18,tweetfeed,IP,154.197.154.64,C2,https://x.com/Fact_Finder03/status/2067479911439479038
-2026-06-18,tweetfeed,HASH_SHA256,3f3fd1449c1e6429b7c92e6a33410a7eb371326a074fb7c56a0954c1a8a67291,n/a,https://x.com/bomccss/status/2067483521393029499
-2026-06-18,tweetfeed,HASH_SHA256,fe1abf1b56eee331bca1668e9bb61520f546d4f186b611af0f8b0d9ff241b85a,n/a,https://x.com/bomccss/status/2067483521393029499
-2026-06-18,tweetfeed,HASH_SHA256,65089c8118049d9e11f8097d3fb7525b4f4829a904ac1567b5743e67862f786d,n/a,https://x.com/bomccss/status/2067483521393029499
-2026-06-18,tweetfeed,HASH_SHA256,530a6a9fea1589f6cf12f88f59464df4ab504ad26151a8eb023fa79b06833d09,n/a,https://x.com/bomccss/status/2067483521393029499
-2026-06-18,tweetfeed,IP,118.190.173.171,n/a,https://x.com/bomccss/status/2067483522953257058
-2026-06-18,tweetfeed,IP,108.187.7.80,n/a,https://x.com/bomccss/status/2067483522953257058
+2026-06-25,tweetfeed,DOMAIN,shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
+2026-06-25,tweetfeed,DOMAIN,hydrostreptomycin.yikuaiyansz.com,phishing,https://x.com/Metemcyber/status/2070023099689714152
+2026-06-25,tweetfeed,DOMAIN,bankigbhdonl.zya.me,phishing,https://x.com/PhishStats/status/2070026384437645337
 2026-06-18,tweetfeed,HASH_SHA256,c6de5b6641f29e496bfa6b08646ce3a6d67700566c39d09ddd01ebe95c234f78,n/a,https://x.com/bomccss/status/2067489463232872625
 2026-06-18,tweetfeed,HASH_SHA256,35b4a2eb8c5fb616502fd757bf3981009c4ad813e1f58a01308adbd24d297628,Formbook,https://x.com/bomccss/status/2067489465179004995
 2026-06-18,tweetfeed,HASH_SHA256,77ef8f8fefacb37e9c9394064b0304ebc9af0d531268e63097edb20dbb24f09a,Formbook,https://x.com/bomccss/status/2067489465179004995
@@ -3808,7 +3798,9 @@ date,user,type,ioc,tags,context
 2026-06-24,tweetfeed,IP,92.204.28.237,phishing,https://x.com/PhishStats/status/2069847538186715460
 2026-06-24,tweetfeed,HASH_SHA256,2ec5ae79d9e5f7a8a0026fb8f4e6a4fa059991884bbae53c91e5753ee139ac4a,n/a,https://x.com/smica83/status/2069881630244708441
 2026-06-24,tweetfeed,IP,188.209.5.180,n/a,https://x.com/sicehice/status/2069882211906585070
-2026-06-18,tweetfeed,HASH_MD5,cc1c94d0037e1c054fe03918bd377aa2,n/a,https://x.com/tdatwja/status/2067471602279932205
+2026-06-25,tweetfeed,HASH_SHA256,425ca8c8c287ddc0c783b49319bf21423201c6195289cdb6738f56fb475a2894,n/a,https://x.com/smica83/status/2070021008434540983
+2026-06-25,tweetfeed,IP,185.27.134.55,phishing,https://x.com/PhishStats/status/2070026384437645337
+2026-06-25,tweetfeed,IP,91.219.237.105,C2,https://x.com/Fact_Finder03/status/2070028255424639276
 2026-06-18,tweetfeed,HASH_MD5,a113090d748d0dac7d488c97f1305af2,"APT, Gamaredon",https://x.com/goldenjackel12/status/2062874399376802267
 2026-06-18,tweetfeed,HASH_MD5,473c65b922d3308a98c6b76c7d99a196,"APT, Gamaredon",https://x.com/goldenjackel12/status/2062874399376802267
 2026-06-18,tweetfeed,HASH_MD5,563442c7538069cc5630fed7a947d826,n/a,https://x.com/askardyuss/status/2067464824431542632
