@@ -3,9 +3,8 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34910,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34909,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
-2026-06-18,threatfox,URL,https://bou.harussm188.top/,"win.vidar, url",n/a
-2026-06-18,threatfox,URL,https://bou.rzrrent.com/,"win.vidar, url",n/a
-2026-06-18,threatfox,URL,https://cdn.jsdelivr.net/gh/arinao7/6e91d58f-acdf/key,"js.clearfake, url",n/a
+2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
+2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-19,threatfox,URL,http://103.176.16.93:47938/Mozi.m,"elf.mozi, url",n/a
 2026-06-19,threatfox,URL,http://223.123.77.15:48168/Mozi.m,"elf.mozi, url",n/a
 2026-06-19,threatfox,URL,http://113.99.201.216:40944/Mozi.a,"elf.mozi, url",n/a
@@ -748,10 +747,14 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,URL,https://tommy-t.lol/o,"js.kongtuke, url",n/a
 2026-06-25,threatfox,URL,https://ntg.fileboro.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://ntg.hopesm188.top/,"win.vidar, url",n/a
-2026-06-18,threatfox,DOMAIN,bou.rzrrent.com,"win.vidar, domain",n/a
-2026-06-18,threatfox,DOMAIN,bou.harussm188.top,"win.vidar, domain",n/a
-2026-06-18,threatfox,DOMAIN,inv527xk.testpaye.xyz,"js.clearfake, domain",n/a
-2026-06-18,threatfox,DOMAIN,2wr0b5x0.jetbetkade.com,"js.clearfake, domain",n/a
+2026-06-25,threatfox,URL,http://51.158.248.122:8517/bins.sh,"unknown, url",n/a
+2026-06-25,threatfox,URL,https://moielli.xyz/file.js,"js.kongtuke, url",n/a
+2026-06-25,threatfox,URL,https://moielli.xyz/api/v1/session,"js.kongtuke, url",n/a
+2026-06-25,threatfox,URL,https://moielli.xyz/api/v1/verify,"js.kongtuke, url",n/a
+2026-06-25,threatfox,URL,https://moielli.xyz/api/v1/status,"js.kongtuke, url",n/a
+2026-06-25,threatfox,URL,https://denesii.com/wild/black,"js.kongtuke, url",n/a
+2026-06-25,threatfox,URL,http://176.65.144.120/bc850000649f490e9617.php,"win.stealc, url",n/a
+2026-06-25,threatfox,URL,http://182.116.54.21:41717/Mozi.a,"elf.mozi, url",n/a
 2026-06-18,threatfox,DOMAIN,updateyourprogram.com,"unknown, domain",n/a
 2026-06-18,threatfox,DOMAIN,ef1q7686.enfej.win,"js.clearfake, domain",n/a
 2026-06-18,threatfox,DOMAIN,lgoanndm.betvarzeshkade.online,"js.clearfake, domain",n/a
@@ -1715,7 +1718,15 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,DOMAIN,boldtop.click,"win.cobalt_strike, domain",n/a
 2026-06-25,threatfox,DOMAIN,ntg.fileboro.com,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,ntg.hopesm188.top,"win.vidar, domain",n/a
-2026-06-18,tweetfeed,URL,http://merger-requests-generate-editorial.trycloudflare.com,n/a,https://x.com/smica83/status/2067677000039293084
+2026-06-25,threatfox,DOMAIN,t5gnk3khm55f9ar.top,"js.kongtuke, domain",n/a
+2026-06-25,threatfox,DOMAIN,7t2lkz7v1c2u2ry.top,"js.kongtuke, domain",n/a
+2026-06-25,threatfox,DOMAIN,hdb1qm8y.shartcart.xyz,"js.clearfake, domain",n/a
+2026-06-25,threatfox,DOMAIN,shartcart.xyz,"js.clearfake, domain",n/a
+2026-06-25,threatfox,DOMAIN,moielli.xyz,"js.kongtuke, domain",n/a
+2026-06-25,threatfox,DOMAIN,denesii.com,"js.kongtuke, domain",n/a
+2026-06-25,threatfox,DOMAIN,instance-g63lkz-relay.screenconnect.com,"unknown_rat, domain",n/a
+2026-06-25,threatfox,DOMAIN,bellamacho.com,"unknown, domain",n/a
+2026-06-25,threatfox,DOMAIN,easy-pixx321.world,"unknown, domain",n/a
 2026-06-18,tweetfeed,URL,http://konstructurellc.screenconnect.com,"C2, malware",https://x.com/phantmradar/status/2067718821977182492
 2026-06-18,tweetfeed,URL,https://allegrolokalnie.oferta8932023.click,phishing,https://x.com/PhishStats/status/2067732215346180488
 2026-06-19,tweetfeed,URL,https://rcdmp.top/dkDfeKDe/,"malware, phishing",https://x.com/masaomi346/status/2067774305858167140
@@ -2281,7 +2292,7 @@ date,user,type,ioc,tags,context
 2026-06-21,tweetfeed,URL,http://statifile.sbs,n/a,https://x.com/500mk500/status/2068775472205275468
 2026-06-21,tweetfeed,URL,http://stfile-ox.sbs,n/a,https://x.com/500mk500/status/2068775472205275468
 2026-06-22,tweetfeed,URL,http://sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid.onion,ransomware,https://x.com/fbgwls245/status/2068901304731308205
-2026-06-22,tweetfeed,URL,https://vy.ijnggpi.com/ftx/,phishing,https://x.com/patialavii/status/2068919332126835122
+2026-06-22,"threatfox,tweetfeed",URL,https://vy.ijnggpi.com/ftx/,phishing,https://x.com/patialavii/status/2068919332126835122
 2026-06-22,tweetfeed,URL,https://web-g63lkz.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2068919332126835122
 2026-06-22,tweetfeed,URL,https://line.me.ja.geraiqawti.com,phishing,https://x.com/masaomi346/status/2068928510304133140
 2026-06-22,tweetfeed,URL,https://colegioconexao.com.br,phishing,https://x.com/PhishStats/status/2068941016309158220
@@ -2886,7 +2897,9 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,HASH_SHA256,5187e5216ddf0f63d74a69f483c9568d0b04f7ae67dd17ed1d7644b97ce3a8d1,"win.coinminer, sha256_hash",n/a
 2026-06-25,threatfox,HASH_SHA256,93696af402e19dfc858f5867e56e9dd5ddfa4f88df05bbb68cb482ca2c21a79b,"win.nanocore, sha256_hash",n/a
 2026-06-25,threatfox,HASH_SHA256,7791be7f06e67cfb2e32c1f709b8bf8afc5f354653d1a2074a47e80d8c04ff49,"win.darktortilla, sha256_hash",n/a
-2026-06-18,tweetfeed,DOMAIN,merger-requests-generate-editorial.trycloudflare.com,n/a,https://x.com/smica83/status/2067677000039293084
+2026-06-25,tweetfeed,URL,http://crypto-pink-eta.vercel.app,n/a,https://x.com/skocherhan/status/2070216461021253925
+2026-06-25,tweetfeed,URL,https://aureumgt.com/wp-includes/it/pagopa/log/msdpweb/index,phishing,https://x.com/AddressIntel/status/2070225533086904471
+2026-06-25,tweetfeed,URL,http://github.com/oven-sh/bun/releases/download/bun-v1.3.13/,n/a,https://x.com/MsftSecIntel/status/2070225815803949436
 2026-06-18,tweetfeed,DOMAIN,konstructurellc.screenconnect.com,"C2, malware",https://x.com/phantmradar/status/2067718821977182492
 2026-06-18,tweetfeed,DOMAIN,allegrolokalnie.oferta8932023.click,phishing,https://x.com/PhishStats/status/2067732215346180488
 2026-06-19,tweetfeed,DOMAIN,rcdmp.top,"malware, phishing",https://x.com/masaomi346/status/2067774305858167140
@@ -3691,7 +3704,8 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,HASH_MD5,632237a7536db7d9c6b29b28ba189c9b,"win.nanocore, md5_hash",n/a
 2026-06-25,threatfox,HASH_MD5,341a025fa2b8c640b9b09b8cafb2d329,"win.coinminer, md5_hash",n/a
 2026-06-25,threatfox,HASH_MD5,6434db989785abb5ce2088e34915935f,"win.darktortilla, md5_hash",n/a
-2026-06-18,tweetfeed,HASH_SHA256,4faa33c803fe381f06eede339ce81b908146d1a42acb64476019e9dcd08b0405,n/a,https://x.com/smica83/status/2067677000039293084
+2026-06-25,tweetfeed,DOMAIN,crypto-pink-eta.vercel.app,n/a,https://x.com/skocherhan/status/2070216461021253925
+2026-06-25,tweetfeed,DOMAIN,aureumgt.com,phishing,https://x.com/AddressIntel/status/2070225533086904471
 2026-06-19,tweetfeed,HASH_SHA256,cd7a387c96da6d0723e4501025b7bdb3c0882a8c48c57deb8df3130aec6a9b82,"malware, phishing",https://x.com/masaomi346/status/2067774305858167140
 2026-06-19,tweetfeed,HASH_SHA256,8a75b0ddf71f6604c804b67484adee112c8a35255a8e39064e436f90d5cd04ba,phishing,https://x.com/patialavii/status/2067812251512533177
 2026-06-19,tweetfeed,IP,159.183.224.104,phishing,https://x.com/romonlyht/status/2067845587727487480
