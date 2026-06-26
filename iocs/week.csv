@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-19,threatfox,URL,https://www.ski-snowboardvancouver.ca/d.js,"js.smartapesg, url",n/a
 2026-06-20,threatfox,URL,http://154.91.75.105/getinstall64,"win.valley_rat, url",n/a
 2026-06-20,threatfox,URL,https://coralregistry.top/middleware/role-render.js,"js.smartapesg, url",n/a
 2026-06-20,threatfox,URL,https://coralregistry.top/middleware/endpoint-asset.js,"js.smartapesg, url",n/a
@@ -694,8 +693,6 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,URL,http://13.63.239.13/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
 2026-06-26,threatfox,URL,https://gulshan2.com/,"unknown, url",n/a
 2026-06-26,threatfox,URL,http://osgyx.cn/getinstall64,"win.valley_rat, url",n/a
-2026-06-19,threatfox,DOMAIN,sjn9cbzs.betvarzeshkade.online,"js.clearfake, domain",n/a
-2026-06-19,threatfox,DOMAIN,www.ski-snowboardvancouver.ca,"js.smartapesg, domain",n/a
 2026-06-19,threatfox,DOMAIN,byz28tfk.rasmfani.xyz,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,i83pv2vx.ravabetensani.site,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,e57ra5jx.plinkobet.casino,"js.clearfake, domain",n/a
@@ -1865,7 +1862,6 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,DOMAIN,honarrang.online,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,sjc3.sabad724.bio,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,6b4ki3sp.abt90kade.com,"js.clearfake, domain",n/a
-2026-06-19,tweetfeed,URL,http://outlook-ms365.com,phishing,https://x.com/skocherhan/status/2068084617236677054
 2026-06-20,tweetfeed,URL,https://line.me.ja.iormin.com,phishing,https://x.com/masaomi346/status/2068108855440294349
 2026-06-20,tweetfeed,URL,http://login.yunxingholdings.com/home,phishing,https://x.com/masaomi346/status/2068130205794021554
 2026-06-20,tweetfeed,URL,https://cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
@@ -3026,7 +3022,18 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,URL,http://aruba.renew-service.net,phishing,https://x.com/tobersotski/status/2070615522102657120
 2026-06-26,tweetfeed,URL,http://share.google/CR6HabhnulbTXAn6K,phishing,https://x.com/skocherhan/status/2070616848958128551
 2026-06-26,tweetfeed,URL,http://ar-redi.renew-service01373.org,phishing,https://x.com/skocherhan/status/2070616848958128551
-2026-06-19,tweetfeed,DOMAIN,outlook-ms365.com,phishing,https://x.com/skocherhan/status/2068084617236677054
+2026-06-26,tweetfeed,URL,http://haseebbaig.me,phishing,https://x.com/skocherhan/status/2070622153855131829
+2026-06-26,tweetfeed,URL,http://u6extfzlk0.billbutterworth.com,phishing,https://x.com/skocherhan/status/2070622153855131829
+2026-06-26,tweetfeed,URL,http://gxp8tpjoql.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://r5q73tje1r.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://wmerlcxpyt.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://ca5i3m2sqb.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://c4d596pfxp.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://k1v6zdjdjy.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://i9ub3svctr.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://ynf2qhs7n9.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://4pjmt4fzqh.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,URL,http://dg7wn59z9u.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
 2026-06-20,tweetfeed,DOMAIN,line.me.ja.iormin.com,phishing,https://x.com/masaomi346/status/2068108855440294349
 2026-06-20,tweetfeed,DOMAIN,login.yunxingholdings.com,phishing,https://x.com/masaomi346/status/2068130205794021554
 2026-06-20,tweetfeed,DOMAIN,cyl.co.kr,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
@@ -3825,6 +3832,18 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,HASH_MD5,993f015fc9f5a9f683c32541e0039627,"win.amadey, md5_hash",n/a
 2026-06-26,tweetfeed,DOMAIN,aruba.renew-service.net,phishing,https://x.com/tobersotski/status/2070615522102657120
 2026-06-26,tweetfeed,DOMAIN,ar-redi.renew-service01373.org,phishing,https://x.com/skocherhan/status/2070616848958128551
+2026-06-26,tweetfeed,DOMAIN,haseebbaig.me,phishing,https://x.com/skocherhan/status/2070622153855131829
+2026-06-26,tweetfeed,DOMAIN,u6extfzlk0.billbutterworth.com,phishing,https://x.com/skocherhan/status/2070622153855131829
+2026-06-26,tweetfeed,DOMAIN,gxp8tpjoql.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,r5q73tje1r.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,wmerlcxpyt.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,ca5i3m2sqb.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,c4d596pfxp.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,k1v6zdjdjy.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,i9ub3svctr.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,ynf2qhs7n9.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,4pjmt4fzqh.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
+2026-06-26,tweetfeed,DOMAIN,dg7wn59z9u.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
 2026-06-20,tweetfeed,HASH_SHA256,9f446f0786e39a2adde962b99d42eaaa75dbffe23f2464f6173d60c8f6e7d6dc,APT,https://x.com/byrne_emmy12099/status/2068136098161889699
 2026-06-20,tweetfeed,HASH_SHA256,97fc1862fb55813ee199bbaef378bdf2e904cb73930a6a56903bef5614f2726b,APT,https://x.com/byrne_emmy12099/status/2068140908441485632
 2026-06-20,tweetfeed,HASH_SHA256,c534df540c66e8578cf8400280cf8d8a4ed7a21a93fda27ec2e29e912f0dacaf,n/a,https://x.com/byrne_emmy12099/status/2068141479676318028
@@ -4093,3 +4112,4 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,HASH_MD5,13bd44b97c1488ade87974a352797e1f,n/a,https://x.com/suyog41/status/2070473389698064470
 2026-06-26,tweetfeed,HASH_MD5,5190ef1733183a0dc63fb623357f56d6,n/a,https://x.com/SpiderLabs/status/2070503545841873313
 2026-06-26,tweetfeed,HASH_MD5,18f90671643ff92f251e6729769235bb,phishing,https://x.com/SpiderLabs/status/2070538080944075156
+2026-06-26,tweetfeed,HASH_MD5,f96d3df92d9dd8651d0314c9742f5252,n/a,https://x.com/ethicalhack3r/status/2070525366658052324
