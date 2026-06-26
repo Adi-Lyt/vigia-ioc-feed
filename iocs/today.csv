@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-25,threatfox,URL,https://bigburger.ch,"js.iclickfix, url",n/a
-2026-06-25,threatfox,URL,https://tommy-t.lol/o,"js.kongtuke, url",n/a
 2026-06-25,threatfox,URL,https://ntg.fileboro.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://ntg.hopesm188.top/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,http://51.158.248.122:8517/bins.sh,"unknown, url",n/a
@@ -44,10 +42,7 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,URL,https://screy.world/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
 2026-06-26,threatfox,URL,http://13.63.239.13/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
 2026-06-26,threatfox,URL,https://gulshan2.com/,"unknown, url",n/a
-2026-06-25,threatfox,DOMAIN,etaczb1.jetbetapk.online,"unknown_stealer, domain",n/a
-2026-06-25,threatfox,DOMAIN,proviewhomeinspections.com,"unknown_stealer, domain",n/a
-2026-06-25,threatfox,DOMAIN,tommy-t.lol,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,dl.roofreach-ai.com,"js.fakeupdates, domain",n/a
+2026-06-26,threatfox,URL,http://osgyx.cn/getinstall64,"win.valley_rat, url",n/a
 2026-06-25,threatfox,DOMAIN,tv2gs2t9.1xfa.bio,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,boldtop.click,"win.cobalt_strike, domain",n/a
 2026-06-25,threatfox,DOMAIN,ntg.fileboro.com,"win.vidar, domain",n/a
@@ -309,11 +304,8 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,DOMAIN,0qam1x6q.alobet.pro,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,alobet.pro,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,images.courtpsychologists.com,"js.fakeupdates, domain",n/a
-2026-06-25,tweetfeed,URL,https://tlktok.dericaeug.com/redirect/url3A2Ftikue.com/kstudioenter/method/2Ftikto,phishing,https://x.com/harugasumi/status/2070152260122984670
-2026-06-25,tweetfeed,URL,http://tikue.com,phishing,https://x.com/harugasumi/status/2070153162275860704
-2026-06-25,tweetfeed,URL,https://luxurwatchs.shop,phishing,https://x.com/masaomi346/status/2070154172432077300
-2026-06-25,tweetfeed,URL,http://analyticsgtag.cloud,Magecart,https://x.com/500mk500/status/2070155507055182132
-2026-06-25,tweetfeed,URL,http://analyticshotjar.info,Magecart,https://x.com/500mk500/status/2070155507055182132
+2026-06-26,threatfox,DOMAIN,hesabdarishabahang.xyz,"js.clearfake, domain",n/a
+2026-06-26,threatfox,DOMAIN,babayagadead.duckdns.org,"win.quasar_rat, domain",n/a
 2026-06-25,tweetfeed,URL,http://dpd.dpnpl.com,phishing,https://x.com/skocherhan/status/2070173159513268553
 2026-06-25,tweetfeed,URL,http://solutionpelle.info,"APT, C2, malware",https://x.com/skocherhan/status/2070209545083707547
 2026-06-25,tweetfeed,URL,http://149.28.128.239,"APT, C2, malware",https://x.com/skocherhan/status/2070209545083707547
@@ -449,11 +441,6 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,URL,http://bennysburger.co.nz,n/a,https://x.com/SpiderLabs/status/2070503545841873313
 2026-06-26,tweetfeed,URL,http://superstarlog.click,n/a,https://x.com/SpiderLabs/status/2070503545841873313
 2026-06-26,tweetfeed,URL,http://genomicsforge.com,n/a,https://x.com/SpiderLabs/status/2070503545841873313
-2026-06-25,tweetfeed,DOMAIN,tlktok.dericaeug.com,phishing,https://x.com/harugasumi/status/2070152260122984670
-2026-06-25,tweetfeed,DOMAIN,tikue.com,phishing,https://x.com/harugasumi/status/2070153162275860704
-2026-06-25,tweetfeed,DOMAIN,luxurwatchs.shop,phishing,https://x.com/masaomi346/status/2070154172432077300
-2026-06-25,tweetfeed,DOMAIN,analyticsgtag.cloud,Magecart,https://x.com/500mk500/status/2070155507055182132
-2026-06-25,tweetfeed,DOMAIN,analyticshotjar.info,Magecart,https://x.com/500mk500/status/2070155507055182132
 2026-06-25,tweetfeed,DOMAIN,dpd.dpnpl.com,phishing,https://x.com/skocherhan/status/2070173159513268553
 2026-06-25,tweetfeed,DOMAIN,solutionpelle.info,"APT, C2, malware",https://x.com/skocherhan/status/2070209545083707547
 2026-06-25,tweetfeed,DOMAIN,edew-wlpep.formstack.com,phishing,https://x.com/PhishStats/status/2070210345017213017
