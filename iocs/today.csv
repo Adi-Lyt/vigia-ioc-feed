@@ -1,28 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-25,threatfox,URL,https://gbaof.com/hair/hia8qef5nj2o/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://gbaof.com/hair/o48ljeia99/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://raksasa633.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://www.seinfor.pe/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://sport666.org/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://mindtribe.io/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://ono138.org/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://pakettogel.net/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://namaste-bungalows.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://synthexisgroupllc.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://www.zhouruntech.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/file.js,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/api/v1/session,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/api/v1/status,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ext4-v.top/o,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,http://111.164.238.73:57439/Mozi.m,"elf.mozi, url",n/a
-2026-06-25,threatfox,URL,http://119.160.215.52:35806/Mozi.a,"elf.mozi, url",n/a
-2026-06-25,threatfox,URL,http://115.42.75.110:45397/Mozi.m,"elf.mozi, url",n/a
-2026-06-25,threatfox,URL,https://studioreverse.com.br/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://coralwayfinder.top/status/endpoint-effect.js,"js.smartapesg, url",n/a
-2026-06-25,threatfox,URL,http://110.37.84.200:46837/Mozi.m,"elf.mozi, url",n/a
 2026-06-25,threatfox,URL,http://110.37.44.158:58509/Mozi.m,"elf.mozi, url",n/a
 2026-06-25,threatfox,URL,http://223.123.72.169:60310/Mozi.m,"elf.mozi, url",n/a
 2026-06-25,threatfox,URL,https://vfr.hopesm188.top/,"win.vidar, url",n/a
@@ -77,20 +55,6 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,URL,https://garageplusnw.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://kzo.hopesm188.top/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://kzo.fileboro.com/,"win.vidar, url",n/a
-2026-06-25,threatfox,DOMAIN,pa9xqikq.1000shart.xyz,"js.clearfake, domain",n/a
-2026-06-25,threatfox,DOMAIN,q4ylri6k.1000shart.xyz,"js.clearfake, domain",n/a
-2026-06-25,threatfox,DOMAIN,jpgomd.com,"win.netsupportmanager_rat, domain",n/a
-2026-06-25,threatfox,DOMAIN,bksnb.com,"win.netsupportmanager_rat, domain",n/a
-2026-06-25,threatfox,DOMAIN,unsinkable.boats,"elf.mirai, domain",n/a
-2026-06-25,threatfox,DOMAIN,ledesla.cfd,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,packsmc.com,"win.5t_downloader, domain",n/a
-2026-06-25,threatfox,DOMAIN,yellowrace.com,"unknown_rat, domain",n/a
-2026-06-25,threatfox,DOMAIN,impresa.pub,"elf.backdoorit, domain",n/a
-2026-06-25,threatfox,DOMAIN,ext4-v.top,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,clicky.com,"unknown, domain",n/a
-2026-06-25,threatfox,DOMAIN,squibblypuff.asia,"elf.mirai, domain",n/a
-2026-06-25,threatfox,DOMAIN,druzya-iz-kartonnoy-korobki.christmas,"elf.mirai, domain",n/a
-2026-06-25,threatfox,DOMAIN,g3byemsx.xbetone.com,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,kereta-tinted.com,"win.remus, domain",n/a
 2026-06-25,threatfox,DOMAIN,hatcae.xyz,"win.remus, domain",n/a
 2026-06-25,threatfox,DOMAIN,c2.saintpetersburgresident.ru,"elf.mirai, domain",n/a
@@ -151,9 +115,7 @@ date,user,type,ioc,tags,context
 2026-06-25,threatfox,DOMAIN,4iw2skgz.tinyshart.com,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,tinyshart.com,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,nmo1ivv6.akhlagvaahkam.xyz,"js.clearfake, domain",n/a
-2026-06-25,threatfox,HASH_SHA256,363ee51fc02f20cb206039434758c3afa1c71bc7d316c6db4a39b0d310ab92f9,"win.remcos, sha256_hash",n/a
-2026-06-25,threatfox,HASH_SHA256,372f19a45d0eb4c8c52117c6ae2bb8040a91bc72be8670623f957a18c2166985,"win.remcos, sha256_hash",n/a
-2026-06-25,threatfox,HASH_SHA256,1eb89fbbdeaca143288cd71e73304fedf5abbeb093bfe64bce48ccb4e5158be9,"unknown, sha256_hash",n/a
+2026-06-26,threatfox,DOMAIN,yekshart.net,"js.clearfake, domain",n/a
 2026-06-25,tweetfeed,URL,http://shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
 2026-06-25,tweetfeed,URL,https://hydrostreptomycin.yikuaiyansz.com/#/,phishing,https://x.com/Metemcyber/status/2070023099689714152
 2026-06-25,tweetfeed,URL,http://104.21.86.198,phishing,https://x.com/Metemcyber/status/2070023099689714152
@@ -321,6 +283,7 @@ date,user,type,ioc,tags,context
 2026-06-25,tweetfeed,URL,http://github.com/lawren3/lawren3.github.io/releases/download/1.0.1/20260501-setup.zip,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
 2026-06-26,tweetfeed,URL,http://studio3dcicco.it/wp-inc/B/U/0/LL/msdpweb/index.php,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-26,tweetfeed,URL,http://www.jyxchina.com/home,phishing,https://x.com/masaomi346/status/2070325615052669168
+2026-06-26,tweetfeed,URL,http://Cedarlanternnetwork.com,"ClickFix, malware",https://x.com/_horus_labs/status/2070336326143230308
 2026-06-25,tweetfeed,DOMAIN,shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
 2026-06-25,tweetfeed,DOMAIN,hydrostreptomycin.yikuaiyansz.com,phishing,https://x.com/Metemcyber/status/2070023099689714152
 2026-06-25,tweetfeed,DOMAIN,bankigbhdonl.zya.me,phishing,https://x.com/PhishStats/status/2070026384437645337
@@ -467,6 +430,7 @@ date,user,type,ioc,tags,context
 2026-06-25,tweetfeed,DOMAIN,tevazms.com,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
 2026-06-26,tweetfeed,DOMAIN,studio3dcicco.it,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-26,tweetfeed,DOMAIN,jyxchina.com,phishing,https://x.com/masaomi346/status/2070325615052669168
+2026-06-26,tweetfeed,DOMAIN,Cedarlanternnetwork.com,"ClickFix, malware",https://x.com/_horus_labs/status/2070336326143230308
 2026-06-25,tweetfeed,HASH_SHA256,425ca8c8c287ddc0c783b49319bf21423201c6195289cdb6738f56fb475a2894,n/a,https://x.com/smica83/status/2070021008434540983
 2026-06-25,tweetfeed,IP,185.27.134.55,phishing,https://x.com/PhishStats/status/2070026384437645337
 2026-06-25,tweetfeed,IP,91.219.237.105,C2,https://x.com/Fact_Finder03/status/2070028255424639276
