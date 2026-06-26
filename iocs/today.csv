@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-25,threatfox,URL,http://94.26.83.70/778052944783478db669.php,"win.stealc, url",n/a
 2026-06-25,threatfox,URL,https://gbaof.com/hair/hia8qef5nj2o/,"unknown, url",n/a
 2026-06-25,threatfox,URL,https://gbaof.com/hair/o48ljeia99/,"unknown, url",n/a
 2026-06-25,threatfox,URL,https://raksasa633.com/,"unknown, url",n/a
@@ -322,6 +321,7 @@ date,user,type,ioc,tags,context
 2026-06-25,tweetfeed,URL,http://tdhlpz.fit,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,URL,http://tevazms.com,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
 2026-06-25,tweetfeed,URL,http://github.com/lawren3/lawren3.github.io/releases/download/1.0.1/20260501-setup.zip,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
+2026-06-26,tweetfeed,URL,http://studio3dcicco.it/wp-inc/B/U/0/LL/msdpweb/index.php,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-25,tweetfeed,DOMAIN,tiktlk.xavierazipni.com,phishing,https://x.com/masaomi346/status/2069957527476002986
 2026-06-25,tweetfeed,DOMAIN,shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
 2026-06-25,tweetfeed,DOMAIN,hydrostreptomycin.yikuaiyansz.com,phishing,https://x.com/Metemcyber/status/2070023099689714152
@@ -467,6 +467,7 @@ date,user,type,ioc,tags,context
 2026-06-25,tweetfeed,DOMAIN,cwkqmg.fit,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,DOMAIN,tdhlpz.fit,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,DOMAIN,tevazms.com,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
+2026-06-26,tweetfeed,DOMAIN,studio3dcicco.it,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-25,tweetfeed,HASH_SHA256,425ca8c8c287ddc0c783b49319bf21423201c6195289cdb6738f56fb475a2894,n/a,https://x.com/smica83/status/2070021008434540983
 2026-06-25,tweetfeed,IP,185.27.134.55,phishing,https://x.com/PhishStats/status/2070026384437645337
 2026-06-25,tweetfeed,IP,91.219.237.105,C2,https://x.com/Fact_Finder03/status/2070028255424639276
@@ -493,6 +494,7 @@ date,user,type,ioc,tags,context
 2026-06-25,tweetfeed,IP,66.42.54.228,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
 2026-06-25,tweetfeed,IP,149.28.128.239,"APT, C2, malware",https://x.com/skocherhan/status/2070209545083707547
 2026-06-25,tweetfeed,IP,3.171.117.86,phishing,https://x.com/PhishStats/status/2070210345017213017
+2026-06-26,tweetfeed,HASH_SHA256,8bf86d9bfc467035997dd4de368293540291df3b7b78fb24ee7a83092d08e87c,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-25,tweetfeed,HASH_MD5,d43fdaa1f0ee09d7e5f0f94ee9df7b6c,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,8266b00c4e45d728cef78b3f5a865f68,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,a239df0247abb6ec29c6618a0a2f62c0,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
