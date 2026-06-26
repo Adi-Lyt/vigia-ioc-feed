@@ -1,10 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-25,threatfox,URL,https://cdn.jsdelivr.net/gh/swiftvpnaccess/smtp-incoming-mx/load,"js.clearfake, url",n/a
-2026-06-25,threatfox,URL,https://jcandsonsroofingandbuildingltd.co.uk/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://deviators.oidev.org/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://reneshone.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://y14.fileboro.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://y14.hopesm188.top/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,http://153.117.32.156:40587/Mozi.m,"elf.mozi, url",n/a
@@ -46,7 +42,11 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,URL,https://bogisibh.xyz/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-26,threatfox,URL,http://110.37.18.108:49402/Mozi.m,"elf.mozi, url",n/a
 2026-06-26,threatfox,URL,https://environmentaldaily.com/,"win.vidar, url",n/a
-2026-06-25,threatfox,DOMAIN,8opocc30.1x303.casino,"js.clearfake, domain",n/a
+2026-06-26,threatfox,URL,https://flatboxproduction.com/,"unknown, url",n/a
+2026-06-26,threatfox,URL,https://tommy-r.lol/o,"js.kongtuke, url",n/a
+2026-06-26,threatfox,URL,https://globalforumconsulting.com/,"unknown, url",n/a
+2026-06-26,threatfox,URL,https://screy.world/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
+2026-06-26,threatfox,URL,http://13.63.239.13/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
 2026-06-25,threatfox,DOMAIN,y14.fileboro.com,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,y14.hopesm188.top,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,repack-games.com,"win.5t_downloader, domain",n/a
@@ -309,16 +309,11 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,DOMAIN,k1h.fileboro.com,"win.vidar, domain",n/a
 2026-06-26,threatfox,DOMAIN,k1h.hopesm188.top,"win.vidar, domain",n/a
 2026-06-26,threatfox,DOMAIN,bogisibh.xyz,"js.kongtuke, domain",n/a
-2026-06-25,tweetfeed,URL,https://airdrop-destranetwork.live,phishing,https://x.com/Malwarehunterr/status/2070107643428143274
-2026-06-25,tweetfeed,URL,https://airdrop-destranetwork.live/landing/docusign-sign,phishing,https://x.com/Malwarehunterr/status/2070107643428143274
-2026-06-25,tweetfeed,URL,http://onrncrsft.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,http://awarenesstrainingcompliance.softr.app,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,http://protocoventures.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,http://coredeskio.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,https://linkdree.net,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,URL,https://bestveinescolas.com/b09286b1-193b-43b0-bac1-0b6148a227a9/630fd7cb-0852-470e-92a9-0723aef5a711,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,URL,http://bestveinescolas.com,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,URL,http://66.42.54.228,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
+2026-06-26,threatfox,DOMAIN,tommy-r.lol,"js.kongtuke, domain",n/a
+2026-06-26,threatfox,DOMAIN,api.pimparolix.com,"unknown, domain",n/a
+2026-06-26,threatfox,DOMAIN,fg-analytics.biz,"unknown, domain",n/a
+2026-06-26,threatfox,DOMAIN,0qam1x6q.alobet.pro,"js.clearfake, domain",n/a
+2026-06-26,threatfox,DOMAIN,alobet.pro,"js.clearfake, domain",n/a
 2026-06-25,tweetfeed,URL,https://foh8y.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,URL,https://zqgenqu.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,URL,https://tlktok.dericaeug.com/redirect/url3A2Ftikue.com/kstudioenter/method/2Ftikto,phishing,https://x.com/harugasumi/status/2070152260122984670
@@ -453,13 +448,10 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,URL,https://github.com/officedesknote-star,n/a,https://x.com/suyog41/status/2070473389698064470
 2026-06-26,tweetfeed,URL,http://ultraflavors.com,n/a,https://x.com/nextronresearch/status/2070473326372291037
 2026-06-26,tweetfeed,URL,http://carlminiclub.com,n/a,https://x.com/nextronresearch/status/2070473326372291037
-2026-06-25,tweetfeed,DOMAIN,airdrop-destranetwork.live,phishing,https://x.com/Malwarehunterr/status/2070107643428143274
-2026-06-25,tweetfeed,DOMAIN,onrncrsft.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,awarenesstrainingcompliance.softr.app,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,protocoventures.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,coredeskio.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,linkdree.net,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,DOMAIN,bestveinescolas.com,n/a,https://x.com/stop_spammerz/status/2070132164868374783
+2026-06-26,tweetfeed,URL,http://89.106.74.19:7671/socket.io/,n/a,https://x.com/marsomx_/status/2070461846423826792
+2026-06-26,tweetfeed,URL,http://207.56.119.65:4449,n/a,https://x.com/bomccss/status/2070495528283234800
+2026-06-26,tweetfeed,URL,http://207.56.119.65,n/a,https://x.com/tdatwja/status/2070472200168280231
+2026-06-26,tweetfeed,URL,https://onedrive.syncn.cfd,n/a,https://x.com/malwrhunterteam/status/2070495990524621096
 2026-06-25,tweetfeed,DOMAIN,foh8y.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,DOMAIN,zqgenqu.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,DOMAIN,tlktok.dericaeug.com,phishing,https://x.com/harugasumi/status/2070152260122984670
@@ -583,8 +575,7 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,DOMAIN,dservices.space,n/a,https://x.com/malwrhunterteam/status/2070466586591313950
 2026-06-26,tweetfeed,DOMAIN,ultraflavors.com,n/a,https://x.com/nextronresearch/status/2070473326372291037
 2026-06-26,tweetfeed,DOMAIN,carlminiclub.com,n/a,https://x.com/nextronresearch/status/2070473326372291037
-2026-06-25,tweetfeed,HASH_SHA256,6ee59d04e7cdebd187d2dc4a8360a132462ee6648359470b51cd5715cc2bfee9,Remcos,https://x.com/bomccss/status/2070133348123742679
-2026-06-25,tweetfeed,IP,66.42.54.228,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
+2026-06-26,tweetfeed,DOMAIN,onedrive.syncn.cfd,n/a,https://x.com/malwrhunterteam/status/2070495990524621096
 2026-06-25,tweetfeed,IP,149.28.128.239,"APT, C2, malware",https://x.com/skocherhan/status/2070209545083707547
 2026-06-25,tweetfeed,IP,3.171.117.86,phishing,https://x.com/PhishStats/status/2070210345017213017
 2026-06-26,tweetfeed,HASH_SHA256,8bf86d9bfc467035997dd4de368293540291df3b7b78fb24ee7a83092d08e87c,phishing,https://x.com/skocherhan/status/2070298090335052282
@@ -611,7 +602,10 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,HASH_SHA256,380cf253f18e3252376af4fb872f5c2f7ba9364e6b46af551069413258f27cc1,n/a,https://x.com/smica83/status/2070475810012606579
 2026-06-26,tweetfeed,HASH_SHA256,419f4b89f080ee9aa726df0f9c2217fac41101c867994124c85d68b3cb6c6332,n/a,https://x.com/smica83/status/2070476878951907404
 2026-06-26,tweetfeed,HASH_SHA256,bc3d82c6ea17a5198d600bab8f602bd020b94c7d00318d3c241a7b103535d6de,n/a,https://x.com/smica83/status/2070478406630662555
-2026-06-25,tweetfeed,HASH_MD5,a239df0247abb6ec29c6618a0a2f62c0,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
-2026-06-25,tweetfeed,HASH_MD5,66d68627d91cf99ac3be45b002bcd51d,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
-2026-06-25,tweetfeed,HASH_MD5,56a56ba41a1dc707c3b88a171f31b6d2,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
+2026-06-26,tweetfeed,IP,206.224.71.3,n/a,https://x.com/glob3x/status/2070475745978175721
+2026-06-26,tweetfeed,IP,60.71.224.206,n/a,https://x.com/glob3x/status/2070475745978175721
+2026-06-26,tweetfeed,IP,3.71.224.206,n/a,https://x.com/glob3x/status/2070475745978175721
+2026-06-26,tweetfeed,HASH_SHA256,1e06e60878e1c91eb02208202727297d723ac29bf69b4fc8d9a80586b97043cb,n/a,https://x.com/smica83/status/2070486390970765487
+2026-06-26,tweetfeed,IP,207.56.119.65,n/a,https://x.com/bomccss/status/2070495528283234800
+2026-06-26,tweetfeed,HASH_SHA256,abd52fb018452565493d51b89d27d9ed16d94a0db709d35d104bec240a04d90a,n/a,https://x.com/bomccss/status/2070495528283234800
 2026-06-26,tweetfeed,HASH_MD5,13bd44b97c1488ade87974a352797e1f,n/a,https://x.com/suyog41/status/2070473389698064470
