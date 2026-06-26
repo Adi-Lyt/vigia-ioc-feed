@@ -695,7 +695,6 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,URL,http://13.63.239.13/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
 2026-06-26,threatfox,URL,https://gulshan2.com/,"unknown, url",n/a
 2026-06-26,threatfox,URL,http://osgyx.cn/getinstall64,"win.valley_rat, url",n/a
-2026-06-19,threatfox,DOMAIN,0q26dscq.anodaz.vip,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,s18b1z48.tarahisystem.xyz,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,tarahisystem.xyz,"js.clearfake, domain",n/a
 2026-06-19,threatfox,DOMAIN,tarbiyateslami.xyz,"js.clearfake, domain",n/a
@@ -1868,7 +1867,6 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,DOMAIN,yvkbbq3e.1xdownload2023.com,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,effc4p41.honardartarikh.xyz,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,honardartarikh.xyz,"js.clearfake, domain",n/a
-2026-06-19,tweetfeed,URL,https://jp.fvwkdgn.cn,phishing,https://x.com/AP_Zenmashi/status/2068020998851670216
 2026-06-19,tweetfeed,URL,http://8790tn5c190y51v7n2.com,n/a,https://x.com/MalasadaTech/status/2068036682533032151
 2026-06-19,tweetfeed,URL,http://5vy79n210m5v812.com,n/a,https://x.com/MalasadaTech/status/2068036682533032151
 2026-06-19,tweetfeed,URL,http://5v12-3my5908y1.com,n/a,https://x.com/MalasadaTech/status/2068036682533032151
@@ -3043,7 +3041,10 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,URL,http://factor-re.co.il,n/a,https://x.com/FalconFeedsio/status/2070530152803799146
 2026-06-26,tweetfeed,URL,https://jbcarnedesol.com/wp-includes/images/xned26/.secured/,phishing,https://x.com/SpiderLabs/status/2070538080944075156
 2026-06-26,tweetfeed,URL,https://jbcarnedesol.com/wp-includes/images/xned26/.secured/assets/js/afid.php?r=0,phishing,https://x.com/SpiderLabs/status/2070538080944075156
-2026-06-19,tweetfeed,DOMAIN,jp.fvwkdgn.cn,phishing,https://x.com/AP_Zenmashi/status/2068020998851670216
+2026-06-26,tweetfeed,URL,http://apiupdate.com/microsoft.graph.v1.Policy/Push,malware,https://x.com/FatzQatz/status/2070561112349905138
+2026-06-26,tweetfeed,URL,http://47.76.174.189,malware,https://x.com/FatzQatz/status/2070561112349905138
+2026-06-26,tweetfeed,URL,http://upflowinfo.info,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
+2026-06-26,tweetfeed,URL,http://45.77.34.242,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
 2026-06-19,tweetfeed,DOMAIN,8790tn5c190y51v7n2.com,n/a,https://x.com/MalasadaTech/status/2068036682533032151
 2026-06-19,tweetfeed,DOMAIN,5vy79n210m5v812.com,n/a,https://x.com/MalasadaTech/status/2068036682533032151
 2026-06-19,tweetfeed,DOMAIN,5v12-3my5908y1.com,n/a,https://x.com/MalasadaTech/status/2068036682533032151
@@ -3857,7 +3858,8 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,DOMAIN,genomicsforge.com,n/a,https://x.com/SpiderLabs/status/2070503545841873313
 2026-06-26,tweetfeed,DOMAIN,factor-re.co.il,n/a,https://x.com/FalconFeedsio/status/2070530152803799146
 2026-06-26,tweetfeed,DOMAIN,jbcarnedesol.com,phishing,https://x.com/SpiderLabs/status/2070538080944075156
-2026-06-19,tweetfeed,IP,43.165.170.92,phishing,https://x.com/AP_Zenmashi/status/2068020998851670216
+2026-06-26,tweetfeed,DOMAIN,apiupdate.com,malware,https://x.com/FatzQatz/status/2070561112349905138
+2026-06-26,tweetfeed,DOMAIN,upflowinfo.info,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
 2026-06-19,tweetfeed,IP,85.11.187.8,n/a,https://x.com/stop_spammerz/status/2068034872866710001
 2026-06-19,tweetfeed,IP,176.120.22.224,NetSupport,https://x.com/skocherhan/status/2068059388028338687
 2026-06-19,tweetfeed,IP,212.193.30.45,n/a,https://x.com/vmray/status/2068071864036131167
@@ -4088,6 +4090,9 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,IP,207.56.119.65,n/a,https://x.com/bomccss/status/2070495528283234800
 2026-06-26,tweetfeed,HASH_SHA256,abd52fb018452565493d51b89d27d9ed16d94a0db709d35d104bec240a04d90a,n/a,https://x.com/bomccss/status/2070495528283234800
 2026-06-26,tweetfeed,HASH_SHA256,3a5c626f163355ffb0714536bdaa36e3aebd7c71daa8d0831c2b8baa87ddaa2d,phishing,https://x.com/SpiderLabs/status/2070538080944075156
+2026-06-26,tweetfeed,IP,47.76.174.189,malware,https://x.com/FatzQatz/status/2070561112349905138
+2026-06-26,tweetfeed,HASH_SHA256,e9daa34a227fda5da11c250796465bb8081f2913fb6ff4c28cfc49992e762da5,malware,https://x.com/FatzQatz/status/2070561112349905138
+2026-06-26,tweetfeed,IP,45.77.34.242,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
 2026-06-19,tweetfeed,HASH_MD5,da0c5b81ad4fb278af36ce0aae8a15d0,NetSupport,https://x.com/skocherhan/status/2068059388028338687
 2026-06-21,tweetfeed,HASH_MD5,d5409fb88571901f90be82f69d48b50d,n/a,https://x.com/skocherhan/status/2068603414351622524
 2026-06-21,tweetfeed,HASH_MD5,f67b92fd8e324343e1ac281c71cd211a,n/a,https://x.com/skocherhan/status/2068604023519711688
