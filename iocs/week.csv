@@ -5,21 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-20,threatfox,URL,https://coralregistry.top/middleware/role-render.js,"js.smartapesg, url",n/a
-2026-06-20,threatfox,URL,https://coralregistry.top/middleware/endpoint-asset.js,"js.smartapesg, url",n/a
-2026-06-20,threatfox,URL,https://coralregistry.top/middleware/version-schema,"js.smartapesg, url",n/a
-2026-06-20,threatfox,URL,http://google2oauth.com/google.txt,"win.netsupportmanager_rat, url",n/a
-2026-06-20,threatfox,URL,https://imgur.media/,"unknown, url",n/a
-2026-06-20,threatfox,URL,http://www.kongographics.com/200,"unknown, url",n/a
-2026-06-20,threatfox,URL,http://cdn.librarygrades.com/200.txt,"unknown, url",n/a
-2026-06-20,threatfox,URL,https://elijahwgummer.baby/Monkey-e669fb0-a99aeeab-5e65331880-0b06979,"unknown, url",n/a
-2026-06-20,threatfox,URL,https://vigipart.fr/,"unknown, url",n/a
-2026-06-20,threatfox,URL,https://ivorycourtyard.top/middleware/role-render.js,"js.smartapesg, url",n/a
-2026-06-20,threatfox,URL,http://153.117.15.187:54011/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,URL,http://223.123.124.121:60095/Mozi.7,"elf.mozi, url",n/a
-2026-06-20,threatfox,URL,http://45.230.66.112:11404/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,URL,https://prguru.pk/,"unknown, url",n/a
-2026-06-20,threatfox,URL,https://bullpcn.com/,"unknown, url",n/a
 2026-06-20,threatfox,URL,http://103.186.77.95:49560/Mozi.a,"elf.mozi, url",n/a
 2026-06-20,threatfox,URL,http://72.255.3.39:41763/Mozi.m,"elf.mozi, url",n/a
 2026-06-20,threatfox,URL,http://153.117.13.227:34153/Mozi.m,"elf.mozi, url",n/a
@@ -692,13 +677,14 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,URL,http://13.63.239.13/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
 2026-06-26,threatfox,URL,https://gulshan2.com/,"unknown, url",n/a
 2026-06-26,threatfox,URL,http://osgyx.cn/getinstall64,"win.valley_rat, url",n/a
-2026-06-20,threatfox,DOMAIN,coralregistry.top,"js.smartapesg, domain",n/a
-2026-06-20,threatfox,DOMAIN,coldtechreview.vip,"elf.xmrig, domain",n/a
-2026-06-20,threatfox,DOMAIN,node54group.com,"win.netsupportmanager_rat, domain",n/a
-2026-06-20,threatfox,DOMAIN,node66group.pro,"win.netsupportmanager_rat, domain",n/a
-2026-06-20,threatfox,DOMAIN,google2oauth.com,"win.netsupportmanager_rat, domain",n/a
-2026-06-20,threatfox,DOMAIN,elijahwgummer.baby,"unknown, domain",n/a
-2026-06-20,threatfox,DOMAIN,dgdf.nimographic.com,"unknown, domain",n/a
+2026-06-27,threatfox,URL,http://185.194.175.132:8000/api/endpoint.php,"unknown, url",n/a
+2026-06-27,threatfox,URL,http://bins.oceanic-node.su/wget.sh,"elf.mirai, url",n/a
+2026-06-27,threatfox,URL,http://72.255.33.12:55798/Mozi.m,"elf.mozi, url",n/a
+2026-06-27,threatfox,URL,http://103.31.100.79:57731/Mozi.m,"elf.mozi, url",n/a
+2026-06-27,threatfox,URL,http://36.255.40.171:34374/Mozi.a,"elf.mozi, url",n/a
+2026-06-27,threatfox,URL,http://172.245.25.134:8787/collect,"unknown, url",n/a
+2026-06-27,threatfox,URL,http://110.36.28.183:54729/Mozi.7,"elf.mozi, url",n/a
+2026-06-27,threatfox,URL,http://60.23.235.10:40564/Mozi.m,"elf.mozi, url",n/a
 2026-06-20,threatfox,DOMAIN,13i466gp.shart303.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,shart303.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,book-imageport.info,"unknown_loader, domain",n/a
@@ -1861,9 +1847,17 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,samplerace.info,"unknown_loader, domain",n/a
 2026-06-27,threatfox,DOMAIN,85xhbv2q.shartcart.xyz,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,ricocaseagainst.rebirth.st,"unknown, domain",n/a
-2026-06-20,threatfox,HASH_SHA256,c343f53916747c5b8a60aed844b1882863f432af65867297edf1913f167c4f68,"unknown, sha256_hash",n/a
-2026-06-20,threatfox,HASH_SHA256,e8ee3e3e25e9deef039131b7e66855a2e614d36f395b582f9b7e6365ffd61484,"unknown, sha256_hash",n/a
-2026-06-20,threatfox,HASH_SHA256,13420d64ce091f6dc0505d5a2ca5858f6080f3d91580459c2284bd68fdcb1979,"unknown, sha256_hash",n/a
+2026-06-27,threatfox,DOMAIN,icro-soft.com,"win.overlord, domain",n/a
+2026-06-27,threatfox,DOMAIN,hoteljune2026.blogspot.com,"win.overlord, domain",n/a
+2026-06-27,threatfox,DOMAIN,bukuru.duckdns.org,"win.remcos, domain",n/a
+2026-06-27,threatfox,DOMAIN,skillboxultra.live,"unknown_stealer, domain",n/a
+2026-06-27,threatfox,DOMAIN,sailboaterists.net,"unknown, domain",n/a
+2026-06-27,threatfox,DOMAIN,mdsearch.xyz,"unknown_stealer, domain",n/a
+2026-06-27,threatfox,DOMAIN,madproxys.top,"unknown_stealer, domain",n/a
+2026-06-27,threatfox,DOMAIN,olddenver.xyz,"unknown, domain",n/a
+2026-06-27,threatfox,DOMAIN,sdnstatistic.com,"unknown, domain",n/a
+2026-06-27,threatfox,DOMAIN,africadasi.org,"unknown, domain",n/a
+2026-06-27,threatfox,DOMAIN,closegate21.xyz,"unknown_stealer, domain",n/a
 2026-06-20,tweetfeed,URL,https://cff-mufg.hgntd.com/benPPApe/,phishing,https://x.com/masaomi346/status/2068246281903067234
 2026-06-20,tweetfeed,URL,http://aumri.ae,Remcos,https://x.com/skocherhan/status/2068255486374183013
 2026-06-20,tweetfeed,URL,http://dentalux202.ydns.eu,Remcos,https://x.com/skocherhan/status/2068255486374183013
@@ -3022,6 +3016,16 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,URL,https://accountinprogresse.s487d9.com,phishing,https://x.com/masaomi346/status/2070659077349523525
 2026-06-27,tweetfeed,URL,http://asamkanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
 2026-06-27,tweetfeed,URL,http://malakanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
+2026-06-27,threatfox,HASH_SHA256,275e5b085534f64313b50cbdcb08ecd59c57d21c96bb937f140ee92a3d27f792,"unknown, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,1b9e167757acd83c27a58de454cdc67af447c16422e8568ac08491de01ca7caa,"unknown, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,39fa0fa694213d27c09ff2da27ae8a08866a36edece31e0c14312a4d42eb5fb4,"unknown, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,50d9c3519a2fb107671c7d0151aa2ea2e15143d732821ec381732876e487034d,"unknown, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,49281a9d741515d1ece2051fc1c5f7fac2c54c73f5e96c32a70d6729cdb94e4e,"unknown, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,d42e4181eb28a34149d95e716d63e9dcbe07c9f93f630bc7f6f19afda19bf3fc,"win.crypto_ransomeware, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,a7aa93ad69ee4641c9346eea3456415dbb00be679940d5070db0587894ede987,"win.crypto_ransomeware, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,cb1dd59ac326416b84a5c28ced438a25518d4b5fadfbb9c979ed319db844cda7,"win.crypto_ransomeware, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,0013d3a2143469022ce41148f0df1898a5c7f122bc5d2842139d47054178f83c,"win.uacme, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,3142e7ca3dbe7756b792ba425bf4e3c3b856c430647a8c51126a38993f916451,"win.crypto_ransomeware, sha256_hash",n/a
 2026-06-20,tweetfeed,DOMAIN,cff-mufg.hgntd.com,phishing,https://x.com/masaomi346/status/2068246281903067234
 2026-06-20,tweetfeed,DOMAIN,aumri.ae,Remcos,https://x.com/skocherhan/status/2068255486374183013
 2026-06-20,tweetfeed,DOMAIN,dentalux202.ydns.eu,Remcos,https://x.com/skocherhan/status/2068255486374183013
