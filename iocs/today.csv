@@ -26,7 +26,7 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,URL,http://110.36.28.183:54729/Mozi.7,"elf.mozi, url",n/a
 2026-06-27,threatfox,URL,http://60.23.235.10:40564/Mozi.m,"elf.mozi, url",n/a
 2026-06-27,threatfox,URL,https://smartpos.com.tr/,"win.vidar, url",n/a
-2026-06-26,threatfox,DOMAIN,rfhudhbz.313betsingup.casino,"js.clearfake, domain",n/a
+2026-06-27,threatfox,URL,http://millersteelusa.com:8893,"win.remus, url",n/a
 2026-06-26,threatfox,DOMAIN,perfectcloudgate.com,"unknown, domain",n/a
 2026-06-26,threatfox,DOMAIN,powerfullcloudflare.com,"unknown, domain",n/a
 2026-06-26,threatfox,DOMAIN,powerfireguard.com,"unknown, domain",n/a
@@ -284,7 +284,8 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,sdnstatistic.com,"unknown, domain",n/a
 2026-06-27,threatfox,DOMAIN,africadasi.org,"unknown, domain",n/a
 2026-06-27,threatfox,DOMAIN,closegate21.xyz,"unknown_stealer, domain",n/a
-2026-06-26,tweetfeed,URL,https://tommy-v.lol/m,APT,https://x.com/byrne_emmy12099/status/2070441663668039825
+2026-06-27,threatfox,DOMAIN,bcb7ukdo.tinyshart.com,"js.clearfake, domain",n/a
+2026-06-27,threatfox,DOMAIN,smartlivingstyle.cat,"unknown_stealer, domain",n/a
 2026-06-26,tweetfeed,URL,http://67.43.50.11,n/a,https://x.com/malwrhunterteam/status/2070446129024471196
 2026-06-26,tweetfeed,URL,https://enjoy-rachel-rider-ireland.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2070460565806276864
 2026-06-26,tweetfeed,URL,https://club-pandasport.com/jwjrFVvY/,phishing,https://x.com/masaomi346/status/2070463971698803183
@@ -429,6 +430,8 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,HASH_SHA256,cb1dd59ac326416b84a5c28ced438a25518d4b5fadfbb9c979ed319db844cda7,"win.crypto_ransomeware, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,0013d3a2143469022ce41148f0df1898a5c7f122bc5d2842139d47054178f83c,"win.uacme, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,3142e7ca3dbe7756b792ba425bf4e3c3b856c430647a8c51126a38993f916451,"win.crypto_ransomeware, sha256_hash",n/a
+2026-06-27,tweetfeed,URL,https://acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
+2026-06-27,tweetfeed,URL,http://settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-26,tweetfeed,DOMAIN,enjoy-rachel-rider-ireland.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2070460565806276864
 2026-06-26,tweetfeed,DOMAIN,club-pandasport.com,phishing,https://x.com/masaomi346/status/2070463971698803183
 2026-06-26,tweetfeed,DOMAIN,dsharedservices.xyz,n/a,https://x.com/malwrhunterteam/status/2070466586591313950
@@ -550,11 +553,8 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,DOMAIN,accountinprogresse.s487d9.com,phishing,https://x.com/masaomi346/status/2070659077349523525
 2026-06-27,tweetfeed,DOMAIN,asamkanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
 2026-06-27,tweetfeed,DOMAIN,malakanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
-2026-06-26,tweetfeed,HASH_SHA256,c64dc42df7c7f4dc22ac09037394121cbda7549ea1b3271b1cedf79b24c5bc3e,n/a,https://x.com/Dixit_404/status/2070432841843052891
-2026-06-26,tweetfeed,HASH_SHA256,8691acd18cf8e5bab8698b2e1a21988fab21c8142fb9d8dc5857da3dce773aba,n/a,https://x.com/Dixit_404/status/2070432841843052891
-2026-06-26,tweetfeed,HASH_SHA256,ceba95c3662b1a6e62a790856adef0fb3de29e8cb468521004db77e2d3ba3946,n/a,https://x.com/Dixit_404/status/2070432841843052891
-2026-06-26,tweetfeed,HASH_SHA256,578c60c9c55ab901d14d4c53c114788216f2e758c72699514245b63fe0860c69,n/a,https://x.com/Dixit_404/status/2070432841843052891
-2026-06-26,tweetfeed,HASH_SHA256,254d585ad9e536457987fe575c35552884fd94260e562909c7b30835d8c99e1c,APT,https://x.com/byrne_emmy12099/status/2070441663668039825
+2026-06-27,tweetfeed,DOMAIN,acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
+2026-06-27,tweetfeed,DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-26,tweetfeed,IP,67.43.50.11,n/a,https://x.com/malwrhunterteam/status/2070446129024471196
 2026-06-26,tweetfeed,HASH_SHA256,5ba8e0109fbf8198e49ec8ea7877c3ec34aba8c6748120a6a9ee583adb2433b1,n/a,https://x.com/smica83/status/2070467154357399937
 2026-06-26,tweetfeed,HASH_SHA256,833eb2907cbf002c325356a4025a572e84fcc01504708f6328d154dd57c3b42f,n/a,https://x.com/smica83/status/2070467691769413830
