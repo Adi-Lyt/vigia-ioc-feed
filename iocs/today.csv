@@ -19,8 +19,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmips,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmpsl,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://175.107.228.60:46088/Mozi.m,"elf.mozi, url",n/a
-2026-06-26,threatfox,DOMAIN,effc4p41.honardartarikh.xyz,"js.clearfake, domain",n/a
-2026-06-26,threatfox,DOMAIN,honardartarikh.xyz,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,honarrang.online,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,sjc3.sabad724.bio,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,6b4ki3sp.abt90kade.com,"js.clearfake, domain",n/a
@@ -80,6 +78,8 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,balanga.studio,"js.iclickfix, domain",n/a
 2026-06-27,threatfox,DOMAIN,hzks2llo.1xdownload2023.com,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,test.officeplustool.top,"win.cobalt_strike, domain",n/a
+2026-06-27,threatfox,DOMAIN,ccczqxl6.blackjackonlineplay83.com,"js.clearfake, domain",n/a
+2026-06-27,threatfox,DOMAIN,yigu360.com,"win.asyncrat, domain",n/a
 2026-06-26,tweetfeed,URL,http://apiupdate.com/microsoft.graph.v1.Policy/Push,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,URL,http://47.76.174.189,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,URL,http://upflowinfo.info,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
@@ -212,6 +212,7 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,HASH_SHA256,f636f4b5522e2a1c341fd1064190fe714a2965b4432b0bfe57c05233a60f611f,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,37733e5966cf4129c79c419725fbc2f7bcdac446683d966107bb3065d959422f,"elf.mirai, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,3af414ef65da7494da9604e1a1dcf1a2a92234a4c8fd2fa11bb292970ea4282e,"elf.mirai, sha256_hash",n/a
+2026-06-27,tweetfeed,URL,http://commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
 2026-06-26,tweetfeed,DOMAIN,apiupdate.com,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,DOMAIN,upflowinfo.info,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
 2026-06-26,tweetfeed,DOMAIN,agrosuperglobal.com,phishing,https://x.com/PhishStats/status/2070578343074787409
@@ -324,6 +325,7 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,DOMAIN,acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
 2026-06-27,tweetfeed,DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
+2026-06-27,tweetfeed,DOMAIN,commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
 2026-06-26,tweetfeed,IP,47.76.174.189,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,HASH_SHA256,e9daa34a227fda5da11c250796465bb8081f2913fb6ff4c28cfc49992e762da5,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,IP,45.77.34.242,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
