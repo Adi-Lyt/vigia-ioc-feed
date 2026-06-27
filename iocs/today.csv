@@ -28,7 +28,6 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,URL,http://13.63.239.13/download/406f3e9e48362d08?.zip,"unknown_stealer, url",n/a
 2026-06-26,threatfox,URL,https://gulshan2.com/,"unknown, url",n/a
 2026-06-26,threatfox,URL,http://osgyx.cn/getinstall64,"win.valley_rat, url",n/a
-2026-06-26,threatfox,DOMAIN,yekshart.net,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,ty954rii.313betios.com,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,313betios.com,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,nxk3vadq.1xprobet.app,"js.clearfake, domain",n/a
@@ -285,7 +284,7 @@ date,user,type,ioc,tags,context
 2026-06-26,threatfox,DOMAIN,6b4ki3sp.abt90kade.com,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,c2uwzjf8.blackjackonlineplay83.com,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,tszebpwz.1xprobet.app,"js.clearfake, domain",n/a
-2026-06-26,tweetfeed,URL,http://Cedarlanternnetwork.com,"ClickFix, malware",https://x.com/_horus_labs/status/2070336326143230308
+2026-06-27,threatfox,DOMAIN,7pkztjkc.1xbetpartnersiran.com,"js.clearfake, domain",n/a
 2026-06-26,tweetfeed,URL,https://invitedguest.one/Letsparty/Invite.php,n/a,https://x.com/patialavii/status/2070367588899819659
 2026-06-26,tweetfeed,URL,https://invitedguest.one/Letsparty/ScreenConnect.ClientSetup.msi,n/a,https://x.com/patialavii/status/2070367588899819659
 2026-06-26,tweetfeed,URL,https://dub.sh/qplwvAL,phishing,https://x.com/PhishStats/status/2070389587109683547
@@ -425,7 +424,8 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,URL,http://4pjmt4fzqh.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
 2026-06-26,tweetfeed,URL,http://dg7wn59z9u.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
 2026-06-27,tweetfeed,URL,https://accountinprogresse.s487d9.com,phishing,https://x.com/masaomi346/status/2070659077349523525
-2026-06-26,tweetfeed,DOMAIN,Cedarlanternnetwork.com,"ClickFix, malware",https://x.com/_horus_labs/status/2070336326143230308
+2026-06-27,tweetfeed,URL,http://asamkanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
+2026-06-27,tweetfeed,URL,http://malakanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
 2026-06-26,tweetfeed,DOMAIN,invitedguest.one,n/a,https://x.com/patialavii/status/2070367588899819659
 2026-06-26,tweetfeed,DOMAIN,dstrred.iabxu.xyz,"malware, phishing",https://x.com/masaomi346/status/2070388360213066222
 2026-06-26,tweetfeed,DOMAIN,dub.sh,phishing,https://x.com/PhishStats/status/2070389587109683547
@@ -548,6 +548,8 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,DOMAIN,4pjmt4fzqh.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
 2026-06-26,tweetfeed,DOMAIN,dg7wn59z9u.billbutterworth.com,n/a,https://x.com/skocherhan/status/2070622906669748315
 2026-06-27,tweetfeed,DOMAIN,accountinprogresse.s487d9.com,phishing,https://x.com/masaomi346/status/2070659077349523525
+2026-06-27,tweetfeed,DOMAIN,asamkanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
+2026-06-27,tweetfeed,DOMAIN,malakanifoods.com,phishing,https://x.com/Q8CyberTi/status/2070697503113023497
 2026-06-26,tweetfeed,HASH_SHA256,9cea4d66b896af73473b289cd8a44466e3cb0ca24735682abb13bd73fba11886,n/a,https://x.com/patialavii/status/2070367588899819659
 2026-06-26,tweetfeed,IP,91.92.242.236,n/a,https://x.com/banthisguy9349/status/2070376669148549308
 2026-06-26,tweetfeed,IP,85.11.167.42,C2,https://x.com/Fact_Finder03/status/2070376788463849829
