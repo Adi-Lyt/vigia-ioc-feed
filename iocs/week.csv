@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-20,threatfox,URL,http://193.148.57.10/88004f4d3e32489389ea.php,"win.stealc, url",n/a
 2026-06-20,threatfox,URL,https://almontm.xyz/file.js,"js.kongtuke, url",n/a
 2026-06-21,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/8a-96dfe89a4aa3/hum-id46,"js.clearfake, url",n/a
 2026-06-21,threatfox,URL,http://23.27.13.43/,"js.beavertail, url",n/a
@@ -692,7 +691,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmips,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmpsl,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://175.107.228.60:46088/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,DOMAIN,zuldqm04.riyaziyattajrobi.xyz,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,almontm.xyz,"js.kongtuke, domain",n/a
 2026-06-20,threatfox,DOMAIN,liwxdd48.romabetkade.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,host.serveminecraft.net,"win.asyncrat, domain",n/a
@@ -1895,7 +1893,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,test.officeplustool.top,"win.cobalt_strike, domain",n/a
 2026-06-27,threatfox,DOMAIN,ccczqxl6.blackjackonlineplay83.com,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,yigu360.com,"win.asyncrat, domain",n/a
-2026-06-20,tweetfeed,URL,http://194.36.190.17,"APT, malware",https://x.com/phatomcandle/status/2068393461003513937
 2026-06-20,tweetfeed,URL,http://maniskanifoods.com,n/a,https://x.com/Q8CyberTi/status/2068404734751367371
 2026-06-20,tweetfeed,URL,https://webhook.site/#!/view/22e20640-e2a1-4bb2-b203-061077d055ff/,n/a,https://x.com/abh1sek/status/2068329349003292698
 2026-06-20,tweetfeed,URL,https://static.hub.mcgi.org/assets/js/vendor/dxon-atualizador-acesso,n/a,https://x.com/smica83/status/2068418921208717778
@@ -3054,6 +3051,16 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,HASH_SHA256,37733e5966cf4129c79c419725fbc2f7bcdac446683d966107bb3065d959422f,"elf.mirai, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,3af414ef65da7494da9604e1a1dcf1a2a92234a4c8fd2fa11bb292970ea4282e,"elf.mirai, sha256_hash",n/a
 2026-06-27,tweetfeed,URL,http://commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
+2026-06-27,tweetfeed,URL,https://rb.gy/lfzyjk,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
+2026-06-27,tweetfeed,URL,http://service-checkdate-iduser92749.patisonia.com/Filemanager/8f47264b4b7451f3727c84e3c2e818d1/,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
+2026-06-27,tweetfeed,URL,http://92.204.71.224,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
+2026-06-27,tweetfeed,URL,http://92.205.28.29,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
+2026-06-27,tweetfeed,URL,https://vortix.vu/yoururl/exgam-MX2-script.htm#redacted,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
+2026-06-27,tweetfeed,URL,https://myfitnessapp.marketluxe.click/DoYoga-v2/reciever.php/,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
+2026-06-27,tweetfeed,URL,https://myfitnessapp.marketluxe.click/DoYoga-v2/index.php,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
+2026-06-27,tweetfeed,URL,http://vortix.vu,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
+2026-06-27,tweetfeed,URL,http://myfitnessapp.marketluxe.click,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
+2026-06-27,tweetfeed,URL,https://carrefour-pass-espace.de/fr/fr/,phishing,https://x.com/PhishStats/status/2070932479737819520
 2026-06-20,tweetfeed,DOMAIN,maniskanifoods.com,n/a,https://x.com/Q8CyberTi/status/2068404734751367371
 2026-06-20,tweetfeed,DOMAIN,webhook.site,n/a,https://x.com/abh1sek/status/2068329349003292698
 2026-06-20,tweetfeed,DOMAIN,static.hub.mcgi.org,n/a,https://x.com/smica83/status/2068418921208717778
@@ -3844,7 +3851,10 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,tweetfeed,DOMAIN,commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
-2026-06-20,tweetfeed,IP,194.36.190.17,"APT, malware",https://x.com/phatomcandle/status/2068393461003513937
+2026-06-27,tweetfeed,DOMAIN,service-checkdate-iduser92749.patisonia.com,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
+2026-06-27,tweetfeed,DOMAIN,vortix.vu,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
+2026-06-27,tweetfeed,DOMAIN,myfitnessapp.marketluxe.click,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
+2026-06-27,tweetfeed,DOMAIN,carrefour-pass-espace.de,phishing,https://x.com/PhishStats/status/2070932479737819520
 2026-06-20,tweetfeed,HASH_SHA256,dacf7be18ad926cb2008f1a139439add5917bbded18e1b303bc7dd5c63cf4402,n/a,https://x.com/smica83/status/2068418921208717778
 2026-06-20,tweetfeed,HASH_SHA256,d9115ff47fa9506711bc9c734e8b96125f18f48a5217ccbc1f057b2ce51a465e,n/a,https://x.com/smica83/status/2068419651533414607
 2026-06-20,tweetfeed,IP,178.16.53.53,n/a,https://x.com/smica83/status/2068421266470818157
@@ -4066,6 +4076,9 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,HASH_SHA256,ebaabe04091481631476e17a03ac950ec48f7bc4cf5582099cf441aafb1f1eb4,n/a,https://x.com/bomccss/status/2070728558318850407
 2026-06-27,tweetfeed,HASH_SHA256,bb6a0a620aa3e8e0ddddecbe5b6346513b3b7675c3b5e2f4ba01f1da0e936880,n/a,https://x.com/bomccss/status/2070728558318850407
 2026-06-27,tweetfeed,HASH_SHA256,93dd8b7b393289f88493596faa4ae70054d9eb4fe47f2dd334f0c6bb5262f2a8,AsyncRAT,https://x.com/bomccss/status/2070729150873440703
+2026-06-27,tweetfeed,IP,92.204.71.224,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
+2026-06-27,tweetfeed,IP,92.205.28.29,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
+2026-06-27,tweetfeed,IP,213.165.79.15,phishing,https://x.com/PhishStats/status/2070932479737819520
 2026-06-21,tweetfeed,HASH_MD5,d5409fb88571901f90be82f69d48b50d,n/a,https://x.com/skocherhan/status/2068603414351622524
 2026-06-21,tweetfeed,HASH_MD5,f67b92fd8e324343e1ac281c71cd211a,n/a,https://x.com/skocherhan/status/2068604023519711688
 2026-06-21,tweetfeed,HASH_MD5,793b3ce102de4ff8144793786efd1f1b,n/a,https://x.com/500mk500/status/2068432875670630830
