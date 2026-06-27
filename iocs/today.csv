@@ -19,12 +19,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmips,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmpsl,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://175.107.228.60:46088/Mozi.m,"elf.mozi, url",n/a
-2026-06-26,threatfox,DOMAIN,pffvv3yw.22bahis-tr.com,"js.clearfake, domain",n/a
-2026-06-26,threatfox,DOMAIN,cehoirfg.work,"win.valley_rat, domain",n/a
-2026-06-26,threatfox,DOMAIN,taaeiuep.com,"unknown, domain",n/a
-2026-06-26,threatfox,DOMAIN,reitdnreepo.com,"unknown, domain",n/a
-2026-06-26,threatfox,DOMAIN,trunnsns.beer,"win.vidar, domain",n/a
-2026-06-26,threatfox,DOMAIN,yvkbbq3e.1xdownload2023.com,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,effc4p41.honardartarikh.xyz,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,honardartarikh.xyz,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,honarrang.online,"js.clearfake, domain",n/a
@@ -85,9 +79,7 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,airtek.vn,"js.iclickfix, domain",n/a
 2026-06-27,threatfox,DOMAIN,balanga.studio,"js.iclickfix, domain",n/a
 2026-06-27,threatfox,DOMAIN,hzks2llo.1xdownload2023.com,"js.clearfake, domain",n/a
-2026-06-26,tweetfeed,URL,http://factor-re.co.il,n/a,https://x.com/FalconFeedsio/status/2070530152803799146
-2026-06-26,tweetfeed,URL,https://jbcarnedesol.com/wp-includes/images/xned26/.secured/,phishing,https://x.com/SpiderLabs/status/2070538080944075156
-2026-06-26,tweetfeed,URL,https://jbcarnedesol.com/wp-includes/images/xned26/.secured/assets/js/afid.php?r=0,phishing,https://x.com/SpiderLabs/status/2070538080944075156
+2026-06-27,threatfox,DOMAIN,test.officeplustool.top,"win.cobalt_strike, domain",n/a
 2026-06-26,tweetfeed,URL,http://apiupdate.com/microsoft.graph.v1.Policy/Push,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,URL,http://47.76.174.189,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,URL,http://upflowinfo.info,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
@@ -220,8 +212,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,HASH_SHA256,f636f4b5522e2a1c341fd1064190fe714a2965b4432b0bfe57c05233a60f611f,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,37733e5966cf4129c79c419725fbc2f7bcdac446683d966107bb3065d959422f,"elf.mirai, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,3af414ef65da7494da9604e1a1dcf1a2a92234a4c8fd2fa11bb292970ea4282e,"elf.mirai, sha256_hash",n/a
-2026-06-26,tweetfeed,DOMAIN,factor-re.co.il,n/a,https://x.com/FalconFeedsio/status/2070530152803799146
-2026-06-26,tweetfeed,DOMAIN,jbcarnedesol.com,phishing,https://x.com/SpiderLabs/status/2070538080944075156
 2026-06-26,tweetfeed,DOMAIN,apiupdate.com,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,DOMAIN,upflowinfo.info,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
 2026-06-26,tweetfeed,DOMAIN,agrosuperglobal.com,phishing,https://x.com/PhishStats/status/2070578343074787409
@@ -334,7 +324,6 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,DOMAIN,acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
 2026-06-27,tweetfeed,DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
-2026-06-26,tweetfeed,HASH_SHA256,3a5c626f163355ffb0714536bdaa36e3aebd7c71daa8d0831c2b8baa87ddaa2d,phishing,https://x.com/SpiderLabs/status/2070538080944075156
 2026-06-26,tweetfeed,IP,47.76.174.189,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,HASH_SHA256,e9daa34a227fda5da11c250796465bb8081f2913fb6ff4c28cfc49992e762da5,malware,https://x.com/FatzQatz/status/2070561112349905138
 2026-06-26,tweetfeed,IP,45.77.34.242,"APT, C2, malware",https://x.com/phatomcandle/status/2070567787400253600
@@ -342,5 +331,4 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,HASH_SHA256,ebaabe04091481631476e17a03ac950ec48f7bc4cf5582099cf441aafb1f1eb4,n/a,https://x.com/bomccss/status/2070728558318850407
 2026-06-27,tweetfeed,HASH_SHA256,bb6a0a620aa3e8e0ddddecbe5b6346513b3b7675c3b5e2f4ba01f1da0e936880,n/a,https://x.com/bomccss/status/2070728558318850407
 2026-06-27,tweetfeed,HASH_SHA256,93dd8b7b393289f88493596faa4ae70054d9eb4fe47f2dd334f0c6bb5262f2a8,AsyncRAT,https://x.com/bomccss/status/2070729150873440703
-2026-06-26,tweetfeed,HASH_MD5,18f90671643ff92f251e6729769235bb,phishing,https://x.com/SpiderLabs/status/2070538080944075156
 2026-06-26,tweetfeed,HASH_MD5,f96d3df92d9dd8651d0314c9742f5252,n/a,https://x.com/ethicalhack3r/status/2070525366658052324
