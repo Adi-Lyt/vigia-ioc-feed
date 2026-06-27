@@ -5,9 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-20,threatfox,URL,http://103.186.77.95:49560/Mozi.a,"elf.mozi, url",n/a
-2026-06-20,threatfox,URL,http://72.255.3.39:41763/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,URL,http://153.117.13.227:34153/Mozi.m,"elf.mozi, url",n/a
 2026-06-20,threatfox,URL,http://mathlah.com:9432,"win.remus, url",n/a
 2026-06-20,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/mcv4f-jp5/launching,"js.clearfake, url",n/a
 2026-06-20,threatfox,URL,http://193.148.57.10/88004f4d3e32489389ea.php,"win.stealc, url",n/a
@@ -685,9 +682,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,URL,http://172.245.25.134:8787/collect,"unknown, url",n/a
 2026-06-27,threatfox,URL,http://110.36.28.183:54729/Mozi.7,"elf.mozi, url",n/a
 2026-06-27,threatfox,URL,http://60.23.235.10:40564/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,DOMAIN,13i466gp.shart303.com,"js.clearfake, domain",n/a
-2026-06-20,threatfox,DOMAIN,shart303.com,"js.clearfake, domain",n/a
-2026-06-20,threatfox,DOMAIN,book-imageport.info,"unknown_loader, domain",n/a
 2026-06-20,threatfox,DOMAIN,7cj04th6.shartland.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,v8xihekm.ramzfile.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,yek1.bet,"js.clearfake, domain",n/a
