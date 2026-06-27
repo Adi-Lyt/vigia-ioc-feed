@@ -1892,12 +1892,7 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,airtek.vn,"js.iclickfix, domain",n/a
 2026-06-27,threatfox,DOMAIN,balanga.studio,"js.iclickfix, domain",n/a
 2026-06-27,threatfox,DOMAIN,hzks2llo.1xdownload2023.com,"js.clearfake, domain",n/a
-2026-06-20,tweetfeed,URL,http://cdnpro-987.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
-2026-06-20,tweetfeed,URL,http://cdnportal-us.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
-2026-06-20,tweetfeed,URL,http://178.16.55.191,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
-2026-06-20,threatfox,HASH_SHA256,bfdb075aa514cb43b711bab06e775c081671863bc89c8e84763864e0aa35dd2c,"win.akira, sha256_hash",n/a
-2026-06-20,threatfox,HASH_SHA256,5c6cce76a28898a242265b4eb3a3b14558dfb9a67319cfe0ac0bd175addb5b9a,"win.akira, sha256_hash",n/a
-2026-06-20,threatfox,HASH_SHA256,34c843387845479329052ec7a71f6445c7530b6fee2eabb458da2338d1af41e4,"win.akira, sha256_hash",n/a
+2026-06-27,threatfox,DOMAIN,test.officeplustool.top,"win.cobalt_strike, domain",n/a
 2026-06-20,tweetfeed,URL,http://afabraaj.com,n/a,https://x.com/Q8CyberTi/status/2068367987782963304
 2026-06-20,tweetfeed,URL,http://194.36.190.17,"APT, malware",https://x.com/phatomcandle/status/2068393461003513937
 2026-06-20,tweetfeed,URL,http://maniskanifoods.com,n/a,https://x.com/Q8CyberTi/status/2068404734751367371
@@ -3057,8 +3052,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,HASH_SHA256,f636f4b5522e2a1c341fd1064190fe714a2965b4432b0bfe57c05233a60f611f,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,37733e5966cf4129c79c419725fbc2f7bcdac446683d966107bb3065d959422f,"elf.mirai, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,3af414ef65da7494da9604e1a1dcf1a2a92234a4c8fd2fa11bb292970ea4282e,"elf.mirai, sha256_hash",n/a
-2026-06-20,"threatfox,tweetfeed",DOMAIN,cdnpro-987.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
-2026-06-20,"threatfox,tweetfeed",DOMAIN,cdnportal-us.xyz,NetSupportRAT,https://x.com/ffforward/status/2068353014918758804
 2026-06-20,tweetfeed,DOMAIN,afabraaj.com,n/a,https://x.com/Q8CyberTi/status/2068367987782963304
 2026-06-20,tweetfeed,DOMAIN,maniskanifoods.com,n/a,https://x.com/Q8CyberTi/status/2068404734751367371
 2026-06-20,tweetfeed,DOMAIN,webhook.site,n/a,https://x.com/abh1sek/status/2068329349003292698
@@ -3849,7 +3842,6 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,DOMAIN,acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
 2026-06-27,tweetfeed,DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
-2026-06-20,tweetfeed,IP,70.39.198.181,C2,https://x.com/Fact_Finder03/status/2068356668791075048
 2026-06-20,tweetfeed,IP,74.208.159.237,C2,https://x.com/Fact_Finder03/status/2068374316274663905
 2026-06-20,tweetfeed,IP,194.36.190.17,"APT, malware",https://x.com/phatomcandle/status/2068393461003513937
 2026-06-20,tweetfeed,HASH_SHA256,dacf7be18ad926cb2008f1a139439add5917bbded18e1b303bc7dd5c63cf4402,n/a,https://x.com/smica83/status/2068418921208717778
