@@ -690,7 +690,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmips,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmpsl,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://175.107.228.60:46088/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,DOMAIN,host.serveminecraft.net,"win.asyncrat, domain",n/a
 2026-06-20,threatfox,DOMAIN,iplzbag0.shartbandi.casino,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,wc7skdzu.yakhbet.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,l3q1ng7a.azmoondadrasi.xyz,"js.clearfake, domain",n/a
@@ -1890,7 +1889,7 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,test.officeplustool.top,"win.cobalt_strike, domain",n/a
 2026-06-27,threatfox,DOMAIN,ccczqxl6.blackjackonlineplay83.com,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,yigu360.com,"win.asyncrat, domain",n/a
-2026-06-20,tweetfeed,URL,http://schoolbooks345.online/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,n/a,https://x.com/smica83/status/2068434724817604619
+2026-06-27,threatfox,DOMAIN,1e2sdyr4.honardartarikh.xyz,"js.clearfake, domain",n/a
 2026-06-21,tweetfeed,URL,http://9932.duckdns.org,n/a,https://x.com/skocherhan/status/2068472852894900576
 2026-06-21,tweetfeed,URL,http://45.156.87.130,n/a,https://x.com/skocherhan/status/2068472852894900576
 2026-06-21,tweetfeed,URL,http://botnet.botnet.xd.67.flightleaks.xyz,n/a,https://x.com/skocherhan/status/2068474708756939163
@@ -3045,7 +3044,13 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,URL,http://vortix.vu,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
 2026-06-27,tweetfeed,URL,http://myfitnessapp.marketluxe.click,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
 2026-06-27,tweetfeed,URL,https://carrefour-pass-espace.de/fr/fr/,phishing,https://x.com/PhishStats/status/2070932479737819520
-2026-06-20,tweetfeed,DOMAIN,schoolbooks345.online,n/a,https://x.com/smica83/status/2068434724817604619
+2026-06-27,threatfox,HASH_SHA256,8cd1408dbe57b890cb7aac49c60567e659156f376075ef617d5d7afb588daa09,"win.darkme, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,737646392a7c882064e22ecb9fc0b2732399e44ced2f56d873e656d0035af288,"jar.crossrat, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,feea6bd8a190f0820c19df24b870a205d5799a9c75ace8044542496650a91ef0,"win.quasar_rat, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,bac12c7b2bc08d4d552e4692bc1566d7d54efc67c3a1131628c491c23626d773,"win.vidar, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,f2cd38b6c081535971bc76d9aa3560ce3bf33e02986a430464a75e3261c4a8f1,"win.wannacryptor, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,abb0ddc5d6972b69a938f88cbc354dffbd14adcd13b8049e6654f51dd3f5836d,"win.vidar, sha256_hash",n/a
+2026-06-27,threatfox,HASH_SHA256,716612c11982500cca51970f822ddffb5a4b3aa84fda3cb30ffab6daa94f5248,"win.socks5_systemz, sha256_hash",n/a
 2026-06-21,tweetfeed,DOMAIN,9932.duckdns.org,n/a,https://x.com/skocherhan/status/2068472852894900576
 2026-06-21,tweetfeed,DOMAIN,botnet.botnet.xd.67.flightleaks.xyz,n/a,https://x.com/skocherhan/status/2068474708756939163
 2026-06-21,threatfox,HASH_MD5,64e9b14f81a21120b831e19ef94f902e,"win.vidar, md5_hash",n/a
@@ -3831,7 +3836,13 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,DOMAIN,vortix.vu,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
 2026-06-27,tweetfeed,DOMAIN,myfitnessapp.marketluxe.click,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
 2026-06-27,tweetfeed,DOMAIN,carrefour-pass-espace.de,phishing,https://x.com/PhishStats/status/2070932479737819520
-2026-06-20,tweetfeed,HASH_SHA256,4c6c3fb40ded613933d00a87000b065649322eec736018493bc607ce72c76017,n/a,https://x.com/smica83/status/2068434724817604619
+2026-06-27,threatfox,HASH_MD5,891776acc33d8c22e4667d51c8370d49,"win.darkme, md5_hash",n/a
+2026-06-27,threatfox,HASH_MD5,038112c489a65525aaa6c2ede6c33c2a,"jar.crossrat, md5_hash",n/a
+2026-06-27,threatfox,HASH_MD5,2549dc1f259917a6179f726de0ed45e7,"win.quasar_rat, md5_hash",n/a
+2026-06-27,threatfox,HASH_MD5,885e4c62d17993ccffbfd44a1c128ddf,"win.vidar, md5_hash",n/a
+2026-06-27,threatfox,HASH_MD5,c0b5ba4fbb2d486362d4be79caecc2b9,"win.wannacryptor, md5_hash",n/a
+2026-06-27,threatfox,HASH_MD5,f269378bb7d1c7817fa6200a1198b9df,"win.vidar, md5_hash",n/a
+2026-06-27,threatfox,HASH_MD5,52c76d9b7366f34a1fad3b5b0527e24f,"win.socks5_systemz, md5_hash",n/a
 2026-06-21,tweetfeed,IP,45.156.87.130,n/a,https://x.com/skocherhan/status/2068472852894900576
 2026-06-21,tweetfeed,IP,176.65.139.195,n/a,https://x.com/skocherhan/status/2068474708756939163
 2026-06-21,tweetfeed,IP,180.178.160.59,phishing,https://x.com/PhishStats/status/2068488788565700886
@@ -4083,3 +4094,4 @@ date,user,type,ioc,tags,context
 2026-06-26,tweetfeed,HASH_MD5,5190ef1733183a0dc63fb623357f56d6,n/a,https://x.com/SpiderLabs/status/2070503545841873313
 2026-06-26,tweetfeed,HASH_MD5,18f90671643ff92f251e6729769235bb,phishing,https://x.com/SpiderLabs/status/2070538080944075156
 2026-06-26,tweetfeed,HASH_MD5,f96d3df92d9dd8651d0314c9742f5252,n/a,https://x.com/ethicalhack3r/status/2070525366658052324
+2026-06-27,tweetfeed,HASH_MD5,04cabbf13c2e16ff835021e7f5a8fa81,stealer,https://x.com/petikvx/status/2070959885727027333
