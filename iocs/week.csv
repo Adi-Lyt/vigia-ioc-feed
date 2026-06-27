@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-20,threatfox,URL,https://almontm.xyz/file.js,"js.kongtuke, url",n/a
 2026-06-21,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/8a-96dfe89a4aa3/hum-id46,"js.clearfake, url",n/a
 2026-06-21,threatfox,URL,http://23.27.13.43/,"js.beavertail, url",n/a
 2026-06-21,threatfox,URL,http://198.105.127.210/,"js.beavertail, url",n/a
@@ -691,7 +690,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmips,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://89.32.41.16/bins/pmpsl,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://175.107.228.60:46088/Mozi.m,"elf.mozi, url",n/a
-2026-06-20,threatfox,DOMAIN,almontm.xyz,"js.kongtuke, domain",n/a
 2026-06-20,threatfox,DOMAIN,liwxdd48.romabetkade.com,"js.clearfake, domain",n/a
 2026-06-20,threatfox,DOMAIN,host.serveminecraft.net,"win.asyncrat, domain",n/a
 2026-06-20,threatfox,DOMAIN,iplzbag0.shartbandi.casino,"js.clearfake, domain",n/a
@@ -1893,7 +1891,6 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,DOMAIN,test.officeplustool.top,"win.cobalt_strike, domain",n/a
 2026-06-27,threatfox,DOMAIN,ccczqxl6.blackjackonlineplay83.com,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,yigu360.com,"win.asyncrat, domain",n/a
-2026-06-20,tweetfeed,URL,http://maniskanifoods.com,n/a,https://x.com/Q8CyberTi/status/2068404734751367371
 2026-06-20,tweetfeed,URL,https://webhook.site/#!/view/22e20640-e2a1-4bb2-b203-061077d055ff/,n/a,https://x.com/abh1sek/status/2068329349003292698
 2026-06-20,tweetfeed,URL,https://static.hub.mcgi.org/assets/js/vendor/dxon-atualizador-acesso,n/a,https://x.com/smica83/status/2068418921208717778
 2026-06-20,tweetfeed,URL,http://178.16.53.53/Sohomon8200/moaningstring.ps1,n/a,https://x.com/smica83/status/2068421266470818157
@@ -3061,7 +3058,6 @@ date,user,type,ioc,tags,context
 2026-06-27,tweetfeed,URL,http://vortix.vu,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
 2026-06-27,tweetfeed,URL,http://myfitnessapp.marketluxe.click,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
 2026-06-27,tweetfeed,URL,https://carrefour-pass-espace.de/fr/fr/,phishing,https://x.com/PhishStats/status/2070932479737819520
-2026-06-20,tweetfeed,DOMAIN,maniskanifoods.com,n/a,https://x.com/Q8CyberTi/status/2068404734751367371
 2026-06-20,tweetfeed,DOMAIN,webhook.site,n/a,https://x.com/abh1sek/status/2068329349003292698
 2026-06-20,tweetfeed,DOMAIN,static.hub.mcgi.org,n/a,https://x.com/smica83/status/2068418921208717778
 2026-06-20,tweetfeed,DOMAIN,ns.minkstore.vip,n/a,https://x.com/_IMalihi_/status/2068422081855836300
