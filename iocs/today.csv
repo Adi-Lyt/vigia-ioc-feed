@@ -23,6 +23,8 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,URL,http://101.53.225.41:45308/Mozi.m,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,http://112.246.97.119:37502/Mozi.m,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,http://153.117.15.75:41179/Mozi.a,"elf.mozi, url",n/a
+2026-06-28,threatfox,URL,https://geurtuin.com/,"win.vidar, url",n/a
+2026-06-28,threatfox,URL,https://engr-salahuddin.com/,"win.vidar, url",n/a
 2026-06-27,threatfox,DOMAIN,tb4awyc7.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,e.perspolis.pro,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,www.emanulquran.com,"js.iclickfix, domain",n/a
@@ -82,6 +84,7 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,DOMAIN,rjjgfvu6.vip1xbet.org,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,1v6qcobc.betbuf.live,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,bcxmyrgq.betbuf.live,"js.clearfake, domain",n/a
+2026-06-28,threatfox,DOMAIN,1bmaiu5y.1xbetpartnersiran.com,"js.clearfake, domain",n/a
 2026-06-27,tweetfeed,URL,http://www.kdekxy.com/home,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,threatfox,HASH_SHA256,66800eefed4e4c7dae18fe4dfe388e5f0ef20159cf0c7188df6c1a1d88f63a03,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,2eebecf7c504a215a51fb2876ec4f646b252fea92b43a6c5a811b8338f0ed133,"win.asyncrat, sha256_hash",n/a
@@ -156,5 +159,9 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,IP,141.11.76.61,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-28,tweetfeed,IP,163.176.193.12,C2,https://x.com/Fact_Finder03/status/2071179299021852925
 2026-06-28,tweetfeed,IP,66.55.64.59,C2,https://x.com/Fact_Finder03/status/2071179299021852925
+2026-06-28,tweetfeed,IP,185.69.123.93,C2,https://x.com/Fact_Finder03/status/2071183074013188352
+2026-06-28,tweetfeed,IP,174.138.18.212,C2,https://x.com/Fact_Finder03/status/2071183828891340992
+2026-06-28,tweetfeed,IP,193.26.115.79,C2,https://x.com/Fact_Finder03/status/2071185590578520407
+2026-06-28,tweetfeed,IP,91.92.40.212,C2,https://x.com/Fact_Finder03/status/2071185590578520407
 2026-06-27,tweetfeed,HASH_MD5,04cabbf13c2e16ff835021e7f5a8fa81,stealer,https://x.com/petikvx/status/2070959885727027333
 2026-06-27,tweetfeed,HASH_MD5,0c303ae1347c0395a96f3eb38d26d7ed,ransomware,https://x.com/petikvx/status/2070984660700553532
