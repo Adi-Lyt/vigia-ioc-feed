@@ -5,8 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-21,threatfox,URL,https://macos.certificates.ltd/apple/macos/installation/terminal/launcher,"osx.amos, url",n/a
-2026-06-21,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/d846-4abc/id-7843,"js.clearfake, url",n/a
 2026-06-21,threatfox,URL,http://193.148.57.16/1109860002d645548e1b.php,"win.stealc, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/r4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
@@ -690,9 +688,12 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,URL,http://153.117.15.75:41179/Mozi.a,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,https://geurtuin.com/,"win.vidar, url",n/a
 2026-06-28,threatfox,URL,https://engr-salahuddin.com/,"win.vidar, url",n/a
-2026-06-21,threatfox,DOMAIN,zyppn5vo.riyazishahkilid.xyz,"js.clearfake, domain",n/a
-2026-06-21,threatfox,DOMAIN,macos.certificates.ltd,"osx.amos, domain",n/a
-2026-06-21,threatfox,DOMAIN,6w8npdwb.angizeshfarahani.store,"js.clearfake, domain",n/a
+2026-06-28,threatfox,URL,http://lawofi.xyz:7538,"win.remus, url",n/a
+2026-06-28,threatfox,URL,https://bibliorock.lol/,"unknown, url",n/a
+2026-06-28,threatfox,URL,https://memshowblob.forum/,"unknown, url",n/a
+2026-06-28,threatfox,URL,https://mistertwister.sale/,"unknown, url",n/a
+2026-06-28,threatfox,URL,http://153.117.41.29:45738/Mozi.m,"elf.mozi, url",n/a
+2026-06-28,threatfox,URL,http://175.107.208.203:48676/Mozi.m,"elf.mozi, url",n/a
 2026-06-21,threatfox,DOMAIN,zerangbet.com,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,phitqv0l.ravabetensani.site,"js.clearfake, domain",n/a
 2026-06-21,threatfox,DOMAIN,gdxai3cp.shart.casino,"js.clearfake, domain",n/a
@@ -1894,7 +1895,8 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,DOMAIN,bcxmyrgq.betbuf.live,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,1bmaiu5y.1xbetpartnersiran.com,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,fagaheestedlali.xyz,"js.clearfake, domain",n/a
-2026-06-21,tweetfeed,URL,https://mongroupegls.help/verification-m7wpmkr73c6f6ib3,phishing,https://x.com/PhishStats/status/2068667384999583774
+2026-06-28,threatfox,DOMAIN,lawofi.xyz,"win.remus, domain",n/a
+2026-06-28,threatfox,DOMAIN,statcounter.com,"unknown_stealer, domain",n/a
 2026-06-21,tweetfeed,URL,http://7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
 2026-06-21,tweetfeed,URL,http://eazk7las3xsvsyxgww3jgzammqjevso2ydnmlopdhl3u2muyrmmilrqd.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
 2026-06-21,tweetfeed,URL,https://zoomclient.pages.dev,phishing,https://x.com/patialavii/status/2068670946341495154
@@ -2781,7 +2783,6 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,URL,http://38.55.99.215:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-28,tweetfeed,URL,http://141.11.76.61:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-28,tweetfeed,URL,http://38.55.99.215:4444,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
-2026-06-21,tweetfeed,DOMAIN,mongroupegls.help,phishing,https://x.com/PhishStats/status/2068667384999583774
 2026-06-21,tweetfeed,DOMAIN,7t3zi3e7ki6iseun77ofqtr6wmbpgnpc2ada6gstcxp54lw6q2zb7jad.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
 2026-06-21,tweetfeed,DOMAIN,eazk7las3xsvsyxgww3jgzammqjevso2ydnmlopdhl3u2muyrmmilrqd.onion,ransomware,https://x.com/fbgwls245/status/2068696967505666224
 2026-06-21,tweetfeed,DOMAIN,zoomclient.pages.dev,phishing,https://x.com/patialavii/status/2068670946341495154
@@ -3518,7 +3519,6 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,DOMAIN,babyyyi.com,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,DOMAIN,tamweelke.com,NetSupport,https://x.com/smica83/status/2071146657094193582
 2026-06-28,tweetfeed,DOMAIN,shellbot.sh,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
-2026-06-21,tweetfeed,IP,150.241.66.236,phishing,https://x.com/PhishStats/status/2068667384999583774
 2026-06-21,tweetfeed,IP,135.136.148.127,phishing,https://x.com/patialavii/status/2068670946341495154
 2026-06-21,tweetfeed,HASH_SHA256,b139e27dc0841c82d02f2ff2936ba8ba45111553cabf85fa9f3093c08e120962,phishing,https://x.com/patialavii/status/2068670946341495154
 2026-06-21,tweetfeed,HASH_SHA256,38477529194b8000f4be893749e77df23b71b865f463a09e70dc434ef4825e27,phishing,https://x.com/patialavii/status/2068675468963004481
