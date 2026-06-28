@@ -25,7 +25,7 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,URL,http://175.107.208.203:48676/Mozi.m,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,https://geurtuin.com/?doing_wp_cron=1782651363.9469881057739257812500,"unknown, url",n/a
 2026-06-28,threatfox,URL,https://citrusocarpetscleaning.com/,"unknown, url",n/a
-2026-06-27,threatfox,DOMAIN,hzks2llo.1xdownload2023.com,"js.clearfake, domain",n/a
+2026-06-28,threatfox,URL,http://103.146.231.107:80/DFne,"win.cobalt_strike, url",n/a
 2026-06-27,threatfox,DOMAIN,test.officeplustool.top,"win.cobalt_strike, domain",n/a
 2026-06-27,threatfox,DOMAIN,ccczqxl6.blackjackonlineplay83.com,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,yigu360.com,"win.asyncrat, domain",n/a
@@ -91,6 +91,8 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,URL,http://38.55.99.215:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-28,tweetfeed,URL,http://141.11.76.61:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-28,tweetfeed,URL,http://38.55.99.215:4444,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,https://atuvc.vu/vibt/,phishing,https://x.com/Phisheidon/status/2071243618237436291
+2026-06-28,tweetfeed,URL,http://175.173.79.123:35540/Mozi.m,n/a,https://x.com/sicehice/status/2071253245746356573
 2026-06-27,tweetfeed,DOMAIN,commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
 2026-06-27,tweetfeed,DOMAIN,service-checkdate-iduser92749.patisonia.com,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,DOMAIN,vortix.vu,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
@@ -110,6 +112,7 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,DOMAIN,babyyyi.com,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,DOMAIN,tamweelke.com,NetSupport,https://x.com/smica83/status/2071146657094193582
 2026-06-28,tweetfeed,DOMAIN,shellbot.sh,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,DOMAIN,atuvc.vu,phishing,https://x.com/Phisheidon/status/2071243618237436291
 2026-06-27,tweetfeed,IP,92.204.71.224,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,IP,92.205.28.29,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,IP,213.165.79.15,phishing,https://x.com/PhishStats/status/2070932479737819520
@@ -130,5 +133,6 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,IP,193.26.115.79,C2,https://x.com/Fact_Finder03/status/2071185590578520407
 2026-06-28,tweetfeed,IP,91.92.40.212,C2,https://x.com/Fact_Finder03/status/2071185590578520407
 2026-06-28,tweetfeed,IP,121.173.30.1,C2,https://x.com/Fact_Finder03/status/2071197418457059721
+2026-06-28,tweetfeed,IP,175.173.79.123,n/a,https://x.com/sicehice/status/2071253245746356573
 2026-06-27,tweetfeed,HASH_MD5,04cabbf13c2e16ff835021e7f5a8fa81,stealer,https://x.com/petikvx/status/2070959885727027333
 2026-06-27,tweetfeed,HASH_MD5,0c303ae1347c0395a96f3eb38d26d7ed,ransomware,https://x.com/petikvx/status/2070984660700553532
