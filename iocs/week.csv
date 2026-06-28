@@ -688,7 +688,6 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,URL,http://101.53.225.41:45308/Mozi.m,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,http://112.246.97.119:37502/Mozi.m,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,http://153.117.15.75:41179/Mozi.a,"elf.mozi, url",n/a
-2026-06-21,threatfox,DOMAIN,oyine.duckdns.org,"win.remcos, domain",n/a
 2026-06-21,threatfox,DOMAIN,mail-cross3.acilkredi.ch,"js.fakeupdates, domain",n/a
 2026-06-21,threatfox,DOMAIN,something0x.at,"osx.amos, domain",n/a
 2026-06-21,threatfox,DOMAIN,6xelt3vl.shartplus.com,"js.clearfake, domain",n/a
@@ -1892,6 +1891,8 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,DOMAIN,memshowblob.forum,"win.vidar, domain",n/a
 2026-06-28,threatfox,DOMAIN,higher.makeup,"elf.mirai, domain",n/a
 2026-06-28,threatfox,DOMAIN,rjjgfvu6.vip1xbet.org,"js.clearfake, domain",n/a
+2026-06-28,threatfox,DOMAIN,1v6qcobc.betbuf.live,"js.clearfake, domain",n/a
+2026-06-28,threatfox,DOMAIN,bcxmyrgq.betbuf.live,"js.clearfake, domain",n/a
 2026-06-21,tweetfeed,URL,https://mail-bfsa-gov-bd.netlify.app,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,URL,https://submit-form.com/Ec9XiqIPj,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,URL,https://mongroupegls.help/verification-m7wpmkr73c6f6ib3,phishing,https://x.com/PhishStats/status/2068667384999583774
@@ -2776,6 +2777,11 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,URL,http://babyyyi.com,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,URL,http://137.220.156.123,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,URL,http://tamweelke.com,NetSupport,https://x.com/smica83/status/2071146657094193582
+2026-06-28,tweetfeed,URL,http://shellbot.sh,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://141.11.76.61:8080/static/bot_agent.py,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://38.55.99.215:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://141.11.76.61:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://38.55.99.215:4444,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-21,tweetfeed,DOMAIN,mail-bfsa-gov-bd.netlify.app,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,DOMAIN,submit-form.com,n/a,https://x.com/volrant136/status/2068637244039258552
 2026-06-21,tweetfeed,DOMAIN,mongroupegls.help,phishing,https://x.com/PhishStats/status/2068667384999583774
@@ -3514,8 +3520,7 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,DOMAIN,pdf.adobefile.cam,phishing,https://x.com/patialavii/status/2071099584332570707
 2026-06-28,tweetfeed,DOMAIN,babyyyi.com,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,DOMAIN,tamweelke.com,NetSupport,https://x.com/smica83/status/2071146657094193582
-2026-06-21,tweetfeed,HASH_SHA256,2b33df7907355444e551355ad0c4aa6f789cf1e3755f43295c4bbf2de02f7eed,n/a,https://x.com/smica83/status/2068628502660677962
-2026-06-21,tweetfeed,HASH_SHA256,4b416e7b71b3a46854f08618d76d1146159d8da5c5061b9336dcf30b50cf6725,n/a,https://x.com/smica83/status/2068628502660677962
+2026-06-28,tweetfeed,DOMAIN,shellbot.sh,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-21,tweetfeed,IP,150.241.66.236,phishing,https://x.com/PhishStats/status/2068667384999583774
 2026-06-21,tweetfeed,IP,135.136.148.127,phishing,https://x.com/patialavii/status/2068670946341495154
 2026-06-21,tweetfeed,HASH_SHA256,b139e27dc0841c82d02f2ff2936ba8ba45111553cabf85fa9f3093c08e120962,phishing,https://x.com/patialavii/status/2068670946341495154
@@ -3724,6 +3729,10 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,HASH_SHA256,fcd0a4054eba07a6e2c6697c7e6f116afe494e43cce7ceb99cea6d1ba6faf0b4,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,HASH_SHA256,275256fe1ea4fb5f4829535a4352de73a411716e16f4ae91eacdbd74ee25a7e4,NetSupport,https://x.com/smica83/status/2071146657094193582
 2026-06-28,tweetfeed,IP,20.87.213.75,"C2, stealer",https://x.com/Fact_Finder03/status/2071162026542678154
+2026-06-28,tweetfeed,IP,38.55.99.215,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,IP,141.11.76.61,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,IP,163.176.193.12,C2,https://x.com/Fact_Finder03/status/2071179299021852925
+2026-06-28,tweetfeed,IP,66.55.64.59,C2,https://x.com/Fact_Finder03/status/2071179299021852925
 2026-06-21,tweetfeed,HASH_MD5,793b3ce102de4ff8144793786efd1f1b,n/a,https://x.com/500mk500/status/2068432875670630830
 2026-06-21,tweetfeed,HASH_MD5,898f8452c7dd39d80b76cdc2f6e7f928,n/a,https://x.com/skocherhan/status/2068807209199247577
 2026-06-22,tweetfeed,HASH_MD5,dbfaf3b2b41b04fcf8a4cedc5933dd8f,n/a,https://x.com/tdatwja/status/2068950611849318441
