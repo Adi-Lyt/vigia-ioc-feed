@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-21,threatfox,URL,http://193.148.57.16/1109860002d645548e1b.php,"win.stealc, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/r4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
 2026-06-22,threatfox,URL,https://itecau.com.au/,"unknown, url",n/a
@@ -1866,6 +1865,9 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,DOMAIN,mokatebatedari.xyz,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,fjy9zygx.1xsignupbet.com,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,htfll3q5.1x303.casino,"js.clearfake, domain",n/a
+2026-06-28,threatfox,DOMAIN,8zdusrwn.xbetone.com,"js.clearfake, domain",n/a
+2026-06-28,threatfox,DOMAIN,dows.sabad724.bio,"js.clearfake, domain",n/a
+2026-06-28,darkweb_forums,URL,https://t.me/+CHpDapnyVEc1ODBl,"darkweb, telegram_threat_actors",commit d92cd7bb / telegram_threat_actors.md
 2026-06-22,tweetfeed,URL,http://sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid.onion,ransomware,https://x.com/fbgwls245/status/2068901304731308205
 2026-06-22,"threatfox,tweetfeed",URL,https://vy.ijnggpi.com/ftx/,phishing,https://x.com/patialavii/status/2068919332126835122
 2026-06-22,tweetfeed,URL,https://web-g63lkz.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2068919332126835122
@@ -3813,7 +3815,6 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,IP,172.232.24.235,phishing,https://x.com/tial_cl/status/2071307374497861790
 2026-06-28,tweetfeed,IP,172.234.25.42,phishing,https://x.com/tial_cl/status/2071307374497861790
 2026-06-28,tweetfeed,IP,66.198.225.124,ClickFix,https://x.com/raghav127001/status/2071307685354746104
-2026-06-21,tweetfeed,HASH_MD5,898f8452c7dd39d80b76cdc2f6e7f928,n/a,https://x.com/skocherhan/status/2068807209199247577
 2026-06-22,tweetfeed,HASH_MD5,dbfaf3b2b41b04fcf8a4cedc5933dd8f,n/a,https://x.com/tdatwja/status/2068950611849318441
 2026-06-22,tweetfeed,HASH_MD5,6730bc9c68080a4c6dcc7c14dbb1a0f4,"Android, Trojan, malware",https://x.com/ReBensk/status/2068959843638190521
 2026-06-22,tweetfeed,HASH_MD5,d72a9dd017a30a045cab8ad354b5a61d,"Android, Trojan, malware",https://x.com/ReBensk/status/2068960948942192964
