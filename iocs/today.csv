@@ -1,6 +1,4 @@
 date,user,type,ioc,tags,context
-2026-06-27,threatfox,URL,https://nhuydecor.com/,"win.vidar, url",n/a
-2026-06-27,threatfox,URL,https://villacamarao.com.br/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://shootiamedia.com/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://brightleafholdings.com/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://villapescados.com.br/,"win.vidar, url",n/a
@@ -82,6 +80,8 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,DOMAIN,memshowblob.forum,"win.vidar, domain",n/a
 2026-06-28,threatfox,DOMAIN,higher.makeup,"elf.mirai, domain",n/a
 2026-06-28,threatfox,DOMAIN,rjjgfvu6.vip1xbet.org,"js.clearfake, domain",n/a
+2026-06-28,threatfox,DOMAIN,1v6qcobc.betbuf.live,"js.clearfake, domain",n/a
+2026-06-28,threatfox,DOMAIN,bcxmyrgq.betbuf.live,"js.clearfake, domain",n/a
 2026-06-27,tweetfeed,URL,http://www.kdekxy.com/home,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,threatfox,HASH_SHA256,66800eefed4e4c7dae18fe4dfe388e5f0ef20159cf0c7188df6c1a1d88f63a03,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,2eebecf7c504a215a51fb2876ec4f646b252fea92b43a6c5a811b8338f0ed133,"win.asyncrat, sha256_hash",n/a
@@ -116,6 +116,11 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,URL,http://babyyyi.com,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,URL,http://137.220.156.123,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,URL,http://tamweelke.com,NetSupport,https://x.com/smica83/status/2071146657094193582
+2026-06-28,tweetfeed,URL,http://shellbot.sh,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://141.11.76.61:8080/static/bot_agent.py,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://38.55.99.215:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://141.11.76.61:8080,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,URL,http://38.55.99.215:4444,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,tweetfeed,DOMAIN,commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
 2026-06-27,tweetfeed,DOMAIN,service-checkdate-iduser92749.patisonia.com,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
@@ -135,6 +140,7 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,DOMAIN,pdf.adobefile.cam,phishing,https://x.com/patialavii/status/2071099584332570707
 2026-06-28,tweetfeed,DOMAIN,babyyyi.com,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,DOMAIN,tamweelke.com,NetSupport,https://x.com/smica83/status/2071146657094193582
+2026-06-28,tweetfeed,DOMAIN,shellbot.sh,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
 2026-06-27,tweetfeed,IP,92.204.71.224,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,IP,92.205.28.29,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,IP,213.165.79.15,phishing,https://x.com/PhishStats/status/2070932479737819520
@@ -146,5 +152,9 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,HASH_SHA256,fcd0a4054eba07a6e2c6697c7e6f116afe494e43cce7ceb99cea6d1ba6faf0b4,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,HASH_SHA256,275256fe1ea4fb5f4829535a4352de73a411716e16f4ae91eacdbd74ee25a7e4,NetSupport,https://x.com/smica83/status/2071146657094193582
 2026-06-28,tweetfeed,IP,20.87.213.75,"C2, stealer",https://x.com/Fact_Finder03/status/2071162026542678154
+2026-06-28,tweetfeed,IP,38.55.99.215,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,IP,141.11.76.61,n/a,https://x.com/Yusufcancakiir/status/2071169895882957018
+2026-06-28,tweetfeed,IP,163.176.193.12,C2,https://x.com/Fact_Finder03/status/2071179299021852925
+2026-06-28,tweetfeed,IP,66.55.64.59,C2,https://x.com/Fact_Finder03/status/2071179299021852925
 2026-06-27,tweetfeed,HASH_MD5,04cabbf13c2e16ff835021e7f5a8fa81,stealer,https://x.com/petikvx/status/2070959885727027333
 2026-06-27,tweetfeed,HASH_MD5,0c303ae1347c0395a96f3eb38d26d7ed,ransomware,https://x.com/petikvx/status/2070984660700553532
