@@ -1,5 +1,4 @@
 date,user,type,ioc,tags,context
-2026-06-27,threatfox,URL,http://millersteelusa.com:8893,"win.remus, url",n/a
 2026-06-27,threatfox,URL,https://nhuydecor.com/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://villacamarao.com.br/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://shootiamedia.com/,"win.vidar, url",n/a
@@ -26,8 +25,6 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,URL,http://101.53.225.41:45308/Mozi.m,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,http://112.246.97.119:37502/Mozi.m,"elf.mozi, url",n/a
 2026-06-28,threatfox,URL,http://153.117.15.75:41179/Mozi.a,"elf.mozi, url",n/a
-2026-06-27,threatfox,DOMAIN,bcb7ukdo.tinyshart.com,"js.clearfake, domain",n/a
-2026-06-27,threatfox,DOMAIN,smartlivingstyle.cat,"unknown_stealer, domain",n/a
 2026-06-27,threatfox,DOMAIN,tb4awyc7.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,e.perspolis.pro,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,www.emanulquran.com,"js.iclickfix, domain",n/a
@@ -84,8 +81,7 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,DOMAIN,bibliorock.lol,"win.vidar, domain",n/a
 2026-06-28,threatfox,DOMAIN,memshowblob.forum,"win.vidar, domain",n/a
 2026-06-28,threatfox,DOMAIN,higher.makeup,"elf.mirai, domain",n/a
-2026-06-27,tweetfeed,URL,https://acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
-2026-06-27,tweetfeed,URL,http://settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
+2026-06-28,threatfox,DOMAIN,rjjgfvu6.vip1xbet.org,"js.clearfake, domain",n/a
 2026-06-27,tweetfeed,URL,http://www.kdekxy.com/home,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,threatfox,HASH_SHA256,66800eefed4e4c7dae18fe4dfe388e5f0ef20159cf0c7188df6c1a1d88f63a03,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,2eebecf7c504a215a51fb2876ec4f646b252fea92b43a6c5a811b8338f0ed133,"win.asyncrat, sha256_hash",n/a
@@ -120,8 +116,6 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,URL,http://babyyyi.com,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,URL,http://137.220.156.123,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,URL,http://tamweelke.com,NetSupport,https://x.com/smica83/status/2071146657094193582
-2026-06-27,tweetfeed,DOMAIN,acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
-2026-06-27,tweetfeed,DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,tweetfeed,DOMAIN,commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
 2026-06-27,tweetfeed,DOMAIN,service-checkdate-iduser92749.patisonia.com,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
@@ -151,5 +145,6 @@ date,user,type,ioc,tags,context
 2026-06-28,tweetfeed,IP,137.220.156.123,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,HASH_SHA256,fcd0a4054eba07a6e2c6697c7e6f116afe494e43cce7ceb99cea6d1ba6faf0b4,n/a,https://x.com/smica83/status/2071145175557038428
 2026-06-28,tweetfeed,HASH_SHA256,275256fe1ea4fb5f4829535a4352de73a411716e16f4ae91eacdbd74ee25a7e4,NetSupport,https://x.com/smica83/status/2071146657094193582
+2026-06-28,tweetfeed,IP,20.87.213.75,"C2, stealer",https://x.com/Fact_Finder03/status/2071162026542678154
 2026-06-27,tweetfeed,HASH_MD5,04cabbf13c2e16ff835021e7f5a8fa81,stealer,https://x.com/petikvx/status/2070959885727027333
 2026-06-27,tweetfeed,HASH_MD5,0c303ae1347c0395a96f3eb38d26d7ed,ransomware,https://x.com/petikvx/status/2070984660700553532
