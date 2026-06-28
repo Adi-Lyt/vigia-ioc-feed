@@ -85,6 +85,12 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,HASH_SHA256,f2cd38b6c081535971bc76d9aa3560ce3bf33e02986a430464a75e3261c4a8f1,"win.wannacryptor, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,abb0ddc5d6972b69a938f88cbc354dffbd14adcd13b8049e6654f51dd3f5836d,"win.vidar, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,716612c11982500cca51970f822ddffb5a4b3aa84fda3cb30ffab6daa94f5248,"win.socks5_systemz, sha256_hash",n/a
+2026-06-28,tweetfeed,URL,https://jak127.org/docu/Windows/invite.php,phishing,https://x.com/patialavii/status/2071095295509926271
+2026-06-28,tweetfeed,URL,https://jak127.org/docu/Windows/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2071095295509926271
+2026-06-28,tweetfeed,URL,https://proasp.com.br/ftx/,phishing,https://x.com/patialavii/status/2071097546701984230
+2026-06-28,tweetfeed,URL,https://alhidarcompany.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2071097546701984230
+2026-06-28,tweetfeed,URL,https://pdf.adobefile.cam/windows/,phishing,https://x.com/patialavii/status/2071099584332570707
+2026-06-28,tweetfeed,URL,https://pdf.adobefile.cam/windows/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2071099584332570707
 2026-06-27,tweetfeed,DOMAIN,acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
 2026-06-27,tweetfeed,DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
@@ -100,9 +106,16 @@ date,user,type,ioc,tags,context
 2026-06-27,threatfox,HASH_MD5,c0b5ba4fbb2d486362d4be79caecc2b9,"win.wannacryptor, md5_hash",n/a
 2026-06-27,threatfox,HASH_MD5,f269378bb7d1c7817fa6200a1198b9df,"win.vidar, md5_hash",n/a
 2026-06-27,threatfox,HASH_MD5,52c76d9b7366f34a1fad3b5b0527e24f,"win.socks5_systemz, md5_hash",n/a
+2026-06-28,tweetfeed,DOMAIN,jak127.org,phishing,https://x.com/patialavii/status/2071095295509926271
+2026-06-28,tweetfeed,DOMAIN,proasp.com.br,phishing,https://x.com/patialavii/status/2071097546701984230
+2026-06-28,tweetfeed,DOMAIN,alhidarcompany.screenconnect.com,phishing,https://x.com/patialavii/status/2071097546701984230
+2026-06-28,tweetfeed,DOMAIN,pdf.adobefile.cam,phishing,https://x.com/patialavii/status/2071099584332570707
 2026-06-27,tweetfeed,IP,92.204.71.224,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,IP,92.205.28.29,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,IP,213.165.79.15,phishing,https://x.com/PhishStats/status/2070932479737819520
 2026-06-28,tweetfeed,HASH_SHA256,5068c758a461405275608df86114d8143fdd1fdafdd01261703145e4114c57b7,APT,https://x.com/byrne_emmy12099/status/2071035323841441836
+2026-06-28,tweetfeed,HASH_SHA256,62eb4588396cf369bd6a901154a9405f900baaebcd8672e7837288c9cf32415c,phishing,https://x.com/patialavii/status/2071095295509926271
+2026-06-28,tweetfeed,HASH_SHA256,fc7c997579d595bc795377eba32da211058d773683046156dfded81adb365498,phishing,https://x.com/patialavii/status/2071097546701984230
+2026-06-28,tweetfeed,HASH_SHA256,4dbb9c1f4226c5a64858cd9b0de309f08f58f33704c06ccadc94991ab7f1beaf,phishing,https://x.com/patialavii/status/2071099584332570707
 2026-06-27,tweetfeed,HASH_MD5,04cabbf13c2e16ff835021e7f5a8fa81,stealer,https://x.com/petikvx/status/2070959885727027333
 2026-06-27,tweetfeed,HASH_MD5,0c303ae1347c0395a96f3eb38d26d7ed,ransomware,https://x.com/petikvx/status/2070984660700553532
