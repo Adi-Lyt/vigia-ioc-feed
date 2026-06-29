@@ -1,4 +1,5 @@
 date,user,type,ioc,tags,context
+2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-06-28,threatfox,URL,https://vihangamyoga.org/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,http://103.26.86.217:52895/Mozi.a,"elf.mozi, url",n/a
 2026-06-29,threatfox,URL,http://103.213.112.214:49082/Mozi.m,"elf.mozi, url",n/a
@@ -45,7 +46,6 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,URL,https://bom.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://rpc-cloud.beer/api/css.js,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://opportunitiesforeveryone.net/,"win.vidar, url",n/a
-2026-06-28,threatfox,DOMAIN,fjy9zygx.1xsignupbet.com,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,htfll3q5.1x303.casino,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,8zdusrwn.xbetone.com,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,dows.sabad724.bio,"js.clearfake, domain",n/a
@@ -335,112 +335,8 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,DOMAIN,publicwebprotection.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,superfirewallprotection.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,r4zhwkgz.betbuf.live,"js.clearfake, domain",n/a
-2026-06-28,tweetfeed,URL,http://pasastesintag26.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintap.cfd,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintap.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagas.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagi.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagi.rest,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagi.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagionline.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagionline.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagionline.sbs,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.icu,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.life,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.rest,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintaplmw.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.xyz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagas.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagas.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagas.buzz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagas.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagas.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.buzz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.cfd,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.homes,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.icu,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.lat,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.lol,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.sbs,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://parastesintag.yachts,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.beer,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.courses,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.digital,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.fit,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.icu,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.study,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag.surf,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintag26.xin,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagapp.lat,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagapp.pics,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagas.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.qpon,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.shop,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagcl.surf,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagclonline.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagclonline.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagclonline.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagclonline.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagclonline.sbs,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagclonline.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintage.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintage.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintages.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintages.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagi.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagi.cfd,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagi.lol,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagi.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagionline.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagionline.life,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagionline.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagionline.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintago.beer,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintago.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintago.bond,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintago.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintago.life,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintago.lol,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintago.work,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagoapp.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagp.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.beer,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.fit,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.fun,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.homes,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.ink,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.lat,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.pics,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.surf,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintags.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagx.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintagy.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintap.skin,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintax.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasastesintax.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://pasesetcsintag.xyz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://thepasastesintagi.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://43.160.238.128,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://130.94.104.165,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://130.94.104.219,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://149.33.20.102,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://172.232.24.161,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://172.232.24.235,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,URL,http://172.234.25.42,phishing,https://x.com/tial_cl/status/2071307374497861790
+2026-06-29,threatfox,DOMAIN,r32rtlhu.1xbetpartnersiran.com,"js.clearfake, domain",n/a
+2026-06-29,threatfox,DOMAIN,pageimagebook.info,"unknown_loader, domain",n/a
 2026-06-28,tweetfeed,URL,http://ripple-drop.com,scam,https://x.com/Scam_Wipe/status/2071328934420005227
 2026-06-29,tweetfeed,URL,https://allegro-lokalnie.121she131.xyz,phishing,https://x.com/PhishStats/status/2071384821369110692
 2026-06-29,threatfox,HASH_SHA256,139d50b674112ca42a6f9e2aea789d0a1f3bd64e7ed5584d54bbfa6c7a418f72,"py.venus_stealer, sha256_hash",n/a
@@ -1022,105 +918,23 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,URL,https://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/invite.php,phishing,https://x.com/patialavii/status/2071637885363933593
 2026-06-29,tweetfeed,URL,https://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/download.php,phishing,https://x.com/patialavii/status/2071637885363933593
 2026-06-29,tweetfeed,URL,https://wf.managepci.com/safemaker/login/portal,phishing,https://x.com/PhishStats/status/2071660408021127333
-2026-06-28,tweetfeed,DOMAIN,pasastesintag26.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintap.cfd,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintap.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagas.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagi.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagi.rest,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagi.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagionline.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagionline.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagionline.sbs,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.icu,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.life,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.rest,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintaplmw.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.xyz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagas.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagas.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagas.buzz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagas.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagas.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.buzz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.cfd,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.homes,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.icu,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.lat,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.lol,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.sbs,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,parastesintag.yachts,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.beer,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.courses,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.digital,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.fit,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.icu,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.study,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag.surf,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintag26.xin,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagapp.lat,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagapp.pics,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagas.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.qpon,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.shop,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagcl.surf,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagclonline.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagclonline.click,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagclonline.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagclonline.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagclonline.sbs,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagclonline.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintage.cyou,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintage.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintages.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintages.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagi.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagi.cfd,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagi.lol,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagi.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagionline.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagionline.life,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagionline.mom,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagionline.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintago.beer,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintago.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintago.bond,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintago.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintago.life,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintago.lol,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintago.work,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagoapp.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagp.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.beer,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.best,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.fit,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.fun,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.homes,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.ink,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.lat,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.pics,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.surf,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintags.top,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagx.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintagy.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintap.skin,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintax.help,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasastesintax.online,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,pasesetcsintag.xyz,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,DOMAIN,thepasastesintagi.casa,phishing,https://x.com/tial_cl/status/2071307374497861790
+2026-06-29,tweetfeed,URL,http://94.154.43.208,"C2, malware",https://x.com/etugenio/status/2071667423627858015
+2026-06-29,threatfox,HASH_SHA256,ffe98374173d7c2084a1a6953b308c13a8b9493294af831c23542b0d88654036,"win.valley_rat, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,d6ca3c85df784f0b7751f67bc0b23f44f173b7be7f6344d02f26c8e28e0abad8,"win.valley_rat, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,3f076a3e4a0733c630d58f790dc8b6422c5ee6344695f88987b14a060d721d4f,"win.coinminer, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,1d805377c6dc2c4321897789d82add4d2e83e947c5fe2a182061484db840d7bb,"win.nanocore, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,cfa1674a075c651c7bf0278f5fffc2ed2d268f4317eb41faf1d1eb03c14bdb04,"win.nanocore, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,af154a4bb20730e0d8f7e88179b1797d8e67b23302ee2a0fa152dbd23a39a9dd,"win.nanocore, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,604a502f34aa28773356a131d2ce537866cdd973e464a7144b0d626fd65f5937,"win.nanocore, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,f59b521321526c8e255c6e5a9ed71d063349cab55a4a0b7207c6aa0039fb32be,"win.salatstealer, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,a834cec6b236453ee671c23326b60763880a47c93ccc595d6e566ec5f81ade88,"win.njrat, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,9977df7ffd04173d38e0aefe3d028052e164aaa69c1facfe63af55b473dd9e24,"win.salatstealer, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,1086e2ec8e9274e1639f14084f27d3b47e606c37ccc2a1e4976db6633ef797d5,"win.njrat, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,31c37ff61aa322192236c9672f09e3d97b6e6e09c5019077df7d0567d4c0b48b,"win.njrat, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,0911748a95f6a362d1ed8d6fcd1a7889167520cdd506522658d84a69c9a088ab,"win.ave_maria, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,83a2d5361b91b0ac26ff7c5f161dd3008de6922c5df7f8c0af80b1dea105480d,"win.ave_maria, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,ab168b5a63520e7cabe5d2d3917e1b9b1b388db0b3f27354bc7cd075e63cc7dd,"win.valley_rat, sha256_hash",n/a
+2026-06-29,threatfox,HASH_SHA256,16aa5e9cd33302fb4bba5f5fe61b9dcef4e6e1a777098985eca17e5a6f075234,"win.raton_rat, sha256_hash",n/a
 2026-06-28,tweetfeed,DOMAIN,ripple-drop.com,scam,https://x.com/Scam_Wipe/status/2071328934420005227
 2026-06-29,tweetfeed,DOMAIN,allegro-lokalnie.121she131.xyz,phishing,https://x.com/PhishStats/status/2071384821369110692
 2026-06-29,threatfox,HASH_MD5,787d7a0b27f676de5986ff2aeffa694d,"py.venus_stealer, md5_hash",n/a
@@ -1208,14 +1022,22 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,DOMAIN,backup.madronoapp.com,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
 2026-06-29,tweetfeed,DOMAIN,usz00mczyiee.store,phishing,https://x.com/patialavii/status/2071637885363933593
 2026-06-29,tweetfeed,DOMAIN,wf.managepci.com,phishing,https://x.com/PhishStats/status/2071660408021127333
-2026-06-28,tweetfeed,IP,43.160.238.128,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,IP,130.94.104.165,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,IP,130.94.104.219,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,IP,149.33.20.102,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,IP,172.232.24.161,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,IP,172.232.24.235,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,IP,172.234.25.42,phishing,https://x.com/tial_cl/status/2071307374497861790
-2026-06-28,tweetfeed,IP,66.198.225.124,ClickFix,https://x.com/raghav127001/status/2071307685354746104
+2026-06-29,threatfox,HASH_MD5,a8480f1bd4fc75a68930f3c60df63955,"win.valley_rat, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,63844cd3d2578789f0e5ca58cfddf9d4,"win.valley_rat, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,1ccf41cfd9d85a0e6c49854e25d76ab5,"win.coinminer, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,04f340ede96f607f310a9ca67370a5e5,"win.nanocore, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,d11ea15f2c690f46bfc282f300f692c1,"win.nanocore, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,5fea3f930de097794a95ced9dbae500c,"win.nanocore, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,1615ac4b69265a70f17a0eb37df82065,"win.nanocore, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,1e3fd12fee9d2fd27642ed24cff01338,"win.njrat, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,5563f909b93845410a8014ddffa5adf6,"win.salatstealer, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,7f79817eb5e3579ce8957a42c31c65fa,"win.salatstealer, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,2f61cb4b14e0cf839a4a823eceea88e9,"win.njrat, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,b1341da78ca16f4d04cb56d05c63a821,"win.ave_maria, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,744e1221f6467d0b7e73a10f52e6cd6c,"win.njrat, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,14b7d8e98b8cd97f8f302bab2b4dea27,"win.ave_maria, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,91ca6805aabe73cabd12644fccf91ec5,"win.valley_rat, md5_hash",n/a
+2026-06-29,threatfox,HASH_MD5,4db7b73a3650b98b99aa282bf1e16cc1,"win.raton_rat, md5_hash",n/a
 2026-06-29,tweetfeed,HASH_SHA256,11b731432946b1a88f1bee309734c1a9c9df1ae62d5a070ca8355db46bdf93a2,n/a,https://x.com/smica83/status/2071493637527998596
 2026-06-29,tweetfeed,IP,193.26.115.168,n/a,https://x.com/smica83/status/2071494475633820017
 2026-06-29,tweetfeed,HASH_SHA256,e18f7f0fd6ca2a9be32682c74586e753e91732557268d1fb31df45cf26cd1e3d,n/a,https://x.com/smica83/status/2071494475633820017
@@ -1245,6 +1067,7 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,HASH_SHA256,f8c59816c32edb6ff4bd8a15859b9a1b0e915d8d2b3e79a82d0a27d0afdc43b9,phishing,https://x.com/patialavii/status/2071637885363933593
 2026-06-29,tweetfeed,IP,104.193.195.159,C2,https://x.com/Fact_Finder03/status/2071639456785006820
 2026-06-29,tweetfeed,IP,54.205.74.4,phishing,https://x.com/PhishStats/status/2071660408021127333
+2026-06-29,tweetfeed,IP,94.154.43.208,"C2, malware",https://x.com/etugenio/status/2071667423627858015
 2026-06-29,tweetfeed,HASH_MD5,9f2687d75f6525e47421f9417a1a799b,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,HASH_MD5,5a14a70a00e320af7eea055275160e95,n/a,https://x.com/G60930953/status/2071593005874622708
 2026-06-29,tweetfeed,HASH_MD5,aea99a04f065a538822fce731c83f2fc,n/a,https://x.com/G60930953/status/2071593005874622708
