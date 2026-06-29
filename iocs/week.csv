@@ -5,23 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-22,threatfox,URL,https://yodonoplasma.es/,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.x86,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.x86_64,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.i686,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.arc,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.arm6,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.mpsl,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.arm,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.m68k,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.sh4,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.spc,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.arm7,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.mips,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.arm5,"unknown, url",n/a
-2026-06-22,threatfox,URL,http://192.142.28.77/bachekuni/ohshit.ppc,"unknown, url",n/a
-2026-06-22,threatfox,URL,https://opa.hitamsm188.top/,"win.vidar, url",n/a
-2026-06-22,threatfox,URL,https://opa.utvrent.com/,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/jjh-765/nxx-5,"js.clearfake, url",n/a
 2026-06-22,threatfox,URL,https://ext2.info/time.php,"unknown, url",n/a
 2026-06-22,threatfox,URL,https://git.hitamsm188.top/,"win.vidar, url",n/a
@@ -367,19 +350,6 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,URL,https://synccert7665.com/update/package,"js.kongtuke, url",n/a
 2026-06-29,threatfox,URL,https://ghoster.com.br/vendas-ghoster/,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://gustoantico.ch/,"win.vidar, url",n/a
-2026-06-22,threatfox,DOMAIN,www.iltat.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,www.iltatbackup1.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,www.iltatbackup2.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,www.cbcleib.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,www.webdevarrayremcobackup1.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,www.webdevarrayremcobackup2.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,www.webdevarrayremcobackup3.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,watchthisyear.gotdns.ch,"win.xworm, domain",n/a
-2026-06-22,threatfox,DOMAIN,www.webdevarrayremco.com,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,opa.hitamsm188.top,"win.vidar, domain",n/a
-2026-06-22,threatfox,DOMAIN,japanaction059.duckdns.org,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,japanaction059bk.duckdns.org,"win.remcos, domain",n/a
-2026-06-22,threatfox,DOMAIN,opa.utvrent.com,"win.vidar, domain",n/a
 2026-06-22,threatfox,DOMAIN,kesmn.com,"win.remcos, domain",n/a
 2026-06-22,threatfox,DOMAIN,c4cxraym.megaparicom.poker,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,megaparicom.poker,"js.clearfake, domain",n/a
@@ -1225,7 +1195,6 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,DOMAIN,1xdownloadbet.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,cportal.atlantascales.com,"js.fakeupdates, domain",n/a
 2026-06-29,threatfox,DOMAIN,hi4ztw3j.vip1xbet.org,"js.clearfake, domain",n/a
-2026-06-22,tweetfeed,URL,https://bradesco.atualizacaopj.net/login.php?hash=2148117876a398490963a46.98619614,phishing,https://x.com/PhishStats/status/2069091019765764600
 2026-06-22,tweetfeed,URL,https://tucasaibague.com/sba/docuNEW-SBA/Windows/,phishing,https://x.com/patialavii/status/2069101539877425531
 2026-06-22,threatfox,HASH_SHA256,6d80382d125cb0253ef827c7da1054c30b1097511b4d538c15463a8ccab4772c,"win.vidar, sha256_hash",n/a
 2026-06-22,threatfox,HASH_SHA256,8eae6ca0380279f0c047e6b5d49808db591f9e14d106226017eaae62b79c1a10,"win.ghost_rat, sha256_hash",n/a
@@ -2686,7 +2655,6 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,URL,https://brookingsagent.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest&t=doctorate,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-29,tweetfeed,URL,http://fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-29,tweetfeed,URL,http://brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-22,tweetfeed,DOMAIN,bradesco.atualizacaopj.net,phishing,https://x.com/PhishStats/status/2069091019765764600
 2026-06-22,tweetfeed,DOMAIN,tucasaibague.com,phishing,https://x.com/patialavii/status/2069101539877425531
 2026-06-22,threatfox,HASH_MD5,10c0804818712c05c2a972f6fd64f86f,"win.vidar, md5_hash",n/a
 2026-06-22,threatfox,HASH_MD5,2da9b1748b6154c69b6dcbbf09ec91d0,"py.venus_stealer, md5_hash",n/a
@@ -3514,7 +3482,6 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,DOMAIN,petercozzens.com,phishing,https://x.com/PhishStats/status/2071592299000189373
 2026-06-29,tweetfeed,DOMAIN,brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-29,tweetfeed,DOMAIN,fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-22,tweetfeed,IP,178.16.54.253,phishing,https://x.com/PhishStats/status/2069091019765764600
 2026-06-22,tweetfeed,HASH_SHA256,37ddc2b5fd170cef70d8f6b3a896fa6c251baf1e5c3d1fd91d71b54aee6dde35,phishing,https://x.com/patialavii/status/2069101539877425531
 2026-06-22,tweetfeed,IP,107.175.85.215,"APT, malware",https://x.com/skocherhan/status/2069121978460516646
 2026-06-22,tweetfeed,IP,47.76.51.107,n/a,https://x.com/smica83/status/2069156343727226996
