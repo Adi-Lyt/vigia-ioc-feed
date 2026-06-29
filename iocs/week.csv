@@ -5,8 +5,6 @@ date,user,type,ioc,tags,context
 2026-06-23,cisa_kev,CVE,CVE-2026-34908,"Ubiquiti UniFi OS, kev","Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-26"
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
-2026-06-22,threatfox,URL,https://cdn.jsdelivr.net/gh/savina-41/r4240-98d7-bc2c@main/fe3b,"js.clearfake, url",n/a
 2026-06-22,threatfox,URL,https://itecau.com.au/,"unknown, url",n/a
 2026-06-22,threatfox,URL,https://192.177.26.222,"win.vidar, url",n/a
 2026-06-22,threatfox,URL,http://85.120.255.35/ssh.sh,"unknown, url",n/a
@@ -697,12 +695,6 @@ date,user,type,ioc,tags,context
 2026-06-28,threatfox,URL,https://citrusocarpetscleaning.com/,"unknown, url",n/a
 2026-06-28,threatfox,URL,http://103.146.231.107:80/DFne,"win.cobalt_strike, url",n/a
 2026-06-28,threatfox,URL,https://vihangamyoga.org/,"win.vidar, url",n/a
-2026-06-22,threatfox,DOMAIN,nwkvg7b4.qurankarim.xyz,"js.clearfake, domain",n/a
-2026-06-22,threatfox,DOMAIN,qurankarim.xyz,"js.clearfake, domain",n/a
-2026-06-22,threatfox,DOMAIN,73mabfum.303bet.bet,"js.clearfake, domain",n/a
-2026-06-22,threatfox,DOMAIN,303bet.bet,"js.clearfake, domain",n/a
-2026-06-22,threatfox,DOMAIN,27hrchzs.megaparibet.games,"js.clearfake, domain",n/a
-2026-06-22,threatfox,DOMAIN,megaparibet.games,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,megaparibet.poker,"js.clearfake, domain",n/a
 2026-06-22,threatfox,DOMAIN,ranoz.gg,"win.5t_downloader, domain",n/a
 2026-06-22,threatfox,DOMAIN,lockr.so,"win.5t_downloader, domain",n/a
@@ -1855,6 +1847,7 @@ date,user,type,ioc,tags,context
 2026-06-28,darkweb_forums,URL,https://t.me/+CHpDapnyVEc1ODBl,"darkweb, telegram_threat_actors",commit d92cd7bb / telegram_threat_actors.md
 2026-06-29,threatfox,DOMAIN,9lw19l8l.betbuf.live,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,xmsjdtn0.betbuf.live,"js.clearfake, domain",n/a
+2026-06-29,threatfox,DOMAIN,6xbjz1e7.1xfa.bio,"js.clearfake, domain",n/a
 2026-06-22,"threatfox,tweetfeed",URL,https://vy.ijnggpi.com/ftx/,phishing,https://x.com/patialavii/status/2068919332126835122
 2026-06-22,tweetfeed,URL,https://web-g63lkz.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2068919332126835122
 2026-06-22,tweetfeed,URL,https://line.me.ja.geraiqawti.com,phishing,https://x.com/masaomi346/status/2068928510304133140
