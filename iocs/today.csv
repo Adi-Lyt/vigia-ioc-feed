@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-28,threatfox,URL,https://vihangamyoga.org/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,http://103.26.86.217:52895/Mozi.a,"elf.mozi, url",n/a
 2026-06-29,threatfox,URL,http://103.213.112.214:49082/Mozi.m,"elf.mozi, url",n/a
 2026-06-29,threatfox,URL,https://aheadsupport.co.uk/,"unknown, url",n/a
@@ -49,7 +48,6 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,URL,http://176.65.144.73/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
 2026-06-29,threatfox,URL,http://miedorama.com:4959,"win.remus, url",n/a
 2026-06-29,threatfox,URL,http://angect.xyz:7838,"win.remus, url",n/a
-2026-06-28,threatfox,DOMAIN,htfll3q5.1x303.casino,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,8zdusrwn.xbetone.com,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,dows.sabad724.bio,"js.clearfake, domain",n/a
 2026-06-28,darkweb_forums,URL,https://t.me/+CHpDapnyVEc1ODBl,"darkweb, telegram_threat_actors",commit d92cd7bb / telegram_threat_actors.md
