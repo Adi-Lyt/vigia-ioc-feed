@@ -1,5 +1,4 @@
 date,user,type,ioc,tags,context
-2026-06-28,threatfox,URL,http://103.146.231.107:80/DFne,"win.cobalt_strike, url",n/a
 2026-06-28,threatfox,URL,https://vihangamyoga.org/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,http://103.26.86.217:52895/Mozi.a,"elf.mozi, url",n/a
 2026-06-29,threatfox,URL,http://103.213.112.214:49082/Mozi.m,"elf.mozi, url",n/a
@@ -40,6 +39,8 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,URL,https://c1d.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://bogisibh.xyz/api/v1/status,"js.kongtuke, url",n/a
 2026-06-29,threatfox,URL,https://synccert7665.com/update/package,"js.kongtuke, url",n/a
+2026-06-29,threatfox,URL,https://ghoster.com.br/vendas-ghoster/,"unknown, url",n/a
+2026-06-29,threatfox,URL,https://gustoantico.ch/,"win.vidar, url",n/a
 2026-06-28,threatfox,DOMAIN,jarayemaleyhamval.xyz,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,huz6wkqi.mokatebatedari.xyz,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,mokatebatedari.xyz,"js.clearfake, domain",n/a
@@ -173,8 +174,8 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,DOMAIN,1xdownload2023.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,313betapk.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,1xdownloadbet.com,"js.clearfake, domain",n/a
-2026-06-28,tweetfeed,URL,https://atuvc.vu/vibt/,phishing,https://x.com/Phisheidon/status/2071243618237436291
-2026-06-28,tweetfeed,URL,http://175.173.79.123:35540/Mozi.m,n/a,https://x.com/sicehice/status/2071253245746356573
+2026-06-29,threatfox,DOMAIN,cportal.atlantascales.com,"js.fakeupdates, domain",n/a
+2026-06-29,threatfox,DOMAIN,hi4ztw3j.vip1xbet.org,"js.clearfake, domain",n/a
 2026-06-28,tweetfeed,URL,https://204.47.167.72.host.secureserver.net/cryp/?email=redacted,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
 2026-06-28,tweetfeed,URL,http://139.84.245.197,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
 2026-06-28,tweetfeed,URL,http://153.117.34.2:52680/Mozi.m,n/a,https://x.com/sicehice/status/2071285458147906015
@@ -851,7 +852,9 @@ date,user,type,ioc,tags,context
 2026-06-29,threatfox,HASH_SHA256,ac56862ba982309ae1e4b46df7af4cb16364c55d2e2485a106631f1888aa5840,"js.clearfake, sha256_hash",n/a
 2026-06-29,threatfox,HASH_SHA256,7e5ba27700f835afed4b04390f935e15bc9b7eef1979e28ba1e2118614132e34,"js.clearfake, sha256_hash",n/a
 2026-06-29,threatfox,HASH_SHA256,98c084f01044b8174d6ace1f512da6a06933c4fdc6f858d32ce9b07279dc82a7,"js.clearfake, sha256_hash",n/a
-2026-06-28,tweetfeed,DOMAIN,atuvc.vu,phishing,https://x.com/Phisheidon/status/2071243618237436291
+2026-06-29,tweetfeed,URL,https://brookingsagent.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest&t=doctorate,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
+2026-06-29,tweetfeed,URL,http://fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
+2026-06-29,tweetfeed,URL,http://brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-28,tweetfeed,DOMAIN,204.47.167.72.host.secureserver.net,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
 2026-06-28,tweetfeed,DOMAIN,hart-hulp-ua.com,n/a,https://x.com/FalconFeedsio/status/2071290776005570894
 2026-06-28,tweetfeed,DOMAIN,saint-daniel.world,n/a,https://x.com/FalconFeedsio/status/2071290776005570894
@@ -1028,7 +1031,8 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,DOMAIN,winsess.com,phishing,https://x.com/PhishStats/status/2071591495744811320
 2026-06-29,tweetfeed,DOMAIN,sparkasse-invest.de,phishing,https://x.com/PhishStats/status/2071592025804181697
 2026-06-29,tweetfeed,DOMAIN,petercozzens.com,phishing,https://x.com/PhishStats/status/2071592299000189373
-2026-06-28,tweetfeed,IP,175.173.79.123,n/a,https://x.com/sicehice/status/2071253245746356573
+2026-06-29,tweetfeed,DOMAIN,brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
+2026-06-29,tweetfeed,DOMAIN,fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-28,tweetfeed,IP,139.84.245.197,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
 2026-06-28,tweetfeed,IP,204.47.167.72,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
 2026-06-28,tweetfeed,IP,153.117.34.2,n/a,https://x.com/sicehice/status/2071285458147906015
@@ -1067,4 +1071,5 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,IP,5.230.74.79,C2,https://x.com/Fact_Finder03/status/2071578429195976711
 2026-06-29,tweetfeed,IP,23.227.38.32,phishing,https://x.com/PhishStats/status/2071591495744811320
 2026-06-29,tweetfeed,IP,91.203.4.40,phishing,https://x.com/PhishStats/status/2071592025804181697
+2026-06-29,tweetfeed,HASH_SHA256,a1912b1fc666df5a13c6e84d9dc6751ece238495d77b6a13d4def0b5b40e07e2,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-29,tweetfeed,HASH_MD5,9f2687d75f6525e47421f9417a1a799b,n/a,https://x.com/suyog41/status/2071573373550014538
