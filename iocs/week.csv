@@ -1370,6 +1370,28 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,ackeamann.xyz,"js.kongtuke, domain",n/a
 2026-06-30,threatfox,DOMAIN,cleardig477.icu,"unknown_loader, domain",n/a
 2026-06-30,threatfox,DOMAIN,api-v2.golfsignpro.com,"js.fakeupdates, domain",n/a
+2026-06-30,threatfox,DOMAIN,i5sofk6r.xbetone.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,imohoo.com.br,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,unspanel.rs,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,fearlesshomemaker.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,keypharmacy.uk,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,lifetimeeyecare.biz,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,ajantaappliances.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,thekiss.gr,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,swanriverschool.org,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,dainikkishoreganj.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,alpin-tuning.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,tools4teens.net,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,phcnepal.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,cakramakmurabadi.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,insideautomacao.com.br,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,hashsolution.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,m-und-c-partners.de,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,knowmat.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,vihangamyoga.org,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,lisanslab.com,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,glamspin360.com,"win.qakbot, domain",n/a
+2026-06-30,threatfox,DOMAIN,hamzehkoumakli.com,"win.qakbot, domain",n/a
 2026-06-23,tweetfeed,URL,https://www.noah-scheurer.de/BradySandahl/,phishing,https://x.com/patialavii/status/2069290688777437615
 2026-06-23,tweetfeed,URL,https://s-1s10hnb.s3.us-east-2.amazonaws.com/LogMeInResolve_Unattended.msi,phishing,https://x.com/patialavii/status/2069290688777437615
 2026-06-23,tweetfeed,URL,http://23.95.173.128,phishing,https://x.com/Metemcyber/status/2069295308731982000
@@ -2798,6 +2820,7 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,HASH_SHA256,017cb09cabd9c909e4fb06e8c668d2f89e472e103eda5230d98761a9f998bdb5,"js.beavertail, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,0e1ae44c555c13b03bdbd72f66c456aaffcdd13887ebe9859d302a63e409c462,"js.beavertail, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,a5b42be0041bff5a4e521412014c2e7029ff08df7e9746fb4d923d40cee0e7d7,"elf.mirai, sha256_hash",n/a
+2026-06-30,threatfox,HASH_SHA256,ce29b8c2576712a33aae06aee02486440c9268fcc19da1496a074feeee0a5178,"js.clearfake, sha256_hash",n/a
 2026-06-23,tweetfeed,DOMAIN,noah-scheurer.de,phishing,https://x.com/patialavii/status/2069290688777437615
 2026-06-23,tweetfeed,DOMAIN,s-1s10hnb.s3.us-east-2.amazonaws.com,phishing,https://x.com/patialavii/status/2069290688777437615
 2026-06-23,tweetfeed,DOMAIN,americanexpress.rakutenmastercard.com,phishing,https://x.com/Metemcyber/status/2069299121895374915
@@ -3789,6 +3812,7 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,HASH_SHA256,e9192b25d4450a1ab4ec1926c1ec19fd4bd2bd84f3d13d8969502266ee425e56,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-29,tweetfeed,HASH_SHA256,7944ed8753971f952130ea0c52a0ee9d7cef42f33b176234b08ab7f97a2cd262,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-30,tweetfeed,IP,43.165.174.173,phishing,https://x.com/Metemcyber/status/2071831328610521573
+2026-06-30,tweetfeed,HASH_SHA256,4c497ee749359905141c034740c2b04b427e868c0ff1b949bae90753396e2ccf,AgentTesla,https://x.com/bomccss/status/2071832499286872112
 2026-06-23,tweetfeed,HASH_MD5,64f2681ad0940e6c2c9c76e6834117bf,APT,https://x.com/suyog41/status/2069306035496776105
 2026-06-23,tweetfeed,HASH_MD5,5caeef29faf5ee266fc05c72fefbfd71,n/a,https://x.com/suyog41/status/2069339491094126652
 2026-06-23,tweetfeed,HASH_MD5,b791c416988d068a3e548a0f21cd3518,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
