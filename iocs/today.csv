@@ -1,8 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-29,threatfox,URL,https://bom.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://bom.jangkarsm188.top/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://rpc-cloud.beer/api/css.js,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://opportunitiesforeveryone.net/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,http://176.65.144.73/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
 2026-06-29,threatfox,URL,http://miedorama.com:4959,"win.remus, url",n/a
@@ -57,160 +54,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://pak.psgiran.news/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://pak.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://mrinterior.co.uk/,"win.vidar, url",n/a
-2026-06-29,threatfox,DOMAIN,zenithharbinger.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,radiantprospera.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,latticepatronage.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,covenantventure.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,apexharvestor.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,momentumbloomera.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,vectorprospera.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,nexuspatronage.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,quantumharbinger.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,paragonbloomera.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,amb1ing-farm.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,borschokf2dd.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,latat-long.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,plaque5tucco.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,ebensen-timent.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,chernichco5t.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,degassing-mould.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,souf1atwindow.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,betav2ryazhsky.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,seering5outh.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,archive-shlyah.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,acce1eratpacify.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,ass-ecuadorian.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,repu1sivebrazen.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,doha-neutral.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,izyob7rickets.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,shim-windless.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,solid5lowly.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,die-reformer.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,dunkpo1ytechnic.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,ethen0shypnotist.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,peddler-wasting.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,overreactuntr2ve.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,ama1gamb1ast.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,radio-legitdown.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,encryption5hadow.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,hor1inka-lonely.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,chronicle5-diachiha.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,unp2idvalk.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,estradaannivers.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,unseen-zorenka.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,carving-paral.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,exhaustoverwint.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,poles-wrinkle.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,chequecholeric.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,monotheism-sled.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,disorientbreak.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,estat-goldilock.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,after-diacritic.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,sue-intentioned.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,champag-mannered.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,limous-nitout.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,flos-strip.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,bitter-salty.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,ripples-shark.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,sniffingviableoffice.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,binary-dock.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,pashtuns-study-rose-hip.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,neural-routing.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,polestennisplayer.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,stack-forge.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,animalspintroll-xerography.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,packet-lattice.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,icewounded.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,runtime-atlas.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,khudrukrantingmanic.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,bellow-norushka-pianissimo.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,biennial-polovauniverse.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,bibliosmirk.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,downplaying-sevenleague.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,hundred-years-old.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,culling-posture-schnitzel.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,signal-harbor.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,proxy-horizon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,byte-forge.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cloud-atlas.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,script-vault.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,network-pulse.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cyber-relay.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,script-matrix.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,network-horizon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,container-vector.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,script-horizon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,telemetry-vault.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,microservice-pulse.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,signal-vault.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,network-forge.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,byte-lattice.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cyber-harbor.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,stack-matrix.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,siciliandefensetheory.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,audioattenuatorschematic.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,orbitaldockingmodule.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,crispychickencutlets.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cyberneticprostheticlab.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,magneticlevitationtrain.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,gothiccathedralblueprint.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,deepseahydrothermalvent.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,stratosphericweatherballoon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,renaissancefrescorestoration.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,subdermalbiometricchip.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,primordialsoupevolution.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,telemetry-orbit.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,container-beacon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,packet-cascade.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,kernel-vertex.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cloud-meridian.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,network-foundry.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,runtime-cascade.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,packet-frontier.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,kernel-beacon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,signal-meridian.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,proxy-compass.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,telemetry-nexus.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,container-bridge.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,proxy-orbit.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,telemetry-sphere.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,system-forge.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,stack-orbit.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,script-nexus.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,proxy-harbor.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,network-vector.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,logic-compass.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cloud-lattice.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,byte-frontier.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,container-pulse.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,kernel-compass.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cloud-beacon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,proxy-cascade.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,byte-foundry.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,stack-sphere.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,script-bridge.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,system-horizon.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,karo7drix.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,bom.psgiran.news,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,bom.jangkarsm188.top,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,freeshareyourimage.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,freecatimages.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,placebetweenphotos.us,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,thedocumentsthe.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,openimagesworld.us,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,lovefreephotos.us,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,imageuploaderfree.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,andopening.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,documentsphotos.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cdn.wp-station.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,api.wp-station.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cloud.api-middle-connect.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,record-tracker.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,hilo-cdn.app,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,stats.wp-station.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,gushchina-kriz.digital,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,answers.microsofl.ip-ddns.com,"win.cobalt_strike, domain",n/a
-2026-06-29,threatfox,DOMAIN,dns1.globalcdn.autos,"win.cobalt_strike, domain",n/a
 2026-06-29,threatfox,DOMAIN,moderncloudprotection.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,publicwebprotection.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,superfirewallprotection.com,"js.clearfake, domain",n/a
@@ -275,26 +118,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,shartboro.xyz,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,j1yidzep.boombasket.bet,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,boombasket.bet,"js.clearfake, domain",n/a
-2026-06-29,tweetfeed,URL,http://interview-forbes-tech.com,n/a,https://x.com/lukOlejnik/status/2071594462497718381
-2026-06-29,tweetfeed,URL,https://infosedu.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
-2026-06-29,tweetfeed,URL,https://xcu1806odnz8z39r6g.nuagobuilders.com,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
-2026-06-29,tweetfeed,URL,http://dynamicmacisland.com,n/a,https://x.com/JamfThreatLabs/status/2071600199126970563
-2026-06-29,tweetfeed,URL,http://pkgovt.help,Xworm,https://x.com/volrant136/status/2071618771664642449
-2026-06-29,tweetfeed,URL,http://31.56.209.80:7834,C2,https://x.com/volrant136/status/2071619178847715622
-2026-06-29,tweetfeed,URL,http://eurodocpro.vip,n/a,https://x.com/Malwarehunterr/status/2071627589081575818
-2026-06-29,threatfox,HASH_SHA256,e2becd3fbfd8a2bc16f517ddf3702bc03ce25718495e7e67ef8517d2d91be6f9,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,1a22a2b2b0118fbd8e607a1fd303e69fb61b95837372e57d508908de1a446195,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,e1f8ac8514b45b51abc91b135e4964290a8e6bb5fb4893535fce8da974a8da5b,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,2b3681feecfb6e9a9f762fbf0e0421d69f6bd66f925f4d79be39cde5616256d6,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,65822e4396d854529e895ce37a87c11f660b0f5fd826660a97e9d62b24e57082,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,8765c89afc71a53077f2221ddf68625d971f41e8446b4c2b2f8c0835910d7306,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,8a712dc3e7b657d198b7532dd8c7f117c882ed0ec3acc4fb5bcb62ccae9e450c,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,76bf6dc77dd65a17f8525db19ed152117272bf777cd49d0284dbb398f90d945c,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,e3b293066d3fc76c2fb149af1492afce98e4bba9a699713b0d5e8ef2c558ac92,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,80049a2ef7ebc587d0a1b68cb51f79f710950670fc693f7f666233b2bb8c11a9,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,67af4ba680d2acadbc7c96852a296c515da5eb93095056b8028f5d16dc8271a0,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,e127aef41aaa4e0c28becb09df8415df35f7ca23724e07e2dbab0abb5f72fb85,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,54b57a524cb975f381dbc1dacccd77924d7ce331fe6b156c5b62419d86e7d18a,"js.clearfake, sha256_hash",n/a
 2026-06-29,tweetfeed,URL,https://workspacecloudportal.com/ftx/page.html,phishing,https://x.com/patialavii/status/2071635621693772015
 2026-06-29,tweetfeed,URL,https://pub-113cc6d30763427ca2331b4f400c33af.r2.dev/setup_DocuSignInstaller_V4.2.msi,phishing,https://x.com/patialavii/status/2071635621693772015
 2026-06-29,tweetfeed,URL,http://backup.madronoapp.com,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
@@ -375,12 +198,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,HASH_SHA256,757b20354a901501b2d8e99294940d1256d2d9140d336aded8307d95fdf479f3,"js.clearfake, sha256_hash",n/a
 2026-06-30,tweetfeed,URL,http://vscode-bootstrap.sh,n/a,https://x.com/L0Psec/status/2071985075785245063
 2026-06-30,tweetfeed,URL,http://code-beautify.com,n/a,https://x.com/L0Psec/status/2071985075785245063
-2026-06-29,tweetfeed,DOMAIN,interview-forbes-tech.com,n/a,https://x.com/lukOlejnik/status/2071594462497718381
-2026-06-29,tweetfeed,DOMAIN,infosedu.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
-2026-06-29,tweetfeed,DOMAIN,xcu1806odnz8z39r6g.nuagobuilders.com,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
-2026-06-29,tweetfeed,DOMAIN,dynamicmacisland.com,n/a,https://x.com/JamfThreatLabs/status/2071600199126970563
-2026-06-29,tweetfeed,DOMAIN,pkgovt.help,Xworm,https://x.com/volrant136/status/2071618771664642449
-2026-06-29,tweetfeed,DOMAIN,eurodocpro.vip,n/a,https://x.com/Malwarehunterr/status/2071627589081575818
 2026-06-29,tweetfeed,DOMAIN,workspacecloudportal.com,phishing,https://x.com/patialavii/status/2071635621693772015
 2026-06-29,tweetfeed,DOMAIN,pub-113cc6d30763427ca2331b4f400c33af.r2.dev,phishing,https://x.com/patialavii/status/2071635621693772015
 2026-06-29,tweetfeed,DOMAIN,backup.madronoapp.com,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
@@ -429,7 +246,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,documents.zip,n/a,https://x.com/ElementalX2/status/2071951017433043200
 2026-06-30,tweetfeed,DOMAIN,podcast.n1c4.top,phishing,https://x.com/skocherhan/status/2071955750285377775
 2026-06-30,tweetfeed,DOMAIN,vscode-bootstrap.sh,n/a,https://x.com/L0Psec/status/2071985075785245063
-2026-06-29,tweetfeed,IP,31.56.209.80,C2,https://x.com/volrant136/status/2071619178847715622
 2026-06-29,tweetfeed,HASH_SHA256,bd53ffbd0b449ead46ae48f59d0d9b017b60f4abdb6a372e22c5677a8e31af30,phishing,https://x.com/patialavii/status/2071635621693772015
 2026-06-29,tweetfeed,IP,3.208.19.130,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
 2026-06-29,tweetfeed,HASH_SHA256,b7b7ac7132c3cc8cd9d5256e51d7f83233d5d6b67b16946e7b57a189db99246d,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
@@ -469,10 +285,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,IP,188.137.231.56,n/a,https://x.com/stop_spammerz/status/2071959303754293316
 2026-06-30,tweetfeed,HASH_SHA256,615043cc2c50a9d05f08d90d8e1afb74d5cacccfff6c407b6d35f72790473eb2,n/a,https://x.com/L0Psec/status/2071985086271000984
 2026-06-30,tweetfeed,HASH_SHA256,a3024518cb070f8396e49a4d82baaae7b7909ac2ee5c2a2f480d8325f52090cf,n/a,https://x.com/L0Psec/status/2071985086271000984
-2026-06-29,tweetfeed,HASH_MD5,5a14a70a00e320af7eea055275160e95,n/a,https://x.com/G60930953/status/2071593005874622708
-2026-06-29,tweetfeed,HASH_MD5,aea99a04f065a538822fce731c83f2fc,n/a,https://x.com/G60930953/status/2071593005874622708
-2026-06-29,tweetfeed,HASH_MD5,90559288e4b4b2f41157d7f7b1f9adb1,C2,https://x.com/volrant136/status/2071619178847715622
-2026-06-29,tweetfeed,HASH_MD5,c59d83ce3b43dd07757910b4c1694b40,C2,https://x.com/volrant136/status/2071619178847715622
 2026-06-29,tweetfeed,HASH_MD5,f61b02d18ba92031c871760759162e87,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
 2026-06-29,tweetfeed,HASH_MD5,97422ce882dc1144e13fa279dc141b0a,n/a,https://x.com/sicehice/status/2071684084988780914
 2026-06-30,tweetfeed,HASH_MD5,b02698eee18cad510aa1fdea6c83edc3,n/a,https://x.com/tdatwja/status/2071873143313223769
