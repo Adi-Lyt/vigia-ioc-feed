@@ -72,6 +72,7 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://tools4teens.net/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://knowmat.com/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://lisanslab.com/,"win.vidar, url",n/a
+2026-06-30,threatfox,URL,https://unspanel.rs/,"win.vidar, url",n/a
 2026-06-29,threatfox,DOMAIN,fog.psgiran.news,"win.vidar, domain",n/a
 2026-06-29,threatfox,DOMAIN,gpy.psgiran.news,"win.vidar, domain",n/a
 2026-06-29,threatfox,DOMAIN,iii.psgiran.news,"win.vidar, domain",n/a
@@ -378,6 +379,7 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,hamzehkoumakli.com,"win.qakbot, domain",n/a
 2026-06-30,threatfox,DOMAIN,scp.psgiran.news,"win.vidar, domain",n/a
 2026-06-30,threatfox,DOMAIN,scp.jangkarsm188.top,"win.vidar, domain",n/a
+2026-06-30,threatfox,DOMAIN,kdf.betbacklink.com,"js.clearfake, domain",n/a
 2026-06-29,tweetfeed,URL,https://dsoiedkfmpeew.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
 2026-06-29,tweetfeed,URL,https://zeninc.com/west/result.php,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
 2026-06-29,tweetfeed,URL,https://cdn.glitch.global/ce94f19f-250b-4932-9a3d-4fe40d25d011/oc53600del20240325.pdf,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
@@ -878,6 +880,13 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,https://klelnanzeigen-deutsch.de-6126.info/getpaymentm/252738007/m5,phishing,https://x.com/PhishStats/status/2071839980163363242
 2026-06-30,tweetfeed,URL,https://login.tv-1unextoffice-qr.net/tv/members/6XTyCj,phishing,https://x.com/masaomi346/status/2071841184826491258
 2026-06-30,tweetfeed,URL,https://wizardversity.s3.us-east-005.backblazeb2.com/bambu/BambuStudio-2026.7.0.364-win-x64.msi,n/a,https://x.com/malwrhunterteam/status/2071848257404199149
+2026-06-30,tweetfeed,URL,http://cognito-identity.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,URL,http://tmpdrop.s3.eu-west-3.amazonaws.com/pdf%20file/payload.dll,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,URL,http://tmpdrop.s3.eu-west-3.amazonaws.com/pdf%20file/stage.hta,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,URL,http://vibrbucket.s3.eu-west-3.amazonaws.com/pdf%20file/s3-uploader.exe,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,URL,http://proposaldocs-eu.s3.eu-west-3.amazonaws.com/pdf%20file/s3-uploader.exe,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,URL,http://inteldocs.s3.eu-central-1.amazonaws.com/pdf%20file/stage3.hta,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,URL,https://ntsgo.name,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
 2026-06-29,tweetfeed,DOMAIN,dsoiedkfmpeew.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
 2026-06-29,tweetfeed,DOMAIN,zeninc.com,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
 2026-06-29,tweetfeed,DOMAIN,cdn.glitch.global,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
@@ -933,6 +942,12 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,login.tv-1unextoffice-qr.net,phishing,https://x.com/masaomi346/status/2071841184826491258
 2026-06-30,tweetfeed,DOMAIN,wizardversity.s3.us-east-005.backblazeb2.com,n/a,https://x.com/malwrhunterteam/status/2071848257404199149
 2026-06-30,tweetfeed,DOMAIN,dsewfgrt.mewyy.xyz,"malware, phishing",https://x.com/masaomi346/status/2071859158006243529
+2026-06-30,tweetfeed,DOMAIN,cognito-identity.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,DOMAIN,tmpdrop.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,DOMAIN,vibrbucket.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,DOMAIN,proposaldocs-eu.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,DOMAIN,inteldocs.s3.eu-central-1.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,DOMAIN,ntsgo.name,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
 2026-06-29,tweetfeed,IP,195.86.120.135,phishing,https://x.com/Metemcyber/status/2071525468655006043
 2026-06-29,tweetfeed,IP,89.125.146.28,C2,https://x.com/Fact_Finder03/status/2071547793626587476
 2026-06-29,tweetfeed,IP,107.152.44.183,C2,https://x.com/Fact_Finder03/status/2071548751752434012
@@ -962,6 +977,11 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,HASH_SHA256,80a88e46054917be370301563491447e43a8b8a7229983a1ff534dff30c7979e,n/a,https://x.com/smica83/status/2071850593878991303
 2026-06-30,tweetfeed,IP,136.0.157.39,C2,https://x.com/Fact_Finder03/status/2071851730233680150
 2026-06-30,tweetfeed,HASH_SHA256,bff062c3e63a6b0d71e0630460b32753a47b35f5cef53ce944ed78eb34ad2612,"malware, phishing",https://x.com/masaomi346/status/2071859158006243529
+2026-06-30,tweetfeed,IP,91.147.119.182,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,HASH_SHA256,17284093612f9cfe5492f93f5d645bf2fb532ea64f94bbbda1721f807c2c7cfb,n/a,https://x.com/nextronresearch/status/2071865199892611439
+2026-06-30,tweetfeed,IP,198.74.62.60,C2,https://x.com/Fact_Finder03/status/2071866614929412137
+2026-06-30,tweetfeed,HASH_SHA256,53dc8279f287e689217ffcc5bbba2f458d1abc848dc5238bcef2845d901bc910,n/a,https://x.com/tdatwja/status/2071873143313223769
+2026-06-30,tweetfeed,HASH_SHA256,cce863d31f184108c7e38d6e76fb5ed4c04909c7a2c99039236dcc64af722dfe,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
 2026-06-29,tweetfeed,HASH_MD5,9f2687d75f6525e47421f9417a1a799b,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,HASH_MD5,5a14a70a00e320af7eea055275160e95,n/a,https://x.com/G60930953/status/2071593005874622708
 2026-06-29,tweetfeed,HASH_MD5,aea99a04f065a538822fce731c83f2fc,n/a,https://x.com/G60930953/status/2071593005874622708
@@ -969,3 +989,5 @@ date,user,type,ioc,tags,context
 2026-06-29,tweetfeed,HASH_MD5,c59d83ce3b43dd07757910b4c1694b40,C2,https://x.com/volrant136/status/2071619178847715622
 2026-06-29,tweetfeed,HASH_MD5,f61b02d18ba92031c871760759162e87,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
 2026-06-29,tweetfeed,HASH_MD5,97422ce882dc1144e13fa279dc141b0a,n/a,https://x.com/sicehice/status/2071684084988780914
+2026-06-30,tweetfeed,HASH_MD5,b02698eee18cad510aa1fdea6c83edc3,n/a,https://x.com/tdatwja/status/2071873143313223769
+2026-06-30,tweetfeed,HASH_MD5,695d61a6f9e39a0e7c1a14c28337b2dc,n/a,https://x.com/tdatwja/status/2071873143313223769
