@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-29,threatfox,URL,https://jiy.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://jiy.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://jasyn.kz/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://alphakey.ae/,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://crown-seema.com/,"unknown, url",n/a
@@ -62,9 +60,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://backupper.pro,"js.magecart, url",n/a
 2026-06-30,threatfox,URL,https://www.einvoicesolutions.com/,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://www.m-und-c-partners.de/,"unknown, url",n/a
-2026-06-29,threatfox,DOMAIN,jiy.psgiran.news,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,jiy.jangkarsm188.top,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,39p49guo.mokatebatedari.xyz,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,751.lol,"unknown, domain",n/a
 2026-06-29,threatfox,DOMAIN,plaguec2.cc,"unknown, domain",n/a
 2026-06-29,threatfox,DOMAIN,updatesrv.net,"win.cobalt_strike, domain",n/a
