@@ -1,14 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-29,threatfox,URL,http://103.26.86.217:52895/Mozi.a,"elf.mozi, url",n/a
-2026-06-29,threatfox,URL,http://103.213.112.214:49082/Mozi.m,"elf.mozi, url",n/a
-2026-06-29,threatfox,URL,https://aheadsupport.co.uk/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://3king.ai/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://3king.live/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://3king.app/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://vacante-ieftine.ro/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://genova.com.vn/,"unknown, url",n/a
-2026-06-29,threatfox,URL,http://103.176.16.92:42446/Mozi.a,"elf.mozi, url",n/a
 2026-06-29,threatfox,URL,https://rpc-cloud.beer/api/,"js.clearfake, url",n/a
 2026-06-29,threatfox,URL,https://167.233.204.162/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://77.42.88.66/,"win.vidar, url",n/a
@@ -72,11 +63,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://seniorcitizenjournal.com/,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://leinstermetalrecycling.ie/,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://itsrealmedia.com/,"unknown, url",n/a
-2026-06-29,threatfox,DOMAIN,pbxvml6h3wz35qlr5muy2cg5jvjsd4qhjlsztmxj4lqkyohnfdrntqyd.onion,"unknown, domain",n/a
-2026-06-29,threatfox,DOMAIN,26z3gms2rshr2zzedxhw5fbucilmgt2inhmxzmuhteyztpxohoqplgyd.onion,"unknown, domain",n/a
-2026-06-29,threatfox,DOMAIN,ttfy4zmtiaywfkkmykpxiwtlxkcr5ofvrhqgxxyspgwzbxkc3uze7jid.onion,"unknown, domain",n/a
-2026-06-29,threatfox,DOMAIN,c3u3g7dz2yxkefci3x34jfvfa4gka4iogi4zfjkyxx2c536oqdld4kid.onion,"unknown, domain",n/a
-2026-06-29,threatfox,DOMAIN,4cfyhd61.fagaheestedlali.xyz,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,1j4lxwuu.1xboropartners.com,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,backupper.pro,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,cdn.api-middle-connect.com,"js.clearfake, domain",n/a
@@ -390,9 +376,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,lisanslab.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,glamspin360.com,"win.qakbot, domain",n/a
 2026-06-30,threatfox,DOMAIN,hamzehkoumakli.com,"win.qakbot, domain",n/a
-2026-06-29,tweetfeed,URL,https://v5.newsmailservice.de/tu/tr.aspx?ID=cb1700_140&LEA=Anonymous_uqfpubad&T=,phishing,https://x.com/tomocha0/status/2071469961529455001
-2026-06-29,tweetfeed,URL,https://lrdrababn.com,phishing,https://x.com/tomocha0/status/2071469961529455001
-2026-06-29,tweetfeed,URL,https://login.web-shangjinnvwang.com,phishing,https://x.com/masaomi346/status/2071475354976530477
 2026-06-29,tweetfeed,URL,http://193.26.115.168,n/a,https://x.com/smica83/status/2071494475633820017
 2026-06-29,tweetfeed,URL,http://175.27.132.207,n/a,https://x.com/smica83/status/2071498469567496448
 2026-06-29,threatfox,HASH_SHA256,be32773534e3d4cd7618194949f7628882992f3dfb048c37f4c960505a005b1c,"js.clearfake, sha256_hash",n/a
@@ -960,9 +943,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,HASH_SHA256,0e1ae44c555c13b03bdbd72f66c456aaffcdd13887ebe9859d302a63e409c462,"js.beavertail, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,a5b42be0041bff5a4e521412014c2e7029ff08df7e9746fb4d923d40cee0e7d7,"elf.mirai, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,ce29b8c2576712a33aae06aee02486440c9268fcc19da1496a074feeee0a5178,"js.clearfake, sha256_hash",n/a
-2026-06-29,tweetfeed,DOMAIN,v5.newsmailservice.de,phishing,https://x.com/tomocha0/status/2071469961529455001
-2026-06-29,tweetfeed,DOMAIN,lrdrababn.com,phishing,https://x.com/tomocha0/status/2071469961529455001
-2026-06-29,tweetfeed,DOMAIN,login.web-shangjinnvwang.com,phishing,https://x.com/masaomi346/status/2071475354976530477
 2026-06-29,tweetfeed,DOMAIN,gogousdtdiaoyu.org,n/a,https://x.com/smica83/status/2071501384063582277
 2026-06-29,tweetfeed,DOMAIN,dsoiedkfmpeew.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
 2026-06-29,tweetfeed,DOMAIN,zeninc.com,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
