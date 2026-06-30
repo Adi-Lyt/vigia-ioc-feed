@@ -363,6 +363,11 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://knowmat.com/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://lisanslab.com/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://unspanel.rs/,"win.vidar, url",n/a
+2026-06-30,threatfox,URL,http://153.117.41.127:47793/Mozi.a,"elf.mozi, url",n/a
+2026-06-30,threatfox,URL,http://110.37.35.79:33903/Mozi.m,"elf.mozi, url",n/a
+2026-06-30,threatfox,URL,https://backupper.pro,"js.magecart, url",n/a
+2026-06-30,threatfox,URL,https://www.einvoicesolutions.com/,"unknown, url",n/a
+2026-06-30,threatfox,URL,https://www.m-und-c-partners.de/,"unknown, url",n/a
 2026-06-23,threatfox,DOMAIN,verification-claude-cdn.beer,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,code.verification-claude-cdn.beer,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,claudesave.beer,"unknown, domain",n/a
@@ -2758,6 +2763,9 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://proposaldocs-eu.s3.eu-west-3.amazonaws.com/pdf%20file/s3-uploader.exe,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,URL,http://inteldocs.s3.eu-central-1.amazonaws.com/pdf%20file/stage3.hta,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,URL,https://ntsgo.name,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
+2026-06-30,tweetfeed,URL,http://mancpr.icu,"APT, C2, malware",https://x.com/phatomcandle/status/2071811150589927692
+2026-06-30,tweetfeed,URL,https://mixpanel.com/public/3wyYGicFCC1j3C6kuXKYw,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
+2026-06-30,tweetfeed,URL,https://cdccgov.adaptablesystems.de/zaZqY/,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-23,tweetfeed,DOMAIN,cloud-stat.co,Magecart,https://x.com/sdcyberresearch/status/2069369647275671619
 2026-06-23,tweetfeed,DOMAIN,4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd.onion,ransomware,https://x.com/fbgwls245/status/2069382800034386169
 2026-06-23,tweetfeed,DOMAIN,resources.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
@@ -3534,6 +3542,9 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,proposaldocs-eu.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,DOMAIN,inteldocs.s3.eu-central-1.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,DOMAIN,ntsgo.name,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
+2026-06-30,tweetfeed,DOMAIN,mancpr.icu,"APT, C2, malware",https://x.com/phatomcandle/status/2071811150589927692
+2026-06-30,tweetfeed,DOMAIN,mixpanel.com,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
+2026-06-30,tweetfeed,DOMAIN,cdccgov.adaptablesystems.de,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-23,tweetfeed,IP,206.189.240.134,C2,https://x.com/Fact_Finder03/status/2069358020983963883
 2026-06-23,tweetfeed,IP,31.7.58.226,C2,https://x.com/Fact_Finder03/status/2069361392428437840
 2026-06-23,tweetfeed,IP,192.3.177.153,opendir,https://x.com/smica83/status/2069375626838995174
@@ -3752,6 +3763,9 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,IP,198.74.62.60,C2,https://x.com/Fact_Finder03/status/2071866614929412137
 2026-06-30,tweetfeed,HASH_SHA256,53dc8279f287e689217ffcc5bbba2f458d1abc848dc5238bcef2845d901bc910,n/a,https://x.com/tdatwja/status/2071873143313223769
 2026-06-30,tweetfeed,HASH_SHA256,cce863d31f184108c7e38d6e76fb5ed4c04909c7a2c99039236dcc64af722dfe,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
+2026-06-30,tweetfeed,IP,188.137.230.216,n/a,https://x.com/malwrhunterteam/status/2071880838321467833
+2026-06-30,tweetfeed,HASH_SHA256,31642b73f628baae10977e0a5a44ea567590cacb674cab153787ea4ff2ae5bb2,n/a,https://x.com/smica83/status/2071891331324993988
+2026-06-30,tweetfeed,HASH_SHA256,eca45bd69ae2374cd5d9dd7373c03812bea53a3782e4cf24aae12c3d2cb41956,APT,https://x.com/byrne_emmy12099/status/2071894530530689399
 2026-06-23,tweetfeed,HASH_MD5,b791c416988d068a3e548a0f21cd3518,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
 2026-06-23,tweetfeed,HASH_MD5,c836a6bbe16354a21ee688e3eeb32d86,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
 2026-06-23,tweetfeed,HASH_MD5,e70a5908e5eaee1bcd15eef82b1bcfdd,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
