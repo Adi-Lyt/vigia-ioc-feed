@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-29,threatfox,URL,https://rpc-cloud.beer/api/,"js.clearfake, url",n/a
 2026-06-29,threatfox,URL,https://167.233.204.162/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://77.42.88.66/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://167.233.114.81/,"win.vidar, url",n/a
@@ -65,14 +64,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://itsrealmedia.com/,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://scp.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://scp.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,DOMAIN,1j4lxwuu.1xboropartners.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,backupper.pro,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,cdn.api-middle-connect.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,wiciauth.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,qiuy.org,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,abt90shart.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,yekshart.app,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,1xbet.sex,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,idverification-cdn.info,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,fog.psgiran.news,"win.vidar, domain",n/a
 2026-06-29,threatfox,DOMAIN,gpy.psgiran.news,"win.vidar, domain",n/a
@@ -380,74 +371,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,hamzehkoumakli.com,"win.qakbot, domain",n/a
 2026-06-30,threatfox,DOMAIN,scp.psgiran.news,"win.vidar, domain",n/a
 2026-06-30,threatfox,DOMAIN,scp.jangkarsm188.top,"win.vidar, domain",n/a
-2026-06-29,tweetfeed,URL,http://193.26.115.168,n/a,https://x.com/smica83/status/2071494475633820017
-2026-06-29,tweetfeed,URL,http://175.27.132.207,n/a,https://x.com/smica83/status/2071498469567496448
-2026-06-29,threatfox,HASH_SHA256,be32773534e3d4cd7618194949f7628882992f3dfb048c37f4c960505a005b1c,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,ada4690c212b7b983e65986c2528c9bdf7cff75589b043ee223a021465c43920,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,833e888570c0873e3ce1f026bf6fe7d5abdc0efdd9e55399084ec6fabe9df21b,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,0c86f5737476c1efc6dffed41e548e75ef9aa4b3dd36b59a30edd320bd65a429,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,c6d22ebf9dce5fef2d5f1d87b3007457ef3c6d0193f121305b3d14e85441b43f,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,5239a198297149ff5440bda18c94ce9c8cc2a2212bd95b3c4bedc197c1b9fb1c,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,550fe153238e6a8c2cc6cf6a882bdc853fa4bb00721ebf5e7eae863124fd316b,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,35f619453b4ab2c491b29d880c6bee8f3ae16700b293bbf31deeae975caa71c3,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,c2ee091e95cdc4b4d677e55dc361d76867367a771b540dade1c698a05a2d5f0d,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,ab101c1996f424300c3eddd06c10575585eeca9d2f7c892f3c45c50e9719c690,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,acf4462915e81d81deac3f8e34de6b8cee64cc30dd9f57945794ba0f6dd0a0a8,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,46a8a3d6131259e53ec07ac725c12dcf5a07d677ac35583982038ad397c19ad3,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,42624224dfce7a43fcb9d806db2082c30227a815478b1feb74e8cf8cb64f71d2,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,fa6e5f8bb72cc6b04bafe95f01d664b21c1654381b74154897c3efe32e01104b,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,2d32bf0acaaf5ab032313ec4476774390ebc084d9b8459afd284223fcfb6021d,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,3f6b065ed2f63b461f23880aee569b9522dd136c20c65bea450f305e9c93f22c,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,0c964ea5e7a7809b665aa2517d078d50020ddc3b0868f11dc77e625ceb9e9712,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,d18d2f76bc553fdecc640c00a548602979c0fcc281b5a626d394937951896822,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,1fd793fc4db29dd42133cb20ea217f29b036d6d0a18d1753ebe56f4544537c32,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,d92133d8434307a99c4c5bbbc905e65c330b38fe991fdcb5b14bd26f70333df9,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,5071b6b49624a35b28f6cc66537be58e76daf2fa3de33a1b106bbd1c7c07561d,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,b481fa88ec61057add0348646d4c703bf7ee3cfc3c98c8547371e6f3cd2ad0b9,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,d0ab588b2b93e141b7dc39722f92711dd2de0ae5ad0e764f957ba01f92155820,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,cd94f3a58d58d6c3e5c317fae03cc845d2368c42dba736386c1699c4c157d7f3,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,9623feb7944da035d38aa653477951b809b4a1c2f6500cd20dd0492889b776f8,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,8aaed4d47ae246059967342ee86a0420793c5751dcf86730e8800f31e26ec866,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,c43c3397154a1f2d89b34cc4122842c2abbfeab139486e55e1e2b71b978959cf,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,9afbc96639fa400657630e2a3cf4e021a0ab685215b18a03b808e9f27f19fac7,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,55abd984d38cf05764b4c7ac4d636dfb827a379be7c975aae6d0a88d545fdf25,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,7448dccda7b3a82c715869498870f0d0216b31f015fc1324aadf73636a9f0af1,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,876f875e31e95dfc8b592594f17e6da1a271293de61fade030ea679b815ca817,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,f95432faa54a492129454056a396b4b31b5211899d0f9611bee7189661ca3188,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,3ed8020622796f70bdf3c16de772b8b45bb542f0af0d9fb639b1513c5c722b53,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,3e2820527d8eb9a5396cc533f976a929ceb016168a5bce6150fc3ba061e04218,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,4d24fab4342c0b19a2ea0d0ca36392f4053331ce57deeb7115eb34aeb35313ca,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,6b3f8442d21103d11bb232c3dfb1dcbac8c576f3e4094c0542baed6b3e4fb657,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,75c3961a5e1e88b1d8599111df547fe8bec37388eede78f121568417de635ffb,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,8bfc5d83dd86d69937a22a091d8aacafbbf0fa7f0c7faa34674fccb1e5b6b657,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,4004d3a14a3c7810c44b363927adea33cd55f4a28f6f0baacd937021fc8ed563,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,6103c24bf10fa4e282d27d63c38934d66bf999b81eb880b9e5761da6496dd575,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,efa24e6d66c558ef12539fbf615c8a607181e676b4da98e96203910fb9cc0e61,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,af387603dc23f60d2bcd1269e6a1b18f4dceb90575f44b15b36e9c04170f14c8,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,02e0fb035d480b199f0f2173ed4a8a7b8d6b8340bda05a2af7a20b166a716fe0,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,18338778e3114e19b28f64e4c1bf9d4ccf0cfc4b2783b46b86862fb6bab12a80,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,201c5e3d0a94d4ebe356e8280f430f87bdf6d04d8116aac59e04d7ee3951bae5,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,627867b7897597d74d64f2f722771b87df1796f8a7e7bbff2e0941d25da96a87,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,a2009f634a5dec6911655bb282d95487bf53100a72c70a62e56044a31594aefd,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,425607e394b6da612043b6d91e485c3c4b12910af1c27c1df41397b59d832096,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,e021ef11104505f017fad54273c00d29bf87f537dd102c6fc2f519f8bc6e3f64,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,7c8f07dabe3eedee00f7de27fabc5689b699ea7c932c9c29bde9f5c3e59f9fd7,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,cdc845c61341126fa2a784dfc27a11eef47d05cc323530be7b7a4515d202d838,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,f62af451ebc1e8ef181d022bdcd25af8d152fa0fc8e408eb610d4075efa1e02f,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,d246a63fcffa767c9407a4090489db5986233c63c79f79292ae6e0715673ddad,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,039d75c7bfe0c3917aba98362c636198eafea3f93e4760796abbcd84c2c7e3d1,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,e1287b14eaa142e26a4bb988d8e3431c80d0ffc4401810c07b0d954960738e0f,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,3f18be9db505a0ee69a528269e8bbe2f85cf2116ca465d8f618946013f4bedee,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,80d4451d914a701e293e643ed33ec53c47b0692793c4d7e1a00368170c5cd739,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,c0ac7be40b90efa93340d26787074f5ba40f02762039bdc84d8778419fb8bf46,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,a580e434ed06f2bd779c0e6674a0ff31b69a6aaa5f908d95564b17e23bcb714d,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,058e9c0b3c714b83e131d4990ac5199ee5622ef92dc5d7503f6eaffadb3347a4,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,19d2c2c8f842d70bdd8a9b91ed168e45fbb9a0e3587027e863b3df051f4d3a82,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,6433b5122e362359e61c61ff2a35b885a229fc41d4d9a942be169f711f81173e,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,25009746f1960f36bf2efdea616a087c1cbe8cc00e88d6e5a562e76bfc2e2ec5,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,fd79ca089f7fef7acb21457cde1056c09d36c1fabea56b6333c61171363d320a,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,f943eb5158841d992932c2502e0075eff351cbd368922e9ab256827c4b707c9f,"js.clearfake, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,22439bc9a2b6716ae7eb5c1aaa9f3ff3ff91cefcbfe27b52763546861121adbc,"js.clearfake, sha256_hash",n/a
 2026-06-29,tweetfeed,URL,http://gogousdtdiaoyu.org,n/a,https://x.com/smica83/status/2071501384063582277
 2026-06-29,tweetfeed,URL,http://112.121.177.250,n/a,https://x.com/smica83/status/2071501384063582277
 2026-06-29,tweetfeed,URL,https://dsoiedkfmpeew.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
@@ -1003,13 +926,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,gxtcsy.com,phishing,https://x.com/Metemcyber/status/2071831328610521573
 2026-06-30,tweetfeed,DOMAIN,klelnanzeigen-deutsch.de-6126.info,phishing,https://x.com/PhishStats/status/2071839980163363242
 2026-06-30,tweetfeed,DOMAIN,login.tv-1unextoffice-qr.net,phishing,https://x.com/masaomi346/status/2071841184826491258
-2026-06-29,tweetfeed,HASH_SHA256,11b731432946b1a88f1bee309734c1a9c9df1ae62d5a070ca8355db46bdf93a2,n/a,https://x.com/smica83/status/2071493637527998596
-2026-06-29,tweetfeed,IP,193.26.115.168,n/a,https://x.com/smica83/status/2071494475633820017
-2026-06-29,tweetfeed,HASH_SHA256,e18f7f0fd6ca2a9be32682c74586e753e91732557268d1fb31df45cf26cd1e3d,n/a,https://x.com/smica83/status/2071494475633820017
-2026-06-29,tweetfeed,HASH_SHA256,ad4ed81f9d31472a7b600a2c6b8f02eb49d4c89c72e8f645e1e72b5b1dcce221,n/a,https://x.com/smica83/status/2071495606246264867
-2026-06-29,tweetfeed,HASH_SHA256,54ad3d4d8342ddea5cc6adea83d26a574a11d7e5133a04af6999a87adbbc2336,n/a,https://x.com/smica83/status/2071497272198570167
-2026-06-29,tweetfeed,IP,175.27.132.207,n/a,https://x.com/smica83/status/2071498469567496448
-2026-06-29,tweetfeed,HASH_SHA256,a322645437729eb669b59486b077ac29aa949f4bc97f20651bf3d0f75dd7a507,n/a,https://x.com/smica83/status/2071498469567496448
 2026-06-29,tweetfeed,IP,112.121.177.250,n/a,https://x.com/smica83/status/2071501384063582277
 2026-06-29,tweetfeed,HASH_SHA256,7367ea4cb0851baf6e17d42347060d4c60fd40d18d3faa7af146992cdead2999,n/a,https://x.com/smica83/status/2071501384063582277
 2026-06-29,tweetfeed,HASH_SHA256,63fd48efcabc4f3d14f25e4d178c5d26b09fe3b65689910eeca89a7651fa73bc,n/a,https://x.com/byrne_emmy12099/status/2071506744199782822
