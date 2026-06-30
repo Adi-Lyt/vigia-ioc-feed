@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-29,threatfox,URL,https://jasyn.kz/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://alphakey.ae/,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://crown-seema.com/,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://www.sosolidworld.com/,"unknown, url",n/a
@@ -916,10 +915,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,cdccgov.adaptablesystems.de,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-30,tweetfeed,DOMAIN,avenger-sync.live,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,DOMAIN,api.sync-master.online,n/a,https://x.com/suyog41/status/2071899381079642616
-2026-06-29,tweetfeed,IP,89.125.146.28,C2,https://x.com/Fact_Finder03/status/2071547793626587476
-2026-06-29,tweetfeed,IP,107.152.44.183,C2,https://x.com/Fact_Finder03/status/2071548751752434012
-2026-06-29,tweetfeed,IP,45.87.173.235,"C2, stealer",https://x.com/Fact_Finder03/status/2071555829480997279
-2026-06-29,tweetfeed,HASH_SHA256,44080c2a10824c6c75c7deca6588d9cc2e5fca4666940a79329bf816b212af71,"C2, stealer",https://x.com/Fact_Finder03/status/2071555829480997279
 2026-06-29,tweetfeed,IP,163.245.195.26,C2,https://x.com/Fact_Finder03/status/2071564839936242109
 2026-06-29,tweetfeed,IP,109.107.140.235,"Android, Sliver, malware",https://x.com/etugenio/status/2071573757143953713
 2026-06-29,tweetfeed,IP,5.230.74.79,C2,https://x.com/Fact_Finder03/status/2071578429195976711
