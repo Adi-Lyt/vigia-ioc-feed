@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-29,threatfox,URL,https://ghoster.com.br/vendas-ghoster/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://gustoantico.ch/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://bom.psgiran.news/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://bom.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://rpc-cloud.beer/api/css.js,"unknown, url",n/a
@@ -58,8 +56,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://alcaldeabogados.es/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://pak.psgiran.news/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://pak.jangkarsm188.top/,"win.vidar, url",n/a
-2026-06-29,threatfox,DOMAIN,cportal.atlantascales.com,"js.fakeupdates, domain",n/a
-2026-06-29,threatfox,DOMAIN,hi4ztw3j.vip1xbet.org,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,zenithharbinger.digital,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,radiantprospera.digital,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,latticepatronage.digital,"js.clearfake, domain",n/a
@@ -276,9 +272,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,pak.jangkarsm188.top,"win.vidar, domain",n/a
 2026-06-30,threatfox,DOMAIN,lancer.shartboro.xyz,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,shartboro.xyz,"js.clearfake, domain",n/a
-2026-06-29,tweetfeed,URL,https://brookingsagent.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest&t=doctorate,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-29,tweetfeed,URL,http://fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-29,tweetfeed,URL,http://brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-29,tweetfeed,URL,http://interview-forbes-tech.com,n/a,https://x.com/lukOlejnik/status/2071594462497718381
 2026-06-29,tweetfeed,URL,https://infosedu.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
 2026-06-29,tweetfeed,URL,https://xcu1806odnz8z39r6g.nuagobuilders.com,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
@@ -377,8 +370,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://podcast.n1c4.top,phishing,https://x.com/skocherhan/status/2071955750285377775
 2026-06-30,threatfox,HASH_SHA256,e43580fc868229155276b47518770c3d27bcf34c66020d34413be5cfd896e7a6,"js.clearfake, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,757b20354a901501b2d8e99294940d1256d2d9140d336aded8307d95fdf479f3,"js.clearfake, sha256_hash",n/a
-2026-06-29,tweetfeed,DOMAIN,brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-29,tweetfeed,DOMAIN,fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-29,tweetfeed,DOMAIN,interview-forbes-tech.com,n/a,https://x.com/lukOlejnik/status/2071594462497718381
 2026-06-29,tweetfeed,DOMAIN,infosedu.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
 2026-06-29,tweetfeed,DOMAIN,xcu1806odnz8z39r6g.nuagobuilders.com,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
@@ -432,7 +423,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,modbdwindtgt.shop,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,DOMAIN,documents.zip,n/a,https://x.com/ElementalX2/status/2071951017433043200
 2026-06-30,tweetfeed,DOMAIN,podcast.n1c4.top,phishing,https://x.com/skocherhan/status/2071955750285377775
-2026-06-29,tweetfeed,HASH_SHA256,a1912b1fc666df5a13c6e84d9dc6751ece238495d77b6a13d4def0b5b40e07e2,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
 2026-06-29,tweetfeed,IP,31.56.209.80,C2,https://x.com/volrant136/status/2071619178847715622
 2026-06-29,tweetfeed,HASH_SHA256,bd53ffbd0b449ead46ae48f59d0d9b017b60f4abdb6a372e22c5677a8e31af30,phishing,https://x.com/patialavii/status/2071635621693772015
 2026-06-29,tweetfeed,IP,3.208.19.130,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
