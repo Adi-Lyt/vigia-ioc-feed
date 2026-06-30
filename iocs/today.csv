@@ -1,5 +1,4 @@
 date,user,type,ioc,tags,context
-2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-06-29,threatfox,URL,http://176.65.144.73/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
 2026-06-29,threatfox,URL,http://miedorama.com:4959,"win.remus, url",n/a
 2026-06-29,threatfox,URL,http://angect.xyz:7838,"win.remus, url",n/a
@@ -73,8 +72,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://abernaahy.sbs/api/v1/session,"js.kongtuke, url",n/a
 2026-06-30,threatfox,URL,https://abernaahy.sbs/api/v1/status,"js.kongtuke, url",n/a
 2026-06-30,threatfox,URL,http://124.29.224.65:60281/Mozi.m,"elf.mozi, url",n/a
-2026-06-29,threatfox,DOMAIN,r32rtlhu.1xbetpartnersiran.com,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,pageimagebook.info,"unknown_loader, domain",n/a
 2026-06-29,threatfox,DOMAIN,0dahrppq.taktikbet.bio,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,tps.psgiran.news,"win.vidar, domain",n/a
 2026-06-29,threatfox,DOMAIN,tps.jangkarsm188.top,"win.vidar, domain",n/a
@@ -148,23 +145,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,abernaahy.sbs,"js.kongtuke, domain",n/a
 2026-06-30,threatfox,DOMAIN,chatgpt-backup.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,devltd.us,"js.clearfake, domain",n/a
-2026-06-29,tweetfeed,URL,http://94.154.43.208,"C2, malware",https://x.com/etugenio/status/2071667423627858015
-2026-06-29,threatfox,HASH_SHA256,ffe98374173d7c2084a1a6953b308c13a8b9493294af831c23542b0d88654036,"win.valley_rat, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,d6ca3c85df784f0b7751f67bc0b23f44f173b7be7f6344d02f26c8e28e0abad8,"win.valley_rat, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,3f076a3e4a0733c630d58f790dc8b6422c5ee6344695f88987b14a060d721d4f,"win.coinminer, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,1d805377c6dc2c4321897789d82add4d2e83e947c5fe2a182061484db840d7bb,"win.nanocore, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,cfa1674a075c651c7bf0278f5fffc2ed2d268f4317eb41faf1d1eb03c14bdb04,"win.nanocore, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,af154a4bb20730e0d8f7e88179b1797d8e67b23302ee2a0fa152dbd23a39a9dd,"win.nanocore, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,604a502f34aa28773356a131d2ce537866cdd973e464a7144b0d626fd65f5937,"win.nanocore, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,f59b521321526c8e255c6e5a9ed71d063349cab55a4a0b7207c6aa0039fb32be,"win.salatstealer, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,a834cec6b236453ee671c23326b60763880a47c93ccc595d6e566ec5f81ade88,"win.njrat, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,9977df7ffd04173d38e0aefe3d028052e164aaa69c1facfe63af55b473dd9e24,"win.salatstealer, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,1086e2ec8e9274e1639f14084f27d3b47e606c37ccc2a1e4976db6633ef797d5,"win.njrat, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,31c37ff61aa322192236c9672f09e3d97b6e6e09c5019077df7d0567d4c0b48b,"win.njrat, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,0911748a95f6a362d1ed8d6fcd1a7889167520cdd506522658d84a69c9a088ab,"win.ave_maria, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,83a2d5361b91b0ac26ff7c5f161dd3008de6922c5df7f8c0af80b1dea105480d,"win.ave_maria, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,ab168b5a63520e7cabe5d2d3917e1b9b1b388db0b3f27354bc7cd075e63cc7dd,"win.valley_rat, sha256_hash",n/a
-2026-06-29,threatfox,HASH_SHA256,16aa5e9cd33302fb4bba5f5fe61b9dcef4e6e1a777098985eca17e5a6f075234,"win.raton_rat, sha256_hash",n/a
 2026-06-29,tweetfeed,URL,https://microdownwiz.lnakess.com/rYhcwf6WKynSfYQ3zvsF,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-29,tweetfeed,URL,https://microdownwiz.lnakess.com/rYhcwf6WKynSfYQ3zvsF/download,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-29,tweetfeed,URL,https://www.rojlaether.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
@@ -346,22 +326,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://193.169.194.86,n/a,https://x.com/skocherhan/status/2072021394334872038
 2026-06-30,threatfox,HASH_SHA256,05309ac80a2b5ed3579b36a831963e674a598365fc119a9094952df0b7e37c00,"unknown, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,29fcf145fb2958e113b59fc50d0a54f8ca26b10fe22ec96f2222b6d560d17f0c,"unknown, sha256_hash",n/a
-2026-06-29,threatfox,HASH_MD5,a8480f1bd4fc75a68930f3c60df63955,"win.valley_rat, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,63844cd3d2578789f0e5ca58cfddf9d4,"win.valley_rat, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,1ccf41cfd9d85a0e6c49854e25d76ab5,"win.coinminer, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,04f340ede96f607f310a9ca67370a5e5,"win.nanocore, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,d11ea15f2c690f46bfc282f300f692c1,"win.nanocore, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,5fea3f930de097794a95ced9dbae500c,"win.nanocore, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,1615ac4b69265a70f17a0eb37df82065,"win.nanocore, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,1e3fd12fee9d2fd27642ed24cff01338,"win.njrat, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,5563f909b93845410a8014ddffa5adf6,"win.salatstealer, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,7f79817eb5e3579ce8957a42c31c65fa,"win.salatstealer, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,2f61cb4b14e0cf839a4a823eceea88e9,"win.njrat, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,b1341da78ca16f4d04cb56d05c63a821,"win.ave_maria, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,744e1221f6467d0b7e73a10f52e6cd6c,"win.njrat, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,14b7d8e98b8cd97f8f302bab2b4dea27,"win.ave_maria, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,91ca6805aabe73cabd12644fccf91ec5,"win.valley_rat, md5_hash",n/a
-2026-06-29,threatfox,HASH_MD5,4db7b73a3650b98b99aa282bf1e16cc1,"win.raton_rat, md5_hash",n/a
 2026-06-29,tweetfeed,DOMAIN,microdownwiz.lnakess.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-29,tweetfeed,DOMAIN,rojlaether.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-29,tweetfeed,DOMAIN,nanuskha.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
@@ -498,7 +462,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,qishuiwg.com,n/a,https://x.com/smica83/status/2072016371165053251
 2026-06-30,tweetfeed,DOMAIN,insharedata.org,n/a,https://x.com/SquiblydooBlog/status/2072018277287579906
 2026-06-30,tweetfeed,DOMAIN,goeverhappytours.com,phishing,https://x.com/patialavii/status/2072021515080712347
-2026-06-29,tweetfeed,IP,94.154.43.208,"C2, malware",https://x.com/etugenio/status/2071667423627858015
 2026-06-29,tweetfeed,HASH_SHA256,29906168eba271442305389aebe91a5091ae933d551101ad60087f699ca2630f,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-29,tweetfeed,HASH_SHA256,e9192b25d4450a1ab4ec1926c1ec19fd4bd2bd84f3d13d8969502266ee425e56,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
 2026-06-29,tweetfeed,HASH_SHA256,7944ed8753971f952130ea0c52a0ee9d7cef42f33b176234b08ab7f97a2cd262,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
