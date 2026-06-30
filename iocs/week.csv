@@ -361,6 +361,11 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://backupper.pro,"js.magecart, url",n/a
 2026-06-30,threatfox,URL,https://www.einvoicesolutions.com/,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://www.m-und-c-partners.de/,"unknown, url",n/a
+2026-06-30,threatfox,URL,https://riviere.sbs/file.js,"js.kongtuke, url",n/a
+2026-06-30,threatfox,URL,http://172.168.177.48:39138/Mozi.7,"elf.mozi, url",n/a
+2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/session,"js.kongtuke, url",n/a
+2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/verify,"js.kongtuke, url",n/a
+2026-06-30,threatfox,URL,http://124.11.64.11:34008/Mozi.m,"elf.mozi, url",n/a
 2026-06-23,threatfox,DOMAIN,huu.holidaysm188.top,"win.vidar, domain",n/a
 2026-06-23,threatfox,DOMAIN,bestcheats.space,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,one1xbet.win,"js.clearfake, domain",n/a
@@ -1335,6 +1340,7 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,wk00z1ey.vip1xbet.org,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,3fbkahzk.coinsgame.pro,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,coinsgame.pro,"js.clearfake, domain",n/a
+2026-06-30,threatfox,DOMAIN,riviere.sbs,"js.kongtuke, domain",n/a
 2026-06-23,tweetfeed,URL,http://theenyany43.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,URL,http://theenyann80.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,URL,http://theenyann81.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
@@ -2747,6 +2753,8 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://avenger-sync.live,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,URL,http://api.sync-master.online,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,URL,http://207.189.11.170/Bin/working_payload.cs,n/a,https://x.com/smica83/status/2071913486574121006
+2026-06-30,tweetfeed,URL,http://182.235.148.10:56858/Mozi.m,n/a,https://x.com/sicehice/status/2071928948754116833
+2026-06-30,tweetfeed,URL,http://65.20.107.242:8080/cloud/,opendir,https://x.com/smica83/status/2071940145469633008
 2026-06-23,tweetfeed,DOMAIN,theenyany43.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,DOMAIN,theenyann80.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,DOMAIN,theenyann81.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
@@ -3730,6 +3738,10 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,HASH_SHA256,afaca459c8ae07447aa1492a8e5eb33da7959e81279d7e5fad933ec8dc9758e6,APT,https://x.com/byrne_emmy12099/status/2071906544745423160
 2026-06-30,tweetfeed,IP,207.189.11.170,n/a,https://x.com/smica83/status/2071913486574121006
 2026-06-30,tweetfeed,HASH_SHA256,9161a8f7f07741db06b9f9a87b6ec7f277faf2ae3a3a661d6eb09cec4e12b920,n/a,https://x.com/smica83/status/2071913486574121006
+2026-06-30,tweetfeed,IP,94.154.43.192,n/a,https://x.com/sicehice/status/2071928951304245549
+2026-06-30,tweetfeed,IP,41.216.189.157,n/a,https://x.com/sicehice/status/2071928951304245549
+2026-06-30,tweetfeed,IP,182.235.148.10,n/a,https://x.com/sicehice/status/2071928948754116833
+2026-06-30,tweetfeed,IP,65.20.107.242,opendir,https://x.com/smica83/status/2071940145469633008
 2026-06-23,tweetfeed,HASH_MD5,dddbda3b9463e5ba85802c12437e7cb0,Njrat,https://x.com/skocherhan/status/2069545525834125771
 2026-06-24,tweetfeed,HASH_MD5,095cce55438d772b24838f68e02805d0,"Android, Trojan, malware",https://x.com/ReBensk/status/2069674547054629264
 2026-06-24,tweetfeed,HASH_MD5,9038dc1997549084cd07394a146037e7,"Android, Trojan, malware",https://x.com/ReBensk/status/2069675449194873253
@@ -3756,3 +3768,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,HASH_MD5,b02698eee18cad510aa1fdea6c83edc3,n/a,https://x.com/tdatwja/status/2071873143313223769
 2026-06-30,tweetfeed,HASH_MD5,695d61a6f9e39a0e7c1a14c28337b2dc,n/a,https://x.com/tdatwja/status/2071873143313223769
 2026-06-30,tweetfeed,HASH_MD5,bae0005a0bf0d467a672600833eeed92,n/a,https://x.com/suyog41/status/2071899381079642616
+2026-06-30,tweetfeed,HASH_MD5,9816e90cfa33a7601f9cd6477ebd9913,n/a,https://x.com/sicehice/status/2071928951304245549
+2026-06-30,tweetfeed,HASH_MD5,ff8efa6d9f6391c9b1bf8a77d74402f2,malware,https://x.com/d1v35hresearch/status/2071939229979201614
+2026-06-30,tweetfeed,HASH_MD5,5ba940f0e666bfd9ff0af443fe182fb1,malware,https://x.com/d1v35hresearch/status/2071939229979201614
