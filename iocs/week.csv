@@ -6,11 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-23,threatfox,URL,http://202.70.139.77:44049/Mozi.m,"elf.mozi, url",n/a
-2026-06-23,threatfox,URL,http://101.53.224.211:42723/Mozi.m,"elf.mozi, url",n/a
-2026-06-23,threatfox,URL,https://cobaltmeadow.top/profile/logout-state.js,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://cobaltmeadow.top/profile/callback-schema.js,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://cobaltmeadow.top/profile/private-sessionstore,"js.smartapesg, url",n/a
 2026-06-23,threatfox,URL,https://huu.holidaysm188.top/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://tafeqld-brisbane.com/,"unknown, url",n/a
 2026-06-23,threatfox,URL,https://porcherservicesandtransfer.com/,"unknown, url",n/a
@@ -366,8 +361,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://backupper.pro,"js.magecart, url",n/a
 2026-06-30,threatfox,URL,https://www.einvoicesolutions.com/,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://www.m-und-c-partners.de/,"unknown, url",n/a
-2026-06-23,threatfox,DOMAIN,l2ekym1s.megaparivip.vip,"js.clearfake, domain",n/a
-2026-06-23,threatfox,DOMAIN,cobaltmeadow.top,"js.smartapesg, domain",n/a
 2026-06-23,threatfox,DOMAIN,huu.holidaysm188.top,"win.vidar, domain",n/a
 2026-06-23,threatfox,DOMAIN,bestcheats.space,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,one1xbet.win,"js.clearfake, domain",n/a
@@ -1342,14 +1335,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,wk00z1ey.vip1xbet.org,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,3fbkahzk.coinsgame.pro,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,coinsgame.pro,"js.clearfake, domain",n/a
-2026-06-23,tweetfeed,URL,http://resources.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,URL,http://drive.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,URL,http://concreteinportland.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,URL,http://31.77.189.40/kr4gg/franticsum.ps1,n/a,https://x.com/smica83/status/2069393150846677175
-2026-06-23,tweetfeed,URL,http://177.7.55.165:8080/14157.pdf,n/a,https://x.com/smica83/status/2069394918821277731
-2026-06-23,tweetfeed,URL,https://pub-2713864bea73468a9e2593854c0ff930.r2.dev/ScreenConnect.ClientSetup.msi,n/a,https://x.com/smica83/status/2069395849822511289
-2026-06-23,tweetfeed,URL,https://pastebin.com/raw/BzSAksuQ,n/a,https://x.com/smica83/status/2069395849822511289
-2026-06-23,tweetfeed,URL,https://pub-bc53cbce38554885bbcc4c38018e43b8.r2.dev/Hiring_Test_02.pdf,n/a,https://x.com/smica83/status/2069395849822511289
 2026-06-23,tweetfeed,URL,http://theenyany43.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,URL,http://theenyann80.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,URL,http://theenyann81.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
@@ -2762,11 +2747,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://avenger-sync.live,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,URL,http://api.sync-master.online,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,URL,http://207.189.11.170/Bin/working_payload.cs,n/a,https://x.com/smica83/status/2071913486574121006
-2026-06-23,tweetfeed,DOMAIN,resources.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,DOMAIN,drive.babyafrosapparel.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,DOMAIN,concreteinportland.com,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,DOMAIN,pub-2713864bea73468a9e2593854c0ff930.r2.dev,n/a,https://x.com/smica83/status/2069395849822511289
-2026-06-23,tweetfeed,DOMAIN,pub-bc53cbce38554885bbcc4c38018e43b8.r2.dev,n/a,https://x.com/smica83/status/2069395849822511289
 2026-06-23,tweetfeed,DOMAIN,theenyany43.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,DOMAIN,theenyann80.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
 2026-06-23,tweetfeed,DOMAIN,theenyann81.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
@@ -3541,14 +3521,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,cdccgov.adaptablesystems.de,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-30,tweetfeed,DOMAIN,avenger-sync.live,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,DOMAIN,api.sync-master.online,n/a,https://x.com/suyog41/status/2071899381079642616
-2026-06-23,tweetfeed,HASH_SHA256,4ae372fda262327e446eec6a444ffb29b6e8a7f04336412356a979ee8181bcb5,n/a,https://x.com/smica83/status/2069392158449107290
-2026-06-23,tweetfeed,HASH_SHA256,42433b147937ac7a092aefecbd9981b3f7d7c6d0f58d548787c5f93978ee48f6,n/a,https://x.com/smica83/status/2069392158449107290
-2026-06-23,tweetfeed,IP,31.77.189.40,n/a,https://x.com/smica83/status/2069393150846677175
-2026-06-23,tweetfeed,HASH_SHA256,f304a0e7382b34bb3e60e470982356f74b928c9de3c6faf8968dc738fe753b99,n/a,https://x.com/smica83/status/2069393150846677175
-2026-06-23,tweetfeed,IP,213.139.77.109,C2,https://x.com/Fact_Finder03/status/2069393532410810434
-2026-06-23,tweetfeed,IP,177.7.55.165,n/a,https://x.com/smica83/status/2069394918821277731
-2026-06-23,tweetfeed,HASH_SHA256,02b252a4f8d7f7a5fb3d28a2c10e9be6a81efc00b09991d540aa21b0c4cdbd84,n/a,https://x.com/smica83/status/2069394918821277731
-2026-06-23,tweetfeed,HASH_SHA256,7c684801d0b1aa9d09f82bbeba02fe8953a728336e3a2453f49df122702dec7a,n/a,https://x.com/smica83/status/2069395849822511289
 2026-06-23,tweetfeed,HASH_SHA256,2e879dd65f29a3785e37e1cc4c5dfe66e61c71e7304fc9d4fd1cf70fd660fce7,MustangPanda,https://x.com/smica83/status/2069402054800412693
 2026-06-23,tweetfeed,HASH_SHA256,82c231799002733ff77acd52c03927d89334edc2727214d7f0a1e7cbedb0d950,MustangPanda,https://x.com/smica83/status/2069402054800412693
 2026-06-23,tweetfeed,HASH_SHA256,13819556c6f4f284ee676c9a28159897725e54a970fa8cd4620f4b3805132f45,MustangPanda,https://x.com/smica83/status/2069402054800412693
@@ -3758,10 +3730,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,HASH_SHA256,afaca459c8ae07447aa1492a8e5eb33da7959e81279d7e5fad933ec8dc9758e6,APT,https://x.com/byrne_emmy12099/status/2071906544745423160
 2026-06-30,tweetfeed,IP,207.189.11.170,n/a,https://x.com/smica83/status/2071913486574121006
 2026-06-30,tweetfeed,HASH_SHA256,9161a8f7f07741db06b9f9a87b6ec7f277faf2ae3a3a661d6eb09cec4e12b920,n/a,https://x.com/smica83/status/2071913486574121006
-2026-06-23,tweetfeed,HASH_MD5,b791c416988d068a3e548a0f21cd3518,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,HASH_MD5,c836a6bbe16354a21ee688e3eeb32d86,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,HASH_MD5,e70a5908e5eaee1bcd15eef82b1bcfdd,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
-2026-06-23,tweetfeed,HASH_MD5,adb67ffe941a706b6343f94413f6e5f2,MustangPanda,https://x.com/askardyuss/status/2069389179440816153
 2026-06-23,tweetfeed,HASH_MD5,dddbda3b9463e5ba85802c12437e7cb0,Njrat,https://x.com/skocherhan/status/2069545525834125771
 2026-06-24,tweetfeed,HASH_MD5,095cce55438d772b24838f68e02805d0,"Android, Trojan, malware",https://x.com/ReBensk/status/2069674547054629264
 2026-06-24,tweetfeed,HASH_MD5,9038dc1997549084cd07394a146037e7,"Android, Trojan, malware",https://x.com/ReBensk/status/2069675449194873253
