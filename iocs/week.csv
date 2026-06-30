@@ -6,9 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-23,threatfox,URL,https://huu.holidaysm188.top/,"win.vidar, url",n/a
-2026-06-23,threatfox,URL,https://tafeqld-brisbane.com/,"unknown, url",n/a
-2026-06-23,threatfox,URL,https://porcherservicesandtransfer.com/,"unknown, url",n/a
 2026-06-23,threatfox,URL,https://ibharcan.com/q,"js.smartapesg, url",n/a
 2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/callback-schema.js,"js.smartapesg, url",n/a
 2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/private-sessionstore,"js.smartapesg, url",n/a
@@ -366,8 +363,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/session,"js.kongtuke, url",n/a
 2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-30,threatfox,URL,http://124.11.64.11:34008/Mozi.m,"elf.mozi, url",n/a
-2026-06-23,threatfox,DOMAIN,huu.holidaysm188.top,"win.vidar, domain",n/a
-2026-06-23,threatfox,DOMAIN,bestcheats.space,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,one1xbet.win,"js.clearfake, domain",n/a
 2026-06-23,threatfox,DOMAIN,ibharcan.com,"js.smartapesg, domain",n/a
 2026-06-23,threatfox,DOMAIN,velvetcrossing.top,"js.smartapesg, domain",n/a
@@ -1341,14 +1336,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,3fbkahzk.coinsgame.pro,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,coinsgame.pro,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,riviere.sbs,"js.kongtuke, domain",n/a
-2026-06-23,tweetfeed,URL,http://theenyany43.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,URL,http://theenyann80.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,URL,http://theenyann81.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,URL,http://theenyann82.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,URL,http://theenyann83.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,URL,http://theenyann84.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,URL,https://www.queen-mall.com,phishing,https://x.com/masaomi346/status/2069406749422195113
-2026-06-23,tweetfeed,URL,https://navajowhite-curlew-592987.hostingersite.com/ad/,phishing,https://x.com/PhishStats/status/2069410015966908807
 2026-06-23,tweetfeed,URL,http://104.194.153.144,n/a,https://x.com/malwrhunterteam/status/2069411902774472896
 2026-06-23,tweetfeed,URL,http://Btc01.org,scam,https://x.com/TheEquitiesRoom/status/2069415383686066595
 2026-06-23,tweetfeed,URL,https://store1.gofile.io/download/direct/20727213-cc78-4288-9ff8-7822f47602b8/backup146_6VBKQ14u.zip,n/a,https://x.com/smica83/status/2069425426049479070
@@ -2755,14 +2742,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://207.189.11.170/Bin/working_payload.cs,n/a,https://x.com/smica83/status/2071913486574121006
 2026-06-30,tweetfeed,URL,http://182.235.148.10:56858/Mozi.m,n/a,https://x.com/sicehice/status/2071928948754116833
 2026-06-30,tweetfeed,URL,http://65.20.107.242:8080/cloud/,opendir,https://x.com/smica83/status/2071940145469633008
-2026-06-23,tweetfeed,DOMAIN,theenyany43.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,DOMAIN,theenyann80.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,DOMAIN,theenyann81.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,DOMAIN,theenyann82.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,DOMAIN,theenyann83.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,DOMAIN,theenyann84.vip,n/a,https://x.com/Q8CyberTi/status/2069397651670372863
-2026-06-23,tweetfeed,DOMAIN,queen-mall.com,phishing,https://x.com/masaomi346/status/2069406749422195113
-2026-06-23,tweetfeed,DOMAIN,navajowhite-curlew-592987.hostingersite.com,phishing,https://x.com/PhishStats/status/2069410015966908807
 2026-06-23,tweetfeed,DOMAIN,Btc01.org,scam,https://x.com/TheEquitiesRoom/status/2069415383686066595
 2026-06-23,tweetfeed,DOMAIN,store1.gofile.io,n/a,https://x.com/smica83/status/2069425426049479070
 2026-06-23,threatfox,HASH_MD5,79187195d75a83469f94d84887157251,"win.stealc, md5_hash",n/a
@@ -3529,10 +3508,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,cdccgov.adaptablesystems.de,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-30,tweetfeed,DOMAIN,avenger-sync.live,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,DOMAIN,api.sync-master.online,n/a,https://x.com/suyog41/status/2071899381079642616
-2026-06-23,tweetfeed,HASH_SHA256,2e879dd65f29a3785e37e1cc4c5dfe66e61c71e7304fc9d4fd1cf70fd660fce7,MustangPanda,https://x.com/smica83/status/2069402054800412693
-2026-06-23,tweetfeed,HASH_SHA256,82c231799002733ff77acd52c03927d89334edc2727214d7f0a1e7cbedb0d950,MustangPanda,https://x.com/smica83/status/2069402054800412693
-2026-06-23,tweetfeed,HASH_SHA256,13819556c6f4f284ee676c9a28159897725e54a970fa8cd4620f4b3805132f45,MustangPanda,https://x.com/smica83/status/2069402054800412693
-2026-06-23,tweetfeed,IP,147.79.72.54,phishing,https://x.com/PhishStats/status/2069410015966908807
 2026-06-23,tweetfeed,IP,104.194.153.144,n/a,https://x.com/malwrhunterteam/status/2069411902774472896
 2026-06-23,tweetfeed,HASH_SHA256,16a4fc7ddaa1ebd0d8604b04cf5a02168e89c5ff646c6a53fea5cfe9ceea7156,n/a,https://x.com/smica83/status/2069422213803979146
 2026-06-23,tweetfeed,HASH_SHA256,366cea7e24a56f592c284ddc88a8d7a0ce64eddfd5be2f35616fad947c073197,n/a,https://x.com/smica83/status/2069425426049479070
