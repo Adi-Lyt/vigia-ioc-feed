@@ -6,11 +6,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-23,threatfox,URL,https://ibharcan.com/q,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/callback-schema.js,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/private-sessionstore,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://velvetcrossing.top/profile/logout-state.js,"js.smartapesg, url",n/a
-2026-06-23,threatfox,URL,https://huu.esteghlal.news/,"win.vidar, url",n/a
 2026-06-23,threatfox,URL,https://gileert.xyz/file.js,"js.kongtuke, url",n/a
 2026-06-23,threatfox,URL,https://gileert.xyz/api/v1/session,"js.kongtuke, url",n/a
 2026-06-23,threatfox,URL,https://gileert.xyz/api/v1/verify,"js.kongtuke, url",n/a
@@ -364,12 +359,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-30,threatfox,URL,http://124.11.64.11:34008/Mozi.m,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,https://kitchenandbathroomrodelingdigest.com/,"win.vidar, url",n/a
-2026-06-23,threatfox,DOMAIN,one1xbet.win,"js.clearfake, domain",n/a
-2026-06-23,threatfox,DOMAIN,ibharcan.com,"js.smartapesg, domain",n/a
-2026-06-23,threatfox,DOMAIN,velvetcrossing.top,"js.smartapesg, domain",n/a
-2026-06-23,threatfox,DOMAIN,consumer.fsia.net,"js.fakeupdates, domain",n/a
-2026-06-23,threatfox,DOMAIN,b.360ctct.com,"win.valley_rat, domain",n/a
-2026-06-23,threatfox,DOMAIN,huu.esteghlal.news,"win.vidar, domain",n/a
 2026-06-23,threatfox,DOMAIN,newpopularimages.com,"unknown, domain",n/a
 2026-06-23,threatfox,DOMAIN,gileert.xyz,"js.kongtuke, domain",n/a
 2026-06-23,threatfox,DOMAIN,secondv.lol,"js.kongtuke, domain",n/a
@@ -1344,9 +1333,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,tinybetkade.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,enfejarland.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,biagameskade.com,"js.clearfake, domain",n/a
-2026-06-23,tweetfeed,URL,http://104.194.153.144,n/a,https://x.com/malwrhunterteam/status/2069411902774472896
-2026-06-23,tweetfeed,URL,http://Btc01.org,scam,https://x.com/TheEquitiesRoom/status/2069415383686066595
-2026-06-23,tweetfeed,URL,https://store1.gofile.io/download/direct/20727213-cc78-4288-9ff8-7822f47602b8/backup146_6VBKQ14u.zip,n/a,https://x.com/smica83/status/2069425426049479070
 2026-06-23,threatfox,HASH_SHA256,000122bb86e71548cc16dd4c4f5bb6c8fdf548a098d1bd591ee10f1bc17f9883,"unknown, sha256_hash",n/a
 2026-06-23,threatfox,HASH_SHA256,0c5f1770ba4495fb3be0e3abd522a7b0685cb375e33acf5c42fde6cba0513c41,"unknown, sha256_hash",n/a
 2026-06-23,tweetfeed,URL,http://159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
@@ -2760,8 +2746,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://podcast.n1c4.top,phishing,https://x.com/skocherhan/status/2071955750285377775
 2026-06-30,threatfox,HASH_SHA256,e43580fc868229155276b47518770c3d27bcf34c66020d34413be5cfd896e7a6,"js.clearfake, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,757b20354a901501b2d8e99294940d1256d2d9140d336aded8307d95fdf479f3,"js.clearfake, sha256_hash",n/a
-2026-06-23,tweetfeed,DOMAIN,Btc01.org,scam,https://x.com/TheEquitiesRoom/status/2069415383686066595
-2026-06-23,tweetfeed,DOMAIN,store1.gofile.io,n/a,https://x.com/smica83/status/2069425426049479070
 2026-06-23,threatfox,HASH_MD5,79187195d75a83469f94d84887157251,"win.stealc, md5_hash",n/a
 2026-06-23,threatfox,HASH_MD5,87c61136236dbb9ab635e379d866fe49,"win.stealc, md5_hash",n/a
 2026-06-23,threatfox,HASH_MD5,d2b4cb1d964d01bce7246acb289f2a23,"win.stealc, md5_hash",n/a
@@ -3530,9 +3514,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,modbdwindtgt.shop,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,DOMAIN,documents.zip,n/a,https://x.com/ElementalX2/status/2071951017433043200
 2026-06-30,tweetfeed,DOMAIN,podcast.n1c4.top,phishing,https://x.com/skocherhan/status/2071955750285377775
-2026-06-23,tweetfeed,IP,104.194.153.144,n/a,https://x.com/malwrhunterteam/status/2069411902774472896
-2026-06-23,tweetfeed,HASH_SHA256,16a4fc7ddaa1ebd0d8604b04cf5a02168e89c5ff646c6a53fea5cfe9ceea7156,n/a,https://x.com/smica83/status/2069422213803979146
-2026-06-23,tweetfeed,HASH_SHA256,366cea7e24a56f592c284ddc88a8d7a0ce64eddfd5be2f35616fad947c073197,n/a,https://x.com/smica83/status/2069425426049479070
 2026-06-23,tweetfeed,IP,144.172.103.98,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
 2026-06-23,tweetfeed,IP,98.103.172.144,"RAT, infostealer, malware, stealer",https://x.com/akaclandestine/status/2069457422502985737
 2026-06-23,tweetfeed,IP,159.223.34.28,"APT, C2, CobaltStrike, malware",https://x.com/skocherhan/status/2069483754595254724
