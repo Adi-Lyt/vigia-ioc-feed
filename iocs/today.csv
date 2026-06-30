@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-29,threatfox,URL,https://opportunitiesforeveryone.net/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,http://176.65.144.73/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
 2026-06-29,threatfox,URL,http://miedorama.com:4959,"win.remus, url",n/a
 2026-06-29,threatfox,URL,http://angect.xyz:7838,"win.remus, url",n/a
@@ -134,12 +133,6 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,DOMAIN,1ozso11s.blackjackonlineplay83.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,35iozqs1.bet1bonus.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,bet90chrome.com,"js.clearfake, domain",n/a
-2026-06-29,tweetfeed,URL,https://workspacecloudportal.com/ftx/page.html,phishing,https://x.com/patialavii/status/2071635621693772015
-2026-06-29,tweetfeed,URL,https://pub-113cc6d30763427ca2331b4f400c33af.r2.dev/setup_DocuSignInstaller_V4.2.msi,phishing,https://x.com/patialavii/status/2071635621693772015
-2026-06-29,tweetfeed,URL,http://backup.madronoapp.com,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
-2026-06-29,tweetfeed,URL,http://3.208.19.130,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
-2026-06-29,tweetfeed,URL,https://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/invite.php,phishing,https://x.com/patialavii/status/2071637885363933593
-2026-06-29,tweetfeed,URL,https://usz00mczyiee.store/H7j3Gm9g4Jsp9/Windows/download.php,phishing,https://x.com/patialavii/status/2071637885363933593
 2026-06-29,tweetfeed,URL,https://wf.managepci.com/safemaker/login/portal,phishing,https://x.com/PhishStats/status/2071660408021127333
 2026-06-29,tweetfeed,URL,http://94.154.43.208,"C2, malware",https://x.com/etugenio/status/2071667423627858015
 2026-06-29,threatfox,HASH_SHA256,ffe98374173d7c2084a1a6953b308c13a8b9493294af831c23542b0d88654036,"win.valley_rat, sha256_hash",n/a
@@ -221,10 +214,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,URL,http://pinonte.vip,"malware, phishing",https://x.com/skocherhan/status/2072000395916828802
 2026-06-30,threatfox,HASH_SHA256,267f2c6578ec3efa95af78d36493219b5b7d1d9801e9f7ebc0559298e173e091,"win.vidar, sha256_hash",n/a
 2026-06-30,threatfox,HASH_SHA256,4b9466b03553cbaf4b67efd3ef100a8f198c2463bf26ae5bf825dfd7a6742984,"win.vidar, sha256_hash",n/a
-2026-06-29,tweetfeed,DOMAIN,workspacecloudportal.com,phishing,https://x.com/patialavii/status/2071635621693772015
-2026-06-29,tweetfeed,DOMAIN,pub-113cc6d30763427ca2331b4f400c33af.r2.dev,phishing,https://x.com/patialavii/status/2071635621693772015
-2026-06-29,tweetfeed,DOMAIN,backup.madronoapp.com,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
-2026-06-29,tweetfeed,DOMAIN,usz00mczyiee.store,phishing,https://x.com/patialavii/status/2071637885363933593
 2026-06-29,tweetfeed,DOMAIN,wf.managepci.com,phishing,https://x.com/PhishStats/status/2071660408021127333
 2026-06-29,threatfox,HASH_MD5,a8480f1bd4fc75a68930f3c60df63955,"win.valley_rat, md5_hash",n/a
 2026-06-29,threatfox,HASH_MD5,63844cd3d2578789f0e5ca58cfddf9d4,"win.valley_rat, md5_hash",n/a
@@ -271,12 +260,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,DOMAIN,vscode-bootstrap.sh,n/a,https://x.com/L0Psec/status/2071985075785245063
 2026-06-30,tweetfeed,DOMAIN,adreses.vip,"malware, phishing",https://x.com/Malwarehunterr/status/2071998194842767515
 2026-06-30,tweetfeed,DOMAIN,pinonte.vip,"malware, phishing",https://x.com/skocherhan/status/2072000395916828802
-2026-06-29,tweetfeed,HASH_SHA256,bd53ffbd0b449ead46ae48f59d0d9b017b60f4abdb6a372e22c5677a8e31af30,phishing,https://x.com/patialavii/status/2071635621693772015
-2026-06-29,tweetfeed,IP,3.208.19.130,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
-2026-06-29,tweetfeed,HASH_SHA256,b7b7ac7132c3cc8cd9d5256e51d7f83233d5d6b67b16946e7b57a189db99246d,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
-2026-06-29,tweetfeed,HASH_SHA256,b992e880fce09d09bd2ed7a172c592a20e211f31a116911174f20ac98b818cb0,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
-2026-06-29,tweetfeed,HASH_SHA256,f8c59816c32edb6ff4bd8a15859b9a1b0e915d8d2b3e79a82d0a27d0afdc43b9,phishing,https://x.com/patialavii/status/2071637885363933593
-2026-06-29,tweetfeed,IP,104.193.195.159,C2,https://x.com/Fact_Finder03/status/2071639456785006820
 2026-06-29,tweetfeed,IP,54.205.74.4,phishing,https://x.com/PhishStats/status/2071660408021127333
 2026-06-29,tweetfeed,IP,94.154.43.208,"C2, malware",https://x.com/etugenio/status/2071667423627858015
 2026-06-29,tweetfeed,HASH_SHA256,29906168eba271442305389aebe91a5091ae933d551101ad60087f699ca2630f,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
@@ -315,7 +298,6 @@ date,user,type,ioc,tags,context
 2026-06-30,tweetfeed,IP,5.181.1.249,n/a,https://x.com/500mk500/status/2071978242005684647
 2026-06-30,tweetfeed,IP,195.246.230.196,C2,https://x.com/Fact_Finder03/status/2071996231635910985
 2026-06-30,tweetfeed,HASH_SHA256,2d2a251a88632f010fd9671789746908eeccaa5bc5c0a5d25e4649efe4f5b15d,"malware, phishing",https://x.com/skocherhan/status/2072000395916828802
-2026-06-29,tweetfeed,HASH_MD5,f61b02d18ba92031c871760759162e87,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
 2026-06-29,tweetfeed,HASH_MD5,97422ce882dc1144e13fa279dc141b0a,n/a,https://x.com/sicehice/status/2071684084988780914
 2026-06-30,tweetfeed,HASH_MD5,b02698eee18cad510aa1fdea6c83edc3,n/a,https://x.com/tdatwja/status/2071873143313223769
 2026-06-30,tweetfeed,HASH_MD5,695d61a6f9e39a0e7c1a14c28337b2dc,n/a,https://x.com/tdatwja/status/2071873143313223769
