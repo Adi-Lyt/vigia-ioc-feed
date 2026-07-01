@@ -2,10 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-24,threatfox,URL,https://superboomer.world/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://merkantalolol.asia/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://centrodeinfusaocuritiba.com.br/connatural/shortsighted,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://demo.alkhateeb.ae/yachted/sibling/,"unknown, url",n/a
 2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/galinavsuk6/sdg7-j9/r-fd7,"js.clearfake, url",n/a
 2026-06-24,threatfox,URL,http://109.104.153.60/bins/frosty.mips,"elf.mirai, url",n/a
 2026-06-24,threatfox,URL,http://91.92.40.176:67/sonnet.x86,"elf.mirai, url",n/a
@@ -361,10 +357,10 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,URL,https://94.130.41.8/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://94.130.120.240/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://195.201.58.116/,"win.vidar, url",n/a
-2026-06-24,threatfox,DOMAIN,topclouddefence.com,"unknown, domain",n/a
-2026-06-24,threatfox,DOMAIN,gatekeepernet.com,"unknown, domain",n/a
-2026-06-24,threatfox,DOMAIN,captchadefence.com,"unknown, domain",n/a
-2026-06-24,threatfox,DOMAIN,personalprogrammupdater.com,"unknown, domain",n/a
+2026-07-01,threatfox,URL,https://jjl.psgiran.news/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,https://jjl.jangkarsm188.top/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,http://202.70.139.110:44351/Mozi.a,"elf.mozi, url",n/a
+2026-07-01,threatfox,URL,http://103.248.94.9:51949/Mozi.m,"elf.mozi, url",n/a
 2026-06-24,threatfox,DOMAIN,crimsonnightsky.top,"js.magecart, domain",n/a
 2026-06-24,threatfox,DOMAIN,k9qxyqt8.jetbt8.online,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,jetbt8.online,"js.clearfake, domain",n/a
@@ -1525,7 +1521,15 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,cloudsflere.agency,"unknown_stealer, domain",n/a
 2026-07-01,threatfox,DOMAIN,schuttc.lol,"js.kongtuke, domain",n/a
 2026-07-01,threatfox,DOMAIN,lvt.vip1xbet.net,"js.clearfake, domain",n/a
-2026-06-24,tweetfeed,URL,http://Deliverytradehub.com,scam,https://x.com/MICHEALDAVennn/status/2069701250166190561
+2026-07-01,threatfox,DOMAIN,jjl.psgiran.news,"win.vidar, domain",n/a
+2026-07-01,threatfox,DOMAIN,jjl.jangkarsm188.top,"win.vidar, domain",n/a
+2026-07-01,threatfox,DOMAIN,mdftw8lo.btyek.website,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,btyek.website,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,codeverificatrorcl.info,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,djaczx9h.btyek.online,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,btyek.online,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,squvbf6p.btyek.one,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,btyek.one,"js.clearfake, domain",n/a
 2026-06-24,tweetfeed,URL,http://rehmandakait-37356.portmap.host,n/a,https://x.com/joe4security/status/2069716918634782724
 2026-06-24,tweetfeed,URL,http://www.aahqzw.icu,"malware, phishing",https://x.com/masaomi346/status/2069724972134899797
 2026-06-24,tweetfeed,URL,http://facaai3.com,n/a,https://x.com/smica83/status/2069727987876896894
@@ -3125,7 +3129,8 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,URL,http://8.216.49.64,phishing,https://x.com/Metemcyber/status/2072184725792583834
 2026-07-01,tweetfeed,URL,https://smbci-coard.gavinoro.com/mem/update/index.jsp-dk=hp_005_0021993_hd,phishing,https://x.com/Metemcyber/status/2072187332833497605
 2026-07-01,threatfox,HASH_SHA256,54415e8a8d8e1ad25fdb246d9dfd50c76dce805a47b92d84539f23d14f6ee31b,"unknown, sha256_hash",n/a
-2026-06-24,tweetfeed,DOMAIN,Deliverytradehub.com,scam,https://x.com/MICHEALDAVennn/status/2069701250166190561
+2026-07-01,tweetfeed,URL,http://zero.heritagenb.net,n/a,https://x.com/500mk500/status/2072221994477564339
+2026-07-01,tweetfeed,URL,http://vaultchain.click,n/a,https://x.com/skocherhan/status/2072225843762307388
 2026-06-24,tweetfeed,DOMAIN,rehmandakait-37356.portmap.host,n/a,https://x.com/joe4security/status/2069716918634782724
 2026-06-24,tweetfeed,DOMAIN,aahqzw.icu,"malware, phishing",https://x.com/masaomi346/status/2069724972134899797
 2026-06-24,tweetfeed,DOMAIN,facaai3.com,n/a,https://x.com/smica83/status/2069727987876896894
@@ -4078,6 +4083,8 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,DOMAIN,wxsvs.com,phishing,https://x.com/masaomi346/status/2072182710957973553
 2026-07-01,tweetfeed,DOMAIN,miy.jcb.walpoleu.com,phishing,https://x.com/Metemcyber/status/2072184725792583834
 2026-07-01,tweetfeed,DOMAIN,smbci-coard.gavinoro.com,phishing,https://x.com/Metemcyber/status/2072187332833497605
+2026-07-01,tweetfeed,DOMAIN,zero.heritagenb.net,n/a,https://x.com/500mk500/status/2072221994477564339
+2026-07-01,tweetfeed,DOMAIN,vaultchain.click,n/a,https://x.com/skocherhan/status/2072225843762307388
 2026-06-24,tweetfeed,HASH_SHA256,a004971ef0f2451173c9dba9002b7a4f04f1140af2954251a4bbb04041a879d4,"malware, phishing",https://x.com/masaomi346/status/2069724972134899797
 2026-06-24,tweetfeed,IP,154.23.182.117,n/a,https://x.com/smica83/status/2069727987876896894
 2026-06-24,"threatfox,tweetfeed",HASH_SHA256,a54318d38eb5b85ffa139155072f9581b55eab73b03aed1cfba6431dda1fc7c6,n/a,https://x.com/smica83/status/2069727987876896894
