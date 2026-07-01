@@ -371,6 +371,13 @@ date,user,type,ioc,tags,context
 2026-06-30,threatfox,URL,http://124.29.224.65:60281/Mozi.m,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,https://cloudflare-check.cfd/api/index.php,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://pirantitravel.id/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,https://zaserz.com/,"unknown, url",n/a
+2026-07-01,threatfox,URL,http://112.27.10.150:34339/Mozi.m,"elf.mozi, url",n/a
+2026-07-01,threatfox,URL,http://103.146.110.206:60051/Mozi.m,"elf.mozi, url",n/a
+2026-07-01,threatfox,URL,http://115.50.231.205:58069/Mozi.m,"elf.mozi, url",n/a
+2026-07-01,threatfox,URL,https://schuttc.lol/file.js,"js.kongtuke, url",n/a
+2026-07-01,threatfox,URL,https://schuttc.lol/api/v1/session,"js.kongtuke, url",n/a
+2026-07-01,threatfox,URL,https://schuttc.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-24,threatfox,DOMAIN,genddos.st,"elf.mirai, domain",n/a
 2026-06-24,threatfox,DOMAIN,three.followfromapps.icu,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,reef-swan-lagoon.pages.dev,"js.clearfake, domain",n/a
@@ -1540,6 +1547,12 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,betobord.live,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,cxsbf6om.betmajickade.com,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,betmajickade.com,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,x4ii4c50.btyek.store,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,btyek.store,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,photo-download-drive.info,"unknown_rat, domain",n/a
+2026-07-01,threatfox,DOMAIN,unlimitsquid.info,"unknown_rat, domain",n/a
+2026-07-01,threatfox,DOMAIN,cloudsflere.agency,"unknown_stealer, domain",n/a
+2026-07-01,threatfox,DOMAIN,schuttc.lol,"js.kongtuke, domain",n/a
 2026-06-24,tweetfeed,URL,http://45.79.238.166,n/a,https://x.com/papa_anniekey/status/2069582760185053460
 2026-06-24,tweetfeed,URL,https://zoomsclientupdate.pages.dev,phishing,https://x.com/patialavii/status/2069646646749921559
 2026-06-24,tweetfeed,URL,https://vituladiagnosticos.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2069646646749921559
@@ -3160,6 +3173,8 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,URL,https://wxsvs.com/hleABFYN/,phishing,https://x.com/masaomi346/status/2072182710957973553
 2026-07-01,tweetfeed,URL,https://miy.jcb.walpoleu.com/index/login,phishing,https://x.com/Metemcyber/status/2072184725792583834
 2026-07-01,tweetfeed,URL,http://8.216.49.64,phishing,https://x.com/Metemcyber/status/2072184725792583834
+2026-07-01,tweetfeed,URL,https://smbci-coard.gavinoro.com/mem/update/index.jsp-dk=hp_005_0021993_hd,phishing,https://x.com/Metemcyber/status/2072187332833497605
+2026-07-01,threatfox,HASH_SHA256,54415e8a8d8e1ad25fdb246d9dfd50c76dce805a47b92d84539f23d14f6ee31b,"unknown, sha256_hash",n/a
 2026-06-24,tweetfeed,DOMAIN,zoomsclientupdate.pages.dev,phishing,https://x.com/patialavii/status/2069646646749921559
 2026-06-24,tweetfeed,DOMAIN,vituladiagnosticos.screenconnect.com,phishing,https://x.com/patialavii/status/2069646646749921559
 2026-06-24,tweetfeed,DOMAIN,cryopainmanagement.com,phishing,https://x.com/PhishStats/status/2069665245954548054
@@ -4119,6 +4134,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,DOMAIN,menuphimsexhay.com,AsyncRAT,https://x.com/skocherhan/status/2072132611598663911
 2026-07-01,tweetfeed,DOMAIN,wxsvs.com,phishing,https://x.com/masaomi346/status/2072182710957973553
 2026-07-01,tweetfeed,DOMAIN,miy.jcb.walpoleu.com,phishing,https://x.com/Metemcyber/status/2072184725792583834
+2026-07-01,tweetfeed,DOMAIN,smbci-coard.gavinoro.com,phishing,https://x.com/Metemcyber/status/2072187332833497605
 2026-06-24,tweetfeed,IP,45.79.238.166,n/a,https://x.com/papa_anniekey/status/2069582760185053460
 2026-06-24,tweetfeed,IP,209.182.193.246,phishing,https://x.com/PhishStats/status/2069665245954548054
 2026-06-24,tweetfeed,IP,43.164.190.148,phishing,https://x.com/Metemcyber/status/2069665993144848448
@@ -4353,6 +4369,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,HASH_SHA256,fe22f654e1122c8fa64247de4e094915a7c092d5c67ef77d18c8f133f87bef33,n/a,https://x.com/skocherhan/status/2072118979343024293
 2026-07-01,tweetfeed,HASH_SHA256,adc2213180d37b897d915639ff335f229217e38306c96ec216986f15b64ae5e5,n/a,https://x.com/skocherhan/status/2072118979343024293
 2026-07-01,tweetfeed,IP,8.216.49.64,phishing,https://x.com/Metemcyber/status/2072184725792583834
+2026-07-01,tweetfeed,HASH_SHA256,c7603cf6ace95dd77632d029b6c0d8e031bd925c63f4e8f2bddf81f4838caa3d,malware,https://x.com/d1v35hresearch/status/2072192569942131035
 2026-06-24,tweetfeed,HASH_MD5,095cce55438d772b24838f68e02805d0,"Android, Trojan, malware",https://x.com/ReBensk/status/2069674547054629264
 2026-06-24,tweetfeed,HASH_MD5,9038dc1997549084cd07394a146037e7,"Android, Trojan, malware",https://x.com/ReBensk/status/2069675449194873253
 2026-06-24,tweetfeed,HASH_MD5,0859085d3ab968de9ccfb9a829ea19af,n/a,https://x.com/sicehice/status/2069803947963912303
