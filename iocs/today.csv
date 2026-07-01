@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-30,threatfox,URL,https://cloudflare-check.cfd/api/index.php,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://pirantitravel.id/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://zaserz.com/,"unknown, url",n/a
 2026-07-01,threatfox,URL,http://112.27.10.150:34339/Mozi.m,"elf.mozi, url",n/a
@@ -61,12 +60,8 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,URL,https://merabs.pro/703520a5.exe,"unknown_loader, url",n/a
 2026-07-01,threatfox,URL,https://merabs.pro/fb5fff92.exe,"unknown_loader, url",n/a
 2026-07-01,threatfox,URL,https://puzzlekit.co.il/,"win.vidar, url",n/a
-2026-06-30,threatfox,DOMAIN,zi6uvzi9.btyek.beauty,"js.clearfake, domain",n/a
-2026-06-30,threatfox,DOMAIN,btyek.beauty,"js.clearfake, domain",n/a
-2026-06-30,threatfox,DOMAIN,0oj9pa7x.1xbetlogin.co,"js.clearfake, domain",n/a
-2026-06-30,threatfox,DOMAIN,1xbetlogin.co,"js.clearfake, domain",n/a
-2026-06-30,threatfox,DOMAIN,c28vzpro.bet808.app,"js.clearfake, domain",n/a
-2026-06-30,threatfox,DOMAIN,bet808.app,"js.clearfake, domain",n/a
+2026-07-01,threatfox,URL,https://t10.psgiran.news/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,https://t10.jangkarsm188.top/,"win.vidar, url",n/a
 2026-07-01,threatfox,DOMAIN,klitr41.despot-unfolded.surf,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,xqmvu.ann0uncedwhiner.surf,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,zan9uav.snort-uharsky.surf,"js.clearfake, domain",n/a
@@ -322,6 +317,17 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,betreward.bet,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,bet404.app,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,jpopdwg.vip1xbet.net,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,8pxyyjso.doobix.pro,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,doobix.pro,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,zthayuyp.1x303.casino,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,i0gxyl9q.betaffiliate.marketing,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,betaffiliate.marketing,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,alvin.bet,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,phcbmap.vip1xbet.net,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,uamhqvjx.abresanishahri.store,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,lwflkiar.betsoor.live,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,t10.psgiran.news,"win.vidar, domain",n/a
+2026-07-01,threatfox,DOMAIN,t10.jangkarsm188.top,"win.vidar, domain",n/a
 2026-07-01,threatfox,HASH_SHA256,283cfc119905c3e5db6fb6746aa4000cab290013157cbe61cfe6dfb650e19548,"win.phantom_stealer, sha256_hash",n/a
 2026-07-01,threatfox,HASH_SHA256,c32590372184842001ba5ae8f4f569352a1b65ece5ec31e4974b717b821362b3,"win.formbook, sha256_hash",n/a
 2026-07-01,threatfox,HASH_SHA256,2271d88227772b5b7f34958e611b74397fac5ee8c77e48aa2068fff2e1a69a0f,"win.valley_rat, sha256_hash",n/a
