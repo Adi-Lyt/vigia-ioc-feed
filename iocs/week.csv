@@ -2,8 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-24,threatfox,URL,https://psh.esteghlal.news/,"win.vidar, url",n/a
-2026-06-24,threatfox,URL,https://psh.holidaysm188.top/,"win.vidar, url",n/a
 2026-06-24,threatfox,URL,http://hotstz.xyz:9549,"win.remus, url",n/a
 2026-06-24,threatfox,URL,http://qqdhq.cn/getinstall64,"win.valley_rat, url",n/a
 2026-06-24,threatfox,URL,http://somrapum.mywebcommunity.org/index.php,"win.azorult, url",n/a
@@ -353,10 +351,6 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,URL,http://202.70.139.110:44351/Mozi.a,"elf.mozi, url",n/a
 2026-07-01,threatfox,URL,http://103.248.94.9:51949/Mozi.m,"elf.mozi, url",n/a
 2026-07-01,threatfox,URL,http://axoshealthcare.com:4959,"win.remus, url",n/a
-2026-06-24,threatfox,DOMAIN,9baeu5sl.zistzirezarebin.shop,"js.clearfake, domain",n/a
-2026-06-24,threatfox,DOMAIN,zistzirezarebin.shop,"js.clearfake, domain",n/a
-2026-06-24,threatfox,DOMAIN,psh.holidaysm188.top,"win.vidar, domain",n/a
-2026-06-24,threatfox,DOMAIN,psh.esteghlal.news,"win.vidar, domain",n/a
 2026-06-24,threatfox,DOMAIN,jetbt9.online,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,caishendaole.com,"win.valley_rat, domain",n/a
 2026-06-24,threatfox,DOMAIN,fb88.farm,"win.remcos, domain",n/a
@@ -1394,28 +1388,6 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,dancebet.net,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,chhtni23.dancebet.app,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,dancebet.app,"js.clearfake, domain",n/a
-2026-06-24,tweetfeed,URL,http://mafkanifoods.com,phishing,https://x.com/Q8CyberTi/status/2069765407217430773
-2026-06-24,tweetfeed,URL,http://canhovinhomesnguyentrai.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://cementslabconstruction.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://chloroquinesen.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://converseportaldevleopdrone.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://flordecerezocatering.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://greenproxysimpleserver.cc,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://hydroxychloroquinebnb.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://induscrosoinia.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://induslinklaceupmarketing.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://gouindominou.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://mongorialialianana.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://newportcontemporaryart.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://nnnmjerseys.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://noticiestortosa.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://ofisobzavejdane.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://2885528.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://onlinecialisx.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://pantheoneller.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://sbaritairunthaservice.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://upreio-group.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,URL,http://btc204.com,phishing,https://x.com/skocherhan/status/2069772780623560930
 2026-06-24,tweetfeed,URL,https://www.kongztoken.live,phishing,https://x.com/PhishStats/status/2069780976931152204
 2026-06-24,tweetfeed,URL,http://94.154.32.121,n/a,https://x.com/smica83/status/2069790947521532201
 2026-06-24,tweetfeed,URL,http://176.65.139.158/ghost.sh,n/a,https://x.com/sicehice/status/2069803947963912303
@@ -3054,27 +3026,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,URL,https://cfg.smt.docomo.henyoueyong.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,URL,https://cfg.smt.docomo.tianmacogou.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,URL,https://smbc-support.atouchofgerman.com/newsinvestor-jp,phishing,https://x.com/PhishStats/status/2072292645171269964
-2026-06-24,tweetfeed,DOMAIN,mafkanifoods.com,phishing,https://x.com/Q8CyberTi/status/2069765407217430773
-2026-06-24,tweetfeed,DOMAIN,canhovinhomesnguyentrai.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,cementslabconstruction.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,chloroquinesen.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,converseportaldevleopdrone.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,flordecerezocatering.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,greenproxysimpleserver.cc,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,hydroxychloroquinebnb.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,induscrosoinia.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,induslinklaceupmarketing.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,gouindominou.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,mongorialialianana.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,nnnmjerseys.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,noticiestortosa.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,ofisobzavejdane.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,2885528.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,onlinecialisx.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,pantheoneller.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,sbaritairunthaservice.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,upreio-group.com,n/a,https://x.com/Kb4Threatlabs/status/2069768114862985228
-2026-06-24,tweetfeed,DOMAIN,btc204.com,phishing,https://x.com/skocherhan/status/2069772780623560930
+2026-07-01,tweetfeed,URL,http://magicmike26.myddns.me,malware,https://x.com/D3LabIT/status/2072302680555258023
 2026-06-24,tweetfeed,DOMAIN,kongztoken.live,phishing,https://x.com/PhishStats/status/2069780976931152204
 2026-06-24,threatfox,HASH_MD5,f6ad32434247191f22bb92daec16df79,"win.socks5_systemz, md5_hash",n/a
 2026-06-24,threatfox,HASH_MD5,375e3e0945e1aae4a3ed38420238db1b,"win.formbook, md5_hash",n/a
@@ -4071,7 +4023,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,DOMAIN,cfg.smt.docomo.henyoueyong.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,DOMAIN,cfg.smt.docomo.tianmacogou.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,DOMAIN,smbc-support.atouchofgerman.com,phishing,https://x.com/PhishStats/status/2072292645171269964
-2026-06-24,tweetfeed,HASH_SHA256,cd5a2e5352fddb3e46c36fe52ce460e3fbcf79a26b5421509f4a9a4a4fbd7c0e,n/a,https://x.com/smica83/status/2069765620057424322
+2026-07-01,tweetfeed,DOMAIN,magicmike26.myddns.me,malware,https://x.com/D3LabIT/status/2072302680555258023
 2026-06-24,tweetfeed,IP,216.198.79.1,phishing,https://x.com/PhishStats/status/2069780976931152204
 2026-06-24,tweetfeed,IP,94.154.32.121,n/a,https://x.com/smica83/status/2069790947521532201
 2026-06-24,tweetfeed,HASH_SHA256,a630ae17ca1f27c7b83fe2c2168667fcdd8dac4284992592926903929378481a,n/a,https://x.com/smica83/status/2069790947521532201
@@ -4331,3 +4283,4 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,HASH_MD5,422e4a3f1c69ff834dfc4688e8893716,APT,https://x.com/askardyuss/status/2072183416074674476
 2026-07-01,tweetfeed,HASH_MD5,bc78222a223a547d0fc2e42120563510,n/a,https://x.com/skocherhan/status/2072258628896149801
 2026-07-01,tweetfeed,HASH_MD5,0129e1e1666d5bcce8c3f12c866fdb23,ClickFix,https://x.com/suyog41/status/2072298995100377425
+2026-07-01,tweetfeed,HASH_MD5,088e5f818e976e85df25b84affb59c20,malware,https://x.com/D3LabIT/status/2072302680555258023
