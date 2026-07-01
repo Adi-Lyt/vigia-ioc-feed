@@ -1,9 +1,4 @@
 date,user,type,ioc,tags,context
-2026-06-30,threatfox,URL,https://riviere.sbs/file.js,"js.kongtuke, url",n/a
-2026-06-30,threatfox,URL,http://172.168.177.48:39138/Mozi.7,"elf.mozi, url",n/a
-2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/session,"js.kongtuke, url",n/a
-2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-30,threatfox,URL,http://124.11.64.11:34008/Mozi.m,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,https://kitchenandbathroomrodelingdigest.com/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://alcaldeabogados.es/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://pak.psgiran.news/,"win.vidar, url",n/a
@@ -48,7 +43,6 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,URL,http://202.70.139.110:44351/Mozi.a,"elf.mozi, url",n/a
 2026-07-01,threatfox,URL,http://103.248.94.9:51949/Mozi.m,"elf.mozi, url",n/a
 2026-07-01,threatfox,URL,http://axoshealthcare.com:4959,"win.remus, url",n/a
-2026-06-30,threatfox,DOMAIN,riviere.sbs,"js.kongtuke, domain",n/a
 2026-06-30,threatfox,DOMAIN,wt51peii.boomball.bet,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,boomball.bet,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,mebanebols.trade,"js.clearfake, domain",n/a
@@ -301,8 +295,6 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,dancebet.net,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,chhtni23.dancebet.app,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,dancebet.app,"js.clearfake, domain",n/a
-2026-06-30,tweetfeed,URL,http://182.235.148.10:56858/Mozi.m,n/a,https://x.com/sicehice/status/2071928948754116833
-2026-06-30,tweetfeed,URL,http://65.20.107.242:8080/cloud/,opendir,https://x.com/smica83/status/2071940145469633008
 2026-06-30,tweetfeed,URL,http://65.38.120.129:5556,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,URL,http://modbdwindtgt.website:8080,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,URL,http://modbdwindtgt.website,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
@@ -693,6 +685,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,URL,https://cfg.smt.docomo.henyoueyong.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,URL,https://cfg.smt.docomo.tianmacogou.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,URL,https://smbc-support.atouchofgerman.com/newsinvestor-jp,phishing,https://x.com/PhishStats/status/2072292645171269964
+2026-07-01,tweetfeed,URL,http://magicmike26.myddns.me,malware,https://x.com/D3LabIT/status/2072302680555258023
 2026-06-30,tweetfeed,DOMAIN,modbdwindtgt.website,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,DOMAIN,modbdwindtgt.shop,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,DOMAIN,documents.zip,n/a,https://x.com/ElementalX2/status/2071951017433043200
@@ -1053,10 +1046,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,DOMAIN,cfg.smt.docomo.henyoueyong.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,DOMAIN,cfg.smt.docomo.tianmacogou.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,DOMAIN,smbc-support.atouchofgerman.com,phishing,https://x.com/PhishStats/status/2072292645171269964
-2026-06-30,tweetfeed,IP,94.154.43.192,n/a,https://x.com/sicehice/status/2071928951304245549
-2026-06-30,tweetfeed,IP,41.216.189.157,n/a,https://x.com/sicehice/status/2071928951304245549
-2026-06-30,tweetfeed,IP,182.235.148.10,n/a,https://x.com/sicehice/status/2071928948754116833
-2026-06-30,tweetfeed,IP,65.20.107.242,opendir,https://x.com/smica83/status/2071940145469633008
+2026-07-01,tweetfeed,DOMAIN,magicmike26.myddns.me,malware,https://x.com/D3LabIT/status/2072302680555258023
 2026-06-30,tweetfeed,IP,65.38.120.129,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,IP,5.181.1.181,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,IP,45.141.58.166,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
@@ -1107,9 +1097,6 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,IP,134.122.128.154,APT,https://x.com/byrne_emmy12099/status/2072288046645661828
 2026-07-01,tweetfeed,HASH_SHA256,12d443d50b302f85e4d249a648b3b44e68cdf23a5e17b21e8e70c072aa896cd7,APT,https://x.com/byrne_emmy12099/status/2072288046645661828
 2026-07-01,tweetfeed,IP,204.11.56.37,phishing,https://x.com/PhishStats/status/2072292645171269964
-2026-06-30,tweetfeed,HASH_MD5,9816e90cfa33a7601f9cd6477ebd9913,n/a,https://x.com/sicehice/status/2071928951304245549
-2026-06-30,tweetfeed,HASH_MD5,ff8efa6d9f6391c9b1bf8a77d74402f2,malware,https://x.com/d1v35hresearch/status/2071939229979201614
-2026-06-30,tweetfeed,HASH_MD5,5ba940f0e666bfd9ff0af443fe182fb1,malware,https://x.com/d1v35hresearch/status/2071939229979201614
 2026-06-30,tweetfeed,HASH_MD5,80fbb8ed636178d30b1a3a864cd1f231,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,HASH_MD5,048de81368e46adf9dd12df7278f7821,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,HASH_MD5,00f341a353de29dfe19e4796d27c1879,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
@@ -1126,3 +1113,4 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,HASH_MD5,422e4a3f1c69ff834dfc4688e8893716,APT,https://x.com/askardyuss/status/2072183416074674476
 2026-07-01,tweetfeed,HASH_MD5,bc78222a223a547d0fc2e42120563510,n/a,https://x.com/skocherhan/status/2072258628896149801
 2026-07-01,tweetfeed,HASH_MD5,0129e1e1666d5bcce8c3f12c866fdb23,ClickFix,https://x.com/suyog41/status/2072298995100377425
+2026-07-01,tweetfeed,HASH_MD5,088e5f818e976e85df25b84affb59c20,malware,https://x.com/D3LabIT/status/2072302680555258023
