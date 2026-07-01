@@ -2,53 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-24,threatfox,URL,http://qqdhq.cn/getinstall64,"win.valley_rat, url",n/a
-2026-06-24,threatfox,URL,http://somrapum.mywebcommunity.org/index.php,"win.azorult, url",n/a
-2026-06-24,threatfox,URL,https://www.hyperx.com.pk/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://avipri.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://uolguin.cfd/file.js,"js.kongtuke, url",n/a
-2026-06-24,threatfox,URL,https://uolguin.cfd/api/v1/session,"js.kongtuke, url",n/a
-2026-06-24,threatfox,URL,https://uolguin.cfd/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-24,threatfox,URL,https://uolguin.cfd/api/v1/status,"js.kongtuke, url",n/a
-2026-06-24,threatfox,URL,https://gbaof.com/hair/fort,"js.kongtuke, url",n/a
-2026-06-24,threatfox,URL,https://eivmusic.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://fullsteamahead.eu/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://dojoinvicto.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://entrepreneur-businesshub-international.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://kirmanalidris.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://koreatravellog.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://innenausstattung-mah.de/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://www.legalsolutions-florida.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://kakawiperu.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://lopalooza.org/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://www.inkaravany.sk/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://coralwayfinder.top/status/secure-template,"js.smartapesg, url",n/a
-2026-06-24,threatfox,URL,https://coralwayfinder.top/status/signin-dom.js,"js.smartapesg, url",n/a
-2026-06-24,threatfox,URL,https://laabali.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://perisai4d.net/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://milanolivings.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://motomaniasrl.it/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://peharava.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://medicogadget.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://physiothetics.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://prohealingblog.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://ranklocally.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://www.transportesuriarte.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://seamasterscf.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://romefirstchoicetours.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://puntoscardinalestv.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://tubephanoi.vn/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://www.thenewyorkentrepreneur.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://visaovencedora.com.br/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://rambhabedcollege.ac.in/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://rr99-vn.online/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://savana99.org/,"unknown, url",n/a
-2026-06-24,threatfox,URL,http://193.148.56.150/3eab1140a670beece97d.php,"win.stealc, url",n/a
-2026-06-24,threatfox,URL,https://visasistltd.com/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://valltorp.se/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://westmillsbritishschool.org/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://yesproperties.com.ng/,"unknown, url",n/a
-2026-06-24,threatfox,URL,https://tommy-v.lol/o,"js.kongtuke, url",n/a
 2026-06-24,threatfox,URL,https://ghr.esteghlal.news/,"win.vidar, url",n/a
 2026-06-24,threatfox,URL,https://ghr.holidaysm188.top/,"win.vidar, url",n/a
 2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/galinavsuk6/text-set/vbr,"js.clearfake, url",n/a
@@ -365,18 +318,11 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,URL,https://bronzehorizon.top/role/settings-worker.js,"js.smartapesg, url",n/a
 2026-07-01,threatfox,URL,https://schuttc.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-07-01,threatfox,URL,https://sap.dev.rw.digital/,"win.vidar, url",n/a
-2026-06-24,threatfox,DOMAIN,caishendaole.com,"win.valley_rat, domain",n/a
-2026-06-24,threatfox,DOMAIN,fb88.farm,"win.remcos, domain",n/a
-2026-06-24,threatfox,DOMAIN,ljkfok0p.vip1xbet.net,"js.clearfake, domain",n/a
-2026-06-24,threatfox,DOMAIN,hotstz.xyz,"win.remus, domain",n/a
-2026-06-24,threatfox,DOMAIN,strgsd.xyz,"win.remus, domain",n/a
-2026-06-24,threatfox,DOMAIN,uolguin.cfd,"js.kongtuke, domain",n/a
-2026-06-24,threatfox,DOMAIN,gbaof.com,"js.kongtuke, domain",n/a
-2026-06-24,threatfox,DOMAIN,heartbeatlinkbot.online,"elf.mirai, domain",n/a
-2026-06-24,threatfox,DOMAIN,coralwayfinder.top,"js.smartapesg, domain",n/a
-2026-06-24,threatfox,DOMAIN,ex-web.viottoenterprises.com,"js.fakeupdates, domain",n/a
-2026-06-24,"threatfox,tweetfeed",DOMAIN,tommy-v.lol,"js.kongtuke, domain",n/a
-2026-06-24,threatfox,DOMAIN,finger.claudenell.net,"js.clearfake, domain",n/a
+2026-07-01,threatfox,URL,https://ceebteologia.com.br/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,https://renwickgroup.com/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,https://reindardt.lol/file.js,"js.kongtuke, url",n/a
+2026-07-01,threatfox,URL,https://reindardt.lol/api/v1/session,"js.kongtuke, url",n/a
+2026-07-01,threatfox,URL,https://reindardt.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-06-24,threatfox,DOMAIN,online-blackjack-j.info,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,ghr.holidaysm188.top,"win.vidar, domain",n/a
 2026-06-24,threatfox,DOMAIN,ghr.esteghlal.news,"win.vidar, domain",n/a
@@ -1411,6 +1357,11 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,bet360.online,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,bronzehorizon.top,"js.smartapesg, domain",n/a
 2026-07-01,threatfox,DOMAIN,files.crapofirouzi.com,"js.fakeupdates, domain",n/a
+2026-07-01,threatfox,DOMAIN,91vkuxv1.enf90.net,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,waysmakeyourlifebetter.com,"unknown_stealer, domain",n/a
+2026-07-01,threatfox,DOMAIN,goodpersonofourcentury.com,"unknown_stealer, domain",n/a
+2026-07-01,threatfox,DOMAIN,besthappyfamily.com,"unknown_stealer, domain",n/a
+2026-07-01,threatfox,DOMAIN,reindardt.lol,"js.kongtuke, domain",n/a
 2026-06-24,tweetfeed,URL,http://i-enpf.kz,phishing,https://x.com/askardyuss/status/2069849463108129278
 2026-06-24,tweetfeed,URL,http://btc259.com,phishing,https://x.com/skocherhan/status/2069860576436928819
 2026-06-24,tweetfeed,URL,http://usdt929.com,phishing,https://x.com/skocherhan/status/2069860576436928819
@@ -4125,8 +4076,6 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,DOMAIN,brt.pagsiv.homes,phishing,https://x.com/tobersotski/status/2072341188175122811
 2026-07-01,tweetfeed,DOMAIN,pagsiv.homes,phishing,https://x.com/tobersotski/status/2072341188175122811
 2026-07-01,tweetfeed,DOMAIN,eb0ca005.verifying-your-identity-proceedv1.pages.dev,malware,https://x.com/D0rkerDevil/status/2072341591323447584
-2026-06-24,tweetfeed,HASH_SHA256,53abf37710d6f2e35694fbe7cfaf1108127cbc001ce3e6bf994d0486cae5a0e8,n/a,https://x.com/nextronresearch/status/2069802303817679083
-2026-06-24,tweetfeed,HASH_SHA256,13e9a3c41e038bf9d8fcb0831305819819e4f7f4452bc20a04b9bf2756ee22e8,n/a,https://x.com/nextronresearch/status/2069802303817679083
 2026-06-24,tweetfeed,IP,92.204.28.237,phishing,https://x.com/PhishStats/status/2069847538186715460
 2026-06-24,tweetfeed,HASH_SHA256,2ec5ae79d9e5f7a8a0026fb8f4e6a4fa059991884bbae53c91e5753ee139ac4a,n/a,https://x.com/smica83/status/2069881630244708441
 2026-06-24,tweetfeed,IP,188.209.5.180,n/a,https://x.com/sicehice/status/2069882211906585070
