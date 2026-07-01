@@ -2,8 +2,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
-2026-06-24,threatfox,URL,https://ghr.esteghlal.news/,"win.vidar, url",n/a
-2026-06-24,threatfox,URL,https://ghr.holidaysm188.top/,"win.vidar, url",n/a
 2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/galinavsuk6/text-set/vbr,"js.clearfake, url",n/a
 2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/galinavsuk6/fjhg-567/hm-354,"js.clearfake, url",n/a
 2026-06-24,threatfox,URL,https://cdn.jsdelivr.net/gh/galinavsuk6/fjhg-567/hum,"js.clearfake, url",n/a
@@ -323,12 +321,10 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,URL,https://reindardt.lol/file.js,"js.kongtuke, url",n/a
 2026-07-01,threatfox,URL,https://reindardt.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-01,threatfox,URL,https://reindardt.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-24,threatfox,DOMAIN,online-blackjack-j.info,"js.clearfake, domain",n/a
-2026-06-24,threatfox,DOMAIN,ghr.holidaysm188.top,"win.vidar, domain",n/a
-2026-06-24,threatfox,DOMAIN,ghr.esteghlal.news,"win.vidar, domain",n/a
-2026-06-24,threatfox,DOMAIN,hbcq8sv3.oghabbet1.com,"js.clearfake, domain",n/a
-2026-06-24,threatfox,DOMAIN,oghabbet1.com,"js.clearfake, domain",n/a
-2026-06-24,threatfox,DOMAIN,4o63jpbm.ekhtelalat.xyz,"js.clearfake, domain",n/a
+2026-07-01,threatfox,URL,https://reindardt.lol/api/v1/status,"js.kongtuke, url",n/a
+2026-07-01,threatfox,URL,https://essentialnestshop.com/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,https://gle.jangkarsm188.top/,"win.vidar, url",n/a
+2026-07-01,threatfox,URL,https://gle.psgiran.news/,"win.vidar, url",n/a
 2026-06-24,threatfox,DOMAIN,xxgbaenv.onlineblackjackscam.com,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,onlineblackjackscam.com,"js.clearfake, domain",n/a
 2026-06-24,threatfox,DOMAIN,onlinecasinorouletteblackjack.com,"js.clearfake, domain",n/a
@@ -1362,6 +1358,13 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,goodpersonofourcentury.com,"unknown_stealer, domain",n/a
 2026-07-01,threatfox,DOMAIN,besthappyfamily.com,"unknown_stealer, domain",n/a
 2026-07-01,threatfox,DOMAIN,reindardt.lol,"js.kongtuke, domain",n/a
+2026-07-01,threatfox,DOMAIN,nordra4ex.kymle5rax.in.net,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,xwnfpj7t.betrein.pro,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,betrein.pro,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,esjvtzn6.aloo.bet,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,aloo.bet,"js.clearfake, domain",n/a
+2026-07-01,threatfox,DOMAIN,gle.psgiran.news,"win.vidar, domain",n/a
+2026-07-01,threatfox,DOMAIN,gle.jangkarsm188.top,"win.vidar, domain",n/a
 2026-06-24,tweetfeed,URL,http://i-enpf.kz,phishing,https://x.com/askardyuss/status/2069849463108129278
 2026-06-24,tweetfeed,URL,http://btc259.com,phishing,https://x.com/skocherhan/status/2069860576436928819
 2026-06-24,tweetfeed,URL,http://usdt929.com,phishing,https://x.com/skocherhan/status/2069860576436928819
