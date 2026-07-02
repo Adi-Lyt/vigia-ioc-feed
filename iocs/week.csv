@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-25,threatfox,URL,https://kzo.hopesm188.top/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://kzo.fileboro.com/,"win.vidar, url",n/a
 2026-06-26,threatfox,URL,https://anikadigital.com/,"win.vidar, url",n/a
 2026-06-26,threatfox,URL,http://160.30.142.210:38596/Mozi.m,"elf.mozi, url",n/a
 2026-06-26,threatfox,URL,http://103.244.172.42:50199/Mozi.m,"elf.mozi, url",n/a
@@ -300,8 +298,6 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,URL,https://sot.jokimecat88.top/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://her.psgiran.news/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://her.jokimecat88.top/,"win.vidar, url",n/a
-2026-06-25,threatfox,DOMAIN,kzo.hopesm188.top,"win.vidar, domain",n/a
-2026-06-25,threatfox,DOMAIN,kzo.fileboro.com,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,4iw2skgz.tinyshart.com,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,tinyshart.com,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,nmo1ivv6.akhlagvaahkam.xyz,"js.clearfake, domain",n/a
@@ -1408,6 +1404,14 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,flhrpdn.yekbetkade.com,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,yekbetkade.com,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,rfedpuuc.falsafekonkour.site,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,pmaumei.1xgame.bet,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,1xgame.bet,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,tearmbdo.bet1forward.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,qlrjloxh.jozve.one,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,jozve.one,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,gold-land-8.vortex-sys.in.net,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,betwinner.bet,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,clickhitriver.com,"unknown, domain",n/a
 2026-06-25,tweetfeed,URL,http://tevazms.com,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
 2026-06-25,tweetfeed,URL,http://github.com/lawren3/lawren3.github.io/releases/download/1.0.1/20260501-setup.zip,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
 2026-06-26,tweetfeed,URL,http://studio3dcicco.it/wp-inc/B/U/0/LL/msdpweb/index.php,phishing,https://x.com/skocherhan/status/2070298090335052282
@@ -3017,6 +3021,17 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,URL,http://94.154.43.158/ghost.sh,n/a,https://x.com/sicehice/status/2072786599792763159
 2026-07-02,tweetfeed,URL,https://bizstation--bk--mufg--jp.proxy.hfzk.net.cn,phishing,https://x.com/kubotaa3/status/2072788966462685267
 2026-07-02,tweetfeed,URL,https://www--bk--mufg--jp.proxy.hfzk.net.cn/houjin/index.html,phishing,https://x.com/kubotaa3/status/2072788966462685267
+2026-07-02,tweetfeed,URL,http://weitoub.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://liuguo.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://jiaweiwuliu.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://wuxiongmeme.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://xxxap.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://volibearcat.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://purradfjhm.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://propeakkk.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://donaldtrendy.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://chicbrittany.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,URL,http://jereoutique.top,phishing,https://x.com/skocherhan/status/2072802623174918204
 2026-06-25,tweetfeed,DOMAIN,tevazms.com,"malware, phishing",https://x.com/Malwarehunterr/status/2070210359357776129
 2026-06-26,tweetfeed,DOMAIN,studio3dcicco.it,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-26,tweetfeed,DOMAIN,jyxchina.com,phishing,https://x.com/masaomi346/status/2070325615052669168
@@ -3967,6 +3982,17 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,DOMAIN,corporate--bk--mufg--jp.proxy.hfzk.net.cn,phishing,https://x.com/kubotaa3/status/2072780618673651812
 2026-07-02,tweetfeed,DOMAIN,bizstation--bk--mufg--jp.proxy.hfzk.net.cn,phishing,https://x.com/kubotaa3/status/2072788966462685267
 2026-07-02,tweetfeed,DOMAIN,www--bk--mufg--jp.proxy.hfzk.net.cn,phishing,https://x.com/kubotaa3/status/2072788966462685267
+2026-07-02,tweetfeed,DOMAIN,weitoub.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,liuguo.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,jiaweiwuliu.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,wuxiongmeme.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,xxxap.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,volibearcat.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,purradfjhm.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,propeakkk.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,donaldtrendy.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,chicbrittany.top,phishing,https://x.com/skocherhan/status/2072802623174918204
+2026-07-02,tweetfeed,DOMAIN,jereoutique.top,phishing,https://x.com/skocherhan/status/2072802623174918204
 2026-06-26,tweetfeed,HASH_SHA256,8bf86d9bfc467035997dd4de368293540291df3b7b78fb24ee7a83092d08e87c,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-26,tweetfeed,HASH_SHA256,9cea4d66b896af73473b289cd8a44466e3cb0ca24735682abb13bd73fba11886,n/a,https://x.com/patialavii/status/2070367588899819659
 2026-06-26,tweetfeed,IP,91.92.242.236,n/a,https://x.com/banthisguy9349/status/2070376669148549308
