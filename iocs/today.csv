@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-07-01,threatfox,URL,http://axoshealthcare.com:4959,"win.remus, url",n/a
 2026-07-01,threatfox,URL,http://192.168.88.143:80/9x5w,"win.cobalt_strike, url",n/a
 2026-07-01,threatfox,URL,https://trb.jangkarsm188.top/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://trb.psgiran.news/,"win.vidar, url",n/a
@@ -65,6 +64,10 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,URL,https://www.amazonia-navigators.ro/,"unknown, url",n/a
 2026-07-02,threatfox,URL,https://pax.psgiran.news/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://pax.jokimecat88.top/,"win.vidar, url",n/a
+2026-07-02,threatfox,URL,https://irahook.org/mods/,"unknown_stealer, url",n/a
+2026-07-02,threatfox,URL,https://irahook.org/mods/api/log-download,"unknown_stealer, url",n/a
+2026-07-02,threatfox,URL,https://irahook.org/babayla/zor/yarisirlar/,"unknown_stealer, url",n/a
+2026-07-02,threatfox,URL,https://irahook.org/?p=,"unknown_stealer, url",n/a
 2026-07-01,threatfox,DOMAIN,3gk1o3xg.betoshart.live,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,betoshart.live,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,betooobet.com,"js.clearfake, domain",n/a
@@ -180,7 +183,11 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,authorization-code.info,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,pax.psgiran.news,"win.vidar, domain",n/a
 2026-07-02,threatfox,DOMAIN,pax.jokimecat88.top,"win.vidar, domain",n/a
-2026-07-01,tweetfeed,URL,http://web-telegram.ug,n/a,https://x.com/SquiblydooBlog/status/2072280304522334319
+2026-07-02,threatfox,DOMAIN,rssssociety.org.in,"unknown, domain",n/a
+2026-07-02,threatfox,DOMAIN,villapescados.com.br,"unknown, domain",n/a
+2026-07-02,threatfox,DOMAIN,globe-media.com,"unknown, domain",n/a
+2026-07-02,threatfox,DOMAIN,mojo-paris.com,"unknown, domain",n/a
+2026-07-02,threatfox,DOMAIN,irahook.org,"unknown_stealer, domain",n/a
 2026-07-01,tweetfeed,URL,http://134.122.128.154/HUIYIJIYAO.zip,APT,https://x.com/byrne_emmy12099/status/2072288046645661828
 2026-07-01,tweetfeed,URL,https://cfg.smt.docomo.eqianchaeng.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,URL,https://cfg.smt.docomo.henyoueyong.com,phishing,https://x.com/masaomi346/status/2072288627414241436
@@ -342,7 +349,6 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,URL,http://172.67.131.189:22,AsyncRAT,https://x.com/skocherhan/status/2072628617138368751
 2026-07-02,tweetfeed,URL,https://rakuten-bank.takermore.com/login,phishing,https://x.com/masaomi346/status/2072629007443755383
 2026-07-02,tweetfeed,URL,https://rakuten-bank.thepsychictreeshop.com/login,phishing,https://x.com/masaomi346/status/2072629007443755383
-2026-07-01,tweetfeed,DOMAIN,web-telegram.ug,n/a,https://x.com/SquiblydooBlog/status/2072280304522334319
 2026-07-01,tweetfeed,DOMAIN,cfg.smt.docomo.eqianchaeng.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,DOMAIN,cfg.smt.docomo.henyoueyong.com,phishing,https://x.com/masaomi346/status/2072288627414241436
 2026-07-01,tweetfeed,DOMAIN,cfg.smt.docomo.tianmacogou.com,phishing,https://x.com/masaomi346/status/2072288627414241436
@@ -469,7 +475,6 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,DOMAIN,istanbulozelegitim.net,AsyncRAT,https://x.com/skocherhan/status/2072628617138368751
 2026-07-02,tweetfeed,DOMAIN,rakuten-bank.takermore.com,phishing,https://x.com/masaomi346/status/2072629007443755383
 2026-07-02,tweetfeed,DOMAIN,rakuten-bank.thepsychictreeshop.com,phishing,https://x.com/masaomi346/status/2072629007443755383
-2026-07-01,"threatfox,tweetfeed",HASH_SHA256,9c0a88ea53c4e0324157542385a1d342101feb51cf7b8cf76e9441376f1f522a,n/a,https://x.com/SquiblydooBlog/status/2072280304522334319
 2026-07-01,tweetfeed,IP,134.122.128.154,APT,https://x.com/byrne_emmy12099/status/2072288046645661828
 2026-07-01,tweetfeed,HASH_SHA256,12d443d50b302f85e4d249a648b3b44e68cdf23a5e17b21e8e70c072aa896cd7,APT,https://x.com/byrne_emmy12099/status/2072288046645661828
 2026-07-01,tweetfeed,IP,204.11.56.37,phishing,https://x.com/PhishStats/status/2072292645171269964
@@ -501,3 +506,4 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,HASH_MD5,11f36387fc925689d3957202726d849a,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
 2026-07-02,tweetfeed,HASH_MD5,720a742b3f57db44ebeaf6f8d2f7035d,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
 2026-07-02,tweetfeed,HASH_MD5,cf3a70ddcc52aca32ef3fe1c9bb0c980,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
+2026-07-02,tweetfeed,HASH_MD5,c41c9bb70ce9b500b6473a5aef1b8b8c,VenomRAT,https://x.com/suyog41/status/2072638844583723406
