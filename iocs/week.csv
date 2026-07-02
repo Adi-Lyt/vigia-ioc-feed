@@ -3,7 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-25,threatfox,URL,http://94.26.83.70/778052944783478db669.php,"win.stealc, url",n/a
 2026-06-25,threatfox,URL,https://gbaof.com/hair/hia8qef5nj2o/,"unknown, url",n/a
 2026-06-25,threatfox,URL,https://gbaof.com/hair/o48ljeia99/,"unknown, url",n/a
 2026-06-25,threatfox,URL,https://raksasa633.com/,"unknown, url",n/a
@@ -1404,6 +1403,8 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,DOMAIN,lwflkiar.betsoor.live,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,t10.psgiran.news,"win.vidar, domain",n/a
 2026-07-01,threatfox,DOMAIN,t10.jangkarsm188.top,"win.vidar, domain",n/a
+2026-07-02,threatfox,DOMAIN,clysselw.betkaka.bet,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,betkaka.bet,"js.clearfake, domain",n/a
 2026-06-25,tweetfeed,URL,https://tiktlk.xavierazipni.com,phishing,https://x.com/masaomi346/status/2069957527476002986
 2026-06-25,threatfox,HASH_SHA256,363ee51fc02f20cb206039434758c3afa1c71bc7d316c6db4a39b0d310ab92f9,"win.remcos, sha256_hash",n/a
 2026-06-25,threatfox,HASH_SHA256,372f19a45d0eb4c8c52117c6ae2bb8040a91bc72be8670623f957a18c2166985,"win.remcos, sha256_hash",n/a
@@ -2986,6 +2987,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,URL,http://87.243.45.156,n/a,https://x.com/skocherhan/status/2072342546617876538
 2026-07-01,tweetfeed,URL,http://219468.xyz,"APT, malware",https://x.com/phatomcandle/status/2072379727843873190
 2026-07-01,tweetfeed,URL,http://85.204.125.67:8080,malware,https://x.com/0xb1lal/status/2072427133666820326
+2026-07-02,tweetfeed,URL,https://hub.necpas.org/home/,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-06-25,tweetfeed,DOMAIN,tiktlk.xavierazipni.com,phishing,https://x.com/masaomi346/status/2069957527476002986
 2026-06-25,tweetfeed,DOMAIN,shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
 2026-06-25,tweetfeed,DOMAIN,hydrostreptomycin.yikuaiyansz.com,phishing,https://x.com/Metemcyber/status/2070023099689714152
@@ -3921,6 +3923,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,DOMAIN,pagsiv.homes,phishing,https://x.com/tobersotski/status/2072341188175122811
 2026-07-01,tweetfeed,DOMAIN,eb0ca005.verifying-your-identity-proceedv1.pages.dev,malware,https://x.com/D0rkerDevil/status/2072341591323447584
 2026-07-01,tweetfeed,DOMAIN,219468.xyz,"APT, malware",https://x.com/phatomcandle/status/2072379727843873190
+2026-07-02,tweetfeed,DOMAIN,hub.necpas.org,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-06-25,tweetfeed,HASH_SHA256,425ca8c8c287ddc0c783b49319bf21423201c6195289cdb6738f56fb475a2894,n/a,https://x.com/smica83/status/2070021008434540983
 2026-06-25,tweetfeed,IP,185.27.134.55,phishing,https://x.com/PhishStats/status/2070026384437645337
 2026-06-25,tweetfeed,IP,91.219.237.105,C2,https://x.com/Fact_Finder03/status/2070028255424639276
@@ -4131,6 +4134,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,HASH_SHA256,520304a1cabdd9aa05c0a769c3874bc3cc2608d8e71ae607ca2bdf96b298b5de,"APT, malware",https://x.com/skocherhan/status/2072337157956440555
 2026-07-01,tweetfeed,IP,186.71.90.36,n/a,https://x.com/sicehice/status/2072337678020886729
 2026-07-01,tweetfeed,IP,85.204.125.67,malware,https://x.com/0xb1lal/status/2072427133666820326
+2026-07-02,tweetfeed,IP,192.227.78.200,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-06-25,tweetfeed,HASH_MD5,d43fdaa1f0ee09d7e5f0f94ee9df7b6c,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,8266b00c4e45d728cef78b3f5a865f68,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,a239df0247abb6ec29c6618a0a2f62c0,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
