@@ -3,10 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-25,threatfox,URL,https://mrcleanandshine.co.uk/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://clarusdental.com/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://esp.onmedicina.com/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://lifetimeeyecare.biz/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://bemdireto.com.br/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://aframessafety.com.au/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://svmdamanjodi.org/,"win.vidar, url",n/a
@@ -326,9 +322,6 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,URL,https://dirtbgone.ie/,"unknown, url",n/a
 2026-07-02,threatfox,URL,https://www.tuttoinriviera.com/,"unknown, url",n/a
 2026-07-02,threatfox,URL,https://www.amazonia-navigators.ro/,"unknown, url",n/a
-2026-06-25,threatfox,DOMAIN,picturesurprise.info,"unknown_loader, domain",n/a
-2026-06-25,threatfox,DOMAIN,liquidbalance.info,"unknown_loader, domain",n/a
-2026-06-25,threatfox,DOMAIN,dentalfaxgate.vip,"unknown_rat, domain",n/a
 2026-06-25,threatfox,DOMAIN,jetbet1.pro,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,6novzudn.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,proxymonster.sale,"win.maskgramstealer, domain",n/a
@@ -1398,20 +1391,14 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,yek.boats,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,zeero.skin,"elf.mirai, domain",n/a
 2026-07-02,threatfox,DOMAIN,social9-reach.kymle5rax.in.net,"js.clearfake, domain",n/a
-2026-06-25,tweetfeed,URL,https://silano.icu/bikkhu/ddfgg/auth,phishing,https://x.com/Malwarehunterr/status/2070057270407520309
-2026-06-25,tweetfeed,URL,https://silano.icu/bikkhu/ddfgg/auth/?id=,phishing,https://x.com/Malwarehunterr/status/2070057270407520309
-2026-06-25,tweetfeed,URL,http://wrenixo.cfd,phishing,https://x.com/Malwarehunterr/status/2063269215751258173
-2026-06-25,tweetfeed,URL,http://wrenixo.cfd/?v=,phishing,https://x.com/Malwarehunterr/status/2063269215751258173
-2026-06-25,tweetfeed,URL,http://wrenixo.cfd/zihds/hdhjd/auth/?id=e6ca8cb7,phishing,https://x.com/Malwarehunterr/status/2063269215751258173
-2026-06-25,tweetfeed,URL,http://maisonchristina.com,phishing,https://x.com/Malwarehunterr/status/2063269215751258173
-2026-06-25,tweetfeed,URL,http://day023.com,n/a,https://x.com/smica83/status/2070059462136627526
-2026-06-25,tweetfeed,URL,http://hashingmancera.site,n/a,https://x.com/smica83/status/2070059462136627526
-2026-06-25,tweetfeed,URL,http://98.91.254.110,n/a,https://x.com/smica83/status/2070059462136627526
-2026-06-25,tweetfeed,URL,https://multipar.net.br/ftx/,phishing,https://x.com/patialavii/status/2070059518286033159
-2026-06-25,tweetfeed,URL,https://cebracfoz.com.br/wp-admin/includes/FINALIZED_DOCUMENT__WJ83UC7GJPK.zip,phishing,https://x.com/patialavii/status/2070059518286033159
-2026-06-25,tweetfeed,URL,https://plud4me.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2070059518286033159
-2026-06-25,tweetfeed,URL,https://cqintzfep6rw6jc9.public.blob.vercel-storage.com/2.bat,n/a,https://x.com/smica83/status/2070060516613996816
-2026-06-25,tweetfeed,URL,https://cqintzfep6rw6jc9.public.blob.vercel-storage.com/1-1.bat,n/a,https://x.com/smica83/status/2070060516613996816
+2026-07-02,threatfox,DOMAIN,ke9j9z10.interwettenbet.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,fuotcd3b.futshart.pro,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,dcgip3x8.futshart.pro,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,futshart.pro,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,interwettenbet.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,fzkx5dg3.estekhdam.online,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,estekhdam.online,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,laohen1.myvnc.com,"win.xworm, domain",n/a
 2026-06-25,tweetfeed,URL,http://cdn.truecounsel.org,n/a,https://x.com/malwrhunterteam/status/2070071435494588799
 2026-06-25,tweetfeed,URL,http://92.118.126.192,n/a,https://x.com/malwrhunterteam/status/2070071435494588799
 2026-06-25,tweetfeed,URL,https://aws-backup-e9ec7f79ad980725.s3.us-east-2.amazonaws.com/Complaint-Case-File-Access.pdf.zip,n/a,https://x.com/smica83/status/2070074575673491529
@@ -2982,15 +2969,50 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,URL,http://sexdamvcl.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
 2026-07-02,tweetfeed,URL,http://vlxxyz.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
 2026-07-02,tweetfeed,URL,http://109.123.236.85,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
-2026-06-25,tweetfeed,DOMAIN,silano.icu,phishing,https://x.com/Malwarehunterr/status/2070057270407520309
-2026-06-25,tweetfeed,DOMAIN,wrenixo.cfd,phishing,https://x.com/Malwarehunterr/status/2063269215751258173
-2026-06-25,tweetfeed,DOMAIN,maisonchristina.com,phishing,https://x.com/Malwarehunterr/status/2063269215751258173
-2026-06-25,tweetfeed,DOMAIN,day023.com,n/a,https://x.com/smica83/status/2070059462136627526
-2026-06-25,tweetfeed,DOMAIN,hashingmancera.site,n/a,https://x.com/smica83/status/2070059462136627526
-2026-06-25,tweetfeed,DOMAIN,multipar.net.br,phishing,https://x.com/patialavii/status/2070059518286033159
-2026-06-25,tweetfeed,DOMAIN,cebracfoz.com.br,phishing,https://x.com/patialavii/status/2070059518286033159
-2026-06-25,tweetfeed,DOMAIN,plud4me.screenconnect.com,phishing,https://x.com/patialavii/status/2070059518286033159
-2026-06-25,tweetfeed,DOMAIN,cqintzfep6rw6jc9.public.blob.vercel-storage.com,n/a,https://x.com/smica83/status/2070060516613996816
+2026-07-02,tweetfeed,URL,http://neweracheats.ddns.net,C2,https://x.com/skocherhan/status/2072570414404944221
+2026-07-02,tweetfeed,URL,http://191.184.131.141:59841,C2,https://x.com/skocherhan/status/2072570414404944221
+2026-07-02,tweetfeed,URL,http://f8bet.hu.net,n/a,https://x.com/skocherhan/status/2072573032279822415
+2026-07-02,tweetfeed,URL,http://104.21.28.26:4782,n/a,https://x.com/skocherhan/status/2072573032279822415
+2026-07-02,tweetfeed,URL,http://172.67.170.51:4782,n/a,https://x.com/skocherhan/status/2072573032279822415
+2026-07-02,tweetfeed,URL,http://new88.love,n/a,https://x.com/skocherhan/status/2072574676396597608
+2026-07-02,tweetfeed,URL,http://indear.in,n/a,https://x.com/skocherhan/status/2072574676396597608
+2026-07-02,tweetfeed,URL,http://172.67.221.109:80,n/a,https://x.com/skocherhan/status/2072574676396597608
+2026-07-02,tweetfeed,URL,http://104.21.43.58:80,n/a,https://x.com/skocherhan/status/2072574676396597608
+2026-07-02,tweetfeed,URL,http://193.169.194.86/cr44g/sponsorinput.ps1,n/a,https://x.com/smica83/status/2072582476602511456
+2026-07-02,tweetfeed,URL,http://193.169.194.86/cr44g/fifthbelong.ps1,n/a,https://x.com/smica83/status/2072582476602511456
+2026-07-02,tweetfeed,URL,http://liteapks.co.in,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://phimsexvietsub18.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://phimsex365.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://tubetune.co,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://phimsexchaua.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://geiku.co,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://phimsexso1.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://xamsex.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://topsexhd.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://sextructuyen.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://sextop1jav.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://sextop1s.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://redlionouston.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://callmechina.co,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://85.120.255.75,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,URL,http://x.clipsexsub.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://clipsexsub.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://x.phimtoico.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://cliphotvn.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://phimtoico.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://z.phimtoico.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://x.clipviet.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://clipviet.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://185.76.241.107,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,URL,http://multiplotter.com.co,n/a,https://x.com/skocherhan/status/2072593104977133688
+2026-07-02,tweetfeed,URL,http://104.21.24.131:80,n/a,https://x.com/skocherhan/status/2072593104977133688
+2026-07-02,tweetfeed,URL,http://172.67.218.239:80,n/a,https://x.com/skocherhan/status/2072593104977133688
+2026-07-02,tweetfeed,URL,http://prettylittleplumbs.com,AsyncRAT,https://x.com/skocherhan/status/2072594083634196930
+2026-07-02,tweetfeed,URL,http://104.21.6.101,AsyncRAT,https://x.com/skocherhan/status/2072594083634196930
+2026-07-02,tweetfeed,URL,http://jun88casino.top,n/a,https://x.com/skocherhan/status/2072595119509840371
+2026-07-02,tweetfeed,URL,http://172.67.174.74:4782,n/a,https://x.com/skocherhan/status/2072595119509840371
+2026-07-02,tweetfeed,URL,http://rony.publicvm.com,n/a,https://x.com/skocherhan/status/2072596066264838442
+2026-07-02,tweetfeed,URL,http://34.145.137.57:1177,n/a,https://x.com/skocherhan/status/2072596066264838442
 2026-06-25,tweetfeed,DOMAIN,cdn.truecounsel.org,n/a,https://x.com/malwrhunterteam/status/2070071435494588799
 2026-06-25,tweetfeed,DOMAIN,aws-backup-e9ec7f79ad980725.s3.us-east-2.amazonaws.com,n/a,https://x.com/smica83/status/2070074575673491529
 2026-06-25,tweetfeed,DOMAIN,fidmailsync.com,phishing,https://x.com/Malwarehunterr/status/2070046578640097680
@@ -3919,10 +3941,36 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,DOMAIN,rfccarparkmanagement.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
 2026-07-02,tweetfeed,DOMAIN,sexdamvcl.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
 2026-07-02,tweetfeed,DOMAIN,vlxxyz.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
-2026-06-25,tweetfeed,IP,98.91.254.110,n/a,https://x.com/smica83/status/2070059462136627526
-2026-06-25,tweetfeed,HASH_SHA256,9e070ea8c8eca0af2975e9c4fc7282a06e71cdd49347b064605d862206593af2,n/a,https://x.com/smica83/status/2070059462136627526
-2026-06-25,tweetfeed,HASH_SHA256,a302ae8cb21f710bc1033d8b2c5e7a484fbd08741d1c38c22db57212558c5bac,phishing,https://x.com/patialavii/status/2070059518286033159
-2026-06-25,tweetfeed,HASH_SHA256,123a5caad17ea78cc6852176b4acec080ad03661bc587dd651b62694059e6315,n/a,https://x.com/smica83/status/2070060516613996816
+2026-07-02,tweetfeed,DOMAIN,neweracheats.ddns.net,C2,https://x.com/skocherhan/status/2072570414404944221
+2026-07-02,tweetfeed,DOMAIN,f8bet.hu.net,n/a,https://x.com/skocherhan/status/2072573032279822415
+2026-07-02,tweetfeed,DOMAIN,new88.love,n/a,https://x.com/skocherhan/status/2072574676396597608
+2026-07-02,tweetfeed,DOMAIN,indear.in,n/a,https://x.com/skocherhan/status/2072574676396597608
+2026-07-02,tweetfeed,DOMAIN,liteapks.co.in,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,phimsexvietsub18.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,phimsex365.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,tubetune.co,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,phimsexchaua.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,geiku.co,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,phimsexso1.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,xamsex.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,topsexhd.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,sextructuyen.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,sextop1jav.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,sextop1s.com,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,redlionouston.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,callmechina.co,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,DOMAIN,x.clipsexsub.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,clipsexsub.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,x.phimtoico.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,cliphotvn.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,phimtoico.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,z.phimtoico.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,x.clipviet.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,clipviet.blog,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,DOMAIN,multiplotter.com.co,n/a,https://x.com/skocherhan/status/2072593104977133688
+2026-07-02,tweetfeed,DOMAIN,prettylittleplumbs.com,AsyncRAT,https://x.com/skocherhan/status/2072594083634196930
+2026-07-02,tweetfeed,DOMAIN,jun88casino.top,n/a,https://x.com/skocherhan/status/2072595119509840371
+2026-07-02,tweetfeed,DOMAIN,rony.publicvm.com,n/a,https://x.com/skocherhan/status/2072596066264838442
 2026-06-25,tweetfeed,HASH_SHA256,aabccc0a59245de52469e0daaa5300fec91d66c86d98d4dee3df09776ed4751e,n/a,https://x.com/smica83/status/2070066481103028645
 2026-06-25,tweetfeed,IP,92.118.126.192,n/a,https://x.com/malwrhunterteam/status/2070071435494588799
 2026-06-25,tweetfeed,HASH_SHA256,ed3c75b9f7442b153ccef15d29d1ae72e4a2907c0749a2bee9a6d719622e285e,n/a,https://x.com/smica83/status/2070071466100494411
@@ -4131,6 +4179,13 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,IP,168.110.216.67,C2,https://x.com/Fact_Finder03/status/2072557383726080350
 2026-07-02,tweetfeed,IP,172.233.32.197,"C2, RAT",https://x.com/Fact_Finder03/status/2072560677353566266
 2026-07-02,tweetfeed,IP,109.123.236.85,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
+2026-07-02,tweetfeed,IP,191.184.131.141,C2,https://x.com/skocherhan/status/2072570414404944221
+2026-07-02,tweetfeed,IP,201.51.28.9,C2,https://x.com/Fact_Finder03/status/2072573234067751370
+2026-07-02,tweetfeed,HASH_SHA256,b4c56effba0516161bf59022f137837ccf852825e5fa09d15b9a8bf8295fbde2,n/a,https://x.com/smica83/status/2072582476602511456
+2026-07-02,tweetfeed,HASH_SHA256,75e67e073558cd811b0053119653eba536f66ac9b01a9a71559225e4b920dea8,n/a,https://x.com/skocherhan/status/2072583549459284064
+2026-07-02,tweetfeed,IP,85.120.255.75,"AsyncRAT, C2",https://x.com/skocherhan/status/2072585777083568356
+2026-07-02,tweetfeed,IP,185.76.241.107,"AsyncRAT, C2",https://x.com/skocherhan/status/2072590041600188498
+2026-07-02,tweetfeed,IP,34.145.137.57,n/a,https://x.com/skocherhan/status/2072596066264838442
 2026-06-25,tweetfeed,HASH_MD5,d43fdaa1f0ee09d7e5f0f94ee9df7b6c,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,8266b00c4e45d728cef78b3f5a865f68,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,a239df0247abb6ec29c6618a0a2f62c0,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
