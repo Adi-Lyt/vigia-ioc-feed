@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-30,threatfox,URL,https://pirantitravel.id/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://zaserz.com/,"unknown, url",n/a
 2026-07-01,threatfox,URL,http://112.27.10.150:34339/Mozi.m,"elf.mozi, url",n/a
 2026-07-01,threatfox,URL,http://103.146.110.206:60051/Mozi.m,"elf.mozi, url",n/a
