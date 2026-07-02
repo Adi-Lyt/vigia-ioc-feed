@@ -3,10 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-25,threatfox,URL,https://cdn.jsdelivr.net/gh/swiftvpnaccess/smtp-incoming-mx/load,"js.clearfake, url",n/a
-2026-06-25,threatfox,URL,https://jcandsonsroofingandbuildingltd.co.uk/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://deviators.oidev.org/,"win.vidar, url",n/a
-2026-06-25,threatfox,URL,https://reneshone.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://y14.fileboro.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://y14.hopesm188.top/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,http://153.117.32.156:40587/Mozi.m,"elf.mozi, url",n/a
@@ -311,7 +307,6 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,URL,https://nonseca.lol/file.js,"js.kongtuke, url",n/a
 2026-07-02,threatfox,URL,https://nonseca.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-02,threatfox,URL,https://nonseca.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-25,threatfox,DOMAIN,8opocc30.1x303.casino,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,y14.fileboro.com,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,y14.hopesm188.top,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,repack-games.com,"win.5t_downloader, domain",n/a
@@ -1389,16 +1384,12 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,nonseca.lol,"js.kongtuke, domain",n/a
 2026-07-02,threatfox,DOMAIN,fesold.com,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,mamavic.duckdns.org,"win.nanocore, domain",n/a
-2026-06-25,tweetfeed,URL,https://airdrop-destranetwork.live,phishing,https://x.com/Malwarehunterr/status/2070107643428143274
-2026-06-25,tweetfeed,URL,https://airdrop-destranetwork.live/landing/docusign-sign,phishing,https://x.com/Malwarehunterr/status/2070107643428143274
-2026-06-25,tweetfeed,URL,http://onrncrsft.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,http://awarenesstrainingcompliance.softr.app,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,http://protocoventures.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,http://coredeskio.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,URL,https://linkdree.net,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,URL,https://bestveinescolas.com/b09286b1-193b-43b0-bac1-0b6148a227a9/630fd7cb-0852-470e-92a9-0723aef5a711,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,URL,http://bestveinescolas.com,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,URL,http://66.42.54.228,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
+2026-07-02,threatfox,DOMAIN,86uweryp.zarib.bet,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,zarib.bet,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,s6adoo5q.filetak.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,filetak.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,fast-zeit-5.ren4tavil.in.net,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,wihernc9.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-25,tweetfeed,URL,https://foh8y.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,URL,https://zqgenqu.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,URL,https://tlktok.dericaeug.com/redirect/url3A2Ftikue.com/kstudioenter/method/2Ftikto,phishing,https://x.com/harugasumi/status/2070152260122984670
@@ -3025,13 +3016,13 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,URL,https://rakuten-bank.thepsychictreeshop.com/login,phishing,https://x.com/masaomi346/status/2072629007443755383
 2026-07-02,tweetfeed,URL,https://pub-b81078cffc6d471e9d2d977de133536e.r2.dev/ZA_Access_My_Department.msi,n/a,https://x.com/suyog41/status/2072646213862584431
 2026-07-02,tweetfeed,URL,https://www.trustreserve.co/solutions,phishing,https://x.com/PhishStats/status/2072656674947535001
-2026-06-25,tweetfeed,DOMAIN,airdrop-destranetwork.live,phishing,https://x.com/Malwarehunterr/status/2070107643428143274
-2026-06-25,tweetfeed,DOMAIN,onrncrsft.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,awarenesstrainingcompliance.softr.app,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,protocoventures.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,coredeskio.com,n/a,https://x.com/Kb4Threatlabs/status/2070129998493839378
-2026-06-25,tweetfeed,DOMAIN,linkdree.net,n/a,https://x.com/stop_spammerz/status/2070132164868374783
-2026-06-25,tweetfeed,DOMAIN,bestveinescolas.com,n/a,https://x.com/stop_spammerz/status/2070132164868374783
+2026-07-02,tweetfeed,URL,http://west.nous-legal.be,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,URL,http://freedomservicingmano.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,URL,http://freedomtenskiwebmailrvss.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,URL,http://4y9evsn0.r.us-east-1.awstrack.me,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,URL,http://cqvdj42ewd.goalheroarena.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,URL,http://north.nvnb.be,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,URL,http://nstiles.calchemy.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
 2026-06-25,tweetfeed,DOMAIN,foh8y.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,DOMAIN,zqgenqu.cn,phishing,https://x.com/harugasumi/status/2070144516594823412
 2026-06-25,tweetfeed,DOMAIN,tlktok.dericaeug.com,phishing,https://x.com/harugasumi/status/2070152260122984670
@@ -4004,8 +3995,13 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,DOMAIN,rakuten-bank.thepsychictreeshop.com,phishing,https://x.com/masaomi346/status/2072629007443755383
 2026-07-02,tweetfeed,DOMAIN,pub-b81078cffc6d471e9d2d977de133536e.r2.dev,n/a,https://x.com/suyog41/status/2072646213862584431
 2026-07-02,tweetfeed,DOMAIN,trustreserve.co,phishing,https://x.com/PhishStats/status/2072656674947535001
-2026-06-25,tweetfeed,HASH_SHA256,6ee59d04e7cdebd187d2dc4a8360a132462ee6648359470b51cd5715cc2bfee9,Remcos,https://x.com/bomccss/status/2070133348123742679
-2026-06-25,tweetfeed,IP,66.42.54.228,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
+2026-07-02,tweetfeed,DOMAIN,west.nous-legal.be,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,DOMAIN,freedomservicingmano.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,DOMAIN,freedomtenskiwebmailrvss.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,DOMAIN,4y9evsn0.r.us-east-1.awstrack.me,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,DOMAIN,cqvdj42ewd.goalheroarena.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,DOMAIN,north.nvnb.be,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
+2026-07-02,tweetfeed,DOMAIN,nstiles.calchemy.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
 2026-06-25,tweetfeed,IP,149.28.128.239,"APT, C2, malware",https://x.com/skocherhan/status/2070209545083707547
 2026-06-25,tweetfeed,IP,3.171.117.86,phishing,https://x.com/PhishStats/status/2070210345017213017
 2026-06-26,tweetfeed,HASH_SHA256,8bf86d9bfc467035997dd4de368293540291df3b7b78fb24ee7a83092d08e87c,phishing,https://x.com/skocherhan/status/2070298090335052282
@@ -4209,9 +4205,6 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,IP,34.145.137.57,n/a,https://x.com/skocherhan/status/2072596066264838442
 2026-07-02,tweetfeed,IP,103.83.87.107,Remcos,https://x.com/skocherhan/status/2072611085685825855
 2026-07-02,tweetfeed,IP,34.149.87.45,phishing,https://x.com/PhishStats/status/2072656674947535001
-2026-06-25,tweetfeed,HASH_MD5,a239df0247abb6ec29c6618a0a2f62c0,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
-2026-06-25,tweetfeed,HASH_MD5,66d68627d91cf99ac3be45b002bcd51d,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
-2026-06-25,tweetfeed,HASH_MD5,56a56ba41a1dc707c3b88a171f31b6d2,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
 2026-06-26,tweetfeed,HASH_MD5,13bd44b97c1488ade87974a352797e1f,n/a,https://x.com/suyog41/status/2070473389698064470
 2026-06-26,tweetfeed,HASH_MD5,5190ef1733183a0dc63fb623357f56d6,n/a,https://x.com/SpiderLabs/status/2070503545841873313
 2026-06-26,tweetfeed,HASH_MD5,18f90671643ff92f251e6729769235bb,phishing,https://x.com/SpiderLabs/status/2070538080944075156
