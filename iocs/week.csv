@@ -1,16 +1,6 @@
 date,user,type,ioc,tags,context
-2026-06-25,cisa_kev,CVE,CVE-2026-12569,"PTC Windchill and FlexPLM, kev","PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
-2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-25,threatfox,URL,http://51.158.248.122:8517/bins.sh,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://moielli.xyz/file.js,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://moielli.xyz/api/v1/session,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://moielli.xyz/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://moielli.xyz/api/v1/status,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://denesii.com/wild/black,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,http://176.65.144.120/bc850000649f490e9617.php,"win.stealc, url",n/a
-2026-06-25,threatfox,URL,http://182.116.54.21:41717/Mozi.a,"elf.mozi, url",n/a
 2026-06-25,threatfox,URL,https://garageplusnw.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://kzo.hopesm188.top/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://kzo.fileboro.com/,"win.vidar, url",n/a
@@ -309,15 +299,6 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,URL,http://176.65.144.127/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
 2026-07-02,threatfox,URL,https://sot.psgiran.news/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://sot.jokimecat88.top/,"win.vidar, url",n/a
-2026-06-25,threatfox,DOMAIN,t5gnk3khm55f9ar.top,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,7t2lkz7v1c2u2ry.top,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,hdb1qm8y.shartcart.xyz,"js.clearfake, domain",n/a
-2026-06-25,threatfox,DOMAIN,shartcart.xyz,"js.clearfake, domain",n/a
-2026-06-25,threatfox,DOMAIN,moielli.xyz,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,denesii.com,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,instance-g63lkz-relay.screenconnect.com,"unknown_rat, domain",n/a
-2026-06-25,threatfox,DOMAIN,bellamacho.com,"unknown, domain",n/a
-2026-06-25,threatfox,DOMAIN,easy-pixx321.world,"unknown, domain",n/a
 2026-06-25,threatfox,DOMAIN,ex5nibpq.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,kzo.hopesm188.top,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,kzo.fileboro.com,"win.vidar, domain",n/a
@@ -1417,9 +1398,9 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,sot.jokimecat88.top,"win.vidar, domain",n/a
 2026-07-02,threatfox,DOMAIN,sot.psgiran.news,"win.vidar, domain",n/a
 2026-07-02,threatfox,DOMAIN,fast-zeit-2.vortex-sys.in.net,"js.clearfake, domain",n/a
-2026-06-25,tweetfeed,URL,http://crypto-pink-eta.vercel.app,n/a,https://x.com/skocherhan/status/2070216461021253925
-2026-06-25,tweetfeed,URL,https://aureumgt.com/wp-includes/it/pagopa/log/msdpweb/index,phishing,https://x.com/AddressIntel/status/2070225533086904471
-2026-06-25,tweetfeed,URL,http://github.com/oven-sh/bun/releases/download/bun-v1.3.13/,n/a,https://x.com/MsftSecIntel/status/2070225815803949436
+2026-07-02,threatfox,DOMAIN,mlvgwjn.1xforward.pro,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,1xforward.pro,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,926ikjry.euroyek.bio,"js.clearfake, domain",n/a
 2026-06-25,tweetfeed,URL,http://vvvbs.cc,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,URL,http://vvvbs.vip,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,URL,http://zxjessse.fit,n/a,https://x.com/skocherhan/status/2070247419783020615
@@ -3006,8 +2987,35 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,URL,http://wzrldplainstge.info,n/a,https://x.com/smica83/status/2072741133034168630
 2026-07-02,tweetfeed,URL,http://cokbine.online,"APT, malware",https://x.com/phatomcandle/status/2072742115793330415
 2026-07-02,tweetfeed,URL,http://107.178.103.157:8041,n/a,https://x.com/skocherhan/status/2072748550379782324
-2026-06-25,tweetfeed,DOMAIN,crypto-pink-eta.vercel.app,n/a,https://x.com/skocherhan/status/2070216461021253925
-2026-06-25,tweetfeed,DOMAIN,aureumgt.com,phishing,https://x.com/AddressIntel/status/2070225533086904471
+2026-07-02,tweetfeed,URL,https://47.80.111.129:7380,n/a,https://x.com/G60930953/status/2072752073771266137
+2026-07-02,tweetfeed,URL,http://sornak.casa/credi0099/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://qevvax.courses/75775dd/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://lunestro.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://blafor.lol/Afiliacionesssuser00/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://286241.xyz,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://korvix.ru.com/v8/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://wavegate343.ru.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://programms.cfd,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://novirix.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://vermino.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://everpath.digital/confirrrma4400/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://xenosphere.ru.com/wair/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://tivaro.digital/tores/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://syncpath.ru.com/woiler/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://edoagh.pw,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://zippering.shop/userselff3/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://radiantup.ru.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://bdvcredimujerr.ydns.eu,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://warehous.club,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://loyalsy.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://gm.igvuor.net/met/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://84cf9015-1967-4521-a0c4-41bc05221d0b-00-f1uhlnpvdi7e.spock.replit.dev,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://e28ccd8d-52ed-4a4e-aefe-c5a7e42aaf5e-00-28lx508575xos.picard.replit.dev,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://cuadricenal.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://mosaicline.click/afirmacionuserr/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://sbfare.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://is.gakjhss.com/activaruserrr/,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,http://dynfmic.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
 2026-06-25,tweetfeed,DOMAIN,vvvbs.cc,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,DOMAIN,vvvbs.vip,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,DOMAIN,zxjessse.fit,n/a,https://x.com/skocherhan/status/2070247419783020615
@@ -3938,6 +3946,34 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,DOMAIN,xcxc.myftp.biz,C2,https://x.com/skocherhan/status/2072728340398522438
 2026-07-02,tweetfeed,DOMAIN,wzrldplainstge.info,n/a,https://x.com/smica83/status/2072741133034168630
 2026-07-02,tweetfeed,DOMAIN,cokbine.online,"APT, malware",https://x.com/phatomcandle/status/2072742115793330415
+2026-07-02,tweetfeed,DOMAIN,sornak.casa,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,qevvax.courses,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,lunestro.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,blafor.lol,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,286241.xyz,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,korvix.ru.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,wavegate343.ru.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,programms.cfd,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,novirix.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,vermino.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,everpath.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,xenosphere.ru.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,tivaro.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,syncpath.ru.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,edoagh.pw,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,zippering.shop,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,radiantup.ru.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,bdvcredimujerr.ydns.eu,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,warehous.club,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,loyalsy.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,gm.igvuor.net,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,84cf9015-1967-4521-a0c4-41bc05221d0b-00-f1uhlnpvdi7e.spock.replit.dev,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,e28ccd8d-52ed-4a4e-aefe-c5a7e42aaf5e-00-28lx508575xos.picard.replit.dev,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,cuadricenal.digital,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,mosaicline.click,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,sbfare.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,is.gakjhss.com,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,dynfmic.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
 2026-06-26,tweetfeed,HASH_SHA256,8bf86d9bfc467035997dd4de368293540291df3b7b78fb24ee7a83092d08e87c,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-26,tweetfeed,HASH_SHA256,9cea4d66b896af73473b289cd8a44466e3cb0ca24735682abb13bd73fba11886,n/a,https://x.com/patialavii/status/2070367588899819659
 2026-06-26,tweetfeed,IP,91.92.242.236,n/a,https://x.com/banthisguy9349/status/2070376669148549308
@@ -4151,6 +4187,9 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,HASH_SHA256,c753488426339c67753f544673bb51ced93586620cbeecf8f7a703133fd9c0bd,Xworm,https://x.com/smica83/status/2072738160098824231
 2026-07-02,tweetfeed,HASH_SHA256,c20c5f34f17b762774984d5d5e647e9946a6c6d7fa20e1c2ac06e67588de4916,n/a,https://x.com/smica83/status/2072741133034168630
 2026-07-02,tweetfeed,IP,107.178.103.157,n/a,https://x.com/skocherhan/status/2072748550379782324
+2026-07-02,tweetfeed,IP,47.80.111.129,n/a,https://x.com/G60930953/status/2072752073771266137
+2026-07-02,tweetfeed,HASH_SHA256,4e6276cc400b3b9e9616d04474b64a8fa0c35375b9673ab41a92a6d5bce72d8d,n/a,https://x.com/G60930953/status/2072752073771266137
+2026-07-02,tweetfeed,IP,94.154.43.230,n/a,https://x.com/skocherhan/status/2072764195892850763
 2026-06-26,tweetfeed,HASH_MD5,13bd44b97c1488ade87974a352797e1f,n/a,https://x.com/suyog41/status/2070473389698064470
 2026-06-26,tweetfeed,HASH_MD5,5190ef1733183a0dc63fb623357f56d6,n/a,https://x.com/SpiderLabs/status/2070503545841873313
 2026-06-26,tweetfeed,HASH_MD5,18f90671643ff92f251e6729769235bb,phishing,https://x.com/SpiderLabs/status/2070538080944075156
