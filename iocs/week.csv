@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-25,threatfox,URL,https://garageplusnw.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://kzo.hopesm188.top/,"win.vidar, url",n/a
 2026-06-25,threatfox,URL,https://kzo.fileboro.com/,"win.vidar, url",n/a
 2026-06-26,threatfox,URL,https://anikadigital.com/,"win.vidar, url",n/a
@@ -299,7 +298,6 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,URL,http://176.65.144.127/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
 2026-07-02,threatfox,URL,https://sot.psgiran.news/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://sot.jokimecat88.top/,"win.vidar, url",n/a
-2026-06-25,threatfox,DOMAIN,ex5nibpq.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-25,threatfox,DOMAIN,kzo.hopesm188.top,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,kzo.fileboro.com,"win.vidar, domain",n/a
 2026-06-25,threatfox,DOMAIN,4iw2skgz.tinyshart.com,"js.clearfake, domain",n/a
@@ -1401,6 +1399,8 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,mlvgwjn.1xforward.pro,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,1xforward.pro,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,926ikjry.euroyek.bio,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,noir-5.vortex-sys.in.net,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,lbftpzh.takbetkade.com,"js.clearfake, domain",n/a
 2026-06-25,tweetfeed,URL,http://vvvbs.cc,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,URL,http://vvvbs.vip,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,URL,http://zxjessse.fit,n/a,https://x.com/skocherhan/status/2070247419783020615
@@ -3016,6 +3016,7 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,URL,http://sbfare.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
 2026-07-02,tweetfeed,URL,http://is.gakjhss.com/activaruserrr/,phishing,https://x.com/skocherhan/status/2072753261426172128
 2026-07-02,tweetfeed,URL,http://dynfmic.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,URL,https://corporate--bk--mufg--jp.proxy.hfzk.net.cn/frontend/auth,phishing,https://x.com/kubotaa3/status/2072780618673651812
 2026-06-25,tweetfeed,DOMAIN,vvvbs.cc,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,DOMAIN,vvvbs.vip,n/a,https://x.com/skocherhan/status/2070247419783020615
 2026-06-25,tweetfeed,DOMAIN,zxjessse.fit,n/a,https://x.com/skocherhan/status/2070247419783020615
@@ -3974,6 +3975,7 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,DOMAIN,sbfare.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
 2026-07-02,tweetfeed,DOMAIN,is.gakjhss.com,phishing,https://x.com/skocherhan/status/2072753261426172128
 2026-07-02,tweetfeed,DOMAIN,dynfmic.mypi.co,phishing,https://x.com/skocherhan/status/2072753261426172128
+2026-07-02,tweetfeed,DOMAIN,corporate--bk--mufg--jp.proxy.hfzk.net.cn,phishing,https://x.com/kubotaa3/status/2072780618673651812
 2026-06-26,tweetfeed,HASH_SHA256,8bf86d9bfc467035997dd4de368293540291df3b7b78fb24ee7a83092d08e87c,phishing,https://x.com/skocherhan/status/2070298090335052282
 2026-06-26,tweetfeed,HASH_SHA256,9cea4d66b896af73473b289cd8a44466e3cb0ca24735682abb13bd73fba11886,n/a,https://x.com/patialavii/status/2070367588899819659
 2026-06-26,tweetfeed,IP,91.92.242.236,n/a,https://x.com/banthisguy9349/status/2070376669148549308
