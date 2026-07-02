@@ -1,9 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-07-01,threatfox,URL,https://reindardt.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-07-01,threatfox,URL,https://essentialnestshop.com/,"win.vidar, url",n/a
-2026-07-01,threatfox,URL,https://gle.jangkarsm188.top/,"win.vidar, url",n/a
-2026-07-01,threatfox,URL,https://gle.psgiran.news/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://merabs.pro/234097cf.exe,"unknown_loader, url",n/a
 2026-07-01,threatfox,URL,https://merabs.pro/fef5dad8.exe,"unknown_loader, url",n/a
 2026-07-01,threatfox,URL,https://merabs.pro/4763f422.exe,"unknown_loader, url",n/a
@@ -56,13 +52,9 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,URL,https://nonseca.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-07-02,threatfox,URL,https://tommy-m.lol/o,"js.kongtuke, url",n/a
 2026-07-02,threatfox,URL,https://cyprushomestager.com/,"win.vidar, url",n/a
-2026-07-01,threatfox,DOMAIN,nordra4ex.kymle5rax.in.net,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,xwnfpj7t.betrein.pro,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,betrein.pro,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,esjvtzn6.aloo.bet,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,aloo.bet,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,gle.psgiran.news,"win.vidar, domain",n/a
-2026-07-01,threatfox,DOMAIN,gle.jangkarsm188.top,"win.vidar, domain",n/a
+2026-07-02,threatfox,URL,https://imperialroofingandgutteringltd.co.uk/,"win.vidar, url",n/a
+2026-07-02,threatfox,URL,https://jermainelewis.com/,"win.vidar, url",n/a
+2026-07-02,threatfox,URL,http://176.65.144.127/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
 2026-07-01,threatfox,DOMAIN,69x4o4j5.bet808.casino,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,bet808.casino,"js.clearfake, domain",n/a
 2026-07-01,darkweb_forums,URL,https://t.me/spider_cybers,"darkweb, telegram_threat_actors",commit dd2dfb24 / telegram_threat_actors.md
@@ -185,6 +177,9 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,enfejarbahis.com,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,fmpdxnv.enfejar.poker,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,lseczri.enfejar.poker,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,uusqctu.eurojet.pro,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,eurojet.pro,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,v1rsowak.xbetone.com,"js.clearfake, domain",n/a
 2026-07-01,tweetfeed,URL,http://219468.xyz,"APT, malware",https://x.com/phatomcandle/status/2072379727843873190
 2026-07-01,tweetfeed,URL,http://85.204.125.67:8080,malware,https://x.com/0xb1lal/status/2072427133666820326
 2026-07-02,tweetfeed,URL,https://hub.necpas.org/home/,phishing,https://x.com/PhishStats/status/2072474508649263152
@@ -338,6 +333,10 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,HASH_SHA256,78695b566b8aff8f42cccc5e264693a64582fb29d814650830a16a8a210e82ba,"win.salatstealer, sha256_hash",n/a
 2026-07-02,threatfox,HASH_SHA256,eee97b264c2b0b6488dcf397800e16ac196ec495a6abd3c2623a020c36acdfd2,"win.salatstealer, sha256_hash",n/a
 2026-07-02,threatfox,HASH_SHA256,02727498170edcb29c041a632172eda8b43c89f7235346b03b174b3e5985bb38,"jar.crossrat, sha256_hash",n/a
+2026-07-02,tweetfeed,URL,http://xcxcopspps.myftp.biz,C2,https://x.com/skocherhan/status/2072728340398522438
+2026-07-02,tweetfeed,URL,http://xcxc.myftp.biz,C2,https://x.com/skocherhan/status/2072728340398522438
+2026-07-02,tweetfeed,URL,http://5.163.170.35:288,C2,https://x.com/skocherhan/status/2072728340398522438
+2026-07-02,tweetfeed,URL,http://191.184.131.141:1177,"C2, Njrat",https://x.com/skocherhan/status/2072730015242805359
 2026-07-01,tweetfeed,DOMAIN,219468.xyz,"APT, malware",https://x.com/phatomcandle/status/2072379727843873190
 2026-07-02,tweetfeed,DOMAIN,hub.necpas.org,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-07-02,tweetfeed,DOMAIN,jsonkeeper.com,n/a,https://x.com/veryseriouseng/status/2071981111723331617
@@ -463,6 +462,8 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,HASH_MD5,1204670b07905cd586d001137e3c690f,"win.salatstealer, md5_hash",n/a
 2026-07-02,threatfox,HASH_MD5,9992290015ca21f58eab64953830a94d,"win.salatstealer, md5_hash",n/a
 2026-07-02,threatfox,HASH_MD5,683c7276bbdc7df8740788e245a461d5,"jar.crossrat, md5_hash",n/a
+2026-07-02,tweetfeed,DOMAIN,xcxcopspps.myftp.biz,C2,https://x.com/skocherhan/status/2072728340398522438
+2026-07-02,tweetfeed,DOMAIN,xcxc.myftp.biz,C2,https://x.com/skocherhan/status/2072728340398522438
 2026-07-01,tweetfeed,IP,85.204.125.67,malware,https://x.com/0xb1lal/status/2072427133666820326
 2026-07-02,tweetfeed,IP,192.227.78.200,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-07-02,tweetfeed,IP,62.33.223.164,n/a,https://x.com/banthisguy9349/status/2072492697764642939
@@ -488,6 +489,7 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,IP,31.168.13.43,"phishing, scam",https://x.com/Malwarehunterr/status/2072357204423012714
 2026-07-02,tweetfeed,HASH_SHA256,7f85c8c4dbba2c4907057ef77973762ffb60bc4fea55a25c7b320f3f0e8059e7,ClickFix,https://x.com/skocherhan/status/2072717272494342406
 2026-07-02,tweetfeed,IP,64.89.162.178,Xworm,https://x.com/skocherhan/status/2072720261640487416
+2026-07-02,tweetfeed,IP,5.163.170.35,C2,https://x.com/skocherhan/status/2072728340398522438
 2026-07-02,tweetfeed,HASH_MD5,4e433dc08fd86851f3124afd375deb9b,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
 2026-07-02,tweetfeed,HASH_MD5,14fe42342fd59a116cb86b5d3d980bab,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
 2026-07-02,tweetfeed,HASH_MD5,11f36387fc925689d3957202726d849a,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
