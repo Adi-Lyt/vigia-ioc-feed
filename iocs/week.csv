@@ -3,28 +3,6 @@ date,user,type,ioc,tags,context
 2026-06-25,cisa_kev,CVE,CVE-2026-20230,"Cisco Unified Communications Manager, kev","Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-06-28"
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-25,threatfox,URL,https://gbaof.com/hair/hia8qef5nj2o/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://gbaof.com/hair/o48ljeia99/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://raksasa633.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://www.seinfor.pe/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://sport666.org/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://mindtribe.io/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://ono138.org/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://pakettogel.net/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://namaste-bungalows.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://synthexisgroupllc.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://www.zhouruntech.com/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/file.js,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/api/v1/session,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ledesla.cfd/api/v1/status,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,https://ext4-v.top/o,"js.kongtuke, url",n/a
-2026-06-25,threatfox,URL,http://111.164.238.73:57439/Mozi.m,"elf.mozi, url",n/a
-2026-06-25,threatfox,URL,http://119.160.215.52:35806/Mozi.a,"elf.mozi, url",n/a
-2026-06-25,threatfox,URL,http://115.42.75.110:45397/Mozi.m,"elf.mozi, url",n/a
-2026-06-25,threatfox,URL,https://studioreverse.com.br/,"unknown, url",n/a
-2026-06-25,threatfox,URL,https://coralwayfinder.top/status/endpoint-effect.js,"js.smartapesg, url",n/a
-2026-06-25,threatfox,URL,http://110.37.84.200:46837/Mozi.m,"elf.mozi, url",n/a
 2026-06-25,threatfox,URL,http://110.37.44.158:58509/Mozi.m,"elf.mozi, url",n/a
 2026-06-25,threatfox,URL,http://223.123.72.169:60310/Mozi.m,"elf.mozi, url",n/a
 2026-06-25,threatfox,URL,https://vfr.hopesm188.top/,"win.vidar, url",n/a
@@ -338,20 +316,8 @@ date,user,type,ioc,tags,context
 2026-07-01,threatfox,URL,https://t10.psgiran.news/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://t10.jangkarsm188.top/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://origin-al.org/,"win.vidar, url",n/a
-2026-06-25,threatfox,DOMAIN,pa9xqikq.1000shart.xyz,"js.clearfake, domain",n/a
-2026-06-25,threatfox,DOMAIN,q4ylri6k.1000shart.xyz,"js.clearfake, domain",n/a
-2026-06-25,threatfox,DOMAIN,jpgomd.com,"win.netsupportmanager_rat, domain",n/a
-2026-06-25,threatfox,DOMAIN,bksnb.com,"win.netsupportmanager_rat, domain",n/a
-2026-06-25,threatfox,DOMAIN,unsinkable.boats,"elf.mirai, domain",n/a
-2026-06-25,threatfox,DOMAIN,ledesla.cfd,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,packsmc.com,"win.5t_downloader, domain",n/a
-2026-06-25,threatfox,DOMAIN,yellowrace.com,"unknown_rat, domain",n/a
-2026-06-25,threatfox,DOMAIN,impresa.pub,"elf.backdoorit, domain",n/a
-2026-06-25,threatfox,DOMAIN,ext4-v.top,"js.kongtuke, domain",n/a
-2026-06-25,threatfox,DOMAIN,clicky.com,"unknown, domain",n/a
-2026-06-25,threatfox,DOMAIN,squibblypuff.asia,"elf.mirai, domain",n/a
-2026-06-25,threatfox,DOMAIN,druzya-iz-kartonnoy-korobki.christmas,"elf.mirai, domain",n/a
-2026-06-25,threatfox,DOMAIN,g3byemsx.xbetone.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,URL,https://infobpi.pl/,"win.vidar, url",n/a
+2026-07-02,threatfox,URL,https://sallyflint.com/,"win.vidar, url",n/a
 2026-06-25,threatfox,DOMAIN,kereta-tinted.com,"win.remus, domain",n/a
 2026-06-25,threatfox,DOMAIN,hatcae.xyz,"win.remus, domain",n/a
 2026-06-25,threatfox,DOMAIN,c2.saintpetersburgresident.ru,"elf.mirai, domain",n/a
@@ -1409,9 +1375,11 @@ date,user,type,ioc,tags,context
 2026-07-02,threatfox,DOMAIN,pkdac095.euroyek.bio,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,euroyek.bio,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,bia2.bet,"js.clearfake, domain",n/a
-2026-06-25,threatfox,HASH_SHA256,363ee51fc02f20cb206039434758c3afa1c71bc7d316c6db4a39b0d310ab92f9,"win.remcos, sha256_hash",n/a
-2026-06-25,threatfox,HASH_SHA256,372f19a45d0eb4c8c52117c6ae2bb8040a91bc72be8670623f957a18c2166985,"win.remcos, sha256_hash",n/a
-2026-06-25,threatfox,HASH_SHA256,1eb89fbbdeaca143288cd71e73304fedf5abbeb093bfe64bce48ccb4e5158be9,"unknown, sha256_hash",n/a
+2026-07-02,threatfox,DOMAIN,jjtsc3t1.homabet.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,homabet.com,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,egzbf2a5.estekhdam.one,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,hattrickbet.bio,"js.clearfake, domain",n/a
+2026-07-02,threatfox,DOMAIN,estekhdam.one,"js.clearfake, domain",n/a
 2026-06-25,tweetfeed,URL,http://shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
 2026-06-25,tweetfeed,URL,https://hydrostreptomycin.yikuaiyansz.com/#/,phishing,https://x.com/Metemcyber/status/2070023099689714152
 2026-06-25,tweetfeed,URL,http://104.21.86.198,phishing,https://x.com/Metemcyber/status/2070023099689714152
@@ -2994,6 +2962,9 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,URL,http://62.33.223.164,n/a,https://x.com/banthisguy9349/status/2072492697764642939
 2026-07-02,tweetfeed,URL,https://www.jsonkeeper.com/b/PJNZP,n/a,https://x.com/veryseriouseng/status/2071981111723331617
 2026-07-02,tweetfeed,URL,https://services-so-net.duckdns.org,phishing,https://x.com/masaomi346/status/2072502489673502912
+2026-07-02,tweetfeed,URL,http://64.188.12.144:12246,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
+2026-07-02,tweetfeed,URL,http://64.188.12.144:15891,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
+2026-07-02,tweetfeed,URL,http://wamous.duckdns.org,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
 2026-06-25,tweetfeed,DOMAIN,shakwa-kw.vercel.app,phishing,https://x.com/Q8CyberTi/status/2070015852389228947
 2026-06-25,tweetfeed,DOMAIN,hydrostreptomycin.yikuaiyansz.com,phishing,https://x.com/Metemcyber/status/2070023099689714152
 2026-06-25,tweetfeed,DOMAIN,bankigbhdonl.zya.me,phishing,https://x.com/PhishStats/status/2070026384437645337
@@ -3931,6 +3902,7 @@ date,user,type,ioc,tags,context
 2026-07-02,tweetfeed,DOMAIN,hub.necpas.org,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-07-02,tweetfeed,DOMAIN,jsonkeeper.com,n/a,https://x.com/veryseriouseng/status/2071981111723331617
 2026-07-02,tweetfeed,DOMAIN,services-so-net.duckdns.org,phishing,https://x.com/masaomi346/status/2072502489673502912
+2026-07-02,tweetfeed,DOMAIN,wamous.duckdns.org,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
 2026-06-25,tweetfeed,HASH_SHA256,425ca8c8c287ddc0c783b49319bf21423201c6195289cdb6738f56fb475a2894,n/a,https://x.com/smica83/status/2070021008434540983
 2026-06-25,tweetfeed,IP,185.27.134.55,phishing,https://x.com/PhishStats/status/2070026384437645337
 2026-06-25,tweetfeed,IP,91.219.237.105,C2,https://x.com/Fact_Finder03/status/2070028255424639276
@@ -4143,6 +4115,7 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,IP,85.204.125.67,malware,https://x.com/0xb1lal/status/2072427133666820326
 2026-07-02,tweetfeed,IP,192.227.78.200,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-07-02,tweetfeed,IP,62.33.223.164,n/a,https://x.com/banthisguy9349/status/2072492697764642939
+2026-07-02,tweetfeed,IP,64.188.12.144,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
 2026-06-25,tweetfeed,HASH_MD5,d43fdaa1f0ee09d7e5f0f94ee9df7b6c,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,8266b00c4e45d728cef78b3f5a865f68,n/a,https://x.com/netresec/status/2070092270401917033
 2026-06-25,tweetfeed,HASH_MD5,a239df0247abb6ec29c6618a0a2f62c0,"APT, MustangPanda",https://x.com/Thisism23567356/status/2070136405813006621
@@ -4186,3 +4159,8 @@ date,user,type,ioc,tags,context
 2026-07-01,tweetfeed,HASH_MD5,088e5f818e976e85df25b84affb59c20,malware,https://x.com/D3LabIT/status/2072302680555258023
 2026-07-01,tweetfeed,HASH_MD5,3a14a2b2123c49565d7741468d3f2565,n/a,https://x.com/sicehice/status/2072337678020886729
 2026-07-01,tweetfeed,HASH_MD5,effaa7bfe98b758282642799bda68535,n/a,https://x.com/skocherhan/status/2072340744761733538
+2026-07-02,tweetfeed,HASH_MD5,4e433dc08fd86851f3124afd375deb9b,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
+2026-07-02,tweetfeed,HASH_MD5,14fe42342fd59a116cb86b5d3d980bab,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
+2026-07-02,tweetfeed,HASH_MD5,11f36387fc925689d3957202726d849a,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
+2026-07-02,tweetfeed,HASH_MD5,720a742b3f57db44ebeaf6f8d2f7035d,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
+2026-07-02,tweetfeed,HASH_MD5,cf3a70ddcc52aca32ef3fe1c9bb0c980,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
