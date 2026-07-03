@@ -1,7 +1,4 @@
 date,user,type,ioc,tags,context
-2026-07-02,threatfox,URL,https://nonseca.lol/file.js,"js.kongtuke, url",n/a
-2026-07-02,threatfox,URL,https://nonseca.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-07-02,threatfox,URL,https://nonseca.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-02,threatfox,URL,https://soccerpunter.org/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://fesold.com/,"unknown, url",n/a
 2026-07-02,threatfox,URL,https://nonseca.lol/api/v1/status,"js.kongtuke, url",n/a
@@ -44,11 +41,9 @@ date,user,type,ioc,tags,context
 2026-07-03,threatfox,URL,https://leannnn.lol/file.js,"js.kongtuke, url",n/a
 2026-07-03,threatfox,URL,https://leannnn.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-03,threatfox,URL,https://leannnn.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-02,threatfox,DOMAIN,tvdmydv.yek.christmas,"js.clearfake, domain",n/a
-2026-07-02,threatfox,DOMAIN,yek.christmas,"js.clearfake, domain",n/a
-2026-07-02,threatfox,DOMAIN,nonseca.lol,"js.kongtuke, domain",n/a
-2026-07-02,threatfox,DOMAIN,fesold.com,"js.clearfake, domain",n/a
-2026-07-02,threatfox,DOMAIN,mamavic.duckdns.org,"win.nanocore, domain",n/a
+2026-07-03,threatfox,URL,https://pearljunction.top/realm/tenant-thread,"js.smartapesg, url",n/a
+2026-07-03,threatfox,URL,https://pearljunction.top/realm/user-runtime.js,"js.smartapesg, url",n/a
+2026-07-03,threatfox,URL,http://64.224.17.118/b98b577ad87f42dbbf91.php,"win.stealc, url",n/a
 2026-07-02,threatfox,DOMAIN,86uweryp.zarib.bet,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,zarib.bet,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,s6adoo5q.filetak.com,"js.clearfake, domain",n/a
@@ -199,8 +194,13 @@ date,user,type,ioc,tags,context
 2026-07-03,threatfox,DOMAIN,frhphph.1xsomalia.com,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,1xsomalia.com,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,leannnn.lol,"js.kongtuke, domain",n/a
-2026-07-02,tweetfeed,URL,https://pub-b81078cffc6d471e9d2d977de133536e.r2.dev/ZA_Access_My_Department.msi,n/a,https://x.com/suyog41/status/2072646213862584431
-2026-07-02,tweetfeed,URL,https://www.trustreserve.co/solutions,phishing,https://x.com/PhishStats/status/2072656674947535001
+2026-07-03,threatfox,DOMAIN,aawzmuz.1xvip.live,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,1xvip.live,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,zrdxgajy.thevallartasrestaurants.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,cayif.hellokism.click,"unknown, domain",n/a
+2026-07-03,threatfox,DOMAIN,pearljunction.top,"js.smartapesg, domain",n/a
+2026-07-03,threatfox,DOMAIN,havgbelc.bingobet.pro,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,bingobet.pro,"js.clearfake, domain",n/a
 2026-07-02,tweetfeed,URL,http://west.nous-legal.be,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
 2026-07-02,tweetfeed,URL,http://freedomservicingmano.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
 2026-07-02,tweetfeed,URL,http://freedomtenskiwebmailrvss.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
@@ -354,8 +354,7 @@ date,user,type,ioc,tags,context
 2026-07-03,tweetfeed,URL,http://1470136830.rsc.cdn77.org,n/a,https://x.com/skocherhan/status/2072993612741198233
 2026-07-03,tweetfeed,URL,http://pub-770373fc03d94a08ab145bef82d19f70.r2.dev/data.enc,n/a,https://x.com/skocherhan/status/2072993612741198233
 2026-07-03,tweetfeed,URL,http://43.248.172.115,n/a,https://x.com/smica83/status/2072995027123417383
-2026-07-02,tweetfeed,DOMAIN,pub-b81078cffc6d471e9d2d977de133536e.r2.dev,n/a,https://x.com/suyog41/status/2072646213862584431
-2026-07-02,tweetfeed,DOMAIN,trustreserve.co,phishing,https://x.com/PhishStats/status/2072656674947535001
+2026-07-03,tweetfeed,URL,https://link24.kr/1wfRYB,APT,https://x.com/byrne_emmy12099/status/2073017629292589088
 2026-07-02,tweetfeed,DOMAIN,west.nous-legal.be,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
 2026-07-02,tweetfeed,DOMAIN,freedomservicingmano.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
 2026-07-02,tweetfeed,DOMAIN,freedomtenskiwebmailrvss.s3.ap-southeast-1.amazonaws.com,phishing,https://x.com/Kb4Threatlabs/status/2072671447055737107
@@ -484,7 +483,6 @@ date,user,type,ioc,tags,context
 2026-07-03,tweetfeed,DOMAIN,thyssenkrupp.hu,n/a,https://x.com/smica83/status/2072978698878300373
 2026-07-03,tweetfeed,DOMAIN,1470136830.rsc.cdn77.org,n/a,https://x.com/skocherhan/status/2072993612741198233
 2026-07-03,tweetfeed,DOMAIN,pub-770373fc03d94a08ab145bef82d19f70.r2.dev,n/a,https://x.com/skocherhan/status/2072993612741198233
-2026-07-02,tweetfeed,IP,34.149.87.45,phishing,https://x.com/PhishStats/status/2072656674947535001
 2026-07-02,tweetfeed,HASH_SHA256,cfed8c8f005c48bae8893de2df3b2414f5b1bf4bbb5c2ae8ffdd7874198f35dd,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,HASH_SHA256,3975cf46cf619ce5aedbde941a20a0f56f84410daf802260626edc00a592e3f4,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,IP,114.70.201.71,"phishing, scam",https://x.com/Malwarehunterr/status/2072711594283598336
@@ -521,7 +519,7 @@ date,user,type,ioc,tags,context
 2026-07-03,tweetfeed,HASH_SHA256,6e75302cc7aefb9254fe8c45638dddfeaef9993941a4942dfa91fa5f6aeb319b,n/a,https://x.com/smica83/status/2072985294178001056
 2026-07-03,tweetfeed,IP,43.248.172.115,n/a,https://x.com/smica83/status/2072995027123417383
 2026-07-03,tweetfeed,HASH_SHA256,1380d7a41d3a9719116d41942ef92b0fcf1cdc00e12066a9796ac0a5e4552a2d,n/a,https://x.com/smica83/status/2072995027123417383
-2026-07-02,tweetfeed,HASH_MD5,aa8564316137d9f056d87960d2ca3294,n/a,https://x.com/suyog41/status/2072646213862584431
+2026-07-03,tweetfeed,HASH_SHA256,0ba78b693744c5f3b45a1b9e9e96479f51701590aa36c7dbd24cb9abcdc2d410,APT,https://x.com/byrne_emmy12099/status/2073017629292589088
 2026-07-02,tweetfeed,HASH_MD5,687bf1633615388cb4b7bd3f726507e4,Lokibot,https://x.com/skocherhan/status/2072718925628907722
 2026-07-02,tweetfeed,HASH_MD5,7756a7ef6468a2b1038e0c28826ddb18,Xworm,https://x.com/skocherhan/status/2072720261640487416
 2026-07-02,tweetfeed,HASH_MD5,7c30d3efed41f980209a637ab3efce84,n/a,https://x.com/skocherhan/status/2072737574649536721
