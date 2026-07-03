@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-26,threatfox,URL,http://osgyx.cn/getinstall64,"win.valley_rat, url",n/a
 2026-06-27,threatfox,URL,http://185.194.175.132:8000/api/endpoint.php,"unknown, url",n/a
 2026-06-27,threatfox,URL,http://bins.oceanic-node.su/wget.sh,"elf.mirai, url",n/a
 2026-06-27,threatfox,URL,http://72.255.33.12:55798/Mozi.m,"elf.mozi, url",n/a
@@ -303,8 +302,9 @@ date,user,type,ioc,tags,context
 2026-07-03,threatfox,URL,https://pearljunction.top/realm/tenant-thread,"js.smartapesg, url",n/a
 2026-07-03,threatfox,URL,https://pearljunction.top/realm/user-runtime.js,"js.smartapesg, url",n/a
 2026-07-03,threatfox,URL,http://64.224.17.118/b98b577ad87f42dbbf91.php,"win.stealc, url",n/a
-2026-06-26,threatfox,DOMAIN,hesabdarishabahang.xyz,"js.clearfake, domain",n/a
-2026-06-26,threatfox,DOMAIN,babayagadead.duckdns.org,"win.quasar_rat, domain",n/a
+2026-07-03,threatfox,URL,https://juj.psgiran.news/,"win.vidar, url",n/a
+2026-07-03,threatfox,URL,https://juj.jokimecat88.top/,"win.vidar, url",n/a
+2026-07-03,threatfox,URL,https://fitnessatlantic.com/,"win.vidar, url",n/a
 2026-06-26,threatfox,DOMAIN,pffvv3yw.22bahis-tr.com,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,cehoirfg.work,"win.valley_rat, domain",n/a
 2026-06-26,threatfox,DOMAIN,taaeiuep.com,"unknown, domain",n/a
@@ -1275,6 +1275,16 @@ date,user,type,ioc,tags,context
 2026-07-03,threatfox,DOMAIN,1xx.games,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,1cqslawq.1xhot.org,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,1xhot.org,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,1425733911-caaaf5vnxv.ap-guangzhou.tencentscf.com,"win.cobalt_strike, domain",n/a
+2026-07-03,threatfox,DOMAIN,lyjbjin.1xforward.pro,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,thestudioatbeacon.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,vps2v21x.1xgame.live,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,1xgame.live,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,juj.psgiran.news,"win.vidar, domain",n/a
+2026-07-03,threatfox,DOMAIN,juj.jokimecat88.top,"win.vidar, domain",n/a
+2026-07-03,threatfox,DOMAIN,8oes4jec.betfakade.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,betfakade.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,bet777cash.com,"js.clearfake, domain",n/a
 2026-06-26,tweetfeed,URL,http://factor-re.co.il,n/a,https://x.com/FalconFeedsio/status/2070530152803799146
 2026-06-26,tweetfeed,URL,https://jbcarnedesol.com/wp-includes/images/xned26/.secured/,phishing,https://x.com/SpiderLabs/status/2070538080944075156
 2026-06-26,tweetfeed,URL,https://jbcarnedesol.com/wp-includes/images/xned26/.secured/assets/js/afid.php?r=0,phishing,https://x.com/SpiderLabs/status/2070538080944075156
