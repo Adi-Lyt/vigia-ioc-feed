@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-26,threatfox,URL,https://healthyhighways.com/,"win.vidar, url",n/a
 2026-06-26,threatfox,URL,https://smartnestessentials.com/,"win.vidar, url",n/a
 2026-06-26,threatfox,URL,https://k1h.fileboro.com/,"win.vidar, url",n/a
 2026-06-26,threatfox,URL,https://k1h.hopesm188.top/,"win.vidar, url",n/a
@@ -307,7 +306,7 @@ date,user,type,ioc,tags,context
 2026-07-03,threatfox,URL,https://cobaltorchard.top/router/reset-fetch,"js.smartapesg, url",n/a
 2026-07-03,threatfox,URL,https://cobaltorchard.top/router/verify-component.js,"js.smartapesg, url",n/a
 2026-07-03,threatfox,URL,https://sollostech.com/,"win.vidar, url",n/a
-2026-06-26,threatfox,DOMAIN,drf.honareslami.xyz,"js.clearfake, domain",n/a
+2026-07-03,threatfox,URL,https://vcd.psgiran.news/,"win.vidar, url",n/a
 2026-06-26,threatfox,DOMAIN,rfhudhbz.313betsingup.casino,"js.clearfake, domain",n/a
 2026-06-26,threatfox,DOMAIN,perfectcloudgate.com,"unknown, domain",n/a
 2026-06-26,threatfox,DOMAIN,powerfullcloudflare.com,"unknown, domain",n/a
@@ -1449,6 +1448,22 @@ date,user,type,ioc,tags,context
 2026-07-03,threatfox,DOMAIN,evhg599x.lemongrassasiangrill.com,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,adoswjr.calvaryhospice.org,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,lemongrassasiangrill.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,digish.art,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,chizbet.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,1xpin.cash,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,jozve.vip,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,bet1kick.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,vcd.psgiran.news,"win.vidar, domain",n/a
+2026-07-03,threatfox,DOMAIN,1xmorocco.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,jozvepro.pro,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,bc90game.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,1xjet.net,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,kitabmenang.pro,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,jozvepro.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,1xfa.casino,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,hondamobiltangerang.com,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,jozve.online,"js.clearfake, domain",n/a
+2026-07-03,threatfox,DOMAIN,betball90kade.com,"js.clearfake, domain",n/a
 2026-06-26,tweetfeed,URL,https://tommy-v.lol/m,APT,https://x.com/byrne_emmy12099/status/2070441663668039825
 2026-06-26,tweetfeed,URL,http://67.43.50.11,n/a,https://x.com/malwrhunterteam/status/2070446129024471196
 2026-06-26,tweetfeed,URL,https://enjoy-rachel-rider-ireland.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2070460565806276864
@@ -3081,6 +3096,7 @@ date,user,type,ioc,tags,context
 2026-07-03,tweetfeed,URL,http://172.67.184.246,phishing,https://x.com/Metemcyber/status/2072911229786656926
 2026-07-03,tweetfeed,URL,http://104.21.19.40,phishing,https://x.com/Metemcyber/status/2072911229786656926
 2026-07-03,tweetfeed,URL,http://github.com/up-6626,stealer,https://x.com/suyog41/status/2072927604647346518
+2026-07-03,tweetfeed,URL,https://zh-cn-sina.com/login,phishing,https://x.com/masaomi346/status/2072950936105087334
 2026-06-26,tweetfeed,DOMAIN,enjoy-rachel-rider-ireland.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2070460565806276864
 2026-06-26,tweetfeed,DOMAIN,club-pandasport.com,phishing,https://x.com/masaomi346/status/2070463971698803183
 2026-06-26,tweetfeed,DOMAIN,dsharedservices.xyz,n/a,https://x.com/malwrhunterteam/status/2070466586591313950
@@ -4053,6 +4069,7 @@ date,user,type,ioc,tags,context
 2026-07-03,tweetfeed,DOMAIN,ntsgo-corp.com,APT,https://x.com/byrne_emmy12099/status/2072900674896232652
 2026-07-03,tweetfeed,DOMAIN,apple.lgjlgrt.cn,phishing,https://x.com/Metemcyber/status/2072907711604474322
 2026-07-03,tweetfeed,DOMAIN,pocket-card.hallbarhantverk.com,phishing,https://x.com/Metemcyber/status/2072911229786656926
+2026-07-03,tweetfeed,DOMAIN,zh-cn-sina.com,phishing,https://x.com/masaomi346/status/2072950936105087334
 2026-06-26,tweetfeed,HASH_SHA256,c64dc42df7c7f4dc22ac09037394121cbda7549ea1b3271b1cedf79b24c5bc3e,n/a,https://x.com/Dixit_404/status/2070432841843052891
 2026-06-26,tweetfeed,HASH_SHA256,8691acd18cf8e5bab8698b2e1a21988fab21c8142fb9d8dc5857da3dce773aba,n/a,https://x.com/Dixit_404/status/2070432841843052891
 2026-06-26,tweetfeed,HASH_SHA256,ceba95c3662b1a6e62a790856adef0fb3de29e8cb468521004db77e2d3ba3946,n/a,https://x.com/Dixit_404/status/2070432841843052891
