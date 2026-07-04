@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-27,threatfox,URL,https://shootiamedia.com/,"win.vidar, url",n/a
-2026-06-27,threatfox,URL,https://brightleafholdings.com/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://villapescados.com.br/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://rssssociety.org.in/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,http://23.94.145.194/82bea16070014e869235.php,"win.stealc, url",n/a
@@ -303,7 +301,6 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,URL,https://kumlman.lol/file.js,"js.kongtuke, url",n/a
 2026-07-04,threatfox,URL,https://kumlman.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-04,threatfox,URL,https://kumlman.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-27,threatfox,DOMAIN,tb4awyc7.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,e.perspolis.pro,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,www.emanulquran.com,"js.iclickfix, domain",n/a
 2026-06-27,threatfox,DOMAIN,www.pourosdevelopments.com,"js.iclickfix, domain",n/a
@@ -1406,7 +1403,10 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,DOMAIN,gakvmew.tinybet.bio,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,1v2w5ogt.prozhe.shopping,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,prozhe.shopping,"js.clearfake, domain",n/a
-2026-06-27,tweetfeed,URL,http://www.kdekxy.com/home,phishing,https://x.com/masaomi346/status/2070834802178334927
+2026-07-04,threatfox,DOMAIN,airtech-energie.fr,"win.strelastealer, domain",n/a
+2026-07-04,threatfox,DOMAIN,evypenr.winnerbahis-tr.com,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,zozhhgic.btyek.buzz,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,btyek.buzz,"js.clearfake, domain",n/a
 2026-06-27,threatfox,HASH_SHA256,66800eefed4e4c7dae18fe4dfe388e5f0ef20159cf0c7188df6c1a1d88f63a03,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,2eebecf7c504a215a51fb2876ec4f646b252fea92b43a6c5a811b8338f0ed133,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,6bdc600936975f49a706081d941b5de37f23586828a13aded77e015cf01cccc5,"win.asyncrat, sha256_hash",n/a
@@ -3031,7 +3031,6 @@ date,user,type,ioc,tags,context
 2026-07-04,tweetfeed,URL,http://43.136.40.21,n/a,https://x.com/smica83/status/2073327471068401730
 2026-07-04,tweetfeed,URL,http://update.uburtu.com,n/a,https://x.com/malwrhunterteam/status/2073351183377322370
 2026-07-04,tweetfeed,URL,http://156.250.133.202,n/a,https://x.com/malwrhunterteam/status/2073351376638255536
-2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,tweetfeed,DOMAIN,commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
 2026-06-27,tweetfeed,DOMAIN,service-checkdate-iduser92749.patisonia.com,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
 2026-06-27,tweetfeed,DOMAIN,vortix.vu,phishing,https://x.com/Malwarehunterr/status/2070920930117951654
