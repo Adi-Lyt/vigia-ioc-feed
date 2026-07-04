@@ -12,8 +12,6 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,URL,http://tallyr.shop:6584,"win.remus, url",n/a
 2026-07-04,threatfox,URL,http://envelzm.xyz:4538,"win.remus, url",n/a
 2026-07-04,threatfox,URL,http://193.148.56.145/8e469217c34746588eec.php,"win.stealc, url",n/a
-2026-07-03,threatfox,DOMAIN,etddhyf.takbetkade.com,"js.clearfake, domain",n/a
-2026-07-03,threatfox,DOMAIN,sscibrc.pinprobet.com,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,dwyxchu.megashart.org,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,megashart.org,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,lwunxeob.1xjet.casino,"js.clearfake, domain",n/a
@@ -187,6 +185,12 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,DOMAIN,ovrrdtl.ace90.casino,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,1xforward.live,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,ace90.casino,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,agnbpfw.arbetwinner.com,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,arbetwinner.com,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,mpfmdjf.ace90.games,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,ace90.games,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,9vxg256z.bazikeno.com,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,bazikeno.com,"js.clearfake, domain",n/a
 2026-07-03,tweetfeed,URL,http://gp.macos-wallspace.com,phishing,https://x.com/skocherhan/status/2073103648503005289
 2026-07-03,tweetfeed,URL,http://96.wallspacemac.com,phishing,https://x.com/skocherhan/status/2073103648503005289
 2026-07-03,tweetfeed,URL,http://gx.macos-wallspace.net,phishing,https://x.com/skocherhan/status/2073103648503005289
@@ -332,6 +336,8 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,HASH_SHA256,1a4b2bb9352969a3913db57f776dbaa48b03dfb96ce3addfa346e92687b8cf20,"win.ghost_rat, sha256_hash",n/a
 2026-07-04,threatfox,HASH_SHA256,26c54b1a0cb5d8636966e6f27505035b2521c7733ee8827b21a9a76f934665e7,"win.valley_rat, sha256_hash",n/a
 2026-07-04,tweetfeed,URL,http://150.158.111.117,n/a,https://x.com/smica83/status/2073444651864879600
+2026-07-04,tweetfeed,URL,http://lodet-marek43-poa.com,n/a,https://x.com/smica83/status/2073449475696152724
+2026-07-04,tweetfeed,URL,http://ma-pdffiller.lat,n/a,https://x.com/smica83/status/2073452233623007739
 2026-07-03,tweetfeed,DOMAIN,gp.macos-wallspace.com,phishing,https://x.com/skocherhan/status/2073103648503005289
 2026-07-03,tweetfeed,DOMAIN,96.wallspacemac.com,phishing,https://x.com/skocherhan/status/2073103648503005289
 2026-07-03,tweetfeed,DOMAIN,gx.macos-wallspace.net,phishing,https://x.com/skocherhan/status/2073103648503005289
@@ -545,6 +551,8 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,HASH_MD5,604ea52ac70d5189504788be828d1589,"elf.akira, md5_hash",n/a
 2026-07-04,threatfox,HASH_MD5,d50cac4d6287863144292c6e0bd01ad6,"win.akira, md5_hash",n/a
 2026-07-04,threatfox,HASH_MD5,b99bdb8880e4ef03727885ea50a4a2fc,"win.akira, md5_hash",n/a
+2026-07-04,tweetfeed,DOMAIN,lodet-marek43-poa.com,n/a,https://x.com/smica83/status/2073449475696152724
+2026-07-04,tweetfeed,DOMAIN,ma-pdffiller.lat,n/a,https://x.com/smica83/status/2073452233623007739
 2026-07-03,tweetfeed,IP,193.149.190.79,n/a,https://x.com/skocherhan/status/2073105457057505579
 2026-07-03,tweetfeed,HASH_SHA256,d1e6e3515ab24c3403845bb89e0cebb1fff721632735dee1fe92e7be261a8d22,n/a,https://x.com/smica83/status/2073132110332994031
 2026-07-03,tweetfeed,HASH_SHA256,b570834a38ff9d5e085dc48700332e536635d23e7cfb9b93fe65be1ffb85e0f7,n/a,https://x.com/smica83/status/2073133083482579306
@@ -571,3 +579,5 @@ date,user,type,ioc,tags,context
 2026-07-04,tweetfeed,IP,150.158.111.117,n/a,https://x.com/smica83/status/2073444651864879600
 2026-07-04,tweetfeed,HASH_SHA256,aa9a65d4511b85f0efc65b1f802ac88d88aeb33e3b49a1a282b46de1e30fdf72,n/a,https://x.com/smica83/status/2073444651864879600
 2026-07-04,tweetfeed,HASH_SHA256,615fc47fc04f053c45a15c2ad882d99bb23678c511f0287a1d00f09440d6d9f5,n/a,https://x.com/luke92881/status/2073447342729056581
+2026-07-04,tweetfeed,HASH_SHA256,94b20231948f25655ddb51ed60269167dd1cf2d9948b9d91dffaa820b54fb46b,n/a,https://x.com/smica83/status/2073449475696152724
+2026-07-04,tweetfeed,HASH_SHA256,9365546fca8eb3f4e10b2557d60cdb943307165324de8dd85dd94c0100da3812,n/a,https://x.com/smica83/status/2073452233623007739
