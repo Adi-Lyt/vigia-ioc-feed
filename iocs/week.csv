@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-27,threatfox,URL,http://millersteelusa.com:8893,"win.remus, url",n/a
 2026-06-27,threatfox,URL,https://nhuydecor.com/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://villacamarao.com.br/,"win.vidar, url",n/a
 2026-06-27,threatfox,URL,https://shootiamedia.com/,"win.vidar, url",n/a
@@ -302,8 +301,6 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,URL,https://hazelcompass.top/realm/tenant-thread,"js.smartapesg, url",n/a
 2026-07-04,threatfox,URL,https://hazelcompass.top/realm/user-runtime.js,"js.smartapesg, url",n/a
 2026-07-04,threatfox,URL,https://openeii.com/,"unknown, url",n/a
-2026-06-27,threatfox,DOMAIN,bcb7ukdo.tinyshart.com,"js.clearfake, domain",n/a
-2026-06-27,threatfox,DOMAIN,smartlivingstyle.cat,"unknown_stealer, domain",n/a
 2026-06-27,threatfox,DOMAIN,tb4awyc7.vip1xbet.net,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,e.perspolis.pro,"js.clearfake, domain",n/a
 2026-06-27,threatfox,DOMAIN,www.emanulquran.com,"js.iclickfix, domain",n/a
@@ -1393,8 +1390,9 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,DOMAIN,jozveyek.com,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,www.ardmorehp.org,"win.strelastealer, domain",n/a
 2026-07-04,threatfox,DOMAIN,realhair.com.tr,"win.strelastealer, domain",n/a
-2026-06-27,tweetfeed,URL,https://acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
-2026-06-27,tweetfeed,URL,http://settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
+2026-07-04,threatfox,DOMAIN,xxjbypq.takbetkade.com,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,wji9u2ff.fileecell.com,"js.clearfake, domain",n/a
+2026-07-04,threatfox,DOMAIN,fileecell.com,"js.clearfake, domain",n/a
 2026-06-27,tweetfeed,URL,http://www.kdekxy.com/home,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,threatfox,HASH_SHA256,66800eefed4e4c7dae18fe4dfe388e5f0ef20159cf0c7188df6c1a1d88f63a03,"win.asyncrat, sha256_hash",n/a
 2026-06-27,threatfox,HASH_SHA256,2eebecf7c504a215a51fb2876ec4f646b252fea92b43a6c5a811b8338f0ed133,"win.asyncrat, sha256_hash",n/a
@@ -3017,8 +3015,7 @@ date,user,type,ioc,tags,context
 2026-07-04,tweetfeed,URL,http://46.101.111.120:8080,opendir,https://x.com/smica83/status/2073324619591799237
 2026-07-04,tweetfeed,URL,https://artlifestyleshop.com/book3.msi,n/a,https://x.com/smica83/status/2073326041926455785
 2026-07-04,tweetfeed,URL,http://193.148.56.144,n/a,https://x.com/smica83/status/2073326041926455785
-2026-06-27,tweetfeed,DOMAIN,acsgr.it.com,phishing,https://x.com/Phisheidon/status/2070799829924553125
-2026-06-27,"threatfox,tweetfeed",DOMAIN,settra5ldqwgtw5q7z5awbsvlksakyfojuc5slgrz5lvapune4fantqd.onion,ransomware,https://x.com/fbgwls245/status/2070800666793230612
+2026-07-04,tweetfeed,URL,http://43.136.40.21,n/a,https://x.com/smica83/status/2073327471068401730
 2026-06-27,tweetfeed,DOMAIN,kdekxy.com,phishing,https://x.com/masaomi346/status/2070834802178334927
 2026-06-27,tweetfeed,DOMAIN,commit.author.email,n/a,https://x.com/malpulse/status/2070844151063531808
 2026-06-27,tweetfeed,DOMAIN,service-checkdate-iduser92749.patisonia.com,phishing,https://x.com/Malwarehunterr/status/2070913823872348516
@@ -4199,6 +4196,8 @@ date,user,type,ioc,tags,context
 2026-07-04,tweetfeed,IP,46.101.111.120,opendir,https://x.com/smica83/status/2073324619591799237
 2026-07-04,tweetfeed,IP,193.148.56.144,n/a,https://x.com/smica83/status/2073326041926455785
 2026-07-04,tweetfeed,HASH_SHA256,be9e8c91559a7ac5c29f18168d552c0b7aafb1786c792d6b0c73b5e137f0de59,n/a,https://x.com/smica83/status/2073326041926455785
+2026-07-04,tweetfeed,IP,43.136.40.21,n/a,https://x.com/smica83/status/2073327471068401730
+2026-07-04,tweetfeed,HASH_SHA256,af698793337e5f13eedba44f3a9fc3788553c8fc0dc29e5fbdacc4b9e451f3a2,n/a,https://x.com/smica83/status/2073327471068401730
 2026-06-27,tweetfeed,HASH_MD5,04cabbf13c2e16ff835021e7f5a8fa81,stealer,https://x.com/petikvx/status/2070959885727027333
 2026-06-27,tweetfeed,HASH_MD5,0c303ae1347c0395a96f3eb38d26d7ed,ransomware,https://x.com/petikvx/status/2070984660700553532
 2026-06-29,tweetfeed,HASH_MD5,9f2687d75f6525e47421f9417a1a799b,n/a,https://x.com/suyog41/status/2071573373550014538
