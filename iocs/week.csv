@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-28,threatfox,URL,https://geurtuin.com/?doing_wp_cron=1782651363.9469881057739257812500,"unknown, url",n/a
-2026-06-28,threatfox,URL,https://citrusocarpetscleaning.com/,"unknown, url",n/a
 2026-06-28,threatfox,URL,http://103.146.231.107:80/DFne,"win.cobalt_strike, url",n/a
 2026-06-28,threatfox,URL,https://vihangamyoga.org/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,http://103.26.86.217:52895/Mozi.a,"elf.mozi, url",n/a
@@ -286,12 +284,6 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,URL,https://89eb-q5yd-ugg8.s-tucker-faroint-com-s-account.workers.dev/,"unknown, url",n/a
 2026-07-05,threatfox,URL,https://cholton.fr-par-1.linodeobjects.com/index.html,"unknown, url",n/a
 2026-07-05,threatfox,URL,https://cekaidrai.com/neural~4uv5z4i4,"unknown, url",n/a
-2026-06-28,threatfox,DOMAIN,vacante-ieftine.ro,"js.iclickfix, domain",n/a
-2026-06-28,threatfox,DOMAIN,genova.com.vn,"js.iclickfix, domain",n/a
-2026-06-28,threatfox,DOMAIN,geurtuin.com,"js.iclickfix, domain",n/a
-2026-06-28,threatfox,DOMAIN,engr-salahuddin.com,"js.iclickfix, domain",n/a
-2026-06-28,threatfox,DOMAIN,nqxr9m1i.iranfitness.top,"js.clearfake, domain",n/a
-2026-06-28,threatfox,DOMAIN,iranfitness.top,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,jarayemaleyhamval.xyz,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,huz6wkqi.mokatebatedari.xyz,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,mokatebatedari.xyz,"js.clearfake, domain",n/a
@@ -1454,6 +1446,8 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,DOMAIN,joujfre.1bahis1.com,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,jtrjohl.1bahis1.com,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,1bahis1.com,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,ztlfqqk.1bahis.app,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,1bahis.app,"js.clearfake, domain",n/a
 2026-06-28,tweetfeed,URL,https://atuvc.vu/vibt/,phishing,https://x.com/Phisheidon/status/2071243618237436291
 2026-06-28,tweetfeed,URL,http://175.173.79.123:35540/Mozi.m,n/a,https://x.com/sicehice/status/2071253245746356573
 2026-06-28,tweetfeed,URL,https://204.47.167.72.host.secureserver.net/cryp/?email=redacted,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
