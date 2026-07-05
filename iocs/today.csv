@@ -12,10 +12,6 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,URL,https://cholton.fr-par-1.linodeobjects.com/index.html,"unknown, url",n/a
 2026-07-05,threatfox,URL,https://cekaidrai.com/neural~4uv5z4i4,"unknown, url",n/a
 2026-07-05,threatfox,URL,http://94.26.83.155/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
-2026-07-04,threatfox,DOMAIN,otlqkiy.betmiz.bet,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,betmiz.bet,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,zqtjqik.betiran.vip,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,betiran.vip,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,gobfmmh.casino888.promo,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,casino888.promo,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,hvid2q0h.bet24bet.bet,"js.clearfake, domain",n/a
@@ -129,7 +125,8 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,DOMAIN,cartbahis.com,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,xcgifut.bahisdolar.com,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,bahisdolar.com,"js.clearfake, domain",n/a
-2026-07-04,tweetfeed,URL,http://terixantra.cyou,"APT, malware",https://x.com/phatomcandle/status/2073466897547534722
+2026-07-05,threatfox,DOMAIN,mekasa.pro,"unknown, domain",n/a
+2026-07-05,threatfox,DOMAIN,jpdgawf.enfejar-site.bet,"js.clearfake, domain",n/a
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou/login.php,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou/csr,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
@@ -215,7 +212,7 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,HASH_SHA256,7604fc93b4e521fd559dc4afd168d833f14ee63908cf733dfdfa8bab02a9d656,"py.venus_stealer, sha256_hash",n/a
 2026-07-05,threatfox,HASH_SHA256,7b63ddaf3b217f9e7b08575ee6f80fff1d2d9e12522d862ccc192ef3d08a0dd3,"win.ghost_rat, sha256_hash",n/a
 2026-07-05,threatfox,HASH_SHA256,7aa50ba59b38494cc524dbd31519bd3a218133aed64d9037eef02d697b8e99d0,"win.ghost_rat, sha256_hash",n/a
-2026-07-04,tweetfeed,DOMAIN,terixantra.cyou,"APT, malware",https://x.com/phatomcandle/status/2073466897547534722
+2026-07-05,tweetfeed,URL,http://vibranovax.click,"APT, malware",https://x.com/phatomcandle/status/2073829278639325327
 2026-07-04,tweetfeed,DOMAIN,birth.5gsewa.cyou,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-05,tweetfeed,DOMAIN,vsemspat.com,phishing,https://x.com/masaomi346/status/2073584667496984714
 2026-07-05,tweetfeed,DOMAIN,kenwillzltd.com,n/a,https://x.com/JAMESWT_WT/status/2073669729143710000
@@ -398,6 +395,7 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,HASH_MD5,dbf9477bf240f517e449c2121eb7a69f,"py.venus_stealer, md5_hash",n/a
 2026-07-05,threatfox,HASH_MD5,3a6c44540d1a164f8ec0f8fb3df901f9,"win.ghost_rat, md5_hash",n/a
 2026-07-05,threatfox,HASH_MD5,4013ae1d401d214ccc6a391f48c65518,"win.ghost_rat, md5_hash",n/a
+2026-07-05,tweetfeed,DOMAIN,vibranovax.click,"APT, malware",https://x.com/phatomcandle/status/2073829278639325327
 2026-07-04,tweetfeed,IP,94.154.43.5,"C2, malware",https://x.com/0xb1lal/status/2073382741291246052
 2026-07-05,tweetfeed,IP,157.90.4.241,phishing,https://x.com/PhishStats/status/2073649702403276958
 2026-07-05,tweetfeed,IP,38.174.216.194,n/a,https://x.com/nahamike01/status/2073589860804522341
