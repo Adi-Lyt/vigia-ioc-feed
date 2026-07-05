@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-28,threatfox,URL,https://geurtuin.com/,"win.vidar, url",n/a
-2026-06-28,threatfox,URL,https://engr-salahuddin.com/,"win.vidar, url",n/a
 2026-06-28,threatfox,URL,http://lawofi.xyz:7538,"win.remus, url",n/a
 2026-06-28,threatfox,URL,https://bibliorock.lol/,"unknown, url",n/a
 2026-06-28,threatfox,URL,https://memshowblob.forum/,"unknown, url",n/a
@@ -287,7 +285,10 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,URL,https://hijaztravel.co.uk/,"win.vidar, url",n/a
 2026-07-05,threatfox,URL,https://ghevanphong.pro/,"win.vidar, url",n/a
 2026-07-05,threatfox,URL,http://91.202.233.134/4d95d68e3fc64f3bbbf5.php,"win.stealc, url",n/a
-2026-06-28,threatfox,DOMAIN,1bmaiu5y.1xbetpartnersiran.com,"js.clearfake, domain",n/a
+2026-07-05,threatfox,URL,https://steamcommunity.com/profiles/76561199825403037,"win.vidar, url",n/a
+2026-07-05,threatfox,URL,https://t.me/b4cha00,"win.vidar, url",n/a
+2026-07-05,threatfox,URL,https://t.me/sok33tn,"win.vidar, url",n/a
+2026-07-05,threatfox,URL,https://steamcommunity.com/profiles/76561199824159981,"win.vidar, url",n/a
 2026-06-28,threatfox,DOMAIN,fagaheestedlali.xyz,"js.clearfake, domain",n/a
 2026-06-28,threatfox,DOMAIN,lawofi.xyz,"win.remus, domain",n/a
 2026-06-28,threatfox,DOMAIN,statcounter.com,"unknown_stealer, domain",n/a
@@ -1435,6 +1436,13 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,DOMAIN,404bet.net,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,omkfbumi.prozhe.net,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,303.poker,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,mehpuqa.ac90bet.org,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,ac90bet.org,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,hrichina.dpdns.org,"win.cobalt_strike, domain",n/a
+2026-07-05,threatfox,DOMAIN,jffl6ogj.bet1forward.com,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,tthbmmcd.fidoubet.com,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,39cif89o.rayegan.net,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,uvjkxyc.ac90bet.net,"js.clearfake, domain",n/a
 2026-06-28,tweetfeed,URL,https://atuvc.vu/vibt/,phishing,https://x.com/Phisheidon/status/2071243618237436291
 2026-06-28,tweetfeed,URL,http://175.173.79.123:35540/Mozi.m,n/a,https://x.com/sicehice/status/2071253245746356573
 2026-06-28,tweetfeed,URL,https://204.47.167.72.host.secureserver.net/cryp/?email=redacted,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
@@ -4156,10 +4164,6 @@ date,user,type,ioc,tags,context
 2026-07-05,tweetfeed,DOMAIN,epyi-zimbat-five.vercel.app,n/a,https://x.com/volrant136/status/2073667741438103962
 2026-07-05,tweetfeed,DOMAIN,uptownhigh.live,n/a,https://x.com/volrant136/status/2073667741438103962
 2026-07-05,tweetfeed,DOMAIN,votej2umptop.fwh.is,phishing,https://x.com/skocherhan/status/2073709118955688270
-2026-06-28,tweetfeed,IP,185.69.123.93,C2,https://x.com/Fact_Finder03/status/2071183074013188352
-2026-06-28,tweetfeed,IP,174.138.18.212,C2,https://x.com/Fact_Finder03/status/2071183828891340992
-2026-06-28,tweetfeed,IP,193.26.115.79,C2,https://x.com/Fact_Finder03/status/2071185590578520407
-2026-06-28,tweetfeed,IP,91.92.40.212,C2,https://x.com/Fact_Finder03/status/2071185590578520407
 2026-06-28,tweetfeed,IP,121.173.30.1,C2,https://x.com/Fact_Finder03/status/2071197418457059721
 2026-06-28,tweetfeed,IP,175.173.79.123,n/a,https://x.com/sicehice/status/2071253245746356573
 2026-06-28,tweetfeed,IP,139.84.245.197,phishing,https://x.com/Malwarehunterr/status/2071278972135231569
