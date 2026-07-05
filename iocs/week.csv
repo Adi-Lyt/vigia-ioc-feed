@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-28,threatfox,URL,http://47.236.116.9/y8jdGc5jS/index.php,"win.amadey, url",n/a
 2026-06-28,threatfox,URL,https://thespeedyhomeoffer.com/,"unknown, url",n/a
 2026-06-28,threatfox,URL,https://hollytree-transport.co.uk/,"unknown, url",n/a
 2026-06-28,threatfox,URL,https://emdgroupe.com/,"unknown, url",n/a
@@ -1432,6 +1431,8 @@ date,user,type,ioc,tags,context
 2026-07-05,threatfox,DOMAIN,edvdafc.prozhe.vip,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,prozhe.vip,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,6pyrumd5.ace90.casino,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,zjfzifr.psd.markets,"js.clearfake, domain",n/a
+2026-07-05,threatfox,DOMAIN,psd.markets,"js.clearfake, domain",n/a
 2026-06-28,tweetfeed,URL,https://jak127.org/docu/Windows/invite.php,phishing,https://x.com/patialavii/status/2071095295509926271
 2026-06-28,tweetfeed,URL,https://jak127.org/docu/Windows/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2071095295509926271
 2026-06-28,tweetfeed,URL,https://proasp.com.br/ftx/,phishing,https://x.com/patialavii/status/2071097546701984230
