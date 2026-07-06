@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-29,threatfox,URL,https://jiy.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://jiy.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://jasyn.kz/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://alphakey.ae/,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://crown-seema.com/,"unknown, url",n/a
@@ -287,9 +285,6 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,URL,https://obx-stash.beer/api/,"win.rcs, url",n/a
 2026-07-06,threatfox,URL,https://poz.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-06,threatfox,URL,https://poz.jurangsm188.top/,"win.vidar, url",n/a
-2026-06-29,threatfox,DOMAIN,jiy.psgiran.news,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,jiy.jangkarsm188.top,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,39p49guo.mokatebatedari.xyz,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,751.lol,"unknown, domain",n/a
 2026-06-29,threatfox,DOMAIN,plaguec2.cc,"unknown, domain",n/a
 2026-06-29,threatfox,DOMAIN,updatesrv.net,"win.cobalt_strike, domain",n/a
@@ -1482,7 +1477,7 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,eduprof.ir,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,yvutfxz.pabloobet.com,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,juj.jurangsm188.top,"win.vidar, domain",n/a
-2026-07-06,threatfox,DOMAIN,juj.realmadridiran.news,"win.vidar, domain",n/a
+2026-07-06,"threatfox,tweetfeed",DOMAIN,juj.realmadridiran.news,"win.vidar, domain",n/a
 2026-07-06,threatfox,DOMAIN,imgbb.media,"unknown, domain",n/a
 2026-07-06,threatfox,DOMAIN,gaeilmx.prozhe.pro,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,zsyahul.prozhe.pro,"js.clearfake, domain",n/a
@@ -1644,8 +1639,13 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,concludanotafiscal.site,"unknown_loader, domain",n/a
 2026-07-06,threatfox,DOMAIN,dvjmeze.yan303.com,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,btltgvt.yan303.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,poz.realmadridiran.news,"win.vidar, domain",n/a
+2026-07-06,"threatfox,tweetfeed",DOMAIN,poz.realmadridiran.news,"win.vidar, domain",n/a
 2026-07-06,threatfox,DOMAIN,poz.jurangsm188.top,"win.vidar, domain",n/a
+2026-07-06,threatfox,DOMAIN,nodtrbhz.poundbahis.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,poundbahis.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,pokerbahis.app,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,jshreqm.arayeshkhas.ir,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,arayeshkhas.ir,"js.clearfake, domain",n/a
 2026-06-29,tweetfeed,URL,https://jenkinsmoving.com/ssan,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,URL,https://josephflooring.com,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,URL,http://109.107.140.235,"Android, Sliver, malware",https://x.com/etugenio/status/2071573757143953713
@@ -3130,6 +3130,15 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,URL,http://192.142.51.51:18080,n/a,https://x.com/skocherhan/status/2074063443112481254
 2026-07-06,tweetfeed,URL,http://priced-broadway-reform-gene.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
 2026-07-06,tweetfeed,URL,http://beacon.py,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
+2026-07-06,tweetfeed,URL,http://realmadridiran.news,"Vidar, stealer",https://x.com/skocherhan/status/2074066796294836342
+2026-07-06,tweetfeed,URL,http://poz.realmadridiran.news,"Vidar, stealer",https://x.com/skocherhan/status/2074066796294836342
+2026-07-06,tweetfeed,URL,http://juj.realmadridiran.news,"Vidar, stealer",https://x.com/skocherhan/status/2074066796294836342
+2026-07-06,tweetfeed,URL,http://196.251.107.248,n/a,https://x.com/skocherhan/status/2074068454978597111
+2026-07-06,tweetfeed,URL,http://62.60.226.140,n/a,https://x.com/skocherhan/status/2074068454978597111
+2026-07-06,tweetfeed,URL,http://62.60.226.185,n/a,https://x.com/skocherhan/status/2074068454978597111
+2026-07-06,tweetfeed,URL,https://stoks.great-site.net,APT,https://x.com/byrne_emmy12099/status/2074070744666095829
+2026-07-06,tweetfeed,URL,http://d.briskbeverage.com,NetSupport,https://x.com/skocherhan/status/2074071616917491721
+2026-07-06,tweetfeed,URL,http://216.126.227.38,NetSupport,https://x.com/skocherhan/status/2074071616917491721
 2026-06-29,tweetfeed,DOMAIN,jenkinsmoving.com,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,DOMAIN,josephflooring.com,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,DOMAIN,east.jslibrariescdn.com,Magecart,https://x.com/sdcyberresearch/status/2071590186073370862
@@ -4254,6 +4263,9 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,DOMAIN,paxos-video-recording.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
 2026-07-06,tweetfeed,DOMAIN,priced-broadway-reform-gene.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
 2026-07-06,tweetfeed,DOMAIN,beacon.py,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
+2026-07-06,tweetfeed,DOMAIN,realmadridiran.news,"Vidar, stealer",https://x.com/skocherhan/status/2074066796294836342
+2026-07-06,tweetfeed,DOMAIN,stoks.great-site.net,APT,https://x.com/byrne_emmy12099/status/2074070744666095829
+2026-07-06,tweetfeed,DOMAIN,d.briskbeverage.com,NetSupport,https://x.com/skocherhan/status/2074071616917491721
 2026-06-29,tweetfeed,IP,89.125.146.28,C2,https://x.com/Fact_Finder03/status/2071547793626587476
 2026-06-29,tweetfeed,IP,107.152.44.183,C2,https://x.com/Fact_Finder03/status/2071548751752434012
 2026-06-29,tweetfeed,IP,45.87.173.235,"C2, stealer",https://x.com/Fact_Finder03/status/2071555829480997279
@@ -4460,6 +4472,17 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,IP,192.144.233.81,C2,https://x.com/Fact_Finder03/status/2074031726381470195
 2026-07-06,tweetfeed,HASH_SHA256,90ec40e5276941a9a7c20aa3916da95d1f1e0be1c13b34ddd55a6129df755f5d,n/a,https://x.com/banthisguy9349/status/2074062327188770914
 2026-07-06,tweetfeed,IP,192.142.51.51,n/a,https://x.com/skocherhan/status/2074063443112481254
+2026-07-06,tweetfeed,IP,196.251.107.248,n/a,https://x.com/skocherhan/status/2074068454978597111
+2026-07-06,tweetfeed,IP,62.60.226.140,n/a,https://x.com/skocherhan/status/2074068454978597111
+2026-07-06,tweetfeed,IP,62.60.226.185,n/a,https://x.com/skocherhan/status/2074068454978597111
+2026-07-06,tweetfeed,HASH_SHA256,01dd052c3778b4a893a13ebd3281b96c7bf96707e9d5b5fc89077e273b5464b4,n/a,https://x.com/smica83/status/2074068870839591422
+2026-07-06,tweetfeed,HASH_SHA256,04e4559705398c368e63f11d5cf623017587725640f2c1049e16f0b8c69490d5,n/a,https://x.com/smica83/status/2074069873185984543
+2026-07-06,tweetfeed,HASH_SHA256,e34d73a1da492c9a79a9729f2f7d9d4b5a2448f44934bd5552bd0bbbe1586767,APT,https://x.com/byrne_emmy12099/status/2074070744666095829
+2026-07-06,tweetfeed,HASH_SHA256,27c86c87121dad687db0a1f817fe70b341349e43af9b8ec01a74dc29364af988,n/a,https://x.com/smica83/status/2074070862144155813
+2026-07-06,tweetfeed,HASH_SHA256,a3d6068222e48dd165adc71fb162149085b1f585dcdaaead56b8549098c78dee,n/a,https://x.com/smica83/status/2074071692880621857
+2026-07-06,tweetfeed,IP,216.126.227.38,NetSupport,https://x.com/skocherhan/status/2074071616917491721
+2026-07-06,tweetfeed,HASH_SHA256,58ad6244d597fdf822932aca58abc31c073f7150eb9a2dcbec011b6711e1c2ca,n/a,https://x.com/smica83/status/2074072637609738550
+2026-07-06,tweetfeed,HASH_SHA256,f9ca55618e68d6a80f2cbfd350e3d42fd3122e3b744379821bc1b2e928589d95,APT,https://x.com/byrne_emmy12099/status/2074074666042589493
 2026-06-29,tweetfeed,HASH_MD5,9f2687d75f6525e47421f9417a1a799b,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,HASH_MD5,5a14a70a00e320af7eea055275160e95,n/a,https://x.com/G60930953/status/2071593005874622708
 2026-06-29,tweetfeed,HASH_MD5,aea99a04f065a538822fce731c83f2fc,n/a,https://x.com/G60930953/status/2071593005874622708
@@ -4517,3 +4540,6 @@ date,user,type,ioc,tags,context
 2026-07-05,tweetfeed,HASH_MD5,94d04830e3a75ae3c7e09de65de0d6c8,n/a,https://x.com/sicehice/status/2073753973903724751
 2026-07-05,tweetfeed,HASH_MD5,ec00f3222d6e470145b593b12275a608,n/a,https://x.com/skocherhan/status/2073783447542190267
 2026-07-06,tweetfeed,HASH_MD5,29b876f3a98516a0029f4666760e6c6c,n/a,https://x.com/skocherhan/status/2074063865382420752
+2026-07-06,tweetfeed,HASH_MD5,4b24252bbd834f946caab07b6f2cd0e4,n/a,https://x.com/skocherhan/status/2074070887666450489
+2026-07-06,tweetfeed,HASH_MD5,1bf691e65fb3951d92b6a6205be41b18,n/a,https://x.com/suyog41/status/2074073952834797705
+2026-07-06,tweetfeed,HASH_MD5,5685d696be4239a965bb2879e67f598d,n/a,https://x.com/suyog41/status/2074079174516728029
