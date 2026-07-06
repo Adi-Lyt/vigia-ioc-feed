@@ -1,22 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-29,threatfox,URL,https://167.233.204.162/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://77.42.88.66/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://167.233.114.81/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://167.233.207.52/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://167.233.193.229/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://91.98.87.85/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://167.233.198.35/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://gpy.jangkarsm188.top/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://iii.jangkarsm188.top/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://fog.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://gpy.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://iii.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://178.104.119.162/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://steamcommunity.com/profiles/76561198680197300,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://telegram.me/af97ri,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://fog.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://jiy.psgiran.news/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://jiy.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://jasyn.kz/,"win.vidar, url",n/a
@@ -301,13 +285,8 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,URL,https://claudeai-mythos.com/,"unknown, url",n/a
 2026-07-06,threatfox,URL,https://saylror-strategy.com/,"unknown, url",n/a
 2026-07-06,threatfox,URL,https://obx-stash.beer/api/,"win.rcs, url",n/a
-2026-06-29,threatfox,DOMAIN,fog.psgiran.news,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,gpy.psgiran.news,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,iii.psgiran.news,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,fog.jangkarsm188.top,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,gpy.jangkarsm188.top,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,iii.jangkarsm188.top,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,dsr.bet1forward.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,URL,https://poz.realmadridiran.news/,"win.vidar, url",n/a
+2026-07-06,threatfox,URL,https://poz.jurangsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,DOMAIN,jiy.psgiran.news,"win.vidar, domain",n/a
 2026-06-29,threatfox,DOMAIN,jiy.jangkarsm188.top,"win.vidar, domain",n/a
 2026-06-29,threatfox,DOMAIN,39p49guo.mokatebatedari.xyz,"js.clearfake, domain",n/a
@@ -1562,19 +1541,111 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,pqzevvh.winx303.com,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,winx303.com,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,fucksmartscreen.lol,"unknown, domain",n/a
-2026-06-29,tweetfeed,URL,https://dsoiedkfmpeew.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
-2026-06-29,tweetfeed,URL,https://zeninc.com/west/result.php,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
-2026-06-29,tweetfeed,URL,https://cdn.glitch.global/ce94f19f-250b-4932-9a3d-4fe40d25d011/oc53600del20240325.pdf,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
-2026-06-29,tweetfeed,URL,https://govdoc.vercel.app,"phishing, scam",https://x.com/Malwarehunterr/status/2071477806304034841
-2026-06-29,tweetfeed,URL,https://everdrove.com/uQB0PVwzw/,phishing,https://x.com/Malwarehunterr/status/2071483592916787334
-2026-06-29,tweetfeed,URL,https://benefitsummary.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071483592916787334
-2026-06-29,tweetfeed,URL,https://everdrove.com,phishing,https://x.com/Malwarehunterr/status/2071483592916787334
-2026-06-29,tweetfeed,URL,https://websbc-caird.hoeroine.com/memx/force_goriyo/onlinecasino.jsp/,phishing,https://x.com/Metemcyber/status/2071519426147692718
-2026-06-29,tweetfeed,URL,http://34.97.161.255,phishing,https://x.com/Metemcyber/status/2071519426147692718
-2026-06-29,tweetfeed,URL,https://accoun.sxzvmkf.cn/ed1wexhh55,phishing,https://x.com/Metemcyber/status/2071522930375463272
-2026-06-29,tweetfeed,URL,http://43.165.170.92,phishing,https://x.com/Metemcyber/status/2071522930375463272
-2026-06-29,tweetfeed,URL,https://app-store.amazon-n.com/WZKcaaHH/,phishing,https://x.com/Metemcyber/status/2071525468655006043
-2026-06-29,tweetfeed,URL,http://195.86.120.135,phishing,https://x.com/Metemcyber/status/2071525468655006043
+2026-07-06,threatfox,DOMAIN,xml.alfatransportes.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,xml.emissaofiscal.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,xml.nfe-online.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,xml.transalfa.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,zf-adobe.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,regularizaeuro.portal-nota.sbs,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,restricaofede.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,sarhartu.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,significado.portal-nota.sbs,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,sistema.portal-nota.sbs,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,suanotafiscal.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,sunat.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,teste.m-firma.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,teste.ste-pdffiller.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,teste.trusted-connection.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,uptodate.wolterskluwer.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,verinfagora.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,vizualizardocumentopdf.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notas.alfatransportes.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notas.emissaofiscal.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notas.nfe-online.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notas.transalfa.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,pdfcomprovanteacesso.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,planospag.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,plantcures.it.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,portal.nifatualiza.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,portaldasfinancas.portal-nota.sbs,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,premiosdavisacopa.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe-2via.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe-reemitir.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe-segundavia.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe.alfatransportes.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe.nfe-online.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe.nfiscais.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe.transalfa.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfedigitalonline.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notafiscal202605.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notaprincipalrf.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,illiquidlabs.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,invitesprincipal.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,logisticanf.tjspbr.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,m-firma.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,ma1-pdffiller.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,mettreajouredf.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,mkt.alfatransportes.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,mrosy.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nf-edigital.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nf.alfatransportes.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nf.transalfa.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfc.nfe-online.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,br-adobe.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,canaisonline.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,consultenotafiscal.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,core-bit.net,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,d4-documentacion.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,documento.tjspbr.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,documentos.alfatransportes.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,documentos.emissaofiscal.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,documentos.transalfa.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,docusingdoc.tjspbr.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,edf-france.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,fatura.tjspbr.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,faturaeletronicapt.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,g0vpt.nifatualiza.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,gerar-nfe.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,a3asesor.wolterskluwer.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,aceitarconvitevip.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,acessoprincipalconvite.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,adobeacrobat.portal-nota.sbs,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,alfatransportes.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,asoigdnonasfgds.it.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,atualizanonavegador.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,atualizaonavegador.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,foxo8ujn.prozhe.net,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,m.adobepdf.cc,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,nfe-2viaeletronica.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notafiscal-digital.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,notaprincipalirs.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,portaldasfinanca.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,ste-pdffiller.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,t-adobe.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,d4.acrobatreader.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,doc.worldpress.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,documentacion.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,geo-pdffiller.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,k-adobe.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,k-documentacion.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,k.adobepdf.cc,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,k.upgrades.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,k.worldpress.biz,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,logistic.tjspbr.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,acess.portal-nota.sbs,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,atualizanavegador.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,atualizanavegador.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,b.acrobatreader.online,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,b.adobepdf.cc,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,b.worldpress.biz,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,bo-pdffiller.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,bro-pdffiller.lat,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,central-da-logistica.com,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,concludanotafiscal.site,"unknown_loader, domain",n/a
+2026-07-06,threatfox,DOMAIN,dvjmeze.yan303.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,btltgvt.yan303.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,poz.realmadridiran.news,"win.vidar, domain",n/a
+2026-07-06,threatfox,DOMAIN,poz.jurangsm188.top,"win.vidar, domain",n/a
 2026-06-29,tweetfeed,URL,https://jenkinsmoving.com/ssan,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,URL,https://josephflooring.com,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,URL,http://109.107.140.235,"Android, Sliver, malware",https://x.com/etugenio/status/2071573757143953713
@@ -3036,15 +3107,29 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,HASH_SHA256,a43084f5af861f44c75c5273c779cb26d506cab6b51c33746626da504148a4ec,"win.zedhou, sha256_hash",n/a
 2026-07-06,tweetfeed,URL,http://cameradriverupdates.com,"APT, Lazarus",https://x.com/500mk500/status/2074035957515317737
 2026-07-06,tweetfeed,URL,http://paxos-apply.com,"APT, Lazarus",https://x.com/500mk500/status/2074035957515317737
-2026-06-29,tweetfeed,DOMAIN,dsoiedkfmpeew.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
-2026-06-29,tweetfeed,DOMAIN,zeninc.com,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
-2026-06-29,tweetfeed,DOMAIN,cdn.glitch.global,phishing,https://x.com/Malwarehunterr/status/2071473716261773800
-2026-06-29,tweetfeed,DOMAIN,govdoc.vercel.app,"phishing, scam",https://x.com/Malwarehunterr/status/2071477806304034841
-2026-06-29,tweetfeed,DOMAIN,everdrove.com,phishing,https://x.com/Malwarehunterr/status/2071483592916787334
-2026-06-29,tweetfeed,DOMAIN,benefitsummary.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071483592916787334
-2026-06-29,tweetfeed,DOMAIN,websbc-caird.hoeroine.com,phishing,https://x.com/Metemcyber/status/2071519426147692718
-2026-06-29,tweetfeed,DOMAIN,accoun.sxzvmkf.cn,phishing,https://x.com/Metemcyber/status/2071522930375463272
-2026-06-29,tweetfeed,DOMAIN,app-store.amazon-n.com,phishing,https://x.com/Metemcyber/status/2071525468655006043
+2026-07-06,tweetfeed,URL,http://Lazaruscameradriverupdates.compaxos-apply.com,APT,https://x.com/skocherhan/status/2074057410671505478
+2026-07-06,tweetfeed,URL,http://vervoe.app,APT,https://x.com/skocherhan/status/2074058109903884342
+2026-07-06,tweetfeed,URL,http://highmatch.pro,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://highmatch.cloud,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://jumpshare.online,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://hiring-one.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://tailora.org,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://breezyhr.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://me-c0h.pages.dev,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://rolevia.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://medincahub.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://cleverbiz.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://cincopa.org,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://knockri.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://spiralboard.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://kaltura.studio,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://paxos-video-interviews.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://evaluateproficiency.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://paxos.video-hiring.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://paxos-video-recording.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,URL,http://192.142.51.51:18080,n/a,https://x.com/skocherhan/status/2074063443112481254
+2026-07-06,tweetfeed,URL,http://priced-broadway-reform-gene.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
+2026-07-06,tweetfeed,URL,http://beacon.py,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
 2026-06-29,tweetfeed,DOMAIN,jenkinsmoving.com,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,DOMAIN,josephflooring.com,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,DOMAIN,east.jslibrariescdn.com,Magecart,https://x.com/sdcyberresearch/status/2071590186073370862
@@ -3937,7 +4022,7 @@ date,user,type,ioc,tags,context
 2026-07-04,threatfox,HASH_MD5,d50cac4d6287863144292c6e0bd01ad6,"win.akira, md5_hash",n/a
 2026-07-04,threatfox,HASH_MD5,b99bdb8880e4ef03727885ea50a4a2fc,"win.akira, md5_hash",n/a
 2026-07-04,tweetfeed,DOMAIN,lodet-marek43-poa.com,n/a,https://x.com/smica83/status/2073449475696152724
-2026-07-04,tweetfeed,DOMAIN,ma-pdffiller.lat,n/a,https://x.com/smica83/status/2073452233623007739
+2026-07-04,"threatfox,tweetfeed",DOMAIN,ma-pdffiller.lat,n/a,https://x.com/smica83/status/2073452233623007739
 2026-07-04,tweetfeed,DOMAIN,terixantra.cyou,"APT, malware",https://x.com/phatomcandle/status/2073466897547534722
 2026-07-04,tweetfeed,DOMAIN,birth.5gsewa.cyou,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-05,tweetfeed,DOMAIN,vsemspat.com,phishing,https://x.com/masaomi346/status/2073584667496984714
@@ -4147,7 +4232,28 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,HASH_MD5,B3E418D30312C1B2C58A791286868F42,"win.gentlemen, md5_hash",n/a
 2026-07-06,tweetfeed,DOMAIN,cameradriverupdates.com,"APT, Lazarus",https://x.com/500mk500/status/2074035957515317737
 2026-07-06,tweetfeed,DOMAIN,paxos-apply.com,"APT, Lazarus",https://x.com/500mk500/status/2074035957515317737
-2026-06-29,tweetfeed,IP,195.86.120.135,phishing,https://x.com/Metemcyber/status/2071525468655006043
+2026-07-06,tweetfeed,DOMAIN,Lazaruscameradriverupdates.compaxos-apply.com,APT,https://x.com/skocherhan/status/2074057410671505478
+2026-07-06,tweetfeed,DOMAIN,vervoe.app,APT,https://x.com/skocherhan/status/2074058109903884342
+2026-07-06,tweetfeed,DOMAIN,highmatch.pro,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,highmatch.cloud,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,jumpshare.online,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,hiring-one.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,tailora.org,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,breezyhr.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,me-c0h.pages.dev,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,rolevia.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,medincahub.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,cleverbiz.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,cincopa.org,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,knockri.us,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,spiralboard.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,kaltura.studio,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,paxos-video-interviews.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,evaluateproficiency.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,paxos.video-hiring.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,paxos-video-recording.com,Lazarus,https://x.com/skocherhan/status/2074059180256739719
+2026-07-06,tweetfeed,DOMAIN,priced-broadway-reform-gene.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
+2026-07-06,tweetfeed,DOMAIN,beacon.py,n/a,https://x.com/malwrhunterteam/status/2074064422528569777
 2026-06-29,tweetfeed,IP,89.125.146.28,C2,https://x.com/Fact_Finder03/status/2071547793626587476
 2026-06-29,tweetfeed,IP,107.152.44.183,C2,https://x.com/Fact_Finder03/status/2071548751752434012
 2026-06-29,tweetfeed,IP,45.87.173.235,"C2, stealer",https://x.com/Fact_Finder03/status/2071555829480997279
@@ -4352,6 +4458,8 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,IP,116.62.242.59,C2,https://x.com/Fact_Finder03/status/2074027578411950132
 2026-07-06,tweetfeed,IP,104.243.41.127,n/a,https://x.com/nextronresearch/status/2074031725764633010
 2026-07-06,tweetfeed,IP,192.144.233.81,C2,https://x.com/Fact_Finder03/status/2074031726381470195
+2026-07-06,tweetfeed,HASH_SHA256,90ec40e5276941a9a7c20aa3916da95d1f1e0be1c13b34ddd55a6129df755f5d,n/a,https://x.com/banthisguy9349/status/2074062327188770914
+2026-07-06,tweetfeed,IP,192.142.51.51,n/a,https://x.com/skocherhan/status/2074063443112481254
 2026-06-29,tweetfeed,HASH_MD5,9f2687d75f6525e47421f9417a1a799b,n/a,https://x.com/suyog41/status/2071573373550014538
 2026-06-29,tweetfeed,HASH_MD5,5a14a70a00e320af7eea055275160e95,n/a,https://x.com/G60930953/status/2071593005874622708
 2026-06-29,tweetfeed,HASH_MD5,aea99a04f065a538822fce731c83f2fc,n/a,https://x.com/G60930953/status/2071593005874622708
@@ -4408,3 +4516,4 @@ date,user,type,ioc,tags,context
 2026-07-05,tweetfeed,HASH_MD5,bba2b75bd6ddd069aeec2b76a2e98545,C2,https://x.com/bsforvt727/status/2073684550799208616
 2026-07-05,tweetfeed,HASH_MD5,94d04830e3a75ae3c7e09de65de0d6c8,n/a,https://x.com/sicehice/status/2073753973903724751
 2026-07-05,tweetfeed,HASH_MD5,ec00f3222d6e470145b593b12275a608,n/a,https://x.com/skocherhan/status/2073783447542190267
+2026-07-06,tweetfeed,HASH_MD5,29b876f3a98516a0029f4666760e6c6c,n/a,https://x.com/skocherhan/status/2074063865382420752
