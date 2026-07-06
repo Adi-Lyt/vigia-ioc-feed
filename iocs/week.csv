@@ -1,8 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-29,threatfox,URL,http://176.65.144.73/312b423bf6dd463f8d15.php,"win.stealc, url",n/a
-2026-06-29,threatfox,URL,http://miedorama.com:4959,"win.remus, url",n/a
-2026-06-29,threatfox,URL,http://angect.xyz:7838,"win.remus, url",n/a
 2026-06-29,threatfox,URL,https://tps.psgiran.news/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://tps.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,http://149.30.222.4/getinstall64,"win.valley_rat, url",n/a
@@ -1443,16 +1440,8 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,ezqhmvl.1bonus.bet,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,ecaqosz.1bonus.bet,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,ns1.bewiser.at,"win.cobalt_strike, domain",n/a
-2026-06-29,tweetfeed,URL,https://microdownwiz.lnakess.com/rYhcwf6WKynSfYQ3zvsF,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,https://microdownwiz.lnakess.com/rYhcwf6WKynSfYQ3zvsF/download,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,https://www.rojlaether.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,https://www.rojlaether.com/dowload,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,https://www.nanuskha.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,https://www.nanuskha.com/dowload,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,http://microdownwiz.lnakess.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,http://rojlaether.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,http://nanuskha.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,URL,http://andreanihelp.cf,phishing,https://x.com/skocherhan/status/2071690104322543914
+2026-07-06,threatfox,DOMAIN,sfdvbdy.1xbeet.app,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,1xbeet.app,"js.clearfake, domain",n/a
 2026-06-30,tweetfeed,URL,https://app-store.rakuten-mastercard.com/lKjgrONK/,phishing,https://x.com/masaomi346/status/2071763860722507782
 2026-06-30,tweetfeed,URL,https://sbvqqp.info/Cloud-Networksg/nyEcmFYCg,phishing,https://x.com/Metemcyber/status/2071827931522097656
 2026-06-30,tweetfeed,URL,http://104.21.28.26,phishing,https://x.com/Metemcyber/status/2071827931522097656
@@ -2837,10 +2826,41 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,URL,http://iplogger.cn,malware,https://x.com/Malwarehunterr/status/2074193527807090820
 2026-07-06,tweetfeed,URL,http://151.241.154.141:8888/1/iemqg674fyehs.nwl,opendir,https://x.com/smica83/status/2074197249131786687
 2026-07-06,tweetfeed,URL,http://107.174.146.3/Bryllupsmarchens.exe,n/a,https://x.com/smica83/status/2074198734033031609
-2026-06-29,tweetfeed,DOMAIN,microdownwiz.lnakess.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,DOMAIN,rojlaether.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,DOMAIN,nanuskha.com,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,DOMAIN,andreanihelp.cf,phishing,https://x.com/skocherhan/status/2071690104322543914
+2026-07-06,tweetfeed,URL,http://bqkngqphb.com,n/a,https://x.com/skocherhan/status/2074213645089714663
+2026-07-06,tweetfeed,URL,http://booking.customerhotelinfo.com,n/a,https://x.com/skocherhan/status/2074214283773165602
+2026-07-06,tweetfeed,URL,https://thumbnails-readily-ebook-wireless.trycloudflare.com,opendir,https://x.com/smica83/status/2074223442275225806
+2026-07-06,tweetfeed,URL,http://docsxpro.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,URL,http://contractingforms.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,URL,http://signx-update.pro,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,URL,http://cra-update.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,URL,http://ssa-update-us.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,URL,http://wow-chicks.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,URL,http://94.154.172.81,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,URL,http://cdnengineeringoverseas.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://fmsplatforms.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://signpro-reader.net,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://innovobyte.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://ndiinvestment.co.za,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://srs-it.ro,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://neugenindustries.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://cra-gc-er.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://escendoholdings.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://wonderland-ks.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://bdposts.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://pakspring.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://kintlsch.org,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://aasc2.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://extstudios.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://abm-consultgroup.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://leadinginnovationslimited.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://eldeotjacobconsulting.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://grbuilder.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://opmservicesgroup.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://pdesignscloud.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://hubexus.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://tvcengineeringgroup.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://deeandmholding.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,URL,http://benproconstruction.com,n/a,https://x.com/skocherhan/status/2074225562848280578
 2026-06-30,tweetfeed,DOMAIN,app-store.rakuten-mastercard.com,phishing,https://x.com/masaomi346/status/2071763860722507782
 2026-06-30,tweetfeed,DOMAIN,sbvqqp.info,phishing,https://x.com/Metemcyber/status/2071827931522097656
 2026-06-30,tweetfeed,DOMAIN,gxtcsy.com,phishing,https://x.com/Metemcyber/status/2071831328610521573
@@ -4257,9 +4277,40 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,DOMAIN,paajaaks.com,n/a,https://x.com/skocherhan/status/2074186393966755974
 2026-07-06,tweetfeed,DOMAIN,queraniva.site,"APT, malware",https://x.com/phatomcandle/status/2074191677145956480
 2026-07-06,tweetfeed,DOMAIN,netgrapes.fr,malware,https://x.com/Malwarehunterr/status/2074193527807090820
-2026-06-29,tweetfeed,HASH_SHA256,29906168eba271442305389aebe91a5091ae933d551101ad60087f699ca2630f,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,HASH_SHA256,e9192b25d4450a1ab4ec1926c1ec19fd4bd2bd84f3d13d8969502266ee425e56,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
-2026-06-29,tweetfeed,HASH_SHA256,7944ed8753971f952130ea0c52a0ee9d7cef42f33b176234b08ab7f97a2cd262,"malware, phishing",https://x.com/Malwarehunterr/status/2071679859819237847
+2026-07-06,tweetfeed,DOMAIN,bqkngqphb.com,n/a,https://x.com/skocherhan/status/2074213645089714663
+2026-07-06,tweetfeed,DOMAIN,booking.customerhotelinfo.com,n/a,https://x.com/skocherhan/status/2074214283773165602
+2026-07-06,tweetfeed,DOMAIN,thumbnails-readily-ebook-wireless.trycloudflare.com,opendir,https://x.com/smica83/status/2074223442275225806
+2026-07-06,tweetfeed,DOMAIN,docsxpro.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,DOMAIN,contractingforms.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,DOMAIN,signx-update.pro,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,DOMAIN,cra-update.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,DOMAIN,ssa-update-us.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,DOMAIN,wow-chicks.com,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,DOMAIN,cdnengineeringoverseas.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,fmsplatforms.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,signpro-reader.net,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,innovobyte.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,ndiinvestment.co.za,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,srs-it.ro,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,neugenindustries.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,cra-gc-er.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,escendoholdings.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,wonderland-ks.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,bdposts.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,pakspring.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,kintlsch.org,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,aasc2.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,extstudios.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,abm-consultgroup.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,leadinginnovationslimited.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,eldeotjacobconsulting.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,grbuilder.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,opmservicesgroup.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,pdesignscloud.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,hubexus.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,tvcengineeringgroup.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,deeandmholding.com,n/a,https://x.com/skocherhan/status/2074225562848280578
+2026-07-06,tweetfeed,DOMAIN,benproconstruction.com,n/a,https://x.com/skocherhan/status/2074225562848280578
 2026-06-30,tweetfeed,IP,43.165.174.173,phishing,https://x.com/Metemcyber/status/2071831328610521573
 2026-06-30,tweetfeed,HASH_SHA256,4c497ee749359905141c034740c2b04b427e868c0ff1b949bae90753396e2ccf,AgentTesla,https://x.com/bomccss/status/2071832499286872112
 2026-06-30,tweetfeed,IP,26.7.0.36,n/a,https://x.com/smica83/status/2071850593878991303
@@ -4480,7 +4531,10 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,IP,107.174.146.3,n/a,https://x.com/smica83/status/2074198734033031609
 2026-07-06,tweetfeed,HASH_SHA256,3cb8dadd0ea4ff4b70d3e9c9caa024fcf171a8434f42fc7e977e4f3a63b23594,n/a,https://x.com/smica83/status/2074198734033031609
 2026-07-06,tweetfeed,HASH_SHA256,793e91eef011ce51c99af960c97490c091bb56b7b85720d4ba8ca420d1f27aec,n/a,https://x.com/smica83/status/2074198734033031609
-2026-06-29,tweetfeed,HASH_MD5,97422ce882dc1144e13fa279dc141b0a,n/a,https://x.com/sicehice/status/2071684084988780914
+2026-07-06,tweetfeed,HASH_SHA256,0c45413122e68f4397fba9539fb74a67343a6496672c1a55862f95e2bcb105c3,n/a,https://x.com/JusticeRage/status/2074162918455656861
+2026-07-06,tweetfeed,HASH_SHA256,0ddf7f140072782ef237241e9da0b90b2f2cddf860b00a10b9c83e4ab916998c,n/a,https://x.com/skocherhan/status/2074221764700205521
+2026-07-06,tweetfeed,IP,94.154.172.81,n/a,https://x.com/skocherhan/status/2074224530747207768
+2026-07-06,tweetfeed,HASH_SHA256,7a9c6dad4fb64a9c56b186c9f036c6ea383694b2ac00fd202e9fa2b9eb4d3ffb,n/a,https://x.com/skocherhan/status/2074225562848280578
 2026-06-30,tweetfeed,HASH_MD5,b02698eee18cad510aa1fdea6c83edc3,n/a,https://x.com/tdatwja/status/2071873143313223769
 2026-06-30,tweetfeed,HASH_MD5,695d61a6f9e39a0e7c1a14c28337b2dc,n/a,https://x.com/tdatwja/status/2071873143313223769
 2026-06-30,tweetfeed,HASH_MD5,bae0005a0bf0d467a672600833eeed92,n/a,https://x.com/suyog41/status/2071899381079642616
