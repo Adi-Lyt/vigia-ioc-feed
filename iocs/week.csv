@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-29,threatfox,URL,https://ghoster.com.br/vendas-ghoster/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://gustoantico.ch/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://bom.psgiran.news/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://bom.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-29,threatfox,URL,https://rpc-cloud.beer/api/css.js,"unknown, url",n/a
@@ -286,8 +284,6 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,URL,https://schester.beer/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-06,threatfox,URL,https://schester.beer/api/v1/status,"js.kongtuke, url",n/a
 2026-07-06,threatfox,URL,https://tommy-x.lol/o,"js.kongtuke, url",n/a
-2026-06-29,threatfox,DOMAIN,cportal.atlantascales.com,"js.fakeupdates, domain",n/a
-2026-06-29,threatfox,DOMAIN,hi4ztw3j.vip1xbet.org,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,zenithharbinger.digital,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,radiantprospera.digital,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,latticepatronage.digital,"js.clearfake, domain",n/a
@@ -1571,9 +1567,14 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,schester.beer,"js.kongtuke, domain",n/a
 2026-07-06,threatfox,DOMAIN,tommy-x.lol,"js.kongtuke, domain",n/a
 2026-07-06,threatfox,DOMAIN,static.theellsworths.uk,"js.fakeupdates, domain",n/a
-2026-06-29,tweetfeed,URL,https://brookingsagent.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest&t=doctorate,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-29,tweetfeed,URL,http://fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-29,tweetfeed,URL,http://brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
+2026-07-06,threatfox,DOMAIN,baxubfe4.1xborobetyek.bet,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,uhnbn82p.1xborobetyek.bet,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,1xborobetyek.bet,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,jwngvds.sargarminovin.ir,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,sargarminovin.ir,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,evzkqyyd.turkeybahis.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,turkeybahis.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,kalashnikovs-001-site1.jtempurl.com,"win.blacknet_rat, domain",n/a
 2026-06-29,tweetfeed,URL,http://interview-forbes-tech.com,n/a,https://x.com/lukOlejnik/status/2071594462497718381
 2026-06-29,tweetfeed,URL,https://infosedu.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
 2026-06-29,tweetfeed,URL,https://xcu1806odnz8z39r6g.nuagobuilders.com,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
@@ -2986,8 +2987,8 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,HASH_SHA256,56c1f7f57b3ede16315b84735bef589df8c00804d194f726489bb053af9dbf9a,"win.asyncrat, sha256_hash",n/a
 2026-07-06,threatfox,HASH_SHA256,afe399f61054f5855796a884b38b4d0977c03a216920980e44d776173ddfea80,"win.wannacryptor, sha256_hash",n/a
 2026-07-06,threatfox,HASH_SHA256,80df68273b763bbd74207d708a49c4aae244a6cc85161e2efae0d73f373830a9,"win.agent_tesla, sha256_hash",n/a
-2026-06-29,tweetfeed,DOMAIN,brookingsagent.screenconnect.com,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
-2026-06-29,tweetfeed,DOMAIN,fussions.top,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
+2026-07-06,tweetfeed,URL,http://github.com/ripio95p-del,n/a,https://x.com/skocherhan/status/2074144693793828922
+2026-07-06,tweetfeed,URL,http://corporationlaurusedutechsolutions.rtjycvstichtsevecht.vu,phishing,https://x.com/tobersotski/status/2074152106705965546
 2026-06-29,tweetfeed,DOMAIN,interview-forbes-tech.com,n/a,https://x.com/lukOlejnik/status/2071594462497718381
 2026-06-29,tweetfeed,DOMAIN,infosedu.vercel.app,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
 2026-06-29,tweetfeed,DOMAIN,xcu1806odnz8z39r6g.nuagobuilders.com,phishing,https://x.com/Malwarehunterr/status/2071595427825406360
@@ -4418,7 +4419,7 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,HASH_MD5,6789fbc0c9a2661904231147e500bce0,"win.wannacryptor, md5_hash",n/a
 2026-07-06,threatfox,HASH_MD5,1f349ad4656e91f8d62f497585365b9f,"win.asyncrat, md5_hash",n/a
 2026-07-06,threatfox,HASH_MD5,d1f41d50627a69e02d4f7464beb2f8b8,"win.agent_tesla, md5_hash",n/a
-2026-06-29,tweetfeed,HASH_SHA256,a1912b1fc666df5a13c6e84d9dc6751ece238495d77b6a13d4def0b5b40e07e2,phishing,https://x.com/Malwarehunterr/status/2071599266104275219
+2026-07-06,tweetfeed,DOMAIN,corporationlaurusedutechsolutions.rtjycvstichtsevecht.vu,phishing,https://x.com/tobersotski/status/2074152106705965546
 2026-06-29,tweetfeed,IP,31.56.209.80,C2,https://x.com/volrant136/status/2071619178847715622
 2026-06-29,tweetfeed,HASH_SHA256,bd53ffbd0b449ead46ae48f59d0d9b017b60f4abdb6a372e22c5677a8e31af30,phishing,https://x.com/patialavii/status/2071635621693772015
 2026-06-29,tweetfeed,IP,3.208.19.130,ransomware,https://x.com/FalconFeedsio/status/2071636706210771423
