@@ -1,9 +1,6 @@
 date,user,type,ioc,tags,context
 2026-06-29,cisa_kev,CVE,CVE-2026-48558,"SimpleHelp  SimpleHelp, kev","SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-02"
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-29,threatfox,URL,https://alphakey.ae/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://crown-seema.com/,"unknown, url",n/a
-2026-06-29,threatfox,URL,https://www.sosolidworld.com/,"unknown, url",n/a
 2026-06-29,threatfox,URL,https://devltd.top/flomowk2.zip,"js.clearfake, url",n/a
 2026-06-29,threatfox,URL,https://steamcommunity.com/profiles/76561198719385745,"js.clearfake, url",n/a
 2026-06-29,threatfox,URL,https://caribe-lawyers.com/,"win.vidar, url",n/a
@@ -289,10 +286,6 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,URL,https://streith.beer/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-06,threatfox,URL,https://crystalmarket.top/token/api-view,"js.smartapesg, url",n/a
 2026-07-06,threatfox,URL,https://crystalmarket.top/token/signup-controller.js,"js.smartapesg, url",n/a
-2026-06-29,threatfox,DOMAIN,751.lol,"unknown, domain",n/a
-2026-06-29,threatfox,DOMAIN,plaguec2.cc,"unknown, domain",n/a
-2026-06-29,threatfox,DOMAIN,updatesrv.net,"win.cobalt_strike, domain",n/a
-2026-06-29,threatfox,DOMAIN,web-analyzer-serv32.com,"win.cobalt_strike, domain",n/a
 2026-06-29,threatfox,DOMAIN,persiana.bet,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,perspolis.pro,"js.clearfake, domain",n/a
 2026-06-29,threatfox,DOMAIN,1xdlbet.com,"js.clearfake, domain",n/a
@@ -1657,8 +1650,10 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,kjftest.beshnoinja.ir,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,beshnoinja.ir,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,bijoyd.com,"unknown_stealer, domain",n/a
-2026-06-29,tweetfeed,URL,https://jenkinsmoving.com/ssan,n/a,https://x.com/suyog41/status/2071573373550014538
-2026-06-29,tweetfeed,URL,https://josephflooring.com,n/a,https://x.com/suyog41/status/2071573373550014538
+2026-07-06,threatfox,DOMAIN,sjnszmy.hi-lo.bet,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,oh0vsizc.vipbahis.cash,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,56nyefeb.ac90bet.net,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,vipbahis.cash,"js.clearfake, domain",n/a
 2026-06-29,tweetfeed,URL,http://109.107.140.235,"Android, Sliver, malware",https://x.com/etugenio/status/2071573757143953713
 2026-06-29,threatfox,HASH_SHA256,4d256667bb0ecaad1d2c6704598570301b8eb7694612487bd9ddc7f635f8b1b6,"js.clearfake, sha256_hash",n/a
 2026-06-29,threatfox,HASH_SHA256,66e15854ca2d96814302477e2d596d96285c43de93514467e1c0e04b942844d7,"js.clearfake, sha256_hash",n/a
@@ -3408,8 +3403,10 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,URL,http://newvote.b01x.xyz,phishing,https://x.com/skocherhan/status/2074085229296279552
 2026-07-06,tweetfeed,URL,http://spot1fy.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2074085229296279552
 2026-07-06,tweetfeed,URL,http://sportifyprimespro.ct.ws,phishing,https://x.com/skocherhan/status/2074085229296279552
-2026-06-29,tweetfeed,DOMAIN,jenkinsmoving.com,n/a,https://x.com/suyog41/status/2071573373550014538
-2026-06-29,tweetfeed,DOMAIN,josephflooring.com,n/a,https://x.com/suyog41/status/2071573373550014538
+2026-07-06,tweetfeed,URL,https://apple.rdnlwmi.cn,phishing,https://x.com/Metemcyber/status/2074104077496332322
+2026-07-06,tweetfeed,URL,https://sa5io.xihhhgf.info/mIHXux,phishing,https://x.com/Metemcyber/status/2074104988863959493
+2026-07-06,tweetfeed,URL,http://104.21.64.89,phishing,https://x.com/Metemcyber/status/2074104988863959493
+2026-07-06,tweetfeed,URL,http://172.67.179.216,phishing,https://x.com/Metemcyber/status/2074104988863959493
 2026-06-29,tweetfeed,DOMAIN,east.jslibrariescdn.com,Magecart,https://x.com/sdcyberresearch/status/2071590186073370862
 2026-06-29,tweetfeed,DOMAIN,winsess.com,phishing,https://x.com/PhishStats/status/2071591495744811320
 2026-06-29,tweetfeed,DOMAIN,sparkasse-invest.de,phishing,https://x.com/PhishStats/status/2071592025804181697
@@ -4790,7 +4787,8 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,DOMAIN,newvote.b01x.xyz,phishing,https://x.com/skocherhan/status/2074085229296279552
 2026-07-06,tweetfeed,DOMAIN,spot1fy.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2074085229296279552
 2026-07-06,tweetfeed,DOMAIN,sportifyprimespro.ct.ws,phishing,https://x.com/skocherhan/status/2074085229296279552
-2026-06-29,tweetfeed,IP,163.245.195.26,C2,https://x.com/Fact_Finder03/status/2071564839936242109
+2026-07-06,tweetfeed,DOMAIN,apple.rdnlwmi.cn,phishing,https://x.com/Metemcyber/status/2074104077496332322
+2026-07-06,tweetfeed,DOMAIN,sa5io.xihhhgf.info,phishing,https://x.com/Metemcyber/status/2074104988863959493
 2026-06-29,tweetfeed,IP,109.107.140.235,"Android, Sliver, malware",https://x.com/etugenio/status/2071573757143953713
 2026-06-29,tweetfeed,IP,5.230.74.79,C2,https://x.com/Fact_Finder03/status/2071578429195976711
 2026-06-29,tweetfeed,IP,23.227.38.32,phishing,https://x.com/PhishStats/status/2071591495744811320
@@ -5011,7 +5009,7 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,HASH_SHA256,38353f95fff270f4e3a9d7add8c64666020dd668ce66e15969a736ec48cadc59,n/a,https://x.com/RexorVc0/status/2074076843267825777
 2026-07-06,tweetfeed,HASH_SHA256,b82ec17c3d33607131350dd925116578c19f30fbdb74706f0ae9c73d03945a37,n/a,https://x.com/RexorVc0/status/2074076843267825777
 2026-07-06,tweetfeed,HASH_SHA256,7bc61d1bbc90d66d9988fd3baacd7834b1d2dfefe6d4ac999a194bccb9ba7dfc,APT,https://x.com/byrne_emmy12099/status/2074082330067767582
-2026-06-29,tweetfeed,HASH_MD5,9f2687d75f6525e47421f9417a1a799b,n/a,https://x.com/suyog41/status/2071573373550014538
+2026-07-06,tweetfeed,HASH_SHA256,fd7582c133d4adaa543be21e2452c3d3d3936288206be85a251f23ef6f7c3695,n/a,https://x.com/smica83/status/2074104795229471074
 2026-06-29,tweetfeed,HASH_MD5,5a14a70a00e320af7eea055275160e95,n/a,https://x.com/G60930953/status/2071593005874622708
 2026-06-29,tweetfeed,HASH_MD5,aea99a04f065a538822fce731c83f2fc,n/a,https://x.com/G60930953/status/2071593005874622708
 2026-06-29,tweetfeed,HASH_MD5,90559288e4b4b2f41157d7f7b1f9adb1,C2,https://x.com/volrant136/status/2071619178847715622
