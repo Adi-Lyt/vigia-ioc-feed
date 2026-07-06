@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-29,threatfox,URL,https://tps.psgiran.news/,"win.vidar, url",n/a
-2026-06-29,threatfox,URL,https://tps.jangkarsm188.top/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,http://149.30.222.4/getinstall64,"win.valley_rat, url",n/a
 2026-06-30,threatfox,URL,https://alpin-tuning.com/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,http://31.56.48.179:666/w,"unknown, url",n/a
@@ -282,9 +280,8 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,URL,https://dra.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-06,threatfox,URL,https://dra.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-06,threatfox,URL,http://utiliq.xyz:7673,"win.remus, url",n/a
-2026-06-29,threatfox,DOMAIN,0dahrppq.taktikbet.bio,"js.clearfake, domain",n/a
-2026-06-29,threatfox,DOMAIN,tps.psgiran.news,"win.vidar, domain",n/a
-2026-06-29,threatfox,DOMAIN,tps.jangkarsm188.top,"win.vidar, domain",n/a
+2026-07-06,threatfox,URL,https://set.jurangsm188.top/,"win.vidar, url",n/a
+2026-07-06,threatfox,URL,https://set.realmadridiran.news/,"win.vidar, url",n/a
 2026-06-30,threatfox,DOMAIN,uhv95fx8.betbuf.live,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,328bpzpg.313betapk.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,46imdg6k.blackjackonlineplay83.com,"js.clearfake, domain",n/a
@@ -1452,6 +1449,13 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,iranmotorplus.ir,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,ryovgcz.1xbeet.site,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,1xbeet.site,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,eqwbbhd.1xborobet.bet,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,1xborobet.bet,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,ymy16goe.calvaryhospice.org,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,3tloufwg.oris303.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,oris303.com,"js.clearfake, domain",n/a
+2026-07-06,threatfox,DOMAIN,set.jurangsm188.top,"win.vidar, domain",n/a
+2026-07-06,threatfox,DOMAIN,set.realmadridiran.news,"win.vidar, domain",n/a
 2026-06-30,tweetfeed,URL,https://app-store.rakuten-mastercard.com/lKjgrONK/,phishing,https://x.com/masaomi346/status/2071763860722507782
 2026-06-30,tweetfeed,URL,https://sbvqqp.info/Cloud-Networksg/nyEcmFYCg,phishing,https://x.com/Metemcyber/status/2071827931522097656
 2026-06-30,tweetfeed,URL,http://104.21.28.26,phishing,https://x.com/Metemcyber/status/2071827931522097656
@@ -2890,6 +2894,7 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,URL,http://vcqjkv.gleeze.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074247012137189824
 2026-07-06,tweetfeed,URL,http://ptsfyo.kozow.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074247012137189824
 2026-07-06,tweetfeed,URL,http://tbwthk.gleeze.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074247012137189824
+2026-07-06,tweetfeed,URL,http://kzaa.co.za,n/a,https://x.com/skocherhan/status/2074252429055414634
 2026-06-30,tweetfeed,DOMAIN,app-store.rakuten-mastercard.com,phishing,https://x.com/masaomi346/status/2071763860722507782
 2026-06-30,tweetfeed,DOMAIN,sbvqqp.info,phishing,https://x.com/Metemcyber/status/2071827931522097656
 2026-06-30,tweetfeed,DOMAIN,gxtcsy.com,phishing,https://x.com/Metemcyber/status/2071831328610521573
@@ -4359,6 +4364,7 @@ date,user,type,ioc,tags,context
 2026-07-06,tweetfeed,DOMAIN,vcqjkv.gleeze.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074247012137189824
 2026-07-06,tweetfeed,DOMAIN,ptsfyo.kozow.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074247012137189824
 2026-07-06,tweetfeed,DOMAIN,tbwthk.gleeze.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074247012137189824
+2026-07-06,tweetfeed,DOMAIN,kzaa.co.za,n/a,https://x.com/skocherhan/status/2074252429055414634
 2026-06-30,tweetfeed,IP,43.165.174.173,phishing,https://x.com/Metemcyber/status/2071831328610521573
 2026-06-30,tweetfeed,HASH_SHA256,4c497ee749359905141c034740c2b04b427e868c0ff1b949bae90753396e2ccf,AgentTesla,https://x.com/bomccss/status/2071832499286872112
 2026-06-30,tweetfeed,IP,26.7.0.36,n/a,https://x.com/smica83/status/2071850593878991303
