@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-30,threatfox,URL,https://unspanel.rs/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,http://153.117.41.127:47793/Mozi.a,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,http://110.37.35.79:33903/Mozi.m,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,https://backupper.pro,"js.magecart, url",n/a
@@ -271,7 +270,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,URL,https://robests.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-07,threatfox,URL,https://robests.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-07,threatfox,URL,https://robests.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-06-30,threatfox,DOMAIN,kdf.betbacklink.com,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,bjsiw6ik.casinoiran.pro,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,casinoiran.pro,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,6oekxs4k.vip1xbet.net,"js.clearfake, domain",n/a
@@ -1567,13 +1565,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,DOMAIN,leafot.xyz,"win.remus, domain",n/a
 2026-07-07,threatfox,DOMAIN,sweetvp.xyz,"win.remus, domain",n/a
 2026-07-07,threatfox,DOMAIN,bwvastni.bet1xyek.bet,"js.clearfake, domain",n/a
-2026-06-30,tweetfeed,URL,http://cognito-identity.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,URL,http://tmpdrop.s3.eu-west-3.amazonaws.com/pdf%20file/payload.dll,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,URL,http://tmpdrop.s3.eu-west-3.amazonaws.com/pdf%20file/stage.hta,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,URL,http://vibrbucket.s3.eu-west-3.amazonaws.com/pdf%20file/s3-uploader.exe,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,URL,http://proposaldocs-eu.s3.eu-west-3.amazonaws.com/pdf%20file/s3-uploader.exe,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,URL,http://inteldocs.s3.eu-central-1.amazonaws.com/pdf%20file/stage3.hta,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,URL,https://ntsgo.name,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
 2026-06-30,tweetfeed,URL,http://mancpr.icu,"APT, C2, malware",https://x.com/phatomcandle/status/2071811150589927692
 2026-06-30,tweetfeed,URL,https://mixpanel.com/public/3wyYGicFCC1j3C6kuXKYw,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-30,tweetfeed,URL,https://cdccgov.adaptablesystems.de/zaZqY/,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
@@ -3258,12 +3249,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,URL,https://auspiciouswords.com/login,phishing,https://x.com/masaomi346/status/2074409738411049316
 2026-07-07,tweetfeed,URL,https://playfulcreativitytoys.com/login,phishing,https://x.com/masaomi346/status/2074409738411049316
 2026-07-07,threatfox,HASH_SHA256,d1487fa8c36489e6e46c950484855b52d4bd3e5a6e86b9caffc7e9a3168a60f4,"elf.xmrig, sha256_hash",n/a
-2026-06-30,tweetfeed,DOMAIN,cognito-identity.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,DOMAIN,tmpdrop.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,DOMAIN,vibrbucket.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,DOMAIN,proposaldocs-eu.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,DOMAIN,inteldocs.s3.eu-central-1.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,DOMAIN,ntsgo.name,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
 2026-06-30,tweetfeed,DOMAIN,mancpr.icu,"APT, C2, malware",https://x.com/phatomcandle/status/2071811150589927692
 2026-06-30,tweetfeed,DOMAIN,mixpanel.com,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-30,tweetfeed,DOMAIN,cdccgov.adaptablesystems.de,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
@@ -4939,11 +4924,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,DOMAIN,ipapoker.com,ClickFix,https://x.com/Malwarehunterr/status/2074388546895696270
 2026-07-07,tweetfeed,DOMAIN,auspiciouswords.com,phishing,https://x.com/masaomi346/status/2074409738411049316
 2026-07-07,tweetfeed,DOMAIN,playfulcreativitytoys.com,phishing,https://x.com/masaomi346/status/2074409738411049316
-2026-06-30,tweetfeed,IP,91.147.119.182,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,HASH_SHA256,17284093612f9cfe5492f93f5d645bf2fb532ea64f94bbbda1721f807c2c7cfb,n/a,https://x.com/nextronresearch/status/2071865199892611439
-2026-06-30,tweetfeed,IP,198.74.62.60,C2,https://x.com/Fact_Finder03/status/2071866614929412137
-2026-06-30,tweetfeed,HASH_SHA256,53dc8279f287e689217ffcc5bbba2f458d1abc848dc5238bcef2845d901bc910,n/a,https://x.com/tdatwja/status/2071873143313223769
-2026-06-30,tweetfeed,HASH_SHA256,cce863d31f184108c7e38d6e76fb5ed4c04909c7a2c99039236dcc64af722dfe,APT,https://x.com/byrne_emmy12099/status/2071877477685981487
 2026-06-30,tweetfeed,IP,188.137.230.216,n/a,https://x.com/malwrhunterteam/status/2071880838321467833
 2026-06-30,tweetfeed,HASH_SHA256,31642b73f628baae10977e0a5a44ea567590cacb674cab153787ea4ff2ae5bb2,n/a,https://x.com/smica83/status/2071891331324993988
 2026-06-30,tweetfeed,HASH_SHA256,eca45bd69ae2374cd5d9dd7373c03812bea53a3782e4cf24aae12c3d2cb41956,APT,https://x.com/byrne_emmy12099/status/2071894530530689399
@@ -5189,8 +5169,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,HASH_SHA256,6c8784885506b0fa3b0543be3c5caec1a4b3c689331d1012847505c61440b2be,n/a,https://x.com/ElementalX2/status/2074369463080935848
 2026-07-07,tweetfeed,IP,77.238.248.158,ClickFix,https://x.com/JAMESWT_WT/status/2074385309752549873
 2026-07-07,tweetfeed,HASH_SHA256,02e90a8321fffd0c45e88bcb8aec3839c5971eb3ded89dd9e44960ef48c95564,ClickFix,https://x.com/Malwarehunterr/status/2074388546895696270
-2026-06-30,tweetfeed,HASH_MD5,b02698eee18cad510aa1fdea6c83edc3,n/a,https://x.com/tdatwja/status/2071873143313223769
-2026-06-30,tweetfeed,HASH_MD5,695d61a6f9e39a0e7c1a14c28337b2dc,n/a,https://x.com/tdatwja/status/2071873143313223769
 2026-06-30,tweetfeed,HASH_MD5,bae0005a0bf0d467a672600833eeed92,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,HASH_MD5,9816e90cfa33a7601f9cd6477ebd9913,n/a,https://x.com/sicehice/status/2071928951304245549
 2026-06-30,tweetfeed,HASH_MD5,ff8efa6d9f6391c9b1bf8a77d74402f2,malware,https://x.com/d1v35hresearch/status/2071939229979201614
