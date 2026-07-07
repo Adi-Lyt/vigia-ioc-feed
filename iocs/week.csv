@@ -1,13 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-30,threatfox,URL,https://keypharmacy.uk/,"win.vidar, url",n/a
-2026-06-30,threatfox,URL,https://cakramakmurabadi.com/,"win.vidar, url",n/a
-2026-06-30,threatfox,URL,https://thekiss.gr/,"win.vidar, url",n/a
-2026-06-30,threatfox,URL,https://swanriverschool.org/,"win.vidar, url",n/a
-2026-06-30,threatfox,URL,https://dainikkishoreganj.com/,"win.vidar, url",n/a
-2026-06-30,threatfox,URL,https://tools4teens.net/,"win.vidar, url",n/a
-2026-06-30,threatfox,URL,https://knowmat.com/,"win.vidar, url",n/a
-2026-06-30,threatfox,URL,https://lisanslab.com/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://unspanel.rs/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,http://153.117.41.127:47793/Mozi.a,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,http://110.37.35.79:33903/Mozi.m,"elf.mozi, url",n/a
@@ -1564,7 +1556,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,DOMAIN,qeiadax1.bet1xegypt.com,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,iemjjbmd.prozhe.net,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,bezwhhi.ac90bet.net,"js.clearfake, domain",n/a
-2026-06-30,tweetfeed,URL,https://wizardversity.s3.us-east-005.backblazeb2.com/bambu/BambuStudio-2026.7.0.364-win-x64.msi,n/a,https://x.com/malwrhunterteam/status/2071848257404199149
 2026-06-30,tweetfeed,URL,http://cognito-identity.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,URL,http://tmpdrop.s3.eu-west-3.amazonaws.com/pdf%20file/payload.dll,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,URL,http://tmpdrop.s3.eu-west-3.amazonaws.com/pdf%20file/stage.hta,n/a,https://x.com/nextronresearch/status/2071865199892611439
@@ -3253,8 +3244,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,URL,https://www.sukaarfoundation.org,ClickFix,https://x.com/Malwarehunterr/status/2074388546895696270
 2026-07-07,tweetfeed,URL,https://ipapoker.com/wp-includes/ID3/readme.txt,ClickFix,https://x.com/Malwarehunterr/status/2074388546895696270
 2026-07-07,tweetfeed,URL,https://ipapoker.com/wp-includes/SimplePie/src/HIKA9NF.exe,ClickFix,https://x.com/Malwarehunterr/status/2074388546895696270
-2026-06-30,tweetfeed,DOMAIN,wizardversity.s3.us-east-005.backblazeb2.com,n/a,https://x.com/malwrhunterteam/status/2071848257404199149
-2026-06-30,tweetfeed,DOMAIN,dsewfgrt.mewyy.xyz,"malware, phishing",https://x.com/masaomi346/status/2071859158006243529
 2026-06-30,tweetfeed,DOMAIN,cognito-identity.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,DOMAIN,tmpdrop.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,DOMAIN,vibrbucket.s3.eu-west-3.amazonaws.com,n/a,https://x.com/nextronresearch/status/2071865199892611439
@@ -4934,10 +4923,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,DOMAIN,President.zip,n/a,https://x.com/ElementalX2/status/2074369463080935848
 2026-07-07,tweetfeed,DOMAIN,sukaarfoundation.org,ClickFix,https://x.com/Malwarehunterr/status/2074388546895696270
 2026-07-07,tweetfeed,DOMAIN,ipapoker.com,ClickFix,https://x.com/Malwarehunterr/status/2074388546895696270
-2026-06-30,tweetfeed,IP,26.7.0.36,n/a,https://x.com/smica83/status/2071850593878991303
-2026-06-30,tweetfeed,HASH_SHA256,80a88e46054917be370301563491447e43a8b8a7229983a1ff534dff30c7979e,n/a,https://x.com/smica83/status/2071850593878991303
-2026-06-30,tweetfeed,IP,136.0.157.39,C2,https://x.com/Fact_Finder03/status/2071851730233680150
-2026-06-30,tweetfeed,HASH_SHA256,bff062c3e63a6b0d71e0630460b32753a47b35f5cef53ce944ed78eb34ad2612,"malware, phishing",https://x.com/masaomi346/status/2071859158006243529
 2026-06-30,tweetfeed,IP,91.147.119.182,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,HASH_SHA256,17284093612f9cfe5492f93f5d645bf2fb532ea64f94bbbda1721f807c2c7cfb,n/a,https://x.com/nextronresearch/status/2071865199892611439
 2026-06-30,tweetfeed,IP,198.74.62.60,C2,https://x.com/Fact_Finder03/status/2071866614929412137
