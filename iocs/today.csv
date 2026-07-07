@@ -2,6 +2,7 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-48908,"JoomShaper SP Page Builder, kev","JoomShaper SP Page Builder contains an unrestricted upload of file with dangerous type vulnerability that allows unauthenticated users to upload arbitrary files, ultimately resulting in the upload and execution of PHP code. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
+2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-06,threatfox,URL,http://utiliq.xyz:7673,"win.remus, url",n/a
 2026-07-06,threatfox,URL,https://set.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-06,threatfox,URL,https://set.realmadridiran.news/,"win.vidar, url",n/a
@@ -43,15 +44,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,URL,https://willowsummit.top/rate/login-cache.js,"js.smartapesg, url",n/a
 2026-07-07,threatfox,URL,https://95.217.245.14,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,http://hatcae.xyz:4538,"win.remus, url",n/a
-2026-07-06,threatfox,DOMAIN,x6ho2kp5.1xcart.pro,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,voafww1e.1xcart.pro,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,efdnssea.honaribash.ir,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,honaribash.ir,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,vykzqwol.gamefarma.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,gamefarma.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,ezqhmvl.1bonus.bet,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,ecaqosz.1bonus.bet,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,ns1.bewiser.at,"win.cobalt_strike, domain",n/a
 2026-07-06,threatfox,DOMAIN,sfdvbdy.1xbeet.app,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,1xbeet.app,"js.clearfake, domain",n/a
 2026-07-06,darkweb_forums,URL,https://t.me/CyberToothless,"darkweb, telegram_threat_actors",commit 94a93c00 / telegram_threat_actors.md
@@ -308,6 +300,8 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,DOMAIN,scawwaq.jet90betiran.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,jet90betiran.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,9qdbp5gv.bet90forward.win,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,rmhtxvz.jet90betyek.bet,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,jet90betyek.bet,"js.clearfake, domain",n/a
 2026-07-06,tweetfeed,URL,http://bqkngqphb.com,n/a,https://x.com/skocherhan/status/2074213645089714663
 2026-07-06,tweetfeed,URL,http://booking.customerhotelinfo.com,n/a,https://x.com/skocherhan/status/2074214283773165602
 2026-07-06,tweetfeed,URL,https://thumbnails-readily-ebook-wireless.trycloudflare.com,opendir,https://x.com/smica83/status/2074223442275225806
@@ -1177,6 +1171,7 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,IP,91.92.43.51,n/a,https://x.com/smica83/status/2074560608880689647
 2026-07-07,tweetfeed,HASH_SHA256,b325e7949328a943456b7bcee75ae8dc012c4e06154aa196ec89e5c404b90698,n/a,https://x.com/smica83/status/2074560608880689647
 2026-07-07,tweetfeed,HASH_SHA256,0f585003a66e263146774fd65df1969ccdbd01f925ea51a7fd0644a2e4ea178d,n/a,https://x.com/smica83/status/2074562652446048619
+2026-07-07,tweetfeed,IP,37.148.135.113,phishing,https://x.com/stop_spammerz/status/2074570587742122401
 2026-07-07,tweetfeed,HASH_MD5,6c78ce2a0d9a67bda99c4a1388dc9bfa,n/a,https://x.com/suyog41/status/2074380475389612052
 2026-07-07,tweetfeed,HASH_MD5,e5091bc4f51a8e6db22b01e9a345f732,n/a,https://x.com/suyog41/status/2074385560043712672
 2026-07-07,tweetfeed,HASH_MD5,7f4aa4aff0c2c23aa59a1d0dff83ffbb,"AgentTesla, malware",https://x.com/D3LabIT/status/2074416500379619745
