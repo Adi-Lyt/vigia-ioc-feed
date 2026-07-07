@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-06,threatfox,URL,https://set.jurangsm188.top/,"win.vidar, url",n/a
-2026-07-06,threatfox,URL,https://set.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,https://naturalnews.com.au/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,https://acesgaragerepair.com/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,http://103.80.135.33/getinstall64,"win.valley_rat, url",n/a
@@ -43,13 +41,8 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,URL,https://willowsummit.top/rate/login-cache.js,"js.smartapesg, url",n/a
 2026-07-07,threatfox,URL,https://95.217.245.14,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,http://hatcae.xyz:4538,"win.remus, url",n/a
-2026-07-06,threatfox,DOMAIN,eqwbbhd.1xborobet.bet,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,1xborobet.bet,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,ymy16goe.calvaryhospice.org,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,3tloufwg.oris303.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,oris303.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,set.jurangsm188.top,"win.vidar, domain",n/a
-2026-07-06,threatfox,DOMAIN,set.realmadridiran.news,"win.vidar, domain",n/a
+2026-07-07,threatfox,URL,https://sop.realmadridiran.news/,"win.vidar, url",n/a
+2026-07-07,threatfox,URL,https://sop.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-07,threatfox,DOMAIN,vqyjhmr.1xpin.live,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,1xpin.live,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,rxt0h93a.1xforward.com,"js.clearfake, domain",n/a
@@ -303,7 +296,19 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,DOMAIN,hgkhvmh.bunos.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,gnbodqo.betcrash.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,qmcbnya.mellbeet.com,"js.clearfake, domain",n/a
-2026-07-06,tweetfeed,URL,http://kzaa.co.za,n/a,https://x.com/skocherhan/status/2074252429055414634
+2026-07-07,threatfox,DOMAIN,tinysh.art,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,mezqmtx.mellbeet.com,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,exwrvqwl.bet1yek1.bet,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,jqmqdeg.jet1bet.com,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,nfrzbza.bunos.bet,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,jswhrpk.betcrash.bet,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,pd9l19qk.milliardbet.com,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,darkstar5core.mivonflowsrv.garden,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,0u9ewjjw.milioner.bet,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,tmgyscx.jet1bet.com,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,mellbet.vip,"js.clearfake, domain",n/a
+2026-07-07,threatfox,DOMAIN,sop.realmadridiran.news,"win.vidar, domain",n/a
+2026-07-07,threatfox,DOMAIN,sop.jurangsm188.top,"win.vidar, domain",n/a
 2026-07-07,tweetfeed,URL,http://hcarter.site.aplus.net/activemail.kagoyamail.html,phishing,https://x.com/masaomi346/status/2074287649519767624
 2026-07-07,tweetfeed,URL,http://5gtradepro.com,"phishing, scam",https://x.com/skocherhan/status/2074304825626362160
 2026-07-07,tweetfeed,URL,http://mymarket-ge.order-id81232525.eu.cc,n/a,https://x.com/skocherhan/status/2074308777126354969
@@ -717,7 +722,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,URL,http://85.192.56.20,"ClickFix, malware",https://x.com/skocherhan/status/2074591209826271648
 2026-07-07,tweetfeed,URL,http://googlemeet98ty.pages.dev,phishing,https://x.com/skocherhan/status/2074592828919890421
 2026-07-07,tweetfeed,URL,http://join-google-meet.com,phishing,https://x.com/skocherhan/status/2074593513757438314
-2026-07-06,tweetfeed,DOMAIN,kzaa.co.za,n/a,https://x.com/skocherhan/status/2074252429055414634
 2026-07-07,tweetfeed,DOMAIN,hcarter.site.aplus.net,phishing,https://x.com/masaomi346/status/2074287649519767624
 2026-07-07,tweetfeed,DOMAIN,5gtradepro.com,"phishing, scam",https://x.com/skocherhan/status/2074304825626362160
 2026-07-07,tweetfeed,DOMAIN,mymarket-ge.order-id81232525.eu.cc,n/a,https://x.com/skocherhan/status/2074308777126354969
