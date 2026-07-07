@@ -1,10 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-30,threatfox,URL,https://riviere.sbs/file.js,"js.kongtuke, url",n/a
-2026-06-30,threatfox,URL,http://172.168.177.48:39138/Mozi.7,"elf.mozi, url",n/a
-2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/session,"js.kongtuke, url",n/a
-2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/verify,"js.kongtuke, url",n/a
-2026-06-30,threatfox,URL,http://124.11.64.11:34008/Mozi.m,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,https://kitchenandbathroomrodelingdigest.com/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://alcaldeabogados.es/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://pak.psgiran.news/,"win.vidar, url",n/a
@@ -273,7 +268,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,URL,https://hat.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,https://marblecourier.top/rate/login-cache.js,"js.smartapesg, url",n/a
 2026-07-07,threatfox,URL,https://marblecourier.top/rate/audit-header,"js.smartapesg, url",n/a
-2026-06-30,threatfox,DOMAIN,riviere.sbs,"js.kongtuke, domain",n/a
 2026-06-30,threatfox,DOMAIN,wt51peii.boomball.bet,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,boomball.bet,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,mebanebols.trade,"js.clearfake, domain",n/a
@@ -1602,8 +1596,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,DOMAIN,tdyqptv.bet1betyek.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,bet1betyek.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,j0g2ia0g.bet1yek.bet,"js.clearfake, domain",n/a
-2026-06-30,tweetfeed,URL,http://182.235.148.10:56858/Mozi.m,n/a,https://x.com/sicehice/status/2071928948754116833
-2026-06-30,tweetfeed,URL,http://65.20.107.242:8080/cloud/,opendir,https://x.com/smica83/status/2071940145469633008
 2026-06-30,tweetfeed,URL,http://65.38.120.129:5556,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,URL,http://modbdwindtgt.website:8080,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,URL,http://modbdwindtgt.website,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
@@ -5008,10 +5000,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,DOMAIN,deloitteback2026.onrender.com,phishing,https://x.com/Kb4Threatlabs/status/2074460048609488957
 2026-07-07,tweetfeed,DOMAIN,backw2026v3v3.onrender.com,phishing,https://x.com/Kb4Threatlabs/status/2074460048609488957
 2026-07-07,tweetfeed,DOMAIN,lamboback2026.onrender.com,phishing,https://x.com/Kb4Threatlabs/status/2074460048609488957
-2026-06-30,tweetfeed,IP,94.154.43.192,n/a,https://x.com/sicehice/status/2071928951304245549
-2026-06-30,tweetfeed,IP,41.216.189.157,n/a,https://x.com/sicehice/status/2071928951304245549
-2026-06-30,tweetfeed,IP,182.235.148.10,n/a,https://x.com/sicehice/status/2071928948754116833
-2026-06-30,tweetfeed,IP,65.20.107.242,opendir,https://x.com/smica83/status/2071940145469633008
 2026-06-30,tweetfeed,IP,65.38.120.129,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,IP,5.181.1.181,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
 2026-06-30,tweetfeed,IP,45.141.58.166,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
@@ -5259,9 +5247,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,IP,37.148.134.251,n/a,https://x.com/malwrhunterteam/status/2074446671014977607
 2026-07-07,tweetfeed,HASH_SHA256,e522bceb0ba12f6404ddb28b955299d92ddc55184a6514835ffc5d3df0250453,n/a,https://x.com/smica83/status/2074461057695858967
 2026-07-07,tweetfeed,HASH_SHA256,b42043f7abdf66112045382f5a6ac886af193bfa9a6ba900087bd8dcff9028d1,n/a,https://x.com/smica83/status/2074468687696822673
-2026-06-30,tweetfeed,HASH_MD5,9816e90cfa33a7601f9cd6477ebd9913,n/a,https://x.com/sicehice/status/2071928951304245549
-2026-06-30,tweetfeed,HASH_MD5,ff8efa6d9f6391c9b1bf8a77d74402f2,malware,https://x.com/d1v35hresearch/status/2071939229979201614
-2026-06-30,tweetfeed,HASH_MD5,5ba940f0e666bfd9ff0af443fe182fb1,malware,https://x.com/d1v35hresearch/status/2071939229979201614
 2026-06-30,tweetfeed,HASH_MD5,80fbb8ed636178d30b1a3a864cd1f231,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,HASH_MD5,048de81368e46adf9dd12df7278f7821,APT,https://x.com/askardyuss/status/2071903959908786395
 2026-06-30,tweetfeed,HASH_MD5,00f341a353de29dfe19e4796d27c1879,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
