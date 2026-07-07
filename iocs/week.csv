@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-30,threatfox,URL,https://mrinterior.co.uk/,"win.vidar, url",n/a
 2026-06-30,threatfox,URL,https://coralfrontier.top/health/router-component.js,"js.smartapesg, url",n/a
 2026-06-30,threatfox,URL,https://coralfrontier.top/health/legacy-build,"js.smartapesg, url",n/a
 2026-06-30,threatfox,URL,https://coralfrontier.top/health/oauth-view.js,"js.smartapesg, url",n/a
@@ -271,8 +270,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,URL,https://willowsummit.top/rate/dashboard-state.js,"js.smartapesg, url",n/a
 2026-07-07,threatfox,URL,https://willowsummit.top/rate/audit-header,"js.smartapesg, url",n/a
 2026-07-07,threatfox,URL,https://willowsummit.top/rate/login-cache.js,"js.smartapesg, url",n/a
-2026-06-30,threatfox,DOMAIN,j1yidzep.boombasket.bet,"js.clearfake, domain",n/a
-2026-06-30,threatfox,DOMAIN,boombasket.bet,"js.clearfake, domain",n/a
 2026-06-30,threatfox,DOMAIN,coralfrontier.top,"js.smartapesg, domain",n/a
 2026-06-30,threatfox,DOMAIN,appupdate3049.top,"js.kongtuke, domain",n/a
 2026-06-30,threatfox,DOMAIN,linenharvest.top,"js.smartapesg, domain",n/a
@@ -1613,8 +1610,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,DOMAIN,bunos.win,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,vilhvypu.1xborobet.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,bsobxnv.bunos.bet,"js.clearfake, domain",n/a
-2026-06-30,tweetfeed,URL,http://vscode-bootstrap.sh,n/a,https://x.com/L0Psec/status/2071985075785245063
-2026-06-30,tweetfeed,URL,http://code-beautify.com,n/a,https://x.com/L0Psec/status/2071985075785245063
 2026-06-30,tweetfeed,URL,http://142.161.71.95:8443,n/a,https://x.com/500mk500/status/2071978242005684647
 2026-06-30,tweetfeed,URL,http://5.181.1.128:8080,n/a,https://x.com/500mk500/status/2071978242005684647
 2026-06-30,tweetfeed,URL,http://5.181.1.249:8080,n/a,https://x.com/500mk500/status/2071978242005684647
@@ -3376,7 +3371,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,URL,http://productinform.com,n/a,https://x.com/500mk500/status/2074518700737147044
 2026-07-07,tweetfeed,URL,http://pswordmonster.com,n/a,https://x.com/500mk500/status/2074518700737147044
 2026-07-07,tweetfeed,URL,http://webjoindev.com,n/a,https://x.com/500mk500/status/2074518700737147044
-2026-06-30,tweetfeed,DOMAIN,vscode-bootstrap.sh,n/a,https://x.com/L0Psec/status/2071985075785245063
 2026-06-30,tweetfeed,DOMAIN,adreses.vip,"malware, phishing",https://x.com/Malwarehunterr/status/2071998194842767515
 2026-06-30,tweetfeed,DOMAIN,pinonte.vip,"malware, phishing",https://x.com/skocherhan/status/2072000395916828802
 2026-06-30,tweetfeed,DOMAIN,httrsevw.biz.id,phishing,https://x.com/skocherhan/status/2072007572467408946
@@ -5118,8 +5112,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,DOMAIN,productinform.com,n/a,https://x.com/500mk500/status/2074518700737147044
 2026-07-07,tweetfeed,DOMAIN,pswordmonster.com,n/a,https://x.com/500mk500/status/2074518700737147044
 2026-07-07,tweetfeed,DOMAIN,webjoindev.com,n/a,https://x.com/500mk500/status/2074518700737147044
-2026-06-30,tweetfeed,HASH_SHA256,615043cc2c50a9d05f08d90d8e1afb74d5cacccfff6c407b6d35f72790473eb2,n/a,https://x.com/L0Psec/status/2071985086271000984
-2026-06-30,tweetfeed,HASH_SHA256,a3024518cb070f8396e49a4d82baaae7b7909ac2ee5c2a2f480d8325f52090cf,n/a,https://x.com/L0Psec/status/2071985086271000984
 2026-06-30,tweetfeed,IP,142.161.71.95,n/a,https://x.com/500mk500/status/2071978242005684647
 2026-06-30,tweetfeed,IP,5.181.1.128,n/a,https://x.com/500mk500/status/2071978242005684647
 2026-06-30,tweetfeed,IP,5.181.1.249,n/a,https://x.com/500mk500/status/2071978242005684647
