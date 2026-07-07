@@ -1,10 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-01,cisa_kev,CVE,CVE-2026-45659,"Microsoft SharePoint Server, kev","Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-04"
-2026-06-30,threatfox,URL,http://153.117.41.127:47793/Mozi.a,"elf.mozi, url",n/a
-2026-06-30,threatfox,URL,http://110.37.35.79:33903/Mozi.m,"elf.mozi, url",n/a
-2026-06-30,threatfox,URL,https://backupper.pro,"js.magecart, url",n/a
-2026-06-30,threatfox,URL,https://www.einvoicesolutions.com/,"unknown, url",n/a
-2026-06-30,threatfox,URL,https://www.m-und-c-partners.de/,"unknown, url",n/a
 2026-06-30,threatfox,URL,https://riviere.sbs/file.js,"js.kongtuke, url",n/a
 2026-06-30,threatfox,URL,http://172.168.177.48:39138/Mozi.7,"elf.mozi, url",n/a
 2026-06-30,threatfox,URL,https://riviere.sbs/api/v1/session,"js.kongtuke, url",n/a
@@ -1574,9 +1569,6 @@ date,user,type,ioc,tags,context
 2026-07-07,threatfox,DOMAIN,nintvncm.rayegan.net,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,rtzixna.site-shartbandi.christmas,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,site-shartbandi.christmas,"js.clearfake, domain",n/a
-2026-06-30,tweetfeed,URL,http://mancpr.icu,"APT, C2, malware",https://x.com/phatomcandle/status/2071811150589927692
-2026-06-30,tweetfeed,URL,https://mixpanel.com/public/3wyYGicFCC1j3C6kuXKYw,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
-2026-06-30,tweetfeed,URL,https://cdccgov.adaptablesystems.de/zaZqY/,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-30,tweetfeed,URL,http://avenger-sync.live,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,URL,http://api.sync-master.online,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,URL,http://207.189.11.170/Bin/working_payload.cs,n/a,https://x.com/smica83/status/2071913486574121006
@@ -3269,9 +3261,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,URL,https://intelligence-bloomberg-tonsol.cfd/analytics/,n/a,https://x.com/smica83/status/2074428353092714496
 2026-07-07,tweetfeed,URL,http://homeless-support.net,n/a,https://x.com/smica83/status/2074429449244729527
 2026-07-07,tweetfeed,URL,http://89.167.80.106,n/a,https://x.com/smica83/status/2074429449244729527
-2026-06-30,tweetfeed,DOMAIN,mancpr.icu,"APT, C2, malware",https://x.com/phatomcandle/status/2071811150589927692
-2026-06-30,tweetfeed,DOMAIN,mixpanel.com,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
-2026-06-30,tweetfeed,DOMAIN,cdccgov.adaptablesystems.de,n/a,https://x.com/d1v35hresearch/status/2071894337210958139
 2026-06-30,tweetfeed,DOMAIN,avenger-sync.live,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,DOMAIN,api.sync-master.online,n/a,https://x.com/suyog41/status/2071899381079642616
 2026-06-30,tweetfeed,DOMAIN,modbdwindtgt.website,"APT, RAT, malware",https://x.com/Cyberteam008/status/2071948156691243131
@@ -4949,9 +4938,6 @@ date,user,type,ioc,tags,context
 2026-07-07,tweetfeed,DOMAIN,docs.hashtopoils.org,ClickFix,https://x.com/Malwarehunterr/status/2074421663807262811
 2026-07-07,tweetfeed,DOMAIN,intelligence-bloomberg-tonsol.cfd,n/a,https://x.com/smica83/status/2074428353092714496
 2026-07-07,tweetfeed,DOMAIN,homeless-support.net,n/a,https://x.com/smica83/status/2074429449244729527
-2026-06-30,tweetfeed,IP,188.137.230.216,n/a,https://x.com/malwrhunterteam/status/2071880838321467833
-2026-06-30,tweetfeed,HASH_SHA256,31642b73f628baae10977e0a5a44ea567590cacb674cab153787ea4ff2ae5bb2,n/a,https://x.com/smica83/status/2071891331324993988
-2026-06-30,tweetfeed,HASH_SHA256,eca45bd69ae2374cd5d9dd7373c03812bea53a3782e4cf24aae12c3d2cb41956,APT,https://x.com/byrne_emmy12099/status/2071894530530689399
 2026-06-30,tweetfeed,HASH_SHA256,afaca459c8ae07447aa1492a8e5eb33da7959e81279d7e5fad933ec8dc9758e6,APT,https://x.com/byrne_emmy12099/status/2071906544745423160
 2026-06-30,tweetfeed,IP,207.189.11.170,n/a,https://x.com/smica83/status/2071913486574121006
 2026-06-30,tweetfeed,HASH_SHA256,9161a8f7f07741db06b9f9a87b6ec7f277faf2ae3a3a661d6eb09cec4e12b920,n/a,https://x.com/smica83/status/2071913486574121006
