@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-07,threatfox,URL,https://hat.jurangsm188.top/,"win.vidar, url",n/a
-2026-07-07,threatfox,URL,https://hat.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,https://marblecourier.top/rate/login-cache.js,"js.smartapesg, url",n/a
 2026-07-07,threatfox,URL,https://marblecourier.top/rate/audit-header,"js.smartapesg, url",n/a
 2026-07-07,threatfox,URL,https://tur.realmadridiran.news/,"win.vidar, url",n/a
@@ -29,14 +27,7 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,URL,https://tommy-z.lol/o,"js.kongtuke, url",n/a
 2026-07-08,threatfox,URL,https://88.99.120.224,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,http://144.31.57.70/c0e070fa9435429c8ea5.php,"win.stealc, url",n/a
-2026-07-07,threatfox,DOMAIN,fullcrypters.net,"win.hijackloader, domain",n/a
-2026-07-07,threatfox,DOMAIN,hat.jurangsm188.top,"win.vidar, domain",n/a
-2026-07-07,threatfox,DOMAIN,qowlvqc.backlinkbet.com,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,rlmjgwi.appmegapari.com,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,backlinkbet.com,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,appmegapari.com,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,uaat6cni.bet1yek1.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,hat.realmadridiran.news,"win.vidar, domain",n/a
+2026-07-08,threatfox,URL,http://185.223.82.171/fd89ba886125940b747e.php,"win.stealc, url",n/a
 2026-07-07,threatfox,DOMAIN,bet1yek.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,348787241.com,"win.remcos, domain",n/a
 2026-07-07,threatfox,DOMAIN,cfimotpa.site-enfejar-pooyan-mokhtari.com,"js.clearfake, domain",n/a
@@ -228,13 +219,11 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,DOMAIN,pinbahis.bet,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,phcwqqkr.1xgermany.com,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,ykgl.calvaryhospice.org,"js.clearfake, domain",n/a
-2026-07-07,tweetfeed,URL,https://d01a43-tuttoprofess.sphostserver.com,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074434348833820955
-2026-07-07,tweetfeed,URL,https://d01a43-tuttoprofess.sphostserver.com/index.php,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074434348833820955
-2026-07-07,tweetfeed,URL,http://github.com/m1-7326,stealer,https://x.com/suyog41/status/2074437761529237545
-2026-07-07,tweetfeed,URL,http://nocapwars.myvnc.com,AsyncRAT,https://x.com/skocherhan/status/2074442592469577767
-2026-07-07,tweetfeed,URL,http://51.81.105.250:6666,AsyncRAT,https://x.com/skocherhan/status/2074442592469577767
-2026-07-07,tweetfeed,URL,http://51.81.105.250:8808,AsyncRAT,https://x.com/skocherhan/status/2074442592469577767
-2026-07-07,tweetfeed,URL,https://ministries-forecast-house-publish.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2074444687801208911
+2026-07-08,threatfox,DOMAIN,hvaujhmz.alhilal90.com,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,qee052b3.irantop.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,donutcash.lol,"unknown, domain",n/a
+2026-07-08,threatfox,DOMAIN,a5ozej0l.irantop.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,bwup.catsandcarp.com,"js.clearfake, domain",n/a
 2026-07-07,tweetfeed,URL,http://gawdkl.fit,n/a,https://x.com/skocherhan/status/2074451044591919568
 2026-07-07,tweetfeed,URL,http://9554kotyata-persermx.icu,n/a,https://x.com/skocherhan/status/2074451044591919568
 2026-07-07,tweetfeed,URL,http://geschmeidig6307-kotyatanet.sbs,n/a,https://x.com/skocherhan/status/2074451044591919568
@@ -398,9 +387,6 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,URL,https://wirgj.com/login,phishing,https://x.com/masaomi346/status/2074761652214607958
 2026-07-08,tweetfeed,URL,http://RKM-20260614-1514.zip,n/a,https://x.com/tdatwja/status/2074757977152872860
 2026-07-08,tweetfeed,URL,http://192.252.180.45:4449,n/a,https://x.com/tdatwja/status/2074757977152872860
-2026-07-07,tweetfeed,DOMAIN,d01a43-tuttoprofess.sphostserver.com,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074434348833820955
-2026-07-07,tweetfeed,DOMAIN,nocapwars.myvnc.com,AsyncRAT,https://x.com/skocherhan/status/2074442592469577767
-2026-07-07,tweetfeed,DOMAIN,ministries-forecast-house-publish.trycloudflare.com,n/a,https://x.com/malwrhunterteam/status/2074444687801208911
 2026-07-07,tweetfeed,DOMAIN,gawdkl.fit,n/a,https://x.com/skocherhan/status/2074451044591919568
 2026-07-07,tweetfeed,DOMAIN,9554kotyata-persermx.icu,n/a,https://x.com/skocherhan/status/2074451044591919568
 2026-07-07,tweetfeed,DOMAIN,bilibili.tv,n/a,https://x.com/skocherhan/status/2074451044591919568
@@ -528,7 +514,6 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,HASH_MD5,adf675ffc1acb357f2d9f1a94e016f52,"unknown, md5_hash",n/a
 2026-07-08,threatfox,HASH_MD5,4200b46a93c6ab059e2b34ce200c4a5b,"unknown, md5_hash",n/a
 2026-07-08,tweetfeed,DOMAIN,RKM-20260614-1514.zip,n/a,https://x.com/tdatwja/status/2074757977152872860
-2026-07-07,tweetfeed,IP,51.81.105.250,AsyncRAT,https://x.com/skocherhan/status/2074442592469577767
 2026-07-07,tweetfeed,IP,37.148.134.251,n/a,https://x.com/malwrhunterteam/status/2074446671014977607
 2026-07-07,tweetfeed,HASH_SHA256,e522bceb0ba12f6404ddb28b955299d92ddc55184a6514835ffc5d3df0250453,n/a,https://x.com/smica83/status/2074461057695858967
 2026-07-07,tweetfeed,HASH_SHA256,b42043f7abdf66112045382f5a6ac886af193bfa9a6ba900087bd8dcff9028d1,n/a,https://x.com/smica83/status/2074468687696822673
@@ -563,9 +548,9 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,HASH_SHA256,e6bfb3662ab4b1969a73441dbe35c96d51441b6bff8cf1fe7430bd5b246ca605,n/a,https://x.com/tdatwja/status/2074728921883619559
 2026-07-08,tweetfeed,IP,91.102.127.168,"C2, RAT",https://x.com/Fact_Finder03/status/2074764422350844035
 2026-07-08,tweetfeed,IP,192.252.180.45,n/a,https://x.com/tdatwja/status/2074757977152872860
-2026-07-07,tweetfeed,HASH_MD5,a5495a547b4218148914469f1ee65d47,n/a,https://x.com/skocherhan/status/2074437223437537361
-2026-07-07,tweetfeed,HASH_MD5,2b56c1df7aee641d1429a67789086810,stealer,https://x.com/suyog41/status/2074437761529237545
-2026-07-07,tweetfeed,HASH_MD5,5af6d8dfe0f5b64c65eda60d23c2c199,n/a,https://x.com/skocherhan/status/2074439130478461012
+2026-07-08,tweetfeed,IP,152.53.154.171,n/a,https://x.com/Malwarehunterr/status/2074793512693014648
+2026-07-08,tweetfeed,HASH_SHA256,3063b6da82048aa1a73446b48e5b4ad867277a93e74d253c52b66cc4a943ece4,"AsyncRAT, VenomRAT",https://x.com/bomccss/status/2074794571872317633
+2026-07-08,tweetfeed,HASH_SHA256,23f9c51c704fbf90c089dd0544491c3e1e810b7f5ebe0c736022a805b48fbc5d,n/a,https://x.com/smica83/status/2074806606936584287
 2026-07-07,tweetfeed,HASH_MD5,b145ea2f33bbcc30e4c3e0a1c134a4e1,n/a,https://x.com/skocherhan/status/2074451044591919568
 2026-07-07,tweetfeed,HASH_MD5,7d8d69c93d9e497ebf8bb7983e26bef5,n/a,https://x.com/skocherhan/status/2074451044591919568
 2026-07-07,tweetfeed,HASH_MD5,f0b682dbbf1a08daf85c0e25ceb8dd8b,n/a,https://x.com/skocherhan/status/2074594270900572473
