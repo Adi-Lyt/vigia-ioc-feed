@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-07,threatfox,URL,https://95.217.245.14,"win.vidar, url",n/a
-2026-07-07,threatfox,URL,http://hatcae.xyz:4538,"win.remus, url",n/a
 2026-07-07,threatfox,URL,https://sop.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,https://sop.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,http://160.20.109.75/d19ca32cb5a444ac8b87.php,"win.stealc, url",n/a
@@ -37,14 +35,6 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,URL,https://azevedo.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-07-08,threatfox,URL,https://microcrypt1987.com/update/package,"js.kongtuke, url",n/a
 2026-07-08,threatfox,URL,https://fraitas.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-07-07,threatfox,DOMAIN,ezrqiew.jet90bet1.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,jet90bet1.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,iixryzos.1xyekbet.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,zipyerx.jet303.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,jet303.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,fhwyunu.jet1bet.com,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,3qian795.bet359.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,k78134om.bet359.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,ffedpfb.jet90bet.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,ywpwwxjc.ace90bet1.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,jet90bet.bet,"js.clearfake, domain",n/a
@@ -270,13 +260,14 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,DOMAIN,dpbp.betsher.casino,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,xclparsl.megashart.blog,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,megashart.blog,"js.clearfake, domain",n/a
-2026-07-07,tweetfeed,URL,https://cuotasypagos.online,phishing,https://x.com/tial_cl/status/2074478791163019658
-2026-07-07,tweetfeed,URL,https://cuotasypagos.online/pagos,phishing,https://x.com/tial_cl/status/2074478791163019658
-2026-07-07,tweetfeed,URL,https://cuotasypagos.online/api/checkout/pubkey,phishing,https://x.com/tial_cl/status/2074478791163019658
-2026-07-07,tweetfeed,URL,https://cuotasypagos.online/api/checkout/initiate,phishing,https://x.com/tial_cl/status/2074478791163019658
-2026-07-07,tweetfeed,URL,https://cuotasypagos.online/api/checkout/confirm,phishing,https://x.com/tial_cl/status/2074478791163019658
-2026-07-07,tweetfeed,URL,https://cuotasypagos.online/api/payments,phishing,https://x.com/tial_cl/status/2074478791163019658
-2026-07-07,tweetfeed,URL,http://cuotasypagos.online,phishing,https://x.com/tial_cl/status/2074478791163019658
+2026-07-08,threatfox,DOMAIN,etorvugt.betsher.casino,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,wrov.betfa.download,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,4lbsgx9v.powershart.com,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,89g5nu0q.powershart.com,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,drvepxdy.milioner.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,instnhvy.melbetiran.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,melbetiran.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,metabluefire.dexispointnexus.garden,"js.clearfake, domain",n/a
 2026-07-07,tweetfeed,URL,http://jon2012.com,AsyncRAT,https://x.com/skocherhan/status/2074543606069604792
 2026-07-07,tweetfeed,URL,http://104.18.26.154:443,AsyncRAT,https://x.com/skocherhan/status/2074543606069604792
 2026-07-07,tweetfeed,URL,http://104.18.27.154:443,AsyncRAT,https://x.com/skocherhan/status/2074543606069604792
@@ -376,7 +367,7 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,URL,http://165.245.215.18,n/a,https://x.com/moonlock_lab/status/2074861061996421326
 2026-07-08,tweetfeed,URL,http://rahtam.com,n/a,https://x.com/moonlock_lab/status/2074861061996421326
 2026-07-08,tweetfeed,URL,http://scubin.com,n/a,https://x.com/moonlock_lab/status/2074861061996421326
-2026-07-07,tweetfeed,DOMAIN,cuotasypagos.online,phishing,https://x.com/tial_cl/status/2074478791163019658
+2026-07-08,tweetfeed,URL,http://Ew-investment.com,scam,https://x.com/ThatManCarterIV/status/2074889424031162849
 2026-07-07,tweetfeed,DOMAIN,jon2012.com,AsyncRAT,https://x.com/skocherhan/status/2074543606069604792
 2026-07-07,tweetfeed,DOMAIN,myaccount-googie.com,n/a,https://x.com/FalconFeedsio/status/2074544004918858053
 2026-07-07,tweetfeed,DOMAIN,ios-certificate-update.com,n/a,https://x.com/FalconFeedsio/status/2074544004918858053
@@ -446,7 +437,7 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,DOMAIN,tayeqrsn.com,ransomware,https://x.com/scanmalware/status/2074856036586987868
 2026-07-08,tweetfeed,DOMAIN,rahtam.com,n/a,https://x.com/moonlock_lab/status/2074861061996421326
 2026-07-08,tweetfeed,DOMAIN,scubin.com,n/a,https://x.com/moonlock_lab/status/2074861061996421326
-2026-07-07,tweetfeed,IP,41.216.184.159,phishing,https://x.com/PhishStats/status/2074526748574646609
+2026-07-08,tweetfeed,DOMAIN,Ew-investment.com,scam,https://x.com/ThatManCarterIV/status/2074889424031162849
 2026-07-07,tweetfeed,HASH_SHA256,73876ee1264df21e7f1cd007a41d722c30ef9977607f650eafd016d04b01ea61,n/a,https://x.com/James_inthe_box/status/2074538853944443060
 2026-07-07,tweetfeed,IP,2.100.178.45,n/a,https://x.com/skocherhan/status/2074544035763503196
 2026-07-07,tweetfeed,IP,192.229.87.194,n/a,https://x.com/smica83/status/2074556626917642397
