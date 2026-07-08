@@ -3,7 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-01,threatfox,URL,https://puzzlekit.co.il/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://t10.psgiran.news/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://t10.jangkarsm188.top/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://origin-al.org/,"win.vidar, url",n/a
@@ -231,11 +230,7 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,URL,https://t08.omni-signage.com/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,https://potty.com/,"js.iclickfix, url",n/a
 2026-07-08,threatfox,URL,https://tommy-q.lol/o,"js.kongtuke, url",n/a
-2026-07-01,threatfox,DOMAIN,betsoor.live,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,7ipg23zj.bet808.poker,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,bet808.poker,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,betreward.bet,"js.clearfake, domain",n/a
-2026-07-01,threatfox,DOMAIN,bet404.app,"js.clearfake, domain",n/a
+2026-07-08,threatfox,URL,http://37.1.213.59/y8jdGc5jS/index.php,"win.amadey, url",n/a
 2026-07-01,threatfox,DOMAIN,jpopdwg.vip1xbet.net,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,8pxyyjso.doobix.pro,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,doobix.pro,"js.clearfake, domain",n/a
@@ -1570,6 +1565,17 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,DOMAIN,accidentclinic.miami,"unknown_stealer, domain",n/a
 2026-07-08,threatfox,DOMAIN,zvulhavn.elitesport.ir,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,elitesport.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,www.ikukuomalogistics.com,"win.remcos, domain",n/a
+2026-07-08,threatfox,DOMAIN,www.ikukuomalogistics1.com,"win.remcos, domain",n/a
+2026-07-08,threatfox,DOMAIN,www.ikukuomalogistics2.com,"win.remcos, domain",n/a
+2026-07-08,threatfox,DOMAIN,abrmot.pro,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,goldstar6port.dexispointnexus.garden,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,4z0tdlyo.calvaryhospice.org,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,vfrsh9y6.bunos.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,ihnx.footbalpersian.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,footbalpersian.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,jtemlhyz.enfej.casino,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,enfej.casino,"js.clearfake, domain",n/a
 2026-07-01,tweetfeed,URL,http://85.204.125.67:8080,malware,https://x.com/0xb1lal/status/2072427133666820326
 2026-07-02,tweetfeed,URL,https://hub.necpas.org/home/,phishing,https://x.com/PhishStats/status/2072474508649263152
 2026-07-02,tweetfeed,URL,http://62.33.223.164,n/a,https://x.com/banthisguy9349/status/2072492697764642939
