@@ -1,5 +1,4 @@
 date,user,type,ioc,tags,context
-2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,threatfox,URL,https://sop.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,https://sop.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,http://160.20.109.75/d19ca32cb5a444ac8b87.php,"win.stealc, url",n/a
@@ -36,8 +35,6 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,URL,https://t08.omni-signage.com/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,https://potty.com/,"js.iclickfix, url",n/a
 2026-07-08,threatfox,URL,https://tommy-q.lol/o,"js.kongtuke, url",n/a
-2026-07-07,threatfox,DOMAIN,rmhtxvz.jet90betyek.bet,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,jet90betyek.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,ajdixpjp.1xforward.xyz,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,npvnwrv.jetbet90iran.bet,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,jetbet90iran.bet,"js.clearfake, domain",n/a
@@ -283,6 +280,19 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,DOMAIN,betwinner.poker,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,lddwegnb.ketabworld.ir,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,ketabworld.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,dgl7533w.melbetir.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,melbetir.bet,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,st1-colud-google.bond,"win.cobalt_strike, domain",n/a
+2026-07-08,threatfox,DOMAIN,qakm.fiorentini.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,fiorentini.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,24cart.store,"unknown_stealer, domain",n/a
+2026-07-08,threatfox,DOMAIN,2leap.es,"unknown_stealer, domain",n/a
+2026-07-08,threatfox,DOMAIN,abadi136.net,"unknown_stealer, domain",n/a
+2026-07-08,threatfox,DOMAIN,abenegihugu.com,"unknown_stealer, domain",n/a
+2026-07-08,threatfox,DOMAIN,adalyametal.com,"unknown_stealer, domain",n/a
+2026-07-08,threatfox,DOMAIN,accidentclinic.miami,"unknown_stealer, domain",n/a
+2026-07-08,threatfox,DOMAIN,zvulhavn.elitesport.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,elitesport.ir,"js.clearfake, domain",n/a
 2026-07-07,tweetfeed,URL,https://esdeekid.st,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074585275725189120
 2026-07-07,tweetfeed,URL,https://esdeekid.st/call.html?code=<random,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074585275725189120
 2026-07-07,tweetfeed,URL,https://driver-issues.com,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074585275725189120
@@ -390,6 +400,31 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,HASH_SHA256,da483f0d56aabc55d45b170c4f605c97c722b3c2400cc6a5643a45f116121258,"py.venus_stealer, sha256_hash",n/a
 2026-07-08,threatfox,HASH_SHA256,06f915bc056a74c1c9b6faa3098a700ef4e5f54b8b1e84f73c70dcc6f5096949,"win.arkei_stealer, sha256_hash",n/a
 2026-07-08,threatfox,HASH_SHA256,86f77feba22ad9641d9464ac07c0fc4c2657f62cf02b85bdb50a192980265ebf,"win.vidar, sha256_hash",n/a
+2026-07-08,tweetfeed,URL,http://80.89.238.73,n/a,https://x.com/malwrhunterteam/status/2074926596905975828
+2026-07-08,tweetfeed,URL,https://rubikon-update.ru/verify.hta,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://turn.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://194.147.78.186,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://tg.rubicon-contract.ru/k/,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://web.rubicon-contract.ru/k/,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://max.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://ya.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://verify.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://gos.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://vk.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://goog.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,https://livekit.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,http://rubikon-update.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,URL,http://api.0bbo.com/*,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,http://api.0bbr.com/*,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,http://api.absgarter.live/*,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,http://api.jobkt.com/*,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,https://6o8f3eui3yz320if6dc8qbjra5gi75.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,https://gur8vrlsi9w9e179cejslf.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,https://oy22gp4f128y3xxzhhwm109lim6.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,https://t27m7mub0c2hyqzxsrk38u.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,https://u40wbrah1rswgqs5f3i83kr1l.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,URL,https://wtwabq60q6zya592w83v7s.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
 2026-07-07,tweetfeed,DOMAIN,esdeekid.st,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074585275725189120
 2026-07-07,tweetfeed,DOMAIN,driver-issues.com,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074585275725189120
 2026-07-07,tweetfeed,DOMAIN,predictsuite.io,"ClickFix, malware",https://x.com/skocherhan/status/2074589911974396152
@@ -471,7 +506,28 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,HASH_MD5,55b80c0bb297e1cdbd85530c30c6d723,"py.venus_stealer, md5_hash",n/a
 2026-07-08,threatfox,HASH_MD5,32ba76496cf54bf0c9302e6ddab64cd9,"win.arkei_stealer, md5_hash",n/a
 2026-07-08,threatfox,HASH_MD5,c6da85645488cfbb1120310f837f7fc7,"win.vidar, md5_hash",n/a
-2026-07-07,tweetfeed,IP,37.148.135.113,phishing,https://x.com/stop_spammerz/status/2074570587742122401
+2026-07-08,tweetfeed,DOMAIN,rubikon-update.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,turn.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,tg.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,web.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,max.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,ya.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,verify.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,gos.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,vk.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,goog.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,livekit.rubicon-contract.ru,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
+2026-07-08,tweetfeed,DOMAIN,api.0bbo.com,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,api.0bbr.com,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,api.absgarter.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,api.jobkt.com,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,6o8f3eui3yz320if6dc8qbjra5gi75.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,gur8vrlsi9w9e179cejslf.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,oy22gp4f128y3xxzhhwm109lim6.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,t27m7mub0c2hyqzxsrk38u.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,u40wbrah1rswgqs5f3i83kr1l.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
+2026-07-08,tweetfeed,DOMAIN,wtwabq60q6zya592w83v7s.live,phishing,https://x.com/SpiderLabs/status/2074939076621238308
 2026-07-07,tweetfeed,IP,103.217.253.29,"ClickFix, malware",https://x.com/Malwarehunterr/status/2074585275725189120
 2026-07-07,tweetfeed,HASH_SHA256,efd52204ada06e10e310e5bc4bf417e9e5a1b0da675950832402aba69b2a84e3,phishing,https://x.com/skocherhan/status/2074590137070064010
 2026-07-07,tweetfeed,IP,85.192.56.20,"ClickFix, malware",https://x.com/skocherhan/status/2074591209826271648
@@ -521,6 +577,10 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,HASH_SHA256,19d9dd50b345d393cfaab84927d29b75ddd8876d687b8329fdaaffc04d7bc2c8,malware,https://x.com/Malwarehunterr/status/2074891243973480537
 2026-07-08,tweetfeed,HASH_SHA256,3905019787477bee5434351d44d8477ea3182c124b8cb43d142e0e02b1da4210,malware,https://x.com/Malwarehunterr/status/2074891243973480537
 2026-07-08,tweetfeed,HASH_SHA256,cafa5753b4471a613cb44cd88fc36b9acef511509bf85f76940a2813808fc691,n/a,https://x.com/smica83/status/2074925900576018587
+2026-07-08,tweetfeed,IP,94.154.43.68,C2,https://x.com/0xb1lal/status/2074875994758922296
+2026-07-08,tweetfeed,IP,80.89.238.73,n/a,https://x.com/malwrhunterteam/status/2074926596905975828
+2026-07-08,tweetfeed,HASH_SHA256,9481dbfb659113e977977f4872d9e620a83a5811fdc30fc4054495fe48cdbcbe,n/a,https://x.com/smica83/status/2074927659516346578
+2026-07-08,tweetfeed,IP,194.147.78.186,ClickFix,https://x.com/Malwarehunterr/status/2074934202274025568
 2026-07-07,tweetfeed,HASH_MD5,f0b682dbbf1a08daf85c0e25ceb8dd8b,n/a,https://x.com/skocherhan/status/2074594270900572473
 2026-07-08,tweetfeed,HASH_MD5,e8be48f95cbc2df9479731537a031ba2,n/a,https://x.com/sicehice/status/2074689090188910737
 2026-07-08,tweetfeed,HASH_MD5,c8aaf972d871e23a6a17581a81049ff1,n/a,https://x.com/sicehice/status/2074689090188910737
