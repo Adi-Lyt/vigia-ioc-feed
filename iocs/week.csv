@@ -1580,7 +1580,11 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,DOMAIN,ztop.hazzaratbet.com,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,qgypyyvvzeouq.mospoqkzvk.com,"unknown, domain",n/a
 2026-07-08,threatfox,DOMAIN,fraitas.lol,"js.kongtuke, domain",n/a
-2026-07-01,tweetfeed,URL,http://magicmike26.myddns.me,malware,https://x.com/D3LabIT/status/2072302680555258023
+2026-07-08,threatfox,DOMAIN,cabv.bet24.casino,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,rieo.bet24.casino,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,mancityiran.club,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,sjgejs29.itsport.ir,"js.clearfake, domain",n/a
+2026-07-08,threatfox,DOMAIN,itsport.ir,"js.clearfake, domain",n/a
 2026-07-01,threatfox,HASH_SHA256,f682942cb2b55e88b3dc13b228c35765ad624434cf472490078a29566c7bfa03,"jar.crossrat, sha256_hash",n/a
 2026-07-01,threatfox,HASH_SHA256,c322fa3e02a79ecead674bc4a8e67b71d14632427f8dc9a380b0f588941bbf1a,"py.venus_stealer, sha256_hash",n/a
 2026-07-01,threatfox,HASH_SHA256,a9b2a1d2cc97c1a621c729d2a7b706b202280e446a0300da493156e685c4dde9,"win.nanocore, sha256_hash",n/a
@@ -3062,7 +3066,9 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,URL,http://207.174.0.143:8080/zoom-update.html,"malware, opendir",https://x.com/Malwarehunterr/status/2074830801209004444
 2026-07-08,threatfox,HASH_SHA256,1ca17239f5bec17ef244fc55357c6d0560337d7cadd1bb61574ab010f14a8d14,"unknown, sha256_hash",n/a
 2026-07-08,threatfox,HASH_SHA256,830a22ea4eb2ebb8c60c7731fa5175d3a315d023a812aea40147326cc4c8a4dd,"unknown, sha256_hash",n/a
-2026-07-01,tweetfeed,DOMAIN,magicmike26.myddns.me,malware,https://x.com/D3LabIT/status/2072302680555258023
+2026-07-08,tweetfeed,URL,https://dyumfqe.com,phishing,https://x.com/klawlikula/status/2074841535154164056
+2026-07-08,tweetfeed,URL,http://139.64.172.58,phishing,https://x.com/klawlikula/status/2074841535154164056
+2026-07-08,tweetfeed,URL,http://136.0.82.38,n/a,https://x.com/suyog41/status/2074843393482440962
 2026-07-01,threatfox,HASH_MD5,37daa89551604908ec63096ec5a87504,"jar.crossrat, md5_hash",n/a
 2026-07-01,threatfox,HASH_MD5,e11bb364c56bf0880c2402744dbb4d83,"py.venus_stealer, md5_hash",n/a
 2026-07-01,threatfox,HASH_MD5,83383615883396568ca7d3e26a3f52b0,"win.nanocore, md5_hash",n/a
@@ -4514,6 +4520,7 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,DOMAIN,usual-infant-filme-definitely.trycloudflare.com,opendir,https://x.com/smica83/status/2074826174354628914
 2026-07-08,tweetfeed,DOMAIN,eplus.fg-hd.com,phishing,https://x.com/masaomi346/status/2074830114240831682
 2026-07-08,tweetfeed,DOMAIN,blog.derrspecial-onlinedmin.live,"malware, opendir",https://x.com/Malwarehunterr/status/2074830801209004444
+2026-07-08,tweetfeed,DOMAIN,dyumfqe.com,phishing,https://x.com/klawlikula/status/2074841535154164056
 2026-07-01,tweetfeed,HASH_SHA256,520304a1cabdd9aa05c0a769c3874bc3cc2608d8e71ae607ca2bdf96b298b5de,"APT, malware",https://x.com/skocherhan/status/2072337157956440555
 2026-07-01,tweetfeed,IP,186.71.90.36,n/a,https://x.com/sicehice/status/2072337678020886729
 2026-07-01,tweetfeed,IP,85.204.125.67,malware,https://x.com/0xb1lal/status/2072427133666820326
@@ -4761,7 +4768,10 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,HASH_SHA256,dd23012b4dc29cf7901185ae4fb2d507e737e9ea4d467846eafd6a86b26486bf,"malware, opendir",https://x.com/Malwarehunterr/status/2074830801209004444
 2026-07-08,tweetfeed,HASH_SHA256,aa84e2ac68f7fc18f4927b89be7b4a7739f2eaf099e489aa0f65c1d3913ce62a,"malware, opendir",https://x.com/Malwarehunterr/status/2074830801209004444
 2026-07-08,tweetfeed,HASH_SHA256,794331fd4fd48600ebee0c579517f3a7122a87a2bf8e2da18dfc8d5d57c0da93,n/a,https://x.com/smica83/status/2074834893964464276
-2026-07-01,tweetfeed,HASH_MD5,088e5f818e976e85df25b84affb59c20,malware,https://x.com/D3LabIT/status/2072302680555258023
+2026-07-08,tweetfeed,IP,139.64.172.58,phishing,https://x.com/klawlikula/status/2074841535154164056
+2026-07-08,tweetfeed,IP,136.0.82.38,n/a,https://x.com/suyog41/status/2074843393482440962
+2026-07-08,tweetfeed,HASH_SHA256,3ff99773187346e6d7a2717142d579a626bd60b4faabacad1fc0c3f1bd8c0c05,n/a,https://x.com/L0Psec/status/2074849631125614835
+2026-07-08,tweetfeed,HASH_SHA256,e5356b14ce24b2e193053edd0989a318b12154401e0de8190fdeec0eb946cf58,n/a,https://x.com/L0Psec/status/2074849631125614835
 2026-07-01,tweetfeed,HASH_MD5,3a14a2b2123c49565d7741468d3f2565,n/a,https://x.com/sicehice/status/2072337678020886729
 2026-07-01,tweetfeed,HASH_MD5,effaa7bfe98b758282642799bda68535,n/a,https://x.com/skocherhan/status/2072340744761733538
 2026-07-02,tweetfeed,HASH_MD5,4e433dc08fd86851f3124afd375deb9b,"APT, RAT, malware",https://x.com/Cyberteam008/status/2072511370210529494
@@ -4812,3 +4822,4 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,HASH_MD5,ef62e9b3d7203f825dbf5dda8d4770c9,n/a,https://x.com/tdatwja/status/2074728921883619559
 2026-07-08,tweetfeed,HASH_MD5,03b43160d21c08de07a79d0a1c5ee81d,n/a,https://x.com/tdatwja/status/2074728921883619559
 2026-07-08,tweetfeed,HASH_MD5,6826705d895d90fb70fc4de4f46a4c34,n/a,https://x.com/tdatwja/status/2074728921883619559
+2026-07-08,tweetfeed,HASH_MD5,d390b8d43356c67994ca7651345e9361,n/a,https://x.com/suyog41/status/2074843393482440962
