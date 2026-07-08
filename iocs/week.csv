@@ -4,11 +4,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-01,threatfox,URL,https://88.99.235.235/,"win.vidar, url",n/a
-2026-07-01,threatfox,URL,https://159.69.77.223/,"win.vidar, url",n/a
-2026-07-01,threatfox,URL,https://94.130.41.8/,"win.vidar, url",n/a
-2026-07-01,threatfox,URL,https://94.130.120.240/,"win.vidar, url",n/a
-2026-07-01,threatfox,URL,https://195.201.58.116/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://jjl.psgiran.news/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,https://jjl.jangkarsm188.top/,"win.vidar, url",n/a
 2026-07-01,threatfox,URL,http://202.70.139.110:44351/Mozi.a,"elf.mozi, url",n/a
@@ -258,7 +253,6 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,URL,https://appcert9869.net/update/package,"js.kongtuke, url",n/a
 2026-07-08,threatfox,URL,http://helptocheckc.com/get,"unknown, url",n/a
 2026-07-08,threatfox,URL,https://tommy-z.lol/o,"js.kongtuke, url",n/a
-2026-07-01,threatfox,DOMAIN,lvt.vip1xbet.net,"js.clearfake, domain",n/a
 2026-07-01,threatfox,DOMAIN,jjl.psgiran.news,"win.vidar, domain",n/a
 2026-07-01,threatfox,DOMAIN,jjl.jangkarsm188.top,"win.vidar, domain",n/a
 2026-07-01,threatfox,DOMAIN,mdftw8lo.btyek.website,"js.clearfake, domain",n/a
@@ -4532,9 +4526,6 @@ date,user,type,ioc,tags,context
 2026-07-08,tweetfeed,DOMAIN,isudcnzy.eu.cc,n/a,https://x.com/bomccss/status/2074744392624304304
 2026-07-08,tweetfeed,DOMAIN,Tax-Number725863.zip,n/a,https://x.com/bomccss/status/2074744392624304304
 2026-07-08,tweetfeed,DOMAIN,yk.ggdy.com,n/a,https://x.com/bomccss/status/2074744394604073359
-2026-07-01,tweetfeed,IP,5.230.249.49,"C2, RAT",https://x.com/Fact_Finder03/status/2072206819812921779
-2026-07-01,tweetfeed,HASH_SHA256,9273d32f583e255418191598b9e1a520764ac94409b02924e7e7fa7b5afba0eb,"C2, RAT",https://x.com/Fact_Finder03/status/2072206819812921779
-2026-07-01,tweetfeed,HASH_SHA256,ec9e3c0dac4c677751f1a6bac745fa01c47fc46b38a5cd3dc0036b39f63387cc,"C2, RAT",https://x.com/Fact_Finder03/status/2072206819812921779
 2026-07-01,tweetfeed,IP,103.122.247.36,C2,https://x.com/skocherhan/status/2072229414775968246
 2026-07-01,tweetfeed,HASH_SHA256,50d83e4f3d38e7414795b41a766fce97b00647d91d113f62e0b585fc2b17987e,APT,https://x.com/byrne_emmy12099/status/2072253213701771394
 2026-07-01,"threatfox,tweetfeed",HASH_SHA256,9c0a88ea53c4e0324157542385a1d342101feb51cf7b8cf76e9441376f1f522a,n/a,https://x.com/SquiblydooBlog/status/2072280304522334319
