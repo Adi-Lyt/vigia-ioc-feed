@@ -3,20 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-02,threatfox,URL,https://www.abenegihugu.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://itsdoctorpayne.com/,"win.vidar, url",n/a
-2026-07-02,threatfox,URL,https://schnicksch-tiernahrung.de/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://churchforsale.ca/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://alwadannews24.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://bleuhaven.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://cashforcars-pittsburgh.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://sunpermit.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://ope.jokimecat88.top/,"win.vidar, url",n/a
-2026-07-02,threatfox,URL,https://atrafen.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://ikinogo.net/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://dirtbgone.ie/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://www.tuttoinriviera.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://www.amazonia-navigators.ro/,"unknown, url",n/a
 2026-07-02,threatfox,URL,https://pax.psgiran.news/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://pax.jokimecat88.top/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://irahook.org/mods/,"unknown_stealer, url",n/a
@@ -227,14 +213,43 @@ date,user,type,ioc,tags,context
 2026-07-08,threatfox,URL,http://37.1.213.59/y8jdGc5jS/index.php,"win.amadey, url",n/a
 2026-07-08,threatfox,URL,https://bru.omni-signage.com/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,https://bru.kataksm188.top/,"win.vidar, url",n/a
-2026-07-02,threatfox,DOMAIN,simultaneouslypower.com,"js.ether_rat, domain",n/a
-2026-07-02,threatfox,DOMAIN,wiselystarting.com,"js.ether_rat, domain",n/a
-2026-07-02,threatfox,DOMAIN,itemrange.com,"js.ether_rat, domain",n/a
-2026-07-02,threatfox,DOMAIN,sap.dev.rw.digital,"unknown, domain",n/a
-2026-07-02,threatfox,DOMAIN,essentialnestshop.com,"unknown, domain",n/a
-2026-07-02,threatfox,DOMAIN,ope.jokimecat88.top,"win.vidar, domain",n/a
-2026-07-02,threatfox,DOMAIN,mail.catsec.ink,"elf.mirai, domain",n/a
-2026-07-02,threatfox,DOMAIN,smtp.catsec.ink,"elf.mirai, domain",n/a
+2026-07-09,threatfox,URL,http://95.217.38.238/ws/agent,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://ned.omni-signage.com/,"win.vidar, url",n/a
+2026-07-09,threatfox,URL,https://ned.kataksm188.top/,"win.vidar, url",n/a
+2026-07-09,threatfox,URL,https://joanpowerslaw.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://tennistotal.net/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://turuncukentmobilyalari.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://triangleadvocacia.es/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://proroyalty.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://teknofestdronesampiyonasi.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://mediaintegra.co.id/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://www.tais-costruzioni.it/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://populardentalcare.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://notarymatrixinc.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://ilovebeaver.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://www.kilimanjarodreams.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://londonhomeguide.co.uk/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://laguzmancontinta.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://www.mercio.org/wp-footerblog.php,"unknown_loader, url",n/a
+2026-07-09,threatfox,URL,https://cobaltjunction.top/reset/refresh-util,"js.smartapesg, url",n/a
+2026-07-09,threatfox,URL,https://cobaltjunction.top/reset/principal-response.js,"js.smartapesg, url",n/a
+2026-07-09,threatfox,URL,https://abbasheartwm.org/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://gotomariko.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://finsightsconsulting.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://danacgautreaux.net/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://www.sbss.org.in/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://childrenhouseschool.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://alessiachloeperu.com.pe/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://boxywebtools.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://adiapavj.ro/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://bartonspecialistclinic.com.au/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://abrmot.pro/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://healthfood.zone/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://feng-shui.ua/b/in.js,"win.sliver, url",n/a
+2026-07-09,threatfox,URL,https://feng-shui.ua/b/up.js,"win.sliver, url",n/a
+2026-07-09,threatfox,URL,https://www.terrerouge.mg/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://anfconcepts.com/,"unknown, url",n/a
+2026-07-09,threatfox,URL,https://northpalmstay.com/,"unknown, url",n/a
 2026-07-02,threatfox,DOMAIN,5werloog.funxbet.live,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,iruj70rd.funxbet.live,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,forwardbet.org,"js.clearfake, domain",n/a
@@ -1583,6 +1598,16 @@ date,user,type,ioc,tags,context
 2026-07-09,threatfox,DOMAIN,glmo.bcgame90.casino,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,i0wrocb4.bet90forward.win,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,kolbedoosti.ir,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,snbzg3fu.noscriptc11pills.com,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,noscriptc11pills.com,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,ned.omni-signage.com,"win.vidar, domain",n/a
+2026-07-09,threatfox,DOMAIN,ned.kataksm188.top,"win.vidar, domain",n/a
+2026-07-09,threatfox,DOMAIN,xqbhmyyk.powershart.com,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,zirq.bet24.casino,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,mercio.org,"unknown_loader, domain",n/a
+2026-07-09,threatfox,DOMAIN,cobaltjunction.top,"js.smartapesg, domain",n/a
+2026-07-09,threatfox,DOMAIN,secpopper.world,"win.sliver, domain",n/a
+2026-07-09,threatfox,DOMAIN,catalapnews.today,"win.sliver, domain",n/a
 2026-07-02,tweetfeed,URL,https://biboniu.top/jp,phishing,https://x.com/masaomi346/status/2072556429274399114
 2026-07-02,tweetfeed,URL,http://rfccarparkmanagement.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
 2026-07-02,tweetfeed,URL,http://sexdamvcl.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
@@ -3070,6 +3095,14 @@ date,user,type,ioc,tags,context
 2026-07-09,tweetfeed,URL,http://pingmyload.net,n/a,https://x.com/banthisguy9349/status/2075046958746751254
 2026-07-09,tweetfeed,URL,http://coolai.pro,n/a,https://x.com/banthisguy9349/status/2075046958746751254
 2026-07-09,tweetfeed,URL,http://cracked.sh,n/a,https://x.com/banthisguy9349/status/2075048168157581611
+2026-07-09,tweetfeed,URL,http://greenbullet.su,n/a,https://x.com/banthisguy9349/status/2075079980175015939
+2026-07-09,tweetfeed,URL,http://216.146.31.1,n/a,https://x.com/banthisguy9349/status/2075079980175015939
+2026-07-09,tweetfeed,URL,https://workshopsledbyiesa.65bdy.com/#/,phishing,https://x.com/Metemcyber/status/2075089257526612301
+2026-07-09,threatfox,HASH_SHA256,4ff468f704f266022358d80e61845af92dea230f66e1e2674776431c161e8c01,"apk.kimwolf, sha256_hash",n/a
+2026-07-09,threatfox,HASH_SHA256,15f446470be5c470e41b42b8d18f36c10cb6efbac3c69f1f7fd21a1496e4a7a6,"elf.aisuru, sha256_hash",n/a
+2026-07-09,threatfox,HASH_SHA256,8f708114c42c3ee145d51b0e698f787d249ca86345e5916ac554e750d6eac0c2,"win.sliver, sha256_hash",n/a
+2026-07-09,threatfox,HASH_SHA256,d9228d6c7d4d2557202a251e3b7018788cdb7ac6f64440774d96b7fdc3d2bac3,"win.sliver, sha256_hash",n/a
+2026-07-09,threatfox,HASH_SHA256,70bf89c7580c7195407735cc8fa8b48ab17741036ffcd85704d6d4b600d824c8,"win.sliver, sha256_hash",n/a
 2026-07-02,tweetfeed,DOMAIN,biboniu.top,phishing,https://x.com/masaomi346/status/2072556429274399114
 2026-07-02,tweetfeed,DOMAIN,rfccarparkmanagement.co.uk,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
 2026-07-02,tweetfeed,DOMAIN,sexdamvcl.net,"AsyncRAT, C2",https://x.com/skocherhan/status/2072582939561394194
@@ -4526,6 +4559,8 @@ date,user,type,ioc,tags,context
 2026-07-09,tweetfeed,DOMAIN,pingmyload.net,n/a,https://x.com/banthisguy9349/status/2075046958746751254
 2026-07-09,tweetfeed,DOMAIN,coolai.pro,n/a,https://x.com/banthisguy9349/status/2075046958746751254
 2026-07-09,tweetfeed,DOMAIN,cracked.sh,n/a,https://x.com/banthisguy9349/status/2075048168157581611
+2026-07-09,tweetfeed,DOMAIN,greenbullet.su,n/a,https://x.com/banthisguy9349/status/2075079980175015939
+2026-07-09,tweetfeed,DOMAIN,workshopsledbyiesa.65bdy.com,phishing,https://x.com/Metemcyber/status/2075089257526612301
 2026-07-02,tweetfeed,HASH_SHA256,02550b883fd0c73751ebdccc45a88d66d15610cdd96a26f339d38286712f9688,n/a,https://x.com/d1v35hresearch/status/2072552853303067081
 2026-07-02,tweetfeed,HASH_SHA256,74d1d9328fc330e58d9a87033904d18d5a15325eb5e6d8f39a697a0cb04ea6bb,n/a,https://x.com/d1v35hresearch/status/2072552853303067081
 2026-07-02,tweetfeed,IP,168.110.216.67,C2,https://x.com/Fact_Finder03/status/2072557383726080350
@@ -4789,6 +4824,8 @@ date,user,type,ioc,tags,context
 2026-07-09,tweetfeed,IP,130.12.180.31,phishing,https://x.com/PhishStats/status/2075037185967886753
 2026-07-09,tweetfeed,IP,115.227.26.85,n/a,https://x.com/sicehice/status/2075041108535492886
 2026-07-09,tweetfeed,HASH_SHA256,1909a7bed21f14dd3ff1ce904d3caab1b513408efe73a51d4e8017aa19f8c2e2,ransomware,https://x.com/akudryk007/status/2075078728271442143
+2026-07-09,tweetfeed,IP,216.146.31.1,n/a,https://x.com/banthisguy9349/status/2075079980175015939
+2026-07-09,tweetfeed,IP,43.165.185.186,phishing,https://x.com/Metemcyber/status/2075089257526612301
 2026-07-02,tweetfeed,HASH_MD5,c41c9bb70ce9b500b6473a5aef1b8b8c,VenomRAT,https://x.com/suyog41/status/2072638844583723406
 2026-07-02,tweetfeed,HASH_MD5,aa8564316137d9f056d87960d2ca3294,n/a,https://x.com/suyog41/status/2072646213862584431
 2026-07-02,tweetfeed,HASH_MD5,687bf1633615388cb4b7bd3f726507e4,Lokibot,https://x.com/skocherhan/status/2072718925628907722
