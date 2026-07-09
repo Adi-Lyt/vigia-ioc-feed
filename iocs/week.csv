@@ -3,10 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-02,threatfox,URL,https://soccerpunter.org/,"win.vidar, url",n/a
-2026-07-02,threatfox,URL,https://fesold.com/,"unknown, url",n/a
-2026-07-02,threatfox,URL,https://nonseca.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-07-02,threatfox,URL,https://tommy-m.lol/o,"js.kongtuke, url",n/a
 2026-07-02,threatfox,URL,https://cyprushomestager.com/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://imperialroofingandgutteringltd.co.uk/,"win.vidar, url",n/a
 2026-07-02,threatfox,URL,https://jermainelewis.com/,"win.vidar, url",n/a
@@ -258,11 +254,6 @@ date,user,type,ioc,tags,context
 2026-07-09,threatfox,URL,https://carreiro.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-09,threatfox,URL,https://carreiro.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-09,threatfox,URL,https://linenregistry.top/route/health-json.js,"js.smartapesg, url",n/a
-2026-07-02,threatfox,DOMAIN,kqlnrvh.enfejar.poker,"js.clearfake, domain",n/a
-2026-07-02,threatfox,DOMAIN,klqxthu.enfejar.poker,"js.clearfake, domain",n/a
-2026-07-02,threatfox,DOMAIN,tommy-m.lol,"js.kongtuke, domain",n/a
-2026-07-02,threatfox,DOMAIN,dl.politex.app,"js.fakeupdates, domain",n/a
-2026-07-02,threatfox,DOMAIN,enfejar.poker,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,gejrdcu.enfejar.poker,"js.clearfake, domain",n/a
 2026-07-02,threatfox,DOMAIN,game.dualuoilocphu.com,"elf.mirai, domain",n/a
 2026-07-02,threatfox,DOMAIN,api.vypidvdstatx.click,"elf.mirai, domain",n/a
@@ -1634,9 +1625,11 @@ date,user,type,ioc,tags,context
 2026-07-09,threatfox,DOMAIN,ntlskcah.podcastshop.ir,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,podcastshop.ir,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,hpwj.betawarz.com,"js.clearfake, domain",n/a
-2026-07-02,tweetfeed,URL,http://cdnorigin.net,n/a,https://x.com/eyalsela/status/2072637376787046652
-2026-07-02,tweetfeed,URL,https://lva.com.au/documentation/,phishing,https://x.com/SpiderLabs/status/2072676867685937217
-2026-07-02,tweetfeed,URL,https://page-8-xls-vft-lvfsa.pefferarley83249.workers.dev,phishing,https://x.com/SpiderLabs/status/2072676867685937217
+2026-07-09,threatfox,DOMAIN,rlio.catsandcarp.com,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,3b213f9c.lionsport.ir,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,lionsport.ir,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,pokerprado.poker,"js.clearfake, domain",n/a
+2026-07-09,threatfox,DOMAIN,mejpiuio.pokerprado.poker,"js.clearfake, domain",n/a
 2026-07-02,tweetfeed,URL,http://axincoins.top,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,URL,http://download.axincoins.top,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,URL,https://macalvinsreport.online,phishing,https://x.com/Malwarehunterr/status/2072673601229308037
@@ -3108,9 +3101,10 @@ date,user,type,ioc,tags,context
 2026-07-09,tweetfeed,URL,http://198.23.185.244:1000,malware,https://x.com/Malwarehunterr/status/2075213448351560129
 2026-07-09,tweetfeed,URL,http://198.23.185.244,malware,https://x.com/Malwarehunterr/status/2075213448351560129
 2026-07-09,tweetfeed,URL,http://mailupdate.edgeone.dev,ransomware,https://x.com/scanmalware/status/2075216655844589900
-2026-07-02,tweetfeed,DOMAIN,cdnorigin.net,n/a,https://x.com/eyalsela/status/2072637376787046652
-2026-07-02,tweetfeed,DOMAIN,lva.com.au,phishing,https://x.com/SpiderLabs/status/2072676867685937217
-2026-07-02,tweetfeed,DOMAIN,page-8-xls-vft-lvfsa.pefferarley83249.workers.dev,phishing,https://x.com/SpiderLabs/status/2072676867685937217
+2026-07-09,tweetfeed,URL,http://tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion,ransomware,https://x.com/fbgwls245/status/2075220106926547207
+2026-07-09,tweetfeed,URL,http://crpx0.su,ransomware,https://x.com/DarkWebInformer/status/2074939243768553948
+2026-07-09,tweetfeed,URL,http://luuuma.duckdns.org,Remcos,https://x.com/skocherhan/status/2075226179972354455
+2026-07-09,tweetfeed,URL,http://luuumabk.duckdns.org,Remcos,https://x.com/skocherhan/status/2075226179972354455
 2026-07-02,tweetfeed,DOMAIN,axincoins.top,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,DOMAIN,download.axincoins.top,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,DOMAIN,macalvinsreport.online,phishing,https://x.com/Malwarehunterr/status/2072673601229308037
@@ -4541,6 +4535,10 @@ date,user,type,ioc,tags,context
 2026-07-09,tweetfeed,DOMAIN,destinystealer.com,n/a,https://x.com/anyrun_app/status/2075210982469554324
 2026-07-09,tweetfeed,DOMAIN,tipidor-38534.portmap.host,n/a,https://x.com/anyrun_app/status/2075210982469554324
 2026-07-09,tweetfeed,DOMAIN,mailupdate.edgeone.dev,ransomware,https://x.com/scanmalware/status/2075216655844589900
+2026-07-09,tweetfeed,DOMAIN,tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion,ransomware,https://x.com/fbgwls245/status/2075220106926547207
+2026-07-09,tweetfeed,DOMAIN,crpx0.su,ransomware,https://x.com/DarkWebInformer/status/2074939243768553948
+2026-07-09,tweetfeed,DOMAIN,luuuma.duckdns.org,Remcos,https://x.com/skocherhan/status/2075226179972354455
+2026-07-09,tweetfeed,DOMAIN,luuumabk.duckdns.org,Remcos,https://x.com/skocherhan/status/2075226179972354455
 2026-07-02,tweetfeed,HASH_SHA256,cfed8c8f005c48bae8893de2df3b2414f5b1bf4bbb5c2ae8ffdd7874198f35dd,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,HASH_SHA256,3975cf46cf619ce5aedbde941a20a0f56f84410daf802260626edc00a592e3f4,"malware, phishing",https://x.com/Malwarehunterr/status/2072656168489828629
 2026-07-02,tweetfeed,IP,114.70.201.71,"phishing, scam",https://x.com/Malwarehunterr/status/2072711594283598336
@@ -4831,6 +4829,7 @@ date,user,type,ioc,tags,context
 2026-07-09,tweetfeed,IP,198.23.185.244,malware,https://x.com/Malwarehunterr/status/2075213448351560129
 2026-07-09,tweetfeed,HASH_SHA256,eb49b1e1d61362698d31c97bb9260f2c5cdc4590a3b6efa64d861369c13e4c47,malware,https://x.com/Malwarehunterr/status/2075213448351560129
 2026-07-09,tweetfeed,HASH_SHA256,104c98ab8941f07a2bb8c9cc3ab9b9fe5dfb81d55772025b700502f382ae62d9,malware,https://x.com/Malwarehunterr/status/2075213448351560129
+2026-07-09,tweetfeed,HASH_SHA256,36676e250845e80680378907fc59be007fabf6eb8967994cbd5c16fbf69893d6,n/a,https://x.com/smica83/status/2075224490598937019
 2026-07-02,tweetfeed,HASH_MD5,687bf1633615388cb4b7bd3f726507e4,Lokibot,https://x.com/skocherhan/status/2072718925628907722
 2026-07-02,tweetfeed,HASH_MD5,7756a7ef6468a2b1038e0c28826ddb18,Xworm,https://x.com/skocherhan/status/2072720261640487416
 2026-07-02,tweetfeed,HASH_MD5,7c30d3efed41f980209a637ab3efce84,n/a,https://x.com/skocherhan/status/2072737574649536721
