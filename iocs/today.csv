@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-09,threatfox,URL,https://kev.omni-signage.com/,"win.vidar, url",n/a
-2026-07-09,threatfox,URL,https://kev.kataksm188.top/,"win.vidar, url",n/a
 2026-07-09,threatfox,URL,http://dikdiy.xyz:6504,"win.remus, url",n/a
 2026-07-09,threatfox,URL,http://cochru.xyz:5747,"win.remus, url",n/a
 2026-07-09,threatfox,URL,https://littleforlot.com/nfront.php,"win.satacom, url",n/a
@@ -31,14 +29,6 @@ date,user,type,ioc,tags,context
 2026-07-10,threatfox,URL,https://bdm.kencangsm188.top/,"win.vidar, url",n/a
 2026-07-10,threatfox,URL,http://geminyw.xyz:5003,"win.remus, url",n/a
 2026-07-10,threatfox,URL,http://cw212153.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
-2026-07-09,threatfox,DOMAIN,kev.omni-signage.com,"win.vidar, domain",n/a
-2026-07-09,threatfox,DOMAIN,kev.kataksm188.top,"win.vidar, domain",n/a
-2026-07-09,threatfox,DOMAIN,noirmond9site.dexispointnexus.garden,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,vbhm.one1winbet.com,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,one1winbet.com,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,caewscad.fileboroo.com,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,p8rzf42g.radmanwear.ir,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,radmanwear.ir,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,kkc.vogueatelier.cc,"win.acr_stealer, domain",n/a
 2026-07-09,threatfox,DOMAIN,static.stacksupport.cc,"win.acr_stealer, domain",n/a
 2026-07-09,threatfox,DOMAIN,peopletechrevolution.com.au,"unknown, domain",n/a
@@ -272,6 +262,20 @@ date,user,type,ioc,tags,context
 2026-07-10,threatfox,DOMAIN,fyav.bahigo90bet.com,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,ertt.bahigo90bet.com,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,mfno.bahigo90bet.com,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,loadpetitstar1.qivornodeunit.garden,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,viewdarkberg5.qivornodeunit.garden,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,hyh08ykm.packetmeridian.top,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,packetmeridian.top,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,mfrsnkup.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,xzxllyxf.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,mikdsgmy.milioner.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,pointrougesoft.qivornodeunit.garden,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,mamkor.pro,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,bcgame.wine,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,vxfo.bahigo.casino,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,ttfg.bahigo.casino,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,s8p4n4bz.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,pqu0ohtm.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
 2026-07-09,tweetfeed,URL,http://160.20.109.21/kkrr44gg/tenuousstereo.ps1,n/a,https://x.com/smica83/status/2075277784574763066
 2026-07-09,tweetfeed,URL,http://160.20.109.21/kkrr44gg/cropalmanac.ps1,n/a,https://x.com/smica83/status/2075277784574763066
 2026-07-09,tweetfeed,URL,http://vorpluxian.site,"APT, malware",https://x.com/phatomcandle/status/2075278831209107887
