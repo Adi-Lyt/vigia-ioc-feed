@@ -3,10 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-55255,"Langflow Langflow, kev","Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-56290,"Joomlack Page Builder, kev","Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
-2026-07-03,threatfox,URL,https://pokese.pro/,"unknown, url",n/a
-2026-07-03,threatfox,URL,https://leannnn.lol/file.js,"js.kongtuke, url",n/a
-2026-07-03,threatfox,URL,https://leannnn.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-07-03,threatfox,URL,https://leannnn.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-03,threatfox,URL,https://pearljunction.top/realm/tenant-thread,"js.smartapesg, url",n/a
 2026-07-03,threatfox,URL,https://pearljunction.top/realm/user-runtime.js,"js.smartapesg, url",n/a
 2026-07-03,threatfox,URL,http://64.224.17.118/b98b577ad87f42dbbf91.php,"win.stealc, url",n/a
@@ -248,10 +244,6 @@ date,user,type,ioc,tags,context
 2026-07-10,threatfox,URL,http://techfonet.com/pw/Panel/five/fre.php,"win.lokipws, url",n/a
 2026-07-10,threatfox,URL,https://dup.omni-signage.com/,"win.vidar, url",n/a
 2026-07-10,threatfox,URL,https://dup.kencangsm188.top/,"win.vidar, url",n/a
-2026-07-03,threatfox,DOMAIN,simpleoo3pooline-i.com,"unknown_loader, domain",n/a
-2026-07-03,threatfox,DOMAIN,frhphph.1xsomalia.com,"js.clearfake, domain",n/a
-2026-07-03,threatfox,DOMAIN,1xsomalia.com,"js.clearfake, domain",n/a
-2026-07-03,threatfox,DOMAIN,leannnn.lol,"js.kongtuke, domain",n/a
 2026-07-03,threatfox,DOMAIN,aawzmuz.1xvip.live,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,1xvip.live,"js.clearfake, domain",n/a
 2026-07-03,threatfox,DOMAIN,zrdxgajy.thevallartasrestaurants.com,"js.clearfake, domain",n/a
@@ -675,7 +667,7 @@ date,user,type,ioc,tags,context
 2026-07-06,threatfox,DOMAIN,hourpigs.xyz,"unknown_loader, domain",n/a
 2026-07-06,threatfox,DOMAIN,visitorwash.xyz,"unknown_loader, domain",n/a
 2026-07-06,threatfox,DOMAIN,juicejar.cfd,"unknown_loader, domain",n/a
-2026-07-06,threatfox,DOMAIN,obx-stash.beer,"win.rcs, domain",n/a
+2026-07-06,"threatfox,tweetfeed",DOMAIN,obx-stash.beer,"win.rcs, domain",n/a
 2026-07-06,threatfox,DOMAIN,cramjui.winx303.com,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,pqzevvh.winx303.com,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,winx303.com,"js.clearfake, domain",n/a
@@ -2152,9 +2144,33 @@ date,user,type,ioc,tags,context
 2026-07-10,threatfox,DOMAIN,radioshartbandi.blog,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,huzlrwhe.btyek.cloud,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,vacnkjqi.btyek.cloud,"js.clearfake, domain",n/a
-2026-07-03,tweetfeed,URL,http://1470136830.rsc.cdn77.org,n/a,https://x.com/skocherhan/status/2072993612741198233
-2026-07-03,tweetfeed,URL,http://pub-770373fc03d94a08ab145bef82d19f70.r2.dev/data.enc,n/a,https://x.com/skocherhan/status/2072993612741198233
-2026-07-03,tweetfeed,URL,http://43.248.172.115,n/a,https://x.com/smica83/status/2072995027123417383
+2026-07-10,threatfox,DOMAIN,jytlbnje.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,ujniklzz.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,nwsaduex.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,nightstalkerwatch.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,shadowmatrixpls.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,shadowrunevail.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,voidwalkerforge.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,warmcoffeetime.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,ashenravenfort.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,ashenshadowfort.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,bloodboundcitadel.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,bloodthornkeep.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,brokenvelvetdream.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,darkflamewatch.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,electricvoidfire.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,electricvoidsig.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,frostvenomfort.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,frozennebularhy.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,frozenwildheart.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,ironwolfcrest.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,ironwraithtower.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,mistwalkerforge.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,nightflamevortex.top,"js.magecart, domain",n/a
+2026-07-10,threatfox,DOMAIN,nfvh.1pishbini.com,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,fgkz.1pishbini.com,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,bizec8bu.zaribbala.bet,"js.clearfake, domain",n/a
+2026-07-10,threatfox,DOMAIN,o9a66qig.zaribbala.bet,"js.clearfake, domain",n/a
 2026-07-03,tweetfeed,URL,https://link24.kr/1wfRYB,APT,https://x.com/byrne_emmy12099/status/2073017629292589088
 2026-07-03,tweetfeed,URL,https://bl.psycch2.club/ftx,phishing,https://x.com/patialavii/status/2073024331534508358
 2026-07-03,tweetfeed,URL,https://bl.psycch2.club/A_rmm_v2.5.0.67_oidf4020e13-b122-49d8-929e-3f44a229e8d3_bidhu7RZx2U4UOPHO2x56uhYA.exe,phishing,https://x.com/patialavii/status/2073024331534508358
@@ -3596,8 +3612,15 @@ date,user,type,ioc,tags,context
 2026-07-10,tweetfeed,URL,http://192.3.73.136,Remcos,https://x.com/skocherhan/status/2075524355736408534
 2026-07-10,tweetfeed,URL,http://155.103.71.115:13507,Remcos,https://x.com/skocherhan/status/2075524355736408534
 2026-07-10,tweetfeed,URL,http://thebcteam.net/staple.exe,Remcos,https://x.com/skocherhan/status/2075526997279658464
-2026-07-03,tweetfeed,DOMAIN,1470136830.rsc.cdn77.org,n/a,https://x.com/skocherhan/status/2072993612741198233
-2026-07-03,tweetfeed,DOMAIN,pub-770373fc03d94a08ab145bef82d19f70.r2.dev,n/a,https://x.com/skocherhan/status/2072993612741198233
+2026-07-10,tweetfeed,URL,http://raw.githubusercontent.com/mgothiclove/pkeys/main/sys.cache,n/a,https://x.com/SquiblydooBlog/status/2075531016077508880
+2026-07-10,tweetfeed,URL,http://endpoint-api-v1.com/d/f1b24e,n/a,https://x.com/SquiblydooBlog/status/2075531016077508880
+2026-07-10,tweetfeed,URL,http://thisisafalsepositive.st,n/a,https://x.com/skocherhan/status/2075538015988900166
+2026-07-10,tweetfeed,URL,http://185.178.208.191,n/a,https://x.com/skocherhan/status/2075538015988900166
+2026-07-10,tweetfeed,URL,http://150.136.141.142,n/a,https://x.com/skocherhan/status/2075538015988900166
+2026-07-10,tweetfeed,URL,http://obx-stash.beer,n/a,https://x.com/skocherhan/status/2075541700747972762
+2026-07-10,tweetfeed,URL,http://dark-strong.beer,n/a,https://x.com/skocherhan/status/2075541700747972762
+2026-07-10,tweetfeed,URL,http://clip-stash.beer,n/a,https://x.com/skocherhan/status/2075541700747972762
+2026-07-10,tweetfeed,URL,http://158.94.211.218,n/a,https://x.com/skocherhan/status/2075541700747972762
 2026-07-03,tweetfeed,DOMAIN,bl.psycch2.club,phishing,https://x.com/patialavii/status/2073024331534508358
 2026-07-03,tweetfeed,DOMAIN,teoconsa.com.py,phishing,https://x.com/patialavii/status/2073026348147511358
 2026-07-03,tweetfeed,DOMAIN,garotalinda.screenconnect.com,phishing,https://x.com/patialavii/status/2073026348147511358
@@ -4981,8 +5004,6 @@ date,user,type,ioc,tags,context
 2026-07-10,tweetfeed,DOMAIN,jamesnotbon700.duckdns.org,Remcos,https://x.com/skocherhan/status/2075521518021329395
 2026-07-10,tweetfeed,DOMAIN,service1.truecreds.org,Remcos,https://x.com/skocherhan/status/2075524355736408534
 2026-07-10,tweetfeed,DOMAIN,thebcteam.net,Remcos,https://x.com/skocherhan/status/2075526997279658464
-2026-07-03,tweetfeed,IP,43.248.172.115,n/a,https://x.com/smica83/status/2072995027123417383
-2026-07-03,tweetfeed,HASH_SHA256,1380d7a41d3a9719116d41942ef92b0fcf1cdc00e12066a9796ac0a5e4552a2d,n/a,https://x.com/smica83/status/2072995027123417383
 2026-07-03,tweetfeed,HASH_SHA256,0ba78b693744c5f3b45a1b9e9e96479f51701590aa36c7dbd24cb9abcdc2d410,APT,https://x.com/byrne_emmy12099/status/2073017629292589088
 2026-07-03,tweetfeed,IP,2.5.0.67,phishing,https://x.com/patialavii/status/2073024331534508358
 2026-07-03,tweetfeed,HASH_SHA256,0c15ddf632fb9d43db95d82a7af3ea96c3e1a0ab12a4a453c5d6c6cecb34f511,phishing,https://x.com/patialavii/status/2073026348147511358
@@ -5270,9 +5291,10 @@ date,user,type,ioc,tags,context
 2026-07-10,tweetfeed,HASH_SHA256,482eaafcd2e09b3c766c51546bbe1a2af495eb1c7bada6f87deec4d27ce8c837,n/a,https://x.com/smica83/status/2075523113668743428
 2026-07-10,tweetfeed,IP,192.3.73.136,Remcos,https://x.com/skocherhan/status/2075524355736408534
 2026-07-10,tweetfeed,IP,155.103.71.115,Remcos,https://x.com/skocherhan/status/2075524355736408534
-2026-07-03,tweetfeed,HASH_MD5,b3faa755a255e2754e82fe132e98a7c4,n/a,https://x.com/skocherhan/status/2072990961974596020
-2026-07-03,tweetfeed,HASH_MD5,10c0abbd18d7b96b7b4f55bf74d0547b,n/a,https://x.com/skocherhan/status/2072993612741198233
-2026-07-03,tweetfeed,HASH_MD5,48452d7f73a0e73b62a16b4c88068a60,n/a,https://x.com/skocherhan/status/2072996239558209661
+2026-07-10,tweetfeed,IP,179.43.166.242,n/a,https://x.com/SquiblydooBlog/status/2075531016077508880
+2026-07-10,tweetfeed,IP,185.178.208.191,n/a,https://x.com/skocherhan/status/2075538015988900166
+2026-07-10,tweetfeed,IP,150.136.141.142,n/a,https://x.com/skocherhan/status/2075538015988900166
+2026-07-10,tweetfeed,IP,158.94.211.218,n/a,https://x.com/skocherhan/status/2075541700747972762
 2026-07-03,tweetfeed,HASH_MD5,c9a9cea878e6a3db84223b113982a8b9,n/a,https://x.com/skocherhan/status/2073037805916180702
 2026-07-04,tweetfeed,HASH_MD5,0f0649b820f62187f7e3e8f3039b0954,n/a,https://x.com/bsforvt727/status/2073375442384617721
 2026-07-05,tweetfeed,HASH_MD5,bba2b75bd6ddd069aeec2b76a2e98545,C2,https://x.com/bsforvt727/status/2073684550799208616
@@ -5313,3 +5335,4 @@ date,user,type,ioc,tags,context
 2026-07-10,tweetfeed,HASH_MD5,4daf3f7f7c491c489f4bdd786d9c9027,n/a,https://x.com/skocherhan/status/2075370442412511443
 2026-07-10,tweetfeed,HASH_MD5,23111b7048da3db16bda411260c64b8d,phishing,https://x.com/G94164Guillaume/status/2075406225383084290
 2026-07-10,tweetfeed,HASH_MD5,2e1bbe0ae673b5035180105653aeeaeb,stealer,https://x.com/suyog41/status/2075514444621480213
+2026-07-10,tweetfeed,HASH_MD5,c34e076695746e63703c578c5c00190b,n/a,https://x.com/suyog41/status/2075544755627569484
