@@ -5,9 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-04,threatfox,URL,http://tallyr.shop:6584,"win.remus, url",n/a
-2026-07-04,threatfox,URL,http://envelzm.xyz:4538,"win.remus, url",n/a
-2026-07-04,threatfox,URL,http://193.148.56.145/8e469217c34746588eec.php,"win.stealc, url",n/a
 2026-07-04,threatfox,URL,https://drfitness.fit/,"win.vidar, url",n/a
 2026-07-05,threatfox,URL,http://slugph.xyz:4190,"win.remus, url",n/a
 2026-07-05,threatfox,URL,https://hijaztravel.co.uk/,"win.vidar, url",n/a
@@ -262,12 +259,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://91.98.111.49/,"win.vidar, url",n/a
 2026-07-11,threatfox,URL,http://41.216.189.92/nz.sh,"unknown, url",n/a
 2026-07-11,threatfox,URL,https://ctkmarketplace.com/,"win.vidar, url",n/a
-2026-07-04,threatfox,DOMAIN,qnfqfmh.ace90bet.bet,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,ace90bet.bet,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,2i2joe5h.aviatorfly.casino,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,authorization-id-code.info,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,authorization-code.beer,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,aviatorfly.casino,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,vhnp4ovl.1xcart.xyz,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,1xcart.xyz,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,mz2qs1j6.1xforward.live,"js.clearfake, domain",n/a
@@ -2401,6 +2392,13 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,ocglemkm.betraca.bet,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,hrunarqq.betraca.bet,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,borobet.cash,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,tglc.bahsegel90.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,pgxi.bahsegel90.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,xb7ea3kq.betturkey.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,jhrwzjpx.betturkey.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,kaleda.pro,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,gtcymxsv.onjabet1.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,osqbereb.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-04,tweetfeed,URL,http://150.158.111.117,n/a,https://x.com/smica83/status/2073444651864879600
 2026-07-04,tweetfeed,URL,http://lodet-marek43-poa.com,n/a,https://x.com/smica83/status/2073449475696152724
 2026-07-04,tweetfeed,URL,http://ma-pdffiller.lat,n/a,https://x.com/smica83/status/2073452233623007739
