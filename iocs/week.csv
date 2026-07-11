@@ -5,10 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-04,threatfox,URL,https://imgbb.media/,"unknown, url",n/a
-2026-07-04,threatfox,URL,https://kumlman.lol/file.js,"js.kongtuke, url",n/a
-2026-07-04,threatfox,URL,https://kumlman.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-07-04,threatfox,URL,https://kumlman.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-04,threatfox,URL,http://tallyr.shop:6584,"win.remus, url",n/a
 2026-07-04,threatfox,URL,http://envelzm.xyz:4538,"win.remus, url",n/a
 2026-07-04,threatfox,URL,http://193.148.56.145/8e469217c34746588eec.php,"win.stealc, url",n/a
@@ -262,10 +258,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,https://inoxarreda.it/,"win.vidar, url",n/a
-2026-07-04,threatfox,DOMAIN,cgoucbv.thevallartasrestaurants.com,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,goto.followfromapps.icu,"unknown_loader, domain",n/a
-2026-07-04,threatfox,DOMAIN,midpfv.xyz,"win.remus, domain",n/a
-2026-07-04,threatfox,DOMAIN,kumlman.lol,"js.kongtuke, domain",n/a
 2026-07-04,threatfox,DOMAIN,ms9amh2h.1xcart.vip,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,1xcart.vip,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,rxyvhv1x.1xforward.cash,"js.clearfake, domain",n/a
@@ -2372,8 +2364,10 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,indigo2forjoy.com,"win.njrat, domain",n/a
 2026-07-11,threatfox,DOMAIN,o82lzdzb.networkatlas.top,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,networkatlas.top,"js.clearfake, domain",n/a
-2026-07-04,tweetfeed,URL,http://update.uburtu.com,n/a,https://x.com/malwrhunterteam/status/2073351183377322370
-2026-07-04,tweetfeed,URL,http://156.250.133.202,n/a,https://x.com/malwrhunterteam/status/2073351376638255536
+2026-07-11,threatfox,DOMAIN,hlme.bet90forward.app,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,bet90forward.app,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,uzmapubv.behtarin-site-shartbandi-football.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,dawsszrm.behtarin-site-shartbandi-football.com,"js.clearfake, domain",n/a
 2026-07-04,tweetfeed,URL,http://allegrolokalnie.oferta2649zxrab2949374.shop,phishing,https://x.com/PhishStats/status/2073387181050126355
 2026-07-04,tweetfeed,URL,http://panel.edge-msdn.com/login,malware,https://x.com/ViriBack/status/2073406707741470800
 2026-07-04,tweetfeed,URL,http://66.42.114.65:8080,malware,https://x.com/ViriBack/status/2073406707741470800
@@ -3855,7 +3849,6 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,URL,http://XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
 2026-07-11,tweetfeed,URL,http://cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
 2026-07-11,tweetfeed,URL,http://aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
-2026-07-04,tweetfeed,DOMAIN,update.uburtu.com,n/a,https://x.com/malwrhunterteam/status/2073351183377322370
 2026-07-04,tweetfeed,DOMAIN,allegrolokalnie.oferta2649zxrab2949374.shop,phishing,https://x.com/PhishStats/status/2073387181050126355
 2026-07-04,tweetfeed,DOMAIN,panel.edge-msdn.com,malware,https://x.com/ViriBack/status/2073406707741470800
 2026-07-04,threatfox,HASH_MD5,77c96f339974b65ae435313a8fcc3b35,"win.mimikatz, md5_hash",n/a
@@ -5259,8 +5252,6 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
 2026-07-11,tweetfeed,DOMAIN,cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
 2026-07-11,tweetfeed,DOMAIN,aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
-2026-07-04,tweetfeed,HASH_SHA256,d4558b47af554d48367ecf2dd3f0d2b1185598b8cc98f9652f587143ab57e185,n/a,https://x.com/smica83/status/2073343096293577110
-2026-07-04,tweetfeed,IP,156.250.133.202,n/a,https://x.com/malwrhunterteam/status/2073351376638255536
 2026-07-04,tweetfeed,HASH_SHA256,e194f205c37b130c799ebd5f5dbacc526fda02034a9324f5713a31b8672ecf56,n/a,https://x.com/smica83/status/2073356974897389928
 2026-07-04,tweetfeed,IP,85.137.49.215,phishing,https://x.com/PhishStats/status/2073387181050126355
 2026-07-04,tweetfeed,IP,66.42.114.65,malware,https://x.com/ViriBack/status/2073406707741470800
