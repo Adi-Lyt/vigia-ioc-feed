@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-04,threatfox,URL,https://drfitness.fit/,"win.vidar, url",n/a
 2026-07-05,threatfox,URL,http://slugph.xyz:4190,"win.remus, url",n/a
 2026-07-05,threatfox,URL,https://hijaztravel.co.uk/,"win.vidar, url",n/a
 2026-07-05,threatfox,URL,https://ghevanphong.pro/,"win.vidar, url",n/a
@@ -273,10 +272,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,http://93.152.224.29/tBiNhjfyJ2VFClAx85,"unknown, url",n/a
 2026-07-11,threatfox,URL,http://85.239.149.16/gWowSyTRkvfEcGsIj,"unknown, url",n/a
 2026-07-11,threatfox,URL,https://shift-art.com/123/cloudflare/verify/humanverfification/cloudflarechallenge/CustomerID37832738/,"unknown, url",n/a
-2026-07-04,threatfox,DOMAIN,gobfmmh.casino888.promo,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,casino888.promo,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,hvid2q0h.bet24bet.bet,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,bet24bet.bet,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,czcymhx.enfejar-site.bet,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,azbkptz.enfejar-site.bet,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,urqvdqc.dreambet.casino,"js.clearfake, domain",n/a
@@ -2417,6 +2412,12 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,lnfl.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,llgdqtat.betpublic.casino,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,fpbgrevs.betpublic.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,iwyx.bekabet.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,btye.bekabet.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,tjsojdll.betropol.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,5jsdebh3.backgammon.download,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,jhzehezj.backgammon.download,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,borobet.vip,"js.clearfake, domain",n/a
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou/login.php,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou/csr,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
