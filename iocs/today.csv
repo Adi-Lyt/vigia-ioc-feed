@@ -1,9 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-10,threatfox,URL,https://bdm.omni-signage.com/,"win.vidar, url",n/a
-2026-07-10,threatfox,URL,https://bdm.kencangsm188.top/,"win.vidar, url",n/a
-2026-07-10,threatfox,URL,http://geminyw.xyz:5003,"win.remus, url",n/a
 2026-07-10,threatfox,URL,http://cw212153.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
 2026-07-11,threatfox,URL,https://tecnoibrid.com/,"win.vidar, url",n/a
 2026-07-11,threatfox,URL,http://bonneli.rs/tmp/coreserver/gate.php,"win.pony, url",n/a
@@ -21,22 +18,7 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,https://inoxarreda.it/,"win.vidar, url",n/a
-2026-07-10,threatfox,DOMAIN,coolrecipients.com,"unknown, domain",n/a
-2026-07-10,threatfox,DOMAIN,opendocumentsforfree.com,"unknown, domain",n/a
-2026-07-10,threatfox,DOMAIN,youmustviewit.com,"unknown, domain",n/a
-2026-07-10,threatfox,DOMAIN,figcqryq.onjabet1.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,usgpuuzb.betcrash.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,bdm.omni-signage.com,"win.vidar, domain",n/a
-2026-07-10,threatfox,DOMAIN,bdm.kencangsm188.top,"win.vidar, domain",n/a
-2026-07-10,threatfox,DOMAIN,dzij.alevcasino.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,alevcasino.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,q6972jc6.powershart.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,oj7f87i3.radioshartbandi.casino,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,u4eum9pz.powershart.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,radioshartbandi.casino,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,xz1aa7xc.royalshart.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,wsqnts4a.milioner.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,royalshart.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,URL,https://integratepc.org/,"win.vidar, url",n/a
 2026-07-10,threatfox,DOMAIN,mjomrlox.bazisangkaqazgeychidancepoli.com,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,azrhfmdl.bazisangkaqazgeychidancepoli.com,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,rsxg.app-bet303.download,"js.clearfake, domain",n/a
@@ -368,11 +350,14 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,wgyp.backgammon.download,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,hdqzc.casinomhub.bet,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,ifpzjway.betebet.poker,"js.clearfake, domain",n/a
-2026-07-10,tweetfeed,URL,http://notifica.lat,"ClickFix, malware",https://x.com/skocherhan/status/2075562729977364772
-2026-07-10,tweetfeed,URL,http://cdn-sync.workers.dev,n/a,https://x.com/suyog41/status/2075563894085706156
-2026-07-10,tweetfeed,URL,http://45.59.123.164,n/a,https://x.com/suyog41/status/2075563894085706156
-2026-07-10,tweetfeed,URL,http://ceh.download-msoffice.com,APT,https://x.com/suyog41/status/2075572390315311333
-2026-07-10,tweetfeed,URL,http://ceh.download-msoffice.com#Sidewinder,APT,https://x.com/skocherhan/status/2075573597700059268
+2026-07-11,threatfox,DOMAIN,h81b1ag4.code-hediye-1xbet.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,code-hediye-1xbet.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,cal.magicalegyptwomen.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,syqi.bahigo.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,jqpy.bahigo.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,zs3z44wh.bettilt90.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,u9f06vxn.systemcompass.top,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,gglosnig.betewin.poker,"js.clearfake, domain",n/a
 2026-07-10,tweetfeed,URL,http://laicai22.vip,n/a,https://x.com/skocherhan/status/2075578959794688358
 2026-07-10,tweetfeed,URL,http://137.220.153.216:22,n/a,https://x.com/skocherhan/status/2075578959794688358
 2026-07-10,tweetfeed,URL,http://word.download-msoffice.com,n/a,https://x.com/suyog41/status/2075581101003972979
@@ -490,9 +475,112 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,URL,http://newssentinel.info,phishing,https://x.com/Q8CyberTi/status/2075898379595387117
 2026-07-11,tweetfeed,URL,http://www.ttmlcapitals.com,scam,https://x.com/Cheekyfreaq/status/2075906028890173894
 2026-07-11,tweetfeed,URL,http://72.255.59.150:38494/Mozi.m,n/a,https://x.com/sicehice/status/2075918486434357603
-2026-07-10,tweetfeed,DOMAIN,notifica.lat,"ClickFix, malware",https://x.com/skocherhan/status/2075562729977364772
-2026-07-10,tweetfeed,DOMAIN,cdn-sync.workers.dev,n/a,https://x.com/suyog41/status/2075563894085706156
-2026-07-10,tweetfeed,DOMAIN,ceh.download-msoffice.com,APT,https://x.com/skocherhan/status/2075573597700059268
+2026-07-11,tweetfeed,URL,http://dagatructiep67.credit,AsyncRAT,https://x.com/skocherhan/status/2075926577221607487
+2026-07-11,tweetfeed,URL,http://104.21.41.122,AsyncRAT,https://x.com/skocherhan/status/2075926577221607487
+2026-07-11,tweetfeed,URL,http://172.67.164.195,AsyncRAT,https://x.com/skocherhan/status/2075926577221607487
+2026-07-11,tweetfeed,URL,http://wt.chaoweinet.cn/ft_cq.htm,n/a,https://x.com/skocherhan/status/2075927895956922423
+2026-07-11,tweetfeed,URL,http://103.148.244.67,n/a,https://x.com/skocherhan/status/2075927895956922423
+2026-07-11,tweetfeed,URL,http://nexzid.fwh.is,phishing,https://x.com/skocherhan/status/2075931326683787586
+2026-07-11,tweetfeed,URL,http://sezepod.com,phishing,https://x.com/skocherhan/status/2075931326683787586
+2026-07-11,tweetfeed,URL,http://zecizide.fwh.is,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,URL,http://podcast.mkasv.top,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,URL,http://spotifyproprimehub-vl.fwh.is,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,URL,http://mecxizze.fwh.is,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,URL,http://nez-pod.gt.tc,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,URL,http://www.votehubs.xyz.goldenheritagebank.online,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,URL,http://informinfluencersprimes.ct.ws,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,URL,http://vote.qqvqv.top,phishing,https://x.com/skocherhan/status/2075933604417249560
+2026-07-11,tweetfeed,URL,http://vote.v1p3.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote.t1p5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sporityvoter.gt.tc,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sportifyingvote.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://boneandbounce.ewyatt.dev,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sportifyvibe.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote-fan-favourite.profxtraders.live,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sportfyvori.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sportifyvoter.gt.tc,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sportifyvoten.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sportifyvotee.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://timtolbert.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://fioravanti-fineart.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://1sideentertainment.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote-here.quinnemanuels.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://somethingelse.org.uk,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotifytune.fwh.is,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote-your-fav.proaffiliatemarketingpartners.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://coral-unique-wasabi.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://successful-uncovered-dead.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://teal-fluoridated-parsley.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://voting.platfom8.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://knowledgeable-defiant-trapezoid.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://harmless-loving-mousepad.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote-your-favourite-here.celebslinkup.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotifyvotinglink.rf.gd,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote.p01t5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://mytits.ch,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://secretmodels.ru,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote.net06.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://votestyle.b02x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://stylistic.s03x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://ivote.bu3t1.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://sexyladie.de,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote17.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://stylistic.platfom2.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://brattleborofire.org,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://dailyfashion.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://ecutopmkt.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://stylisticvote.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://i-voting.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote.platfom5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://podcast.t00x.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://podstream.clo0d.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://activevote.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.f2xnet.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://votepoll.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://votemax.p07x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://votenow.p09x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://stylish.useraccord.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://podcast.pro3n.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.pro3n.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotifypodcast.p01t5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.b5n1.icu,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotifyvote.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://hostvote.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://trustvote.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.clo0d.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://largevote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://lm6lp-ayaaa-aaaad-qfkaq-cai.icp0.io,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.m8t.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.b0x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://superstar-sexygirl.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://fashion.accts.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote.moissanitebk.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote.useraccord.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://widevote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://blvote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.ijorny.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://spotify.f1p.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://votefairly.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://parisfashion13.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://top.w9y.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://slippvote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://voteplatform.w9y.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote-session.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://stephanieherela.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://boneandbounce.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://win-contest.bizlye.biz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://glamour.votingplc.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://classychoice.votingplc.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://stylishacedemy.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://mayeloglobal.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://glamour.stylishvoting.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://vote-your-fan-favourite-here.glolgstkargo.delivery,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://demovote.lunitefx.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://demovote.irsservice.info,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://lm6lp-ayaaa-aaaad-qfkaq-cai.raw.icp0.io,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://leilak.bj,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://modellvotingacademy.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,URL,http://github.stylishvoting.online,phishing,https://x.com/skocherhan/status/2075934107029164502
 2026-07-10,tweetfeed,DOMAIN,laicai22.vip,n/a,https://x.com/skocherhan/status/2075578959794688358
 2026-07-10,tweetfeed,DOMAIN,word.download-msoffice.com,n/a,https://x.com/suyog41/status/2075581101003972979
 2026-07-10,tweetfeed,DOMAIN,Training.docx2a2e3e78e76bcc759905da3f1532a4b8C2word.download-msoffice.com,n/a,https://x.com/skocherhan/status/2075583391060103433
@@ -594,6 +682,108 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
 2026-07-11,tweetfeed,DOMAIN,newssentinel.info,phishing,https://x.com/Q8CyberTi/status/2075898379595387117
 2026-07-11,tweetfeed,DOMAIN,ttmlcapitals.com,scam,https://x.com/Cheekyfreaq/status/2075906028890173894
+2026-07-11,tweetfeed,DOMAIN,dagatructiep67.credit,AsyncRAT,https://x.com/skocherhan/status/2075926577221607487
+2026-07-11,tweetfeed,DOMAIN,wt.chaoweinet.cn,n/a,https://x.com/skocherhan/status/2075927895956922423
+2026-07-11,tweetfeed,DOMAIN,nexzid.fwh.is,phishing,https://x.com/skocherhan/status/2075931326683787586
+2026-07-11,tweetfeed,DOMAIN,sezepod.com,phishing,https://x.com/skocherhan/status/2075931326683787586
+2026-07-11,tweetfeed,DOMAIN,zecizide.fwh.is,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,DOMAIN,podcast.mkasv.top,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,DOMAIN,spotifyproprimehub-vl.fwh.is,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,DOMAIN,mecxizze.fwh.is,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,DOMAIN,nez-pod.gt.tc,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,DOMAIN,informinfluencersprimes.ct.ws,phishing,https://x.com/skocherhan/status/2075932220376613374
+2026-07-11,tweetfeed,DOMAIN,vote.qqvqv.top,phishing,https://x.com/skocherhan/status/2075933604417249560
+2026-07-11,tweetfeed,DOMAIN,vote.v1p3.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote.t1p5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sporityvoter.gt.tc,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sportifyingvote.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,boneandbounce.ewyatt.dev,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sportifyvibe.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote-fan-favourite.profxtraders.live,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sportfyvori.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sportifyvoter.gt.tc,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sportifyvoten.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sportifyvotee.xo.je,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,timtolbert.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,fioravanti-fineart.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,1sideentertainment.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote-here.quinnemanuels.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,somethingelse.org.uk,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotifytune.fwh.is,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote-your-fav.proaffiliatemarketingpartners.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,coral-unique-wasabi.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,successful-uncovered-dead.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,teal-fluoridated-parsley.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,voting.platfom8.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,knowledgeable-defiant-trapezoid.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,harmless-loving-mousepad.glitch.me,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote-your-favourite-here.celebslinkup.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotifyvotinglink.rf.gd,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote.p01t5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,mytits.ch,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,secretmodels.ru,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote.net06.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,votestyle.b02x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,stylistic.s03x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,ivote.bu3t1.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,sexyladie.de,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote17.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,stylistic.platfom2.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,brattleborofire.org,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,dailyfashion.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,ecutopmkt.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,stylisticvote.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,i-voting.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote.platfom5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,podcast.t00x.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,podstream.clo0d.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,activevote.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.f2xnet.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,votepoll.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,votemax.p07x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,votenow.p09x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,stylish.useraccord.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,podcast.pro3n.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.pro3n.xyz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotifypodcast.p01t5.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.b5n1.icu,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotifyvote.freewebhostmost.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,hostvote.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,trustvote.ct.ws,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.clo0d.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,largevote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,lm6lp-ayaaa-aaaad-qfkaq-cai.icp0.io,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.m8t.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.b0x.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,superstar-sexygirl.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,fashion.accts.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote.moissanitebk.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote.useraccord.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,widevote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,blvote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.ijorny.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,spotify.f1p.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,votefairly.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,parisfashion13.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,top.w9y.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,slippvote.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,voteplatform.w9y.top,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote-session.000.pe,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,stephanieherela.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,boneandbounce.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,win-contest.bizlye.biz,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,glamour.votingplc.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,classychoice.votingplc.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,stylishacedemy.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,mayeloglobal.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,glamour.stylishvoting.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,vote-your-fan-favourite-here.glolgstkargo.delivery,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,demovote.lunitefx.com,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,demovote.irsservice.info,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,lm6lp-ayaaa-aaaad-qfkaq-cai.raw.icp0.io,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,leilak.bj,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,modellvotingacademy.online,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,DOMAIN,github.stylishvoting.online,phishing,https://x.com/skocherhan/status/2075934107029164502
 2026-07-10,tweetfeed,IP,137.220.153.216,n/a,https://x.com/skocherhan/status/2075578959794688358
 2026-07-10,tweetfeed,HASH_SHA256,14722c5d0acec0c1f20813a5b9ba91742f5bab7a3c2f79eaa419aa87b7badad7,n/a,https://x.com/Malwarehunterr/status/2075223827399778429
 2026-07-10,tweetfeed,IP,202.95.14.237,n/a,https://x.com/skocherhan/status/2075649374798102691
@@ -608,8 +798,9 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,IP,45.87.223.250,n/a,https://x.com/AvukatMeleknur/status/2075762567255843232
 2026-07-11,tweetfeed,HASH_SHA256,735d59c0949e258501e177ec2dd5fbb60df9fa401ace08949b89077c6f0d41d0,n/a,https://x.com/Now_on_VT/status/2075869008000086426
 2026-07-11,tweetfeed,IP,72.255.59.150,n/a,https://x.com/sicehice/status/2075918486434357603
-2026-07-10,tweetfeed,HASH_MD5,731cd27170dd65a0241514b788cb6bbc,n/a,https://x.com/suyog41/status/2075563894085706156
-2026-07-10,tweetfeed,HASH_MD5,25b31199ae7689b19839cf71387c98a5,APT,https://x.com/skocherhan/status/2075573597700059268
+2026-07-11,tweetfeed,IP,103.148.244.67,n/a,https://x.com/skocherhan/status/2075927895956922423
+2026-07-11,tweetfeed,HASH_SHA256,f2d84a69d2d09c4dc44126b1ad0add53066e69fe77da6fa79c4368f1b5781118,phishing,https://x.com/skocherhan/status/2075934107029164502
+2026-07-11,tweetfeed,HASH_SHA256,440b5385d3838e3f6bc21220caa83b65cd5f3618daea676f271c3671650ce9a3,n/a,https://x.com/Now_on_VT/status/2075934633464885672
 2026-07-10,tweetfeed,HASH_MD5,2a2e3e78e76bcc759905da3f1532a4b8,n/a,https://x.com/suyog41/status/2075581101003972979
 2026-07-10,tweetfeed,HASH_MD5,64e01e7bd10b72c3fd5e931bc3c00868,n/a,https://x.com/skocherhan/status/2075584905849778241
 2026-07-10,tweetfeed,HASH_MD5,2edb118e4db7268d2b51963f1fbbe72a,n/a,https://x.com/skocherhan/status/2075659559021031933
@@ -617,3 +808,5 @@ date,user,type,ioc,tags,context
 2026-07-10,tweetfeed,HASH_MD5,502321417855e7f222d26d351b2f1308,APT,https://x.com/skocherhan/status/2075675753035730997
 2026-07-10,tweetfeed,HASH_MD5,7892f455695ba5229197dca0eeb63d55,n/a,https://x.com/sicehice/status/2075681602810576960
 2026-07-11,tweetfeed,HASH_MD5,fb49b85d71a706d8ba2fd92cc0c8dc74,n/a,https://x.com/skocherhan/status/2075732117648974026
+2026-07-11,tweetfeed,HASH_MD5,6a4a69ba45eb534f7c1eeff75d211e26,n/a,https://x.com/skocherhan/status/2075927895956922423
+2026-07-11,tweetfeed,HASH_MD5,a60c9173563b940203cf4ad38ccf2082,n/a,https://x.com/skocherhan/status/2075927895956922423
