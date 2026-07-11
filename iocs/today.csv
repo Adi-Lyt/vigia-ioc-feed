@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-10,threatfox,URL,https://dup.omni-signage.com/,"win.vidar, url",n/a
-2026-07-10,threatfox,URL,https://dup.kencangsm188.top/,"win.vidar, url",n/a
 2026-07-10,threatfox,URL,https://leconto.lol/file.js,"js.kongtuke, url",n/a
 2026-07-10,threatfox,URL,https://leconto.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-10,threatfox,URL,https://leconto.lol/api/v1/verify,"js.kongtuke, url",n/a
@@ -31,14 +29,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,https://inoxarreda.it/,"win.vidar, url",n/a
-2026-07-10,threatfox,DOMAIN,wlmulfgg.mellbeet.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,lyrp.radioshartbandi.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,dup.omni-signage.com,"win.vidar, domain",n/a
-2026-07-10,threatfox,DOMAIN,dup.kencangsm188.top,"win.vidar, domain",n/a
-2026-07-10,threatfox,DOMAIN,oria.radioshartbandi.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,x53ini6v.winnerbaz.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,aonwiltw.irantop.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,huy9e25g.winnerbaz.bet,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,ohnymfxm.btyek.cloud,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,eosgdskc.btyek.site,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,mbzomqnr.btyek.site,"js.clearfake, domain",n/a
@@ -408,16 +398,20 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,afforableappliancerepair.com,"unknown_stealer, domain",n/a
 2026-07-11,threatfox,DOMAIN,www.bacsontech.com,"unknown_stealer, domain",n/a
 2026-07-11,threatfox,DOMAIN,api-master.site,"unknown_stealer, domain",n/a
-2026-07-10,tweetfeed,URL,http://premiumwebserver.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,URL,http://webtechavsm.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,URL,http://bevavsreviews.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,URL,http://certifiedwebbrowsed.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,URL,http://yellow.kozow.com,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
-2026-07-10,tweetfeed,URL,http://grzz.mywire.org,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
-2026-07-10,tweetfeed,URL,http://5.180.114.153:4521,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
-2026-07-10,tweetfeed,URL,http://5.180.114.153:7579,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
-2026-07-10,tweetfeed,URL,http://odoba.duckdns.org,"C2, Remcos",https://x.com/skocherhan/status/2075515251416604946
-2026-07-10,tweetfeed,URL,http://104.168.115.89:4551,"C2, Remcos",https://x.com/skocherhan/status/2075515251416604946
+2026-07-11,threatfox,DOMAIN,r0.erloro.com,"win.cobalt_strike, domain",n/a
+2026-07-11,threatfox,DOMAIN,tuvu.bet404.game,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,bet404.game,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,stdcamtp.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,gpxingif.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,ai-trading.pro,"unknown_loader, domain",n/a
+2026-07-11,threatfox,DOMAIN,app.blackroad.io,"unknown_loader, domain",n/a
+2026-07-11,threatfox,DOMAIN,stromrechnung.receiver.st,"unknown, domain",n/a
+2026-07-11,threatfox,DOMAIN,dfdghfhddhdhfhdfhdfyhdfdfh.pages.dev,"unknown, domain",n/a
+2026-07-11,threatfox,DOMAIN,a9lrz6z9.betturkey.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,678y5rzq.betturkey.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,indigo2forjoy.com,"win.njrat, domain",n/a
+2026-07-11,threatfox,DOMAIN,o82lzdzb.networkatlas.top,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,networkatlas.top,"js.clearfake, domain",n/a
 2026-07-10,tweetfeed,URL,http://tradeswheel.lovestoblog.com,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
 2026-07-10,tweetfeed,URL,http://192.3.45.6,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
 2026-07-10,tweetfeed,URL,http://lastore7kajp1.duckdns.org,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
@@ -593,13 +587,8 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,HASH_SHA256,6fa62584242262b5da8dab22c790e32cf84adae04d231c09d26aae689547a800,"win.netsupportmanager_rat, sha256_hash",n/a
 2026-07-11,threatfox,HASH_SHA256,bd894e0e215af7fa9a6c99cb939efd7183b5cbf845c9e0b5e6038a95bd58c11a,"elf.cpuminer, sha256_hash",n/a
 2026-07-11,tweetfeed,URL,http://XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
-2026-07-10,tweetfeed,DOMAIN,premiumwebserver.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,DOMAIN,webtechavsm.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,DOMAIN,bevavsreviews.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,DOMAIN,certifiedwebbrowsed.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
-2026-07-10,tweetfeed,DOMAIN,yellow.kozow.com,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
-2026-07-10,tweetfeed,DOMAIN,grzz.mywire.org,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
-2026-07-10,tweetfeed,DOMAIN,odoba.duckdns.org,"C2, Remcos",https://x.com/skocherhan/status/2075515251416604946
+2026-07-11,tweetfeed,URL,http://cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
+2026-07-11,tweetfeed,URL,http://aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
 2026-07-10,tweetfeed,DOMAIN,tradeswheel.lovestoblog.com,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
 2026-07-10,tweetfeed,DOMAIN,lastore7kajp1.duckdns.org,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
 2026-07-10,tweetfeed,DOMAIN,met-tech.duckdns.org,Remcos,https://x.com/skocherhan/status/2075519163435552972
@@ -728,11 +717,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,oisix.webcas.net,phishing,https://x.com/AP_Zenmashi/status/2075751940492018168
 2026-07-11,tweetfeed,DOMAIN,fertyg.czzaw.site,"malware, phishing",https://x.com/masaomi346/status/2075790300287787362
 2026-07-11,tweetfeed,DOMAIN,XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
-2026-07-10,tweetfeed,IP,5.180.114.153,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
-2026-07-10,tweetfeed,IP,80.96.58.47,C2,https://x.com/Fact_Finder03/status/2075513609124471100
-2026-07-10,tweetfeed,IP,43.228.157.68,C2,https://x.com/Fact_Finder03/status/2075513609057091826
-2026-07-10,tweetfeed,IP,46.183.223.88,"C2, Remcos",https://x.com/skocherhan/status/2075515251416604946
-2026-07-10,tweetfeed,IP,104.168.115.89,"C2, Remcos",https://x.com/skocherhan/status/2075515251416604946
+2026-07-11,tweetfeed,DOMAIN,cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
+2026-07-11,tweetfeed,DOMAIN,aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
 2026-07-10,tweetfeed,IP,192.3.45.6,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
 2026-07-10,tweetfeed,IP,172.111.163.184,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
 2026-07-10,tweetfeed,IP,172.111.163.169,"C2, Remcos",https://x.com/skocherhan/status/2075517785631838418
@@ -773,7 +759,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,IP,175.111.83.79,phishing,https://x.com/AP_Zenmashi/status/2075751940492018168
 2026-07-11,tweetfeed,HASH_SHA256,68a3fb26aa1468a876c068a1a637ff24ecd0a03c4b93266f36cbe0f5d45e9eac,"malware, phishing",https://x.com/masaomi346/status/2075790300287787362
 2026-07-11,tweetfeed,HASH_SHA256,b1c4534a12da1786a0f8bafe2b44bb26974f7a9f25368cfd805520b1fadea1f3,n/a,https://x.com/masaomi346/status/2075812099364966486
-2026-07-10,tweetfeed,HASH_MD5,2e1bbe0ae673b5035180105653aeeaeb,stealer,https://x.com/suyog41/status/2075514444621480213
+2026-07-11,tweetfeed,IP,45.87.223.250,n/a,https://x.com/AvukatMeleknur/status/2075762567255843232
+2026-07-11,tweetfeed,HASH_SHA256,735d59c0949e258501e177ec2dd5fbb60df9fa401ace08949b89077c6f0d41d0,n/a,https://x.com/Now_on_VT/status/2075869008000086426
 2026-07-10,tweetfeed,HASH_MD5,c34e076695746e63703c578c5c00190b,n/a,https://x.com/suyog41/status/2075544755627569484
 2026-07-10,tweetfeed,HASH_MD5,d45537b4e83dd68c6545a7f568e93a2e,n/a,https://x.com/skocherhan/status/2075553209871933624
 2026-07-10,tweetfeed,HASH_MD5,3ad5e1b03ca5166ba7a780b8b054ee12,n/a,https://x.com/skocherhan/status/2075553209871933624
