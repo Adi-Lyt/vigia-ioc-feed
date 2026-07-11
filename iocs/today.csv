@@ -31,15 +31,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,https://inoxarreda.it/,"win.vidar, url",n/a
-2026-07-10,threatfox,DOMAIN,ddsmolcn.irantop.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,kzdccycs.irantop.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,gjuqzxwz.irantop.bet,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,tdfdekwf.hazzaratbet.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,base4openwald.dexispointnexus.garden,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,abkp.site-shartbandi-khareji.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,sxewurs5.radioshartbandi.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,hn8ah9qr.pdfteach.ir,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,radioshartbandi.com,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,wlmulfgg.mellbeet.com,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,lyrp.radioshartbandi.bet,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,dup.omni-signage.com,"win.vidar, domain",n/a
@@ -406,6 +397,17 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,fb88.style,"win.remcos, domain",n/a
 2026-07-11,threatfox,DOMAIN,ultraportal.4nmn.com,"win.xworm, domain",n/a
 2026-07-11,threatfox,DOMAIN,ftp.dklak.cam,"win.agent_tesla, domain",n/a
+2026-07-11,threatfox,DOMAIN,qcarxtrl.betcool90.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,betcool90.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,bahrjtdryj843gsn.com,"unknown_loader, domain",n/a
+2026-07-11,threatfox,DOMAIN,rufrzzcs.betpublic.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,pbdb.bet303.site,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,chyeselq.betpublic.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,bet303.site,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,imnx.bet303.site,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,afforableappliancerepair.com,"unknown_stealer, domain",n/a
+2026-07-11,threatfox,DOMAIN,www.bacsontech.com,"unknown_stealer, domain",n/a
+2026-07-11,threatfox,DOMAIN,api-master.site,"unknown_stealer, domain",n/a
 2026-07-10,tweetfeed,URL,http://premiumwebserver.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
 2026-07-10,tweetfeed,URL,http://webtechavsm.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
 2026-07-10,tweetfeed,URL,http://bevavsreviews.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
@@ -590,6 +592,7 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,HASH_SHA256,4ef9bef04dc4ae1d85773c78249f02f739efcea500ee644e9e200c44340049c2,"win.netsupportmanager_rat, sha256_hash",n/a
 2026-07-11,threatfox,HASH_SHA256,6fa62584242262b5da8dab22c790e32cf84adae04d231c09d26aae689547a800,"win.netsupportmanager_rat, sha256_hash",n/a
 2026-07-11,threatfox,HASH_SHA256,bd894e0e215af7fa9a6c99cb939efd7183b5cbf845c9e0b5e6038a95bd58c11a,"elf.cpuminer, sha256_hash",n/a
+2026-07-11,tweetfeed,URL,http://XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
 2026-07-10,tweetfeed,DOMAIN,premiumwebserver.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
 2026-07-10,tweetfeed,DOMAIN,webtechavsm.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
 2026-07-10,tweetfeed,DOMAIN,bevavsreviews.shop,phishing,https://x.com/skocherhan/status/2075505224811167777
@@ -724,10 +727,7 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,Pty.Limited,n/a,https://x.com/skocherhan/status/2075732117648974026
 2026-07-11,tweetfeed,DOMAIN,oisix.webcas.net,phishing,https://x.com/AP_Zenmashi/status/2075751940492018168
 2026-07-11,tweetfeed,DOMAIN,fertyg.czzaw.site,"malware, phishing",https://x.com/masaomi346/status/2075790300287787362
-2026-07-10,tweetfeed,IP,77.91.123.181,C2,https://x.com/Fact_Finder03/status/2075498257871221171
-2026-07-10,tweetfeed,IP,216.238.84.79,C2,https://x.com/Fact_Finder03/status/2075500522766000498
-2026-07-10,tweetfeed,IP,45.91.53.203,"C2, RAT",https://x.com/Fact_Finder03/status/2075500522724036620
-2026-07-10,tweetfeed,IP,2.59.133.148,C2,https://x.com/Fact_Finder03/status/2075503039289397494
+2026-07-11,tweetfeed,DOMAIN,XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
 2026-07-10,tweetfeed,IP,5.180.114.153,"C2, Remcos",https://x.com/skocherhan/status/2075512874873589953
 2026-07-10,tweetfeed,IP,80.96.58.47,C2,https://x.com/Fact_Finder03/status/2075513609124471100
 2026-07-10,tweetfeed,IP,43.228.157.68,C2,https://x.com/Fact_Finder03/status/2075513609057091826
