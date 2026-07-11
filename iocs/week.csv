@@ -263,12 +263,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,http://198.13.158.127:5506/dd.vbs,"js.clearfake, url",n/a
 2026-07-11,threatfox,URL,http://85.239.149.16/f6ptObhnkvaYRgMEJ,"js.clearfake, url",n/a
 2026-07-11,threatfox,URL,http://91.92.242.243:6600/ESPIxN5lducyZQW5we\,"js.clearfake, url",n/a
-2026-07-04,threatfox,DOMAIN,agnbpfw.arbetwinner.com,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,arbetwinner.com,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,mpfmdjf.ace90.games,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,ace90.games,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,9vxg256z.bazikeno.com,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,bazikeno.com,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,otlqkiy.betmiz.bet,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,betmiz.bet,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,zqtjqik.betiran.vip,"js.clearfake, domain",n/a
@@ -2403,8 +2397,14 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,lbsv.logiccascade.top,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,inrs.kernelbridge.top,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,jxiluxhf.radioshartbandi.chat,"js.clearfake, domain",n/a
-2026-07-04,tweetfeed,URL,http://lodet-marek43-poa.com,n/a,https://x.com/smica83/status/2073449475696152724
-2026-07-04,tweetfeed,URL,http://ma-pdffiller.lat,n/a,https://x.com/smica83/status/2073452233623007739
+2026-07-11,threatfox,DOMAIN,bqvojtsj.betgar.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,prre.behtarin-site-shartbandi-football.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,eijm.behtarin-site-shartbandi-football.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,evspwohq.betgar.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,wkeysfdb.stacknexus.top,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,qs268cl5.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,ouodqxjr.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,wrryvujx.zaribbala.bet,"js.clearfake, domain",n/a
 2026-07-04,tweetfeed,URL,http://terixantra.cyou,"APT, malware",https://x.com/phatomcandle/status/2073466897547534722
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-04,tweetfeed,URL,http://birth.5gsewa.cyou/login.php,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
@@ -3949,8 +3949,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,URL,http://leilak.bj,phishing,https://x.com/skocherhan/status/2075934107029164502
 2026-07-11,tweetfeed,URL,http://modellvotingacademy.online,phishing,https://x.com/skocherhan/status/2075934107029164502
 2026-07-11,tweetfeed,URL,http://github.stylishvoting.online,phishing,https://x.com/skocherhan/status/2075934107029164502
-2026-07-04,tweetfeed,DOMAIN,lodet-marek43-poa.com,n/a,https://x.com/smica83/status/2073449475696152724
-2026-07-04,"threatfox,tweetfeed",DOMAIN,ma-pdffiller.lat,n/a,https://x.com/smica83/status/2073452233623007739
+2026-07-11,tweetfeed,URL,http://primecontent.online,"phishing, scam",https://x.com/Malwarehunterr/status/2075989673101689147
+2026-07-11,tweetfeed,URL,http://104.164.55.15,n/a,https://x.com/malwrhunterteam/status/2075993818822775141
 2026-07-04,tweetfeed,DOMAIN,terixantra.cyou,"APT, malware",https://x.com/phatomcandle/status/2073466897547534722
 2026-07-04,tweetfeed,DOMAIN,birth.5gsewa.cyou,phishing,https://x.com/Malwarehunterr/status/2073465217888223424
 2026-07-05,tweetfeed,DOMAIN,vsemspat.com,phishing,https://x.com/masaomi346/status/2073584667496984714
@@ -5334,8 +5334,7 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,leilak.bj,phishing,https://x.com/skocherhan/status/2075934107029164502
 2026-07-11,tweetfeed,DOMAIN,modellvotingacademy.online,phishing,https://x.com/skocherhan/status/2075934107029164502
 2026-07-11,tweetfeed,DOMAIN,github.stylishvoting.online,phishing,https://x.com/skocherhan/status/2075934107029164502
-2026-07-04,tweetfeed,HASH_SHA256,94b20231948f25655ddb51ed60269167dd1cf2d9948b9d91dffaa820b54fb46b,n/a,https://x.com/smica83/status/2073449475696152724
-2026-07-04,tweetfeed,HASH_SHA256,9365546fca8eb3f4e10b2557d60cdb943307165324de8dd85dd94c0100da3812,n/a,https://x.com/smica83/status/2073452233623007739
+2026-07-11,tweetfeed,DOMAIN,primecontent.online,"phishing, scam",https://x.com/Malwarehunterr/status/2075989673101689147
 2026-07-04,tweetfeed,IP,94.154.43.5,"C2, malware",https://x.com/0xb1lal/status/2073382741291246052
 2026-07-05,tweetfeed,IP,157.90.4.241,phishing,https://x.com/PhishStats/status/2073649702403276958
 2026-07-05,tweetfeed,IP,38.174.216.194,n/a,https://x.com/nahamike01/status/2073589860804522341
@@ -5624,6 +5623,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,IP,103.148.244.67,n/a,https://x.com/skocherhan/status/2075927895956922423
 2026-07-11,tweetfeed,HASH_SHA256,f2d84a69d2d09c4dc44126b1ad0add53066e69fe77da6fa79c4368f1b5781118,phishing,https://x.com/skocherhan/status/2075934107029164502
 2026-07-11,tweetfeed,HASH_SHA256,440b5385d3838e3f6bc21220caa83b65cd5f3618daea676f271c3671650ce9a3,n/a,https://x.com/Now_on_VT/status/2075934633464885672
+2026-07-11,tweetfeed,IP,185.199.111.153,C2,https://x.com/Fact_Finder03/status/2075988977988084009
+2026-07-11,tweetfeed,IP,104.164.55.15,n/a,https://x.com/malwrhunterteam/status/2075993818822775141
 2026-07-04,tweetfeed,HASH_MD5,0f0649b820f62187f7e3e8f3039b0954,n/a,https://x.com/bsforvt727/status/2073375442384617721
 2026-07-05,tweetfeed,HASH_MD5,bba2b75bd6ddd069aeec2b76a2e98545,C2,https://x.com/bsforvt727/status/2073684550799208616
 2026-07-05,tweetfeed,HASH_MD5,94d04830e3a75ae3c7e09de65de0d6c8,n/a,https://x.com/sicehice/status/2073753973903724751
