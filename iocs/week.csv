@@ -262,9 +262,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,https://inoxarreda.it/,"win.vidar, url",n/a
-2026-07-04,threatfox,DOMAIN,xxjbypq.takbetkade.com,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,wji9u2ff.fileecell.com,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,fileecell.com,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,cgoucbv.thevallartasrestaurants.com,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,goto.followfromapps.icu,"unknown_loader, domain",n/a
 2026-07-04,threatfox,DOMAIN,midpfv.xyz,"win.remus, domain",n/a
@@ -2361,7 +2358,20 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,afforableappliancerepair.com,"unknown_stealer, domain",n/a
 2026-07-11,threatfox,DOMAIN,www.bacsontech.com,"unknown_stealer, domain",n/a
 2026-07-11,threatfox,DOMAIN,api-master.site,"unknown_stealer, domain",n/a
-2026-07-04,tweetfeed,URL,http://43.136.40.21,n/a,https://x.com/smica83/status/2073327471068401730
+2026-07-11,threatfox,DOMAIN,r0.erloro.com,"win.cobalt_strike, domain",n/a
+2026-07-11,threatfox,DOMAIN,tuvu.bet404.game,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,bet404.game,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,stdcamtp.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,gpxingif.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,ai-trading.pro,"unknown_loader, domain",n/a
+2026-07-11,threatfox,DOMAIN,app.blackroad.io,"unknown_loader, domain",n/a
+2026-07-11,threatfox,DOMAIN,stromrechnung.receiver.st,"unknown, domain",n/a
+2026-07-11,threatfox,DOMAIN,dfdghfhddhdhfhdfhdfyhdfdfh.pages.dev,"unknown, domain",n/a
+2026-07-11,threatfox,DOMAIN,a9lrz6z9.betturkey.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,678y5rzq.betturkey.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,indigo2forjoy.com,"win.njrat, domain",n/a
+2026-07-11,threatfox,DOMAIN,o82lzdzb.networkatlas.top,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,networkatlas.top,"js.clearfake, domain",n/a
 2026-07-04,tweetfeed,URL,http://update.uburtu.com,n/a,https://x.com/malwrhunterteam/status/2073351183377322370
 2026-07-04,tweetfeed,URL,http://156.250.133.202,n/a,https://x.com/malwrhunterteam/status/2073351376638255536
 2026-07-04,tweetfeed,URL,http://allegrolokalnie.oferta2649zxrab2949374.shop,phishing,https://x.com/PhishStats/status/2073387181050126355
@@ -3843,6 +3853,8 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,HASH_SHA256,6fa62584242262b5da8dab22c790e32cf84adae04d231c09d26aae689547a800,"win.netsupportmanager_rat, sha256_hash",n/a
 2026-07-11,threatfox,HASH_SHA256,bd894e0e215af7fa9a6c99cb939efd7183b5cbf845c9e0b5e6038a95bd58c11a,"elf.cpuminer, sha256_hash",n/a
 2026-07-11,tweetfeed,URL,http://XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
+2026-07-11,tweetfeed,URL,http://cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
+2026-07-11,tweetfeed,URL,http://aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
 2026-07-04,tweetfeed,DOMAIN,update.uburtu.com,n/a,https://x.com/malwrhunterteam/status/2073351183377322370
 2026-07-04,tweetfeed,DOMAIN,allegrolokalnie.oferta2649zxrab2949374.shop,phishing,https://x.com/PhishStats/status/2073387181050126355
 2026-07-04,tweetfeed,DOMAIN,panel.edge-msdn.com,malware,https://x.com/ViriBack/status/2073406707741470800
@@ -5245,8 +5257,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,oisix.webcas.net,phishing,https://x.com/AP_Zenmashi/status/2075751940492018168
 2026-07-11,tweetfeed,DOMAIN,fertyg.czzaw.site,"malware, phishing",https://x.com/masaomi346/status/2075790300287787362
 2026-07-11,tweetfeed,DOMAIN,XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
-2026-07-04,tweetfeed,IP,43.136.40.21,n/a,https://x.com/smica83/status/2073327471068401730
-2026-07-04,tweetfeed,HASH_SHA256,af698793337e5f13eedba44f3a9fc3788553c8fc0dc29e5fbdacc4b9e451f3a2,n/a,https://x.com/smica83/status/2073327471068401730
+2026-07-11,tweetfeed,DOMAIN,cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
+2026-07-11,tweetfeed,DOMAIN,aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
 2026-07-04,tweetfeed,HASH_SHA256,d4558b47af554d48367ecf2dd3f0d2b1185598b8cc98f9652f587143ab57e185,n/a,https://x.com/smica83/status/2073343096293577110
 2026-07-04,tweetfeed,IP,156.250.133.202,n/a,https://x.com/malwrhunterteam/status/2073351376638255536
 2026-07-04,tweetfeed,HASH_SHA256,e194f205c37b130c799ebd5f5dbacc526fda02034a9324f5713a31b8672ecf56,n/a,https://x.com/smica83/status/2073356974897389928
@@ -5539,6 +5551,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,IP,175.111.83.79,phishing,https://x.com/AP_Zenmashi/status/2075751940492018168
 2026-07-11,tweetfeed,HASH_SHA256,68a3fb26aa1468a876c068a1a637ff24ecd0a03c4b93266f36cbe0f5d45e9eac,"malware, phishing",https://x.com/masaomi346/status/2075790300287787362
 2026-07-11,tweetfeed,HASH_SHA256,b1c4534a12da1786a0f8bafe2b44bb26974f7a9f25368cfd805520b1fadea1f3,n/a,https://x.com/masaomi346/status/2075812099364966486
+2026-07-11,tweetfeed,IP,45.87.223.250,n/a,https://x.com/AvukatMeleknur/status/2075762567255843232
+2026-07-11,tweetfeed,HASH_SHA256,735d59c0949e258501e177ec2dd5fbb60df9fa401ace08949b89077c6f0d41d0,n/a,https://x.com/Now_on_VT/status/2075869008000086426
 2026-07-04,tweetfeed,HASH_MD5,0f0649b820f62187f7e3e8f3039b0954,n/a,https://x.com/bsforvt727/status/2073375442384617721
 2026-07-05,tweetfeed,HASH_MD5,bba2b75bd6ddd069aeec2b76a2e98545,C2,https://x.com/bsforvt727/status/2073684550799208616
 2026-07-05,tweetfeed,HASH_MD5,94d04830e3a75ae3c7e09de65de0d6c8,n/a,https://x.com/sicehice/status/2073753973903724751
