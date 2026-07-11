@@ -258,13 +258,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,https://inoxarreda.it/,"win.vidar, url",n/a
-2026-07-04,threatfox,DOMAIN,ms9amh2h.1xcart.vip,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,1xcart.vip,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,rxyvhv1x.1xforward.cash,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,1xforward.cash,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,gakvmew.tinybet.bio,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,1v2w5ogt.prozhe.shopping,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,prozhe.shopping,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,airtech-energie.fr,"win.strelastealer, domain",n/a
 2026-07-04,threatfox,DOMAIN,evypenr.winnerbahis-tr.com,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,zozhhgic.btyek.buzz,"js.clearfake, domain",n/a
@@ -2368,6 +2361,12 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,bet90forward.app,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,uzmapubv.behtarin-site-shartbandi-football.com,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,dawsszrm.behtarin-site-shartbandi-football.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,jbqh.betaverse.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,betaverse.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,adewbrfg.bet90forward.win,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,dybndxun.bet90forward.win,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,tniukh64.bitbet.download,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,bitbet.download,"js.clearfake, domain",n/a
 2026-07-04,tweetfeed,URL,http://allegrolokalnie.oferta2649zxrab2949374.shop,phishing,https://x.com/PhishStats/status/2073387181050126355
 2026-07-04,tweetfeed,URL,http://panel.edge-msdn.com/login,malware,https://x.com/ViriBack/status/2073406707741470800
 2026-07-04,tweetfeed,URL,http://66.42.114.65:8080,malware,https://x.com/ViriBack/status/2073406707741470800
@@ -3849,6 +3848,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,URL,http://XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
 2026-07-11,tweetfeed,URL,http://cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
 2026-07-11,tweetfeed,URL,http://aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
+2026-07-11,tweetfeed,URL,http://newssentinel.info,phishing,https://x.com/Q8CyberTi/status/2075898379595387117
+2026-07-11,tweetfeed,URL,http://www.ttmlcapitals.com,scam,https://x.com/Cheekyfreaq/status/2075906028890173894
 2026-07-04,tweetfeed,DOMAIN,allegrolokalnie.oferta2649zxrab2949374.shop,phishing,https://x.com/PhishStats/status/2073387181050126355
 2026-07-04,tweetfeed,DOMAIN,panel.edge-msdn.com,malware,https://x.com/ViriBack/status/2073406707741470800
 2026-07-04,threatfox,HASH_MD5,77c96f339974b65ae435313a8fcc3b35,"win.mimikatz, md5_hash",n/a
@@ -5252,7 +5253,8 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,XRPmining.com,scam,https://x.com/Cheekyfreaq/status/2075860944446488930
 2026-07-11,tweetfeed,DOMAIN,cointeam.com,scam,https://x.com/Cheekyfreaq/status/2075876781488328998
 2026-07-11,tweetfeed,DOMAIN,aqrltrade.com,scam,https://x.com/Cheekyfreaq/status/2075877067896373327
-2026-07-04,tweetfeed,HASH_SHA256,e194f205c37b130c799ebd5f5dbacc526fda02034a9324f5713a31b8672ecf56,n/a,https://x.com/smica83/status/2073356974897389928
+2026-07-11,tweetfeed,DOMAIN,newssentinel.info,phishing,https://x.com/Q8CyberTi/status/2075898379595387117
+2026-07-11,tweetfeed,DOMAIN,ttmlcapitals.com,scam,https://x.com/Cheekyfreaq/status/2075906028890173894
 2026-07-04,tweetfeed,IP,85.137.49.215,phishing,https://x.com/PhishStats/status/2073387181050126355
 2026-07-04,tweetfeed,IP,66.42.114.65,malware,https://x.com/ViriBack/status/2073406707741470800
 2026-07-04,tweetfeed,IP,150.158.111.117,n/a,https://x.com/smica83/status/2073444651864879600
