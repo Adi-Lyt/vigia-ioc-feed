@@ -5,11 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-07,cisa_kev,CVE,CVE-2026-48282,"Adobe ColdFusion, kev","Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-10"
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-04,threatfox,URL,https://eyuboglutv.com/nfront.php,"win.satacom, url",n/a
-2026-07-04,threatfox,URL,https://hazelcompass.top/realm/reset-request.js,"js.smartapesg, url",n/a
-2026-07-04,threatfox,URL,https://hazelcompass.top/realm/tenant-thread,"js.smartapesg, url",n/a
-2026-07-04,threatfox,URL,https://hazelcompass.top/realm/user-runtime.js,"js.smartapesg, url",n/a
-2026-07-04,threatfox,URL,https://openeii.com/,"unknown, url",n/a
 2026-07-04,threatfox,URL,https://imgbb.media/,"unknown, url",n/a
 2026-07-04,threatfox,URL,https://kumlman.lol/file.js,"js.kongtuke, url",n/a
 2026-07-04,threatfox,URL,https://kumlman.lol/api/v1/session,"js.kongtuke, url",n/a
@@ -267,86 +262,6 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://pub-f2969eb764264a9280dffa75e6803e93.r2.dev/setup.msi,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,http://us-addnewdevice.com/Vzj72DFgvUe1Psg5,"win.netsupportmanager_rat, url",n/a
 2026-07-11,threatfox,URL,https://inoxarreda.it/,"win.vidar, url",n/a
-2026-07-04,threatfox,DOMAIN,frfjuzh.btyek.cloud,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,eyuboglutv.com,"win.satacom, domain",n/a
-2026-07-04,threatfox,DOMAIN,13espacioarte.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,abasket.it,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,adamantgrup.ru,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,abhinavpharmacycollege.org,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,activefoods.no,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,amala-sa.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,amigo-canino.pl,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,androscogginpal.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,annewatson.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,arizonaplumbingworks.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,archouse.org,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,aristos-limousine.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,artedco.org,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,as23.de,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,atelier-du-fauteuil.fr,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,ateliergalerie-leslie.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,auburnkoreanchurch.org,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,baufoerderung.de,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,bedfordvatowing.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,blechbar.de,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,bmservice.nl,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,bouwbedrijfjongsma.nl,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,brainding.ge,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,brnbed.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,carguxlogistics.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,christiansforbiblicalisrael.org,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,cbibplus.eu,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,coachsocialfamilias.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,detoxlibrary.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,debraemarvin.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,dmsdiagnostics.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,larcomsa.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,liza.co.za,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,brandearte.com.sv,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,maga-tools.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,mizellroofingmobilealabama.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,murosderocalla.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,nataska-legavyh.ru,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,neuburg-donau.biz,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,dsglobal.nl,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,fission3.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,greeceweddingphotography.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,app.cloudkwekerijbloemendaal.com,"js.fakeupdates, domain",n/a
-2026-07-04,threatfox,DOMAIN,pate-intelligente.fr,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,dellpro-info.de,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,hazelcompass.top,"js.smartapesg, domain",n/a
-2026-07-04,threatfox,DOMAIN,bs-buitengewoon.nl,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,botstart7.skillface.xyz,"win.asyncrat, domain",n/a
-2026-07-04,threatfox,DOMAIN,survivaltraits.com,"unknown_rat, domain",n/a
-2026-07-04,threatfox,DOMAIN,mesh.sentra.cx,"unknown_rat, domain",n/a
-2026-07-04,threatfox,DOMAIN,sentrydb.org,"unknown_rat, domain",n/a
-2026-07-04,threatfox,DOMAIN,lot.terangsm188.top,"win.vidar, domain",n/a
-2026-07-04,threatfox,DOMAIN,javistowing.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,gtm-tracker.xyz,"unknown_loader, domain",n/a
-2026-07-04,threatfox,DOMAIN,tag-manager.xyz,"unknown_loader, domain",n/a
-2026-07-04,threatfox,DOMAIN,adenapez.com,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,renatotelli.com.br,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,suministroshidraulicos.net,"win.strelastealer, domain",n/a
-2026-07-04,threatfox,DOMAIN,eraleignews.com,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,bashe4aec32kr6zbifwd5x6xgjsmhg4tbowrbx4pneqhc5mqooyifpid.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,7bbqrijcds5sgji3kiwo5o5qgxfgoyufykhzfdo6xl3qbdes2e7tdyad.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,bashed52orwi7qoyvmcfkdnuaogta4inpojfd6cthzkp4qpsq64ux4ad.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,bashedl53memptddxzb4kr5mnkzse4fmhpqeq7jb4srndswar46nofid.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,bashefe5uezp2jtxpk24b2pyfnnfyguicgrgqufgu57mfluegotbeayd.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,qku4reiyfcs2vqq5tow2uprhyqhweo56lrgs6457svr3ej4ton5frkad.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,bashei5oy4zvmf2letnupwhgprdkjyssm3zxj2oyr6wfezkf3elehzqd.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,fleqwmg7xnanypt5km2m75l72q7nlcvlp2m4sdmgjxorsn6tb3zyp3qd.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion,"unknown, domain",n/a
-2026-07-04,threatfox,DOMAIN,ms9datqz.953.games,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,953.games,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,kwsgmru.btyek.click,"js.clearfake, domain",n/a
-2026-07-04,threatfox,DOMAIN,btyek.click,"js.clearfake, domain",n/a
 2026-07-04,threatfox,DOMAIN,blackkkkkdate.icu,"unknown_loader, domain",n/a
 2026-07-04,threatfox,DOMAIN,ps.blackkkkkdate.icu,"unknown_loader, domain",n/a
 2026-07-04,threatfox,DOMAIN,oxepqya.btyek.autos,"js.clearfake, domain",n/a
@@ -2427,9 +2342,21 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,cywkkhmc.betlivo90.bet,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,betlivo90.bet,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,fightwa.biz,"win.remus, domain",n/a
-2026-07-04,tweetfeed,URL,http://176.125.243.14:8080,n/a,https://x.com/malwrhunterteam/status/2073309112562012382
-2026-07-04,threatfox,HASH_SHA256,5f94e59c132a7ed0e35b60146d973a728ab9f390c8291f9547cee26c56427738,"apk.craxs_rat, sha256_hash",n/a
-2026-07-04,threatfox,HASH_SHA256,fc99609172910a8fad9522b374f8bae21e5805abdf052a49029edb53620a8e8c,"apk.craxs_rat, sha256_hash",n/a
+2026-07-11,threatfox,DOMAIN,ggnytlvj.betnef.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,betnef.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,lokb.bekabet.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,rntb.bekabet.casino,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,betmel.coupons,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,py01df9v.bettilt90.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,6cyzeu86.bettilt90.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,open.citadelsquishyhumvee.in.net,"unknown, domain",n/a
+2026-07-11,threatfox,DOMAIN,hp.citadelsquishyhumvee.in.net,"unknown, domain",n/a
+2026-07-11,threatfox,DOMAIN,gw.portallbridge.cc,"win.acr_stealer, domain",n/a
+2026-07-11,threatfox,DOMAIN,operationsframework.cc,"win.acr_stealer, domain",n/a
+2026-07-11,threatfox,DOMAIN,account.operationsframework.cc,"win.acr_stealer, domain",n/a
+2026-07-11,threatfox,DOMAIN,fb88.style,"win.remcos, domain",n/a
+2026-07-11,threatfox,DOMAIN,ultraportal.4nmn.com,"win.xworm, domain",n/a
+2026-07-11,threatfox,DOMAIN,ftp.dklak.cam,"win.agent_tesla, domain",n/a
 2026-07-04,tweetfeed,URL,https://tubelist.fun,n/a,https://x.com/smica83/status/2073320037679509902
 2026-07-04,tweetfeed,URL,http://46.101.111.120:8080,opendir,https://x.com/smica83/status/2073324619591799237
 2026-07-04,tweetfeed,URL,https://artlifestyleshop.com/book3.msi,n/a,https://x.com/smica83/status/2073326041926455785
@@ -5318,7 +5245,6 @@ date,user,type,ioc,tags,context
 2026-07-11,tweetfeed,DOMAIN,Pty.Limited,n/a,https://x.com/skocherhan/status/2075732117648974026
 2026-07-11,tweetfeed,DOMAIN,oisix.webcas.net,phishing,https://x.com/AP_Zenmashi/status/2075751940492018168
 2026-07-11,tweetfeed,DOMAIN,fertyg.czzaw.site,"malware, phishing",https://x.com/masaomi346/status/2075790300287787362
-2026-07-04,tweetfeed,IP,176.125.243.14,n/a,https://x.com/malwrhunterteam/status/2073309112562012382
 2026-07-04,tweetfeed,HASH_SHA256,5dc97f0ca18867eabb32e78658703e650a80667d65f6e736b145a3e8c1f2b212,n/a,https://x.com/smica83/status/2073313827710546189
 2026-07-04,tweetfeed,HASH_SHA256,ef07fd45a08d335cb014a643df38662d7ba5f6c4fca3fdb26111f8bbf2a223f2,n/a,https://x.com/smica83/status/2073315806956462085
 2026-07-04,tweetfeed,HASH_SHA256,ab57d63914c3d5a21a2b777bd8ab9d2b49ac9896c1134f30a3f902b86bf753be,n/a,https://x.com/smica83/status/2073316884267593789
