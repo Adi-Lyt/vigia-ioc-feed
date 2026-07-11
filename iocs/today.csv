@@ -1,7 +1,4 @@
 date,user,type,ioc,tags,context
-2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
-2026-07-10,threatfox,URL,http://cw212153.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
 2026-07-11,threatfox,URL,https://tecnoibrid.com/,"win.vidar, url",n/a
 2026-07-11,threatfox,URL,http://bonneli.rs/tmp/coreserver/gate.php,"win.pony, url",n/a
 2026-07-11,threatfox,URL,https://vivekanandapu-edu.in/,"win.vidar, url",n/a
@@ -22,15 +19,10 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,URL,https://91.98.111.49/,"win.vidar, url",n/a
 2026-07-11,threatfox,URL,http://41.216.189.92/nz.sh,"unknown, url",n/a
 2026-07-11,threatfox,URL,https://ctkmarketplace.com/,"win.vidar, url",n/a
-2026-07-10,threatfox,DOMAIN,glwpjrqq.bcgame.shop,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,ywjiklsh.bcgame.shop,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,jtkeavok.bcgame.shop,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,bcgame.shop,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,bcgame.ink,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,snmg.bahigo90bet.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,fyav.bahigo90bet.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,ertt.bahigo90bet.com,"js.clearfake, domain",n/a
-2026-07-10,threatfox,DOMAIN,mfno.bahigo90bet.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,URL,http://columna.lol:6590,"win.remus, url",n/a
+2026-07-11,threatfox,URL,http://198.13.158.127:5506/dd.vbs,"js.clearfake, url",n/a
+2026-07-11,threatfox,URL,http://85.239.149.16/f6ptObhnkvaYRgMEJ,"js.clearfake, url",n/a
+2026-07-11,threatfox,URL,http://91.92.242.243:6600/ESPIxN5lducyZQW5we\,"js.clearfake, url",n/a
 2026-07-10,threatfox,DOMAIN,loadpetitstar1.qivornodeunit.garden,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,viewdarkberg5.qivornodeunit.garden,"js.clearfake, domain",n/a
 2026-07-10,threatfox,DOMAIN,hyh08ykm.packetmeridian.top,"js.clearfake, domain",n/a
@@ -385,6 +377,12 @@ date,user,type,ioc,tags,context
 2026-07-11,threatfox,DOMAIN,kaleda.pro,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,gtcymxsv.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,osqbereb.onjabet1.com,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,uyxg.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,hlkdfuhu.zaribbala.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,hhtm.behtarin-site-shartbandi-football.bet,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,lbsv.logiccascade.top,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,inrs.kernelbridge.top,"js.clearfake, domain",n/a
+2026-07-11,threatfox,DOMAIN,jxiluxhf.radioshartbandi.chat,"js.clearfake, domain",n/a
 2026-07-10,tweetfeed,URL,http://ufozdv.net,n/a,https://x.com/skocherhan/status/2075649374798102691
 2026-07-10,tweetfeed,URL,http://cveofk.net,n/a,https://x.com/skocherhan/status/2075649374798102691
 2026-07-10,tweetfeed,URL,http://yuwesq.net,n/a,https://x.com/skocherhan/status/2075649374798102691
