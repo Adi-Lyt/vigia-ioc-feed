@@ -273,11 +273,6 @@ date,user,type,ioc,tags,context
 2026-07-12,threatfox,URL,https://klonfcrtyseaflow.com/inline.php,"win.latrodectus, url",n/a
 2026-07-12,threatfox,URL,http://130.162.240.8:7317/api/register,"unknown, url",n/a
 2026-07-12,threatfox,URL,http://130.162.240.8:7317/api/hvnc/register,"unknown, url",n/a
-2026-07-05,threatfox,DOMAIN,ugbobgyo.btyek.christmas,"js.clearfake, domain",n/a
-2026-07-05,threatfox,DOMAIN,nawkvml.oxiidbet.com,"js.clearfake, domain",n/a
-2026-07-05,threatfox,DOMAIN,djtffqa.oxiidbet.com,"js.clearfake, domain",n/a
-2026-07-05,threatfox,DOMAIN,kwqienen.btyek.christmas,"js.clearfake, domain",n/a
-2026-07-05,threatfox,DOMAIN,btyek.christmas,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,kwb3h55h.thevallartasrestaurants.com,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,z02aheni.thevallartasrestaurants.com,"js.clearfake, domain",n/a
 2026-07-05,threatfox,DOMAIN,gjs.whitepppplatform.icu,"unknown_loader, domain",n/a
@@ -2457,6 +2452,13 @@ date,user,type,ioc,tags,context
 2026-07-12,threatfox,DOMAIN,epsqvddd.bet90forward.win,"js.clearfake, domain",n/a
 2026-07-12,threatfox,DOMAIN,elng.jadoou.baby,"js.clearfake, domain",n/a
 2026-07-12,threatfox,DOMAIN,jadoou.baby,"js.clearfake, domain",n/a
+2026-07-12,threatfox,DOMAIN,peiry.casinomilyon.bet,"js.clearfake, domain",n/a
+2026-07-12,threatfox,DOMAIN,casinomilyon.bet,"js.clearfake, domain",n/a
+2026-07-12,threatfox,DOMAIN,wubbueiu.betpublic.casino,"js.clearfake, domain",n/a
+2026-07-12,threatfox,DOMAIN,iifoqkzw.betpublic.casino,"js.clearfake, domain",n/a
+2026-07-12,threatfox,DOMAIN,xxaz.jadoou.beauty,"js.clearfake, domain",n/a
+2026-07-12,threatfox,DOMAIN,jadoou.beauty,"js.clearfake, domain",n/a
+2026-07-12,threatfox,DOMAIN,imagehubguest.info,"unknown_loader, domain",n/a
 2026-07-05,tweetfeed,URL,http://38.180.204.13/unicorn/aes.js,APT,https://x.com/byrne_emmy12099/status/2073756505707590019
 2026-07-05,tweetfeed,URL,https://casualtemplates.com/transcript,n/a,https://x.com/BlinkzSec/status/2073759230495002785
 2026-07-05,threatfox,HASH_SHA256,94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00,"unknown, sha256_hash",n/a
@@ -4083,6 +4085,14 @@ date,user,type,ioc,tags,context
 2026-07-12,tweetfeed,URL,http://104.26.3.58,AsyncRAT,https://x.com/skocherhan/status/2076273050387939552
 2026-07-12,tweetfeed,URL,http://172.67.73.161,AsyncRAT,https://x.com/skocherhan/status/2076273050387939552
 2026-07-12,threatfox,HASH_SHA256,5832cb09caa91d3f3205b32b8f9fb13b9c8d79521bab33738b5f66c62f7e11cb,"unknown, sha256_hash",n/a
+2026-07-12,tweetfeed,URL,http://livebytexscorez.com,AsyncRAT,https://x.com/skocherhan/status/2076277139230331333
+2026-07-12,tweetfeed,URL,http://104.18.6.118,AsyncRAT,https://x.com/skocherhan/status/2076277139230331333
+2026-07-12,tweetfeed,URL,http://104.18.7.118,AsyncRAT,https://x.com/skocherhan/status/2076277139230331333
+2026-07-12,tweetfeed,URL,http://104.21.36.190,AsyncRAT,https://x.com/skocherhan/status/2076277139230331333
+2026-07-12,tweetfeed,URL,http://172.67.198.192,AsyncRAT,https://x.com/skocherhan/status/2076277139230331333
+2026-07-12,tweetfeed,URL,http://asentv.tv,AsyncRAT,https://x.com/skocherhan/status/2076278921096470619
+2026-07-12,tweetfeed,URL,http://172.67.221.111,AsyncRAT,https://x.com/skocherhan/status/2076278921096470619
+2026-07-12,tweetfeed,URL,http://104.21.43.60,AsyncRAT,https://x.com/skocherhan/status/2076278921096470619
 2026-07-05,tweetfeed,DOMAIN,casualtemplates.com,n/a,https://x.com/BlinkzSec/status/2073759230495002785
 2026-07-05,threatfox,HASH_MD5,f2bab102784860e65cd488387e42ca50,"win.akira, md5_hash",n/a
 2026-07-05,threatfox,HASH_MD5,9a7af0a766f7717d478c94414b15d25e,"win.akira, md5_hash",n/a
@@ -5517,8 +5527,8 @@ date,user,type,ioc,tags,context
 2026-07-12,tweetfeed,DOMAIN,theleaguechampions.com,phishing,https://x.com/skocherhan/status/2076270427035296011
 2026-07-12,tweetfeed,DOMAIN,cakhiaqq.io,AsyncRAT,https://x.com/skocherhan/status/2076271561015783925
 2026-07-12,tweetfeed,DOMAIN,dagatructiep.ph,AsyncRAT,https://x.com/skocherhan/status/2076273050387939552
-2026-07-05,tweetfeed,IP,2.26.75.58,stealer,https://x.com/BlinkzSec/status/2073726294320136533
-2026-07-05,tweetfeed,HASH_SHA256,722004d1a5c4cba03b4ac26c5b193735b48b164cc0c686923437884a00e8a599,stealer,https://x.com/BlinkzSec/status/2073726294320136533
+2026-07-12,tweetfeed,DOMAIN,livebytexscorez.com,AsyncRAT,https://x.com/skocherhan/status/2076277139230331333
+2026-07-12,tweetfeed,DOMAIN,asentv.tv,AsyncRAT,https://x.com/skocherhan/status/2076278921096470619
 2026-07-05,tweetfeed,IP,38.180.204.13,APT,https://x.com/byrne_emmy12099/status/2073756505707590019
 2026-07-05,tweetfeed,HASH_SHA256,ef738e7e28ea7705ddf9186d5a71005fd435a1081044e2210eb249b9ed15b0e0,APT,https://x.com/byrne_emmy12099/status/2073756505707590019
 2026-07-05,tweetfeed,HASH_SHA256,e7f8f3b682ce961595cc791d420de38bb00e7d55d32b57e3c69760a49f5aa15e,n/a,https://x.com/BlinkzSec/status/2073759230495002785
