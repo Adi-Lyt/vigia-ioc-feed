@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-13,cisa_kev,CVE,CVE-2008-4128,"Cisco IOS, kev","Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain ""show privilege"" command to the /level/15/exec/- URI, and (2) a certain ""alias exec"" command to the /level/15/exec/-/configure/http URI. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-16"
-2026-07-06,threatfox,URL,https://dra.realmadridiran.news/,"win.vidar, url",n/a
-2026-07-06,threatfox,URL,https://dra.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-06,threatfox,URL,http://utiliq.xyz:7673,"win.remus, url",n/a
 2026-07-06,threatfox,URL,https://set.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-06,threatfox,URL,https://set.realmadridiran.news/,"win.vidar, url",n/a
@@ -253,20 +251,6 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,URL,https://schuctz.click/b345t329.js,"js.kongtuke, url",n/a
 2026-07-13,threatfox,URL,https://schuctz.click/api/v1/session,"js.kongtuke, url",n/a
 2026-07-13,threatfox,URL,https://schuctz.click/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-06,threatfox,DOMAIN,x41eexzh.1xcart.net,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,9hxo1zmj.1xcart.net,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,1m4wielp.1xbtt.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,1xbtt.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,1xkf6w16.bet1forward.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,lfk25ohk.win1bahis.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,win1bahis.com,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,dra.realmadridiran.news,"win.vidar, domain",n/a
-2026-07-06,threatfox,DOMAIN,dra.jurangsm188.top,"win.vidar, domain",n/a
-2026-07-06,threatfox,DOMAIN,rhgxzyok.fotoiran.ir,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,fotoiran.ir,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,faqgkjb.testmobo.ir,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,testmobo.ir,"js.clearfake, domain",n/a
-2026-07-06,threatfox,DOMAIN,ccudmcx.xyz,"js.iclickfix, domain",n/a
 2026-07-06,threatfox,DOMAIN,agkzvfg.1bet1yek.bet,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,gxscmbb.1bet1yek.bet,"js.clearfake, domain",n/a
 2026-07-06,threatfox,DOMAIN,tirak90.ir,"js.clearfake, domain",n/a
@@ -2397,22 +2381,16 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,DOMAIN,grajnalm.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,rqsjaodh.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,gate-dock.deryuga-sablist.garden,"js.clearfake, domain",n/a
-2026-07-06,tweetfeed,URL,http://tattomc.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074176859571437705
-2026-07-06,tweetfeed,URL,http://prvservice.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074176859571437705
-2026-07-06,tweetfeed,URL,http://88.119.171.59,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074176859571437705
-2026-07-06,tweetfeed,URL,http://techcross-es.com,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
-2026-07-06,tweetfeed,URL,http://stomcs.com,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
-2026-07-06,tweetfeed,URL,http://sevrrhst.com,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
-2026-07-06,tweetfeed,URL,http://dichcxosghnd-dsvekdc.top,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://dinhdanhdientulltp.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://dripshopiuien.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://dvc-vn-dichvucong.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://mobietax-dvc.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://paajaaks.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://vn-dichvucong.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://vnvssid-byt.top,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://vnvssid-byt.vip,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,URL,http://paajaaks.com/M-Pajak.apk,n/a,https://x.com/skocherhan/status/2074186393966755974
+2026-07-13,threatfox,DOMAIN,p9kos7r3.scriptyek.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,scriptyek.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,mellbett.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,kzjx.betropol.bet,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,xymg.betropol.bet,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,moonshadowforge.top,"unknown_loader, domain",n/a
+2026-07-13,threatfox,DOMAIN,etomskuk.site-shartbandi5000toman.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,nazvnhtd.site-shartbandi5000toman.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,site-shartbandi5000toman.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,timecommittee.space,"unknown_loader, domain",n/a
 2026-07-06,tweetfeed,URL,http://queraniva.site,"APT, malware",https://x.com/phatomcandle/status/2074191677145956480
 2026-07-06,tweetfeed,URL,https://netgrapes.fr,malware,https://x.com/Malwarehunterr/status/2074193527807090820
 2026-07-06,tweetfeed,URL,https://iplogger.cn/1iK0K4,malware,https://x.com/Malwarehunterr/status/2074193527807090820
@@ -4393,20 +4371,40 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,HASH_SHA256,74dcd1f64bd3b43cf659359bff1f43131d43b4e07f3a3aa2a1f74d6e7970be09,"win.valley_rat, sha256_hash",n/a
 2026-07-13,threatfox,HASH_SHA256,cac491234125411fafd0c83e6f46066af9e4104c4d12462d09af8225f64006da,"win.agent_tesla, sha256_hash",n/a
 2026-07-13,threatfox,HASH_SHA256,79b6817aa671bd0319f64a6707e2785f15cbbc415ffc5b1fd7ce3f1d98c3b2a6,"unknown, sha256_hash",n/a
-2026-07-06,tweetfeed,DOMAIN,tattomc.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074176859571437705
-2026-07-06,tweetfeed,DOMAIN,prvservice.com,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074176859571437705
-2026-07-06,tweetfeed,DOMAIN,techcross-es.com,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
-2026-07-06,tweetfeed,DOMAIN,stomcs.com,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
-2026-07-06,tweetfeed,DOMAIN,sevrrhst.com,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
-2026-07-06,tweetfeed,DOMAIN,dichcxosghnd-dsvekdc.top,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,dinhdanhdientulltp.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,dripshopiuien.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,dvc-vn-dichvucong.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,mobietax-dvc.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,vn-dichvucong.com,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,vnvssid-byt.top,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,vnvssid-byt.vip,n/a,https://x.com/500mk500/status/2074184277403566516
-2026-07-06,tweetfeed,DOMAIN,paajaaks.com,n/a,https://x.com/skocherhan/status/2074186393966755974
+2026-07-13,tweetfeed,URL,http://amepiequipamentos.com.br/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://avantimatchmaking.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://beservicesit.mx/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://bestcareindia.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://biltonuglimited.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://bolsasgotadagua.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://cantinhodeanjo.com.br/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://conciergesaudia.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://dashboarduat.paynnow.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://eblizboutique.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://epavall.ma/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://gigarush.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://hillaryscollections.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://hnospascualfadon.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://infoautonomoscadiz.es/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://inlogsysmx.com.mx/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://kingdomcityhs.org/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://livesocially.co/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://mikelmak.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://minhalojapronta.com.br/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://mncacompany.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://myisagas.com.mx/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://padmaelectricals.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://psychicvisionsbygina.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://serpromedic.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://sudarshanimport.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://thamizhnadu.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://verbodoavivamento.org.br/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://wakalaafricatravel.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://whisperingjessie.com/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://yonataxi.at/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://yugalpachori.in/ftx/,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,URL,http://208.73.204.157:8080,phishing,https://x.com/Malwarehunterr/status/2076718805074759889
+2026-07-13,tweetfeed,URL,http://botambus228.com,n/a,https://x.com/malwrhunterteam/status/2076720885080220114
 2026-07-06,tweetfeed,DOMAIN,queraniva.site,"APT, malware",https://x.com/phatomcandle/status/2074191677145956480
 2026-07-06,tweetfeed,DOMAIN,netgrapes.fr,malware,https://x.com/Malwarehunterr/status/2074193527807090820
 2026-07-06,tweetfeed,DOMAIN,bqkngqphb.com,n/a,https://x.com/skocherhan/status/2074213645089714663
@@ -5672,8 +5670,8 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,DOMAIN,server8-node2.iworx-host.com,n/a,https://x.com/JAMESWT_WT/status/2076611400231801167
 2026-07-13,tweetfeed,DOMAIN,documentacces.com,phishing,https://x.com/skocherhan/status/2076612077783773495
 2026-07-13,tweetfeed,DOMAIN,accesdocument.com,phishing,https://x.com/skocherhan/status/2076612077783773495
-2026-07-13,tweetfeed,DOMAIN,sc-crypt.digital,n/a,https://x.com/skocherhan/status/2076627208051843376
-2026-07-13,tweetfeed,DOMAIN,nexrogcapital.xyz,n/a,https://x.com/skocherhan/status/2076628219818598507
+2026-07-13,"threatfox,tweetfeed",DOMAIN,sc-crypt.digital,n/a,https://x.com/skocherhan/status/2076627208051843376
+2026-07-13,"threatfox,tweetfeed",DOMAIN,nexrogcapital.xyz,n/a,https://x.com/skocherhan/status/2076628219818598507
 2026-07-13,tweetfeed,DOMAIN,meshcoral.com,n/a,https://x.com/skocherhan/status/2076642819268096404
 2026-07-13,tweetfeed,DOMAIN,moss-72.com,n/a,https://x.com/skocherhan/status/2076642819268096404
 2026-07-13,tweetfeed,DOMAIN,corepost13.com,n/a,https://x.com/skocherhan/status/2076642819268096404
@@ -5721,9 +5719,15 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,HASH_MD5,4af1d2af508abef8bfc77dafa3b80444,"win.wannacryptor, md5_hash",n/a
 2026-07-13,threatfox,HASH_MD5,026286f87e3719a78ade47685a01e31d,"win.valley_rat, md5_hash",n/a
 2026-07-13,threatfox,HASH_MD5,7afdd824c99b170d2f2bacd172128d2f,"win.agent_tesla, md5_hash",n/a
-2026-07-06,tweetfeed,IP,88.119.171.59,"DPRK, Kimsuky",https://x.com/skocherhan/status/2074176859571437705
-2026-07-06,tweetfeed,HASH_SHA256,60dfa5b92193cdc80fd759cd5a228527b1019c4706e5a1ed2e9bce3c232ef531,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
-2026-07-06,tweetfeed,HASH_SHA256,47cc83176cd36abf0b5624f33bcf044b8f880cf521689981f891e52fbb3dbfa3,"DPRK, Kimsuky",https://x.com/_av4x/status/2052170440744054843
+2026-07-13,tweetfeed,DOMAIN,amepiequipamentos.com.br,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,bestcareindia.com,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,biltonuglimited.com,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,hillaryscollections.com,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,infoautonomoscadiz.es,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,kingdomcityhs.org,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,serpromedic.com,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,yugalpachori.in,n/a,https://x.com/patialavii/status/2076717352037806545
+2026-07-13,tweetfeed,DOMAIN,botambus228.com,n/a,https://x.com/malwrhunterteam/status/2076720885080220114
 2026-07-06,tweetfeed,HASH_SHA256,4f87b1d06d435b14a0cfa45cae09a78af86b52346bf0e056937aec16e4ff8c9e,n/a,https://x.com/smica83/status/2074189228951339017
 2026-07-06,tweetfeed,HASH_SHA256,ea7a3cc75aded5e2f28b30ccb3d6deb95c38159b82eb540df0f611eaf54d205c,malware,https://x.com/Malwarehunterr/status/2074193527807090820
 2026-07-06,tweetfeed,IP,151.241.154.141,opendir,https://x.com/smica83/status/2074197249131786687
@@ -6029,7 +6033,9 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,HASH_SHA256,83dccf7032db31dea62cb4fc687b74b08d2d5459abfaf50b9fb6764641e629a2,"C2, RAT",https://x.com/Fact_Finder03/status/2076692584521765297
 2026-07-13,tweetfeed,HASH_SHA256,1ebf98701daed585cdd759aafec87425a65c6934a1e45f3b7f5a36803cb10625,"C2, RAT",https://x.com/Fact_Finder03/status/2076692584521765297
 2026-07-13,tweetfeed,IP,157.254.167.45,"malware, ransomware",https://x.com/skocherhan/status/2076705372488765662
-2026-07-06,tweetfeed,HASH_MD5,1c816c684063d27ea63416771918da8f,n/a,https://x.com/skocherhan/status/2074186393966755974
+2026-07-13,tweetfeed,IP,192.166.82.53,n/a,https://x.com/stop_spammerz/status/2076716986952765761
+2026-07-13,tweetfeed,IP,208.73.204.157,phishing,https://x.com/Malwarehunterr/status/2076718805074759889
+2026-07-13,tweetfeed,HASH_SHA256,d910a109d16de7ffb94c7a07a8e9c60de09fb29e89912b8f90680cec258dd1c8,phishing,https://x.com/skocherhan/status/2076726042253816223
 2026-07-07,tweetfeed,HASH_MD5,6c78ce2a0d9a67bda99c4a1388dc9bfa,n/a,https://x.com/suyog41/status/2074380475389612052
 2026-07-07,tweetfeed,HASH_MD5,e5091bc4f51a8e6db22b01e9a345f732,n/a,https://x.com/suyog41/status/2074385560043712672
 2026-07-07,tweetfeed,HASH_MD5,7f4aa4aff0c2c23aa59a1d0dff83ffbb,"AgentTesla, malware",https://x.com/D3LabIT/status/2074416500379619745
