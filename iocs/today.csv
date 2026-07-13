@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-13,cisa_kev,CVE,CVE-2008-4128,"Cisco IOS, kev","Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain ""show privilege"" command to the /level/15/exec/- URI, and (2) a certain ""alias exec"" command to the /level/15/exec/-/configure/http URI. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-16"
-2026-07-12,threatfox,URL,http://tzpx.courses:4437,"win.remus, url",n/a
 2026-07-13,threatfox,URL,http://95.40.222.37/getinstall64,"win.valley_rat, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/get/config,"unknown_stealer, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/mods/api/log-download,"unknown_stealer, url",n/a
@@ -23,13 +22,10 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,URL,https://schuctz.click/b345t329.js,"js.kongtuke, url",n/a
 2026-07-13,threatfox,URL,https://schuctz.click/api/v1/session,"js.kongtuke, url",n/a
 2026-07-13,threatfox,URL,https://schuctz.click/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-12,threatfox,DOMAIN,sjzcjaqs.jadoou.bond,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,mypwk0n2.jadoou.click,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,jadoou.click,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,jidm.jadoobet.pro,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,thfn.jadoobet.pro,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,launchato.closer1ook.garden,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,fdmyrhjq.jadoobet.vip,"js.clearfake, domain",n/a
+2026-07-13,threatfox,URL,http://159.65.201.180/verify/request.vbs,"unknown, url",n/a
+2026-07-13,threatfox,URL,http://159.65.201.180/hGkBCsBr/Full%20AES.pyw,"unknown, url",n/a
+2026-07-13,threatfox,URL,https://moonlitprovince.top/router/verify-build,"js.smartapesg, url",n/a
+2026-07-13,threatfox,URL,https://moonlitprovince.top/router/handler-asset.js,"js.smartapesg, url",n/a
 2026-07-12,threatfox,DOMAIN,mfej25tu.jadoou.cyou,"js.clearfake, domain",n/a
 2026-07-12,threatfox,DOMAIN,kz7rv55b.jadoou.cyou,"js.clearfake, domain",n/a
 2026-07-12,threatfox,DOMAIN,eikgcqyt.onjabet1.com,"js.clearfake, domain",n/a
@@ -238,11 +234,55 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,DOMAIN,plinko-1xbet.games,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,texjqbwa.site-shartbandi-bedun-filter.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,site-shartbandi-bedun-filter.com,"js.clearfake, domain",n/a
-2026-07-12,tweetfeed,URL,http://njzlopghznkamkl.cfd,n/a,https://x.com/skocherhan/status/2076395545791180971
-2026-07-12,tweetfeed,URL,http://kynxdev.xyz,n/a,https://x.com/skocherhan/status/2076397826192334892
-2026-07-12,tweetfeed,URL,http://schijndelse.nl,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
-2026-07-12,tweetfeed,URL,http://104.21.7.7,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
-2026-07-12,tweetfeed,URL,http://172.67.155.87,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
+2026-07-13,threatfox,DOMAIN,lgmkszyl.site-shartbandi-farsi.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,ljlmzirx.site-shartbandi-farsi.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,qnu58lbv.varzeshlife.ir,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,ryodr8kw.varzeshlife.ir,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,cacophonydiaphanous-acquiesce.xyz,"unknown_loader, domain",n/a
+2026-07-13,threatfox,DOMAIN,digitalenterprise2026.com,"unknown_rat, domain",n/a
+2026-07-13,threatfox,DOMAIN,iwannagetmoremoney.beer,"win.hijackloader, domain",n/a
+2026-07-13,threatfox,DOMAIN,slippingpit61353.icu,"win.hijackloader, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id1.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id2.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id3.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id5.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id4.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id6.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id7.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id8.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,0id9.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,authid1.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,authid2.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,authid3.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,authid4.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,authid5.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,authid6.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,authid7.xyz,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,lb-rnypyjwi-rzm2gb9ys7wtc4u0.clb.sg-tencentclb.net,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,lb-ndrq4ayq-1h7mf9psqdkb65lv.clb.sg-tencentclb.net,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,c.gbwhat.pro,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,h5.gbwhatsapp.download,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,gbwaapps.org,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,gb-dwnplus.org,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,ug.gbwhat.pro,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,ug.whatsplus.online,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,ug.obwhatsappdownload.com,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,gbappze.com,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,static.cdns.space,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,origin-apk.gbwhat.pro,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,apk.obwhatsappdownload.com,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,apk.whatsplusdownload.com,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,origin-apk.obwhatsappdownload.com,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,origin-ug.whatsplus.online,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,origin-www.whatsplus.online,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,moonlitprovince.top,"js.smartapesg, domain",n/a
+2026-07-13,threatfox,DOMAIN,twimg.media,"unknown, domain",n/a
+2026-07-13,threatfox,DOMAIN,hxea.psikologer.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,xhqt.psikologer.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,psikologer.com,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,obsudfch.site-shartbandi-enfejar.bet,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,wbffakmr.site-shartbandi-enfejar.bet,"js.clearfake, domain",n/a
+2026-07-13,threatfox,DOMAIN,site-shartbandi-enfejar.bet,"js.clearfake, domain",n/a
 2026-07-12,tweetfeed,URL,http://github.com/lorenzoDick,"AsyncRAT, Remcos, Xworm",https://x.com/skocherhan/status/2076431978962841886
 2026-07-12,tweetfeed,URL,http://github.com/albaluzzgom-byte,n/a,https://x.com/skocherhan/status/2076434591854866547
 2026-07-12,tweetfeed,URL,http://github.com/ultrarenewrecargado-alt,AsyncRAT,https://x.com/skocherhan/status/2076436880535560450
@@ -729,8 +769,36 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,URL,http://xn--p6caiamvb1f4b4dbbgn6a0b9cs8ggz0cmfq3e5a7cyjvj.net,ransomware,https://x.com/scanmalware/status/2076726054756991049
 2026-07-13,tweetfeed,URL,https://curl-t.com/get/yytfWySjN5/bundle.tar,n/a,https://x.com/smica83/status/2076739145959915660
 2026-07-13,tweetfeed,URL,http://51.79.219.174,n/a,https://x.com/smica83/status/2076740345614733659
-2026-07-12,tweetfeed,DOMAIN,kynxdev.xyz,n/a,https://x.com/skocherhan/status/2076397826192334892
-2026-07-12,tweetfeed,DOMAIN,schijndelse.nl,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
+2026-07-13,tweetfeed,URL,http://107.174.244.101:5000,n/a,https://x.com/500mk500/status/2076746572876890471
+2026-07-13,tweetfeed,URL,http://18.221.52.83:8080,n/a,https://x.com/500mk500/status/2076746572876890471
+2026-07-13,tweetfeed,URL,http://68.67.113.3:8080,n/a,https://x.com/500mk500/status/2076746572876890471
+2026-07-13,tweetfeed,URL,http://132.243.235.214,phishing,https://x.com/Malwarehunterr/status/2076757711874920539
+2026-07-13,tweetfeed,URL,http://spum.port0.org,phishing,https://x.com/skocherhan/status/2076758678397481412
+2026-07-13,tweetfeed,URL,https://213.177.179.79,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,https://213.177.179.80,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,https://213.177.179.91,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,https://213.177.179.27,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,https://213.177.179.61,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,https://213.177.179.88,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,https://213.177.179.97,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,https://213.177.179.101,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,URL,http://c2.mysczd.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,URL,http://86.107.168.127,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,URL,http://23.26.201.54,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,URL,http://hahaclaude-qqfn-05.evoxt.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,URL,http://1cce8213f2ae2ebfed03ba82391d4c17.r2.cloudflarestorage.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,URL,http://te.n2k7.ru,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://powerbalance.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://genshinlover.minecraftnoob.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://market.diskshop.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://naparkovke.tdkare.ru,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://fninja.ignorelist.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://romaroma.chickenkiller.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://web.nectude.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://meow.kesa.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,URL,http://turnervault.net,phishing,https://x.com/Malwarehunterr/status/2076765747364397374
+2026-07-13,tweetfeed,URL,http://xwsjl-jjhs-t5dl.p-436szmjv.workers.dev,phishing,https://x.com/Malwarehunterr/status/2076765747364397374
+2026-07-13,tweetfeed,URL,http://pub-15b1f71cb9484c93bce8a849fd74e154.r2.dev,phishing,https://x.com/scanmalware/status/2076766414665376026
 2026-07-12,tweetfeed,DOMAIN,skocherhan98740bb0d8b1f23fcc1293ede85d920agithub.com,AsyncRAT,https://x.com/skocherhan/status/2076437149893685747
 2026-07-12,tweetfeed,DOMAIN,newzamrecarga.duckdns.org,"Dcrat, Njrat",https://x.com/skocherhan/status/2076440022161424893
 2026-07-12,tweetfeed,DOMAIN,doblelaidentedi.duckdns.org,"Dcrat, Njrat",https://x.com/skocherhan/status/2076440022161424893
@@ -817,6 +885,22 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,DOMAIN,botambus228.com,n/a,https://x.com/malwrhunterteam/status/2076720885080220114
 2026-07-13,tweetfeed,DOMAIN,xn--p6caiamvb1f4b4dbbgn6a0b9cs8ggz0cmfq3e5a7cyjvj.net,ransomware,https://x.com/scanmalware/status/2076726054756991049
 2026-07-13,tweetfeed,DOMAIN,curl-t.com,n/a,https://x.com/smica83/status/2076739145959915660
+2026-07-13,tweetfeed,DOMAIN,spum.port0.org,phishing,https://x.com/skocherhan/status/2076758678397481412
+2026-07-13,tweetfeed,DOMAIN,c2.mysczd.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,DOMAIN,hahaclaude-qqfn-05.evoxt.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,DOMAIN,1cce8213f2ae2ebfed03ba82391d4c17.r2.cloudflarestorage.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,DOMAIN,te.n2k7.ru,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,powerbalance.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,genshinlover.minecraftnoob.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,market.diskshop.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,naparkovke.tdkare.ru,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,fninja.ignorelist.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,romaroma.chickenkiller.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,web.nectude.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,meow.kesa.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076761329587954174
+2026-07-13,tweetfeed,DOMAIN,turnervault.net,phishing,https://x.com/Malwarehunterr/status/2076765747364397374
+2026-07-13,tweetfeed,DOMAIN,xwsjl-jjhs-t5dl.p-436szmjv.workers.dev,phishing,https://x.com/Malwarehunterr/status/2076765747364397374
+2026-07-13,tweetfeed,DOMAIN,pub-15b1f71cb9484c93bce8a849fd74e154.r2.dev,phishing,https://x.com/scanmalware/status/2076766414665376026
 2026-07-12,tweetfeed,IP,45.225.135.22,"Dcrat, Njrat",https://x.com/skocherhan/status/2076440022161424893
 2026-07-13,tweetfeed,IP,5.180.208.57,n/a,https://x.com/cyberwar_15/status/2076442918823575557
 2026-07-13,tweetfeed,IP,5.180.208.60,n/a,https://x.com/cyberwar_15/status/2076442918823575557
@@ -861,6 +945,26 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,HASH_SHA256,ed57f128d6f463dac2a6975006a7100cb8978167ce422398e1d4e4b7fe40f934,n/a,https://x.com/smica83/status/2076739145959915660
 2026-07-13,tweetfeed,IP,51.79.219.174,n/a,https://x.com/smica83/status/2076740345614733659
 2026-07-13,tweetfeed,HASH_SHA256,e7f36ff4274b1fa4afb48a002b85aed82d788a399b0db3d5a4e886238777fb37,n/a,https://x.com/smica83/status/2076740345614733659
+2026-07-13,tweetfeed,IP,107.174.244.101,n/a,https://x.com/500mk500/status/2076746572876890471
+2026-07-13,tweetfeed,IP,18.221.52.83,n/a,https://x.com/500mk500/status/2076746572876890471
+2026-07-13,tweetfeed,IP,68.67.113.3,n/a,https://x.com/500mk500/status/2076746572876890471
+2026-07-13,tweetfeed,IP,132.243.235.214,phishing,https://x.com/Malwarehunterr/status/2076757711874920539
+2026-07-13,tweetfeed,IP,213.177.179.28,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.33,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.36,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.41,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.62,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.79,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.80,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.91,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.12,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.27,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.61,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.88,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.97,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,213.177.179.101,n/a,https://x.com/teamcymru_S2/status/2076759052369936666
+2026-07-13,tweetfeed,IP,86.107.168.127,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
+2026-07-13,tweetfeed,IP,23.26.201.54,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
 2026-07-12,tweetfeed,HASH_MD5,5846954c1d2a6b518d35dca1dc58a43b,"AsyncRAT, Remcos, Xworm",https://x.com/skocherhan/status/2076431978962841886
 2026-07-12,tweetfeed,HASH_MD5,1bfed54ae970308843d0e55ee96eddd9,n/a,https://x.com/skocherhan/status/2076434591854866547
 2026-07-12,tweetfeed,HASH_MD5,98740bb0d8b1f23fcc1293ede85d920a,AsyncRAT,https://x.com/skocherhan/status/2076436880535560450
