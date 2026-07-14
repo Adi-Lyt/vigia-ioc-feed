@@ -3,7 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-56164,"Microsoft SharePoint Server, kev","Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15409,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
-2026-07-13,threatfox,URL,https://schuctz.click/dfhnn6yy.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://freememusic.com/,"win.vidar, url",n/a
 2026-07-14,threatfox,URL,https://schuctz.click/e187jn2e.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://irahook.com/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
@@ -40,16 +39,7 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,URL,https://ritchie.click/rm8p5pma.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://tommy-d.lol/f,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://alabastercompass.top/public/callback-stylesheet.js,"js.smartapesg, url",n/a
-2026-07-13,threatfox,DOMAIN,bwimlqru.jetbet.download,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,pnxturjz.jetbet.download,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,bfpu.rayeganmarket.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,ciry.rayeganmarket.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,telemetry.incidentcenter.cc,"win.acr_stealer, domain",n/a
-2026-07-13,threatfox,DOMAIN,cloudgateway.cc,"win.acr_stealer, domain",n/a
-2026-07-13,threatfox,DOMAIN,releases.cloudgateway.cc,"win.acr_stealer, domain",n/a
-2026-07-13,threatfox,DOMAIN,sermver.duckdns.org,"win.remcos, domain",n/a
-2026-07-13,threatfox,DOMAIN,godpleaseblessmyworkiwanttogive.duckdns.org,"win.remcos, domain",n/a
-2026-07-13,threatfox,DOMAIN,ftp.maytestlasb.com,"win.agent_tesla, domain",n/a
+2026-07-14,threatfox,URL,https://ritchie.click/cpr5bp4s.js,"js.kongtuke, url",n/a
 2026-07-13,threatfox,DOMAIN,uwkx2xdq.zaribbala.bet,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,xprba39f.jadoou.space,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,znmcx4xz.zaribbala.bet,"js.clearfake, domain",n/a
@@ -288,41 +278,10 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,DOMAIN,hbxigpqk.boroo.bet,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,bhvj.betwanaa.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,betwanaa.com,"js.clearfake, domain",n/a
-2026-07-13,tweetfeed,URL,https://return.st,n/a,https://x.com/sicehice/status/2076777749289533665
-2026-07-13,tweetfeed,URL,http://return.st,n/a,https://x.com/sicehice/status/2076777749289533665
-2026-07-13,tweetfeed,URL,http://meowksandr.spacetechnology.net,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://msn.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://german.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://ru.megotron228.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://mh.picolino.dev,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://froggi.duckdns.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://ru.czarpivo.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://denisprog.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://build.csproject.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://31ch.virhost.xyz,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://list.mikata.ru,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://prewayback.kepa2012.xyz,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://pl.sed0y.ru,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://khulster.csproject.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://nosamba.myaddr.tools,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://xedosss.89.fvds.ru,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://kirboro.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://ect.marzik.name,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://tango.strangled.net,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://hazzi.twilightparadox.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://arty.lol,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://iot123.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://after.crabdance.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://archi.fluxus.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://kekwkekw.minecraftnoob.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://klausvps.duckdns.org:8443,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://amorfati.ext.io,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://nikitasliva.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://serv2.soon.it,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://dlore.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://warkelen.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,http://mikhaste-ru.duckdns.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,URL,https://eletroshopoficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2076781554991255801
+2026-07-14,threatfox,DOMAIN,ssefhahu.bahsegel90.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,gejy.site-shartbandi-takhtenard.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,cckoient.boroo.bet,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,serversniperxx.duckdns.org,"unknown, domain",n/a
 2026-07-14,tweetfeed,URL,https://arvenix.vu/mailgo/kagoya.html,phishing,https://x.com/masaomi346/status/2076828626646089843
 2026-07-14,tweetfeed,URL,https://canrsa.31thbi.info/H80AoO,phishing,https://x.com/masaomi346/status/2076877586026914244
 2026-07-14,tweetfeed,URL,http://xn--s6cgavda9baad5c8ebbt3bzb2njbehcc2dwsxb7kcdh.net,malware,https://x.com/scanmalware/status/2076889435841483191
@@ -465,40 +424,6 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,HASH_SHA256,1c38405a026f44a612256e5e8ca0af5f1e7292731f5dc71b54a4c41490cd7745,"unknown, sha256_hash",n/a
 2026-07-14,threatfox,HASH_SHA256,33d9b53c42674663d0d7d23c251a7dce5f2ea7992a42540e421ab3956e621595,"unknown, sha256_hash",n/a
 2026-07-14,threatfox,HASH_SHA256,8ea817d0ed3395ae61643b36726bcc4ed3e55a555acf739ed94b2307b885af34,"unknown, sha256_hash",n/a
-2026-07-13,tweetfeed,DOMAIN,return.st,n/a,https://x.com/sicehice/status/2076777749289533665
-2026-07-13,tweetfeed,DOMAIN,construnovaatacado.com,"phishing, scam",https://x.com/Coolcarlos17/status/2076780603400245597
-2026-07-13,tweetfeed,DOMAIN,meowksandr.spacetechnology.net,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,msn.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,german.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,ru.megotron228.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,mh.picolino.dev,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,froggi.duckdns.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,ru.czarpivo.abrdns.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,denisprog.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,build.csproject.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,31ch.virhost.xyz,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,list.mikata.ru,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,prewayback.kepa2012.xyz,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,pl.sed0y.ru,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,khulster.csproject.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,nosamba.myaddr.tools,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,xedosss.89.fvds.ru,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,kirboro.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,ect.marzik.name,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,tango.strangled.net,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,hazzi.twilightparadox.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,arty.lol,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,iot123.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,after.crabdance.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,archi.fluxus.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,kekwkekw.minecraftnoob.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,amorfati.ext.io,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,nikitasliva.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,serv2.soon.it,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,dlore.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,warkelen.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,mikhaste-ru.duckdns.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
-2026-07-13,tweetfeed,DOMAIN,eletroshopoficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2076781554991255801
 2026-07-14,tweetfeed,DOMAIN,arvenix.vu,phishing,https://x.com/masaomi346/status/2076828626646089843
 2026-07-14,tweetfeed,DOMAIN,canrsa.31thbi.info,phishing,https://x.com/masaomi346/status/2076877586026914244
 2026-07-14,tweetfeed,DOMAIN,xn--s6cgavda9baad5c8ebbt3bzb2njbehcc2dwsxb7kcdh.net,malware,https://x.com/scanmalware/status/2076889435841483191
@@ -609,7 +534,6 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,DOMAIN,politicsinsights.com,"ClickFix, FakeCaptcha, malware",https://x.com/urlyzeio/status/2077070274898657573
 2026-07-14,tweetfeed,DOMAIN,microsoft.updata.net.cn,"ClickFix, malware",https://x.com/Malwarehunterr/status/2077128769614254149
 2026-07-14,tweetfeed,DOMAIN,pub-620def1d93ef431dbdf24616a9b11c77.r2.dev,"ClickFix, malware",https://x.com/Malwarehunterr/status/2077128769614254149
-2026-07-13,tweetfeed,IP,31.59.160.12,n/a,https://x.com/sicehice/status/2076777749289533665
 2026-07-14,tweetfeed,IP,45.87.223.100,phishing,https://x.com/AvukatMeleknur/status/2076847872142717011
 2026-07-14,tweetfeed,IP,80.96.59.154,C2,https://x.com/Fact_Finder03/status/2076912181833355460
 2026-07-14,tweetfeed,IP,77.91.100.138,"C2, stealer",https://x.com/Fact_Finder03/status/2076920126943658365
