@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-13,cisa_kev,CVE,CVE-2008-4128,"Cisco IOS, kev","Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain ""show privilege"" command to the /level/15/exec/- URI, and (2) a certain ""alias exec"" command to the /level/15/exec/-/configure/http URI. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-16"
-2026-07-13,threatfox,URL,https://jadeworkshop.top/router/verify-build,"js.smartapesg, url",n/a
-2026-07-13,threatfox,URL,https://jadeworkshop.top/router/handler-asset.js,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,http://s.na-cs.com/b2f628/b.sh,"elf.kinsing, url",n/a
 2026-07-13,threatfox,URL,http://s.na-cs.com/t.sh,"elf.kinsing, url",n/a
 2026-07-13,threatfox,URL,http://oracle.zzhreceive.top/b2f628/b.sh,"elf.kinsing, url",n/a
@@ -33,24 +31,6 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,URL,https://schuctz.click/ps8oyg4x.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://alabastercompass.top/public/refresh-cookie,"js.smartapesg, url",n/a
 2026-07-14,threatfox,URL,https://alabastercompass.top/public/throttle-sandbox.js,"js.smartapesg, url",n/a
-2026-07-13,threatfox,DOMAIN,droptest.xyz,"unknown_loader, domain",n/a
-2026-07-13,threatfox,DOMAIN,tcp.niceports.shop,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,yxxyqkkf.jadoou.one,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadeworkshop.top,"js.smartapesg, domain",n/a
-2026-07-13,threatfox,DOMAIN,genesis-cheats.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,wifihgu.duckdns.org,"elf.mirai, domain",n/a
-2026-07-13,threatfox,DOMAIN,lumennix.life,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.online,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.site,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.space,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.store,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.xyz,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,instance-v81wjy-relay.screenconnect.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,fanampiana.screenconnect.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,cdnssa.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,hnzi.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,owhj.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,na-cs.com,"unknown, domain",n/a
 2026-07-13,threatfox,DOMAIN,2cca57zt.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,tzcy9ec8.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,ulgqmzld.jadoou.online,"js.clearfake, domain",n/a
@@ -259,28 +239,16 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,DOMAIN,ebju.betropol.bet,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,kxwuxeow.site-shartbandi-variz-mostagim.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,site-shartbandi-variz-mostagim.com,"js.clearfake, domain",n/a
-2026-07-13,tweetfeed,URL,https://free-video-call.github.io/Sexytalk/,malware,https://x.com/d1v35hresearch/status/2076655116539863050
-2026-07-13,tweetfeed,URL,https://egisss.net,"AiTM, phishing",https://x.com/ShadowOpCode/status/2076656483652042764
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Login,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Host,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Script.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.exe,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.application,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.jnlp,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.ClientBootstrap.jnlp,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.zip,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz:8041,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Login,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Host,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Script.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/AuthenticationService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/PageService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/SecurityService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/ToolboxService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/TriggerService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://larpers.su/login,n/a,https://x.com/malwrhunterteam/status/2076658668146180128
-2026-07-13,tweetfeed,URL,http://noventis8.com,n/a,https://x.com/malwrhunterteam/status/2076660023724236935
-2026-07-13,tweetfeed,URL,http://172.93.185.154,n/a,https://x.com/malwrhunterteam/status/2076660164317356059
+2026-07-14,threatfox,DOMAIN,haqkrygx.site-takhtenard-sharti.online,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,site-takhtenard-sharti.online,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,2skmlgm2.motabartarin-site-shartbandi-jahan.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,zsvipfhj.fileboroo.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,motabartarin-site-shartbandi-jahan.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,gbij.betbuf90.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,auth-code-verif.beer,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,ewer.betbuf90.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,fwyw.betturkey.bet,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,gufbylzl.site-takhtenard-sharti-betland.com,"js.clearfake, domain",n/a
 2026-07-13,tweetfeed,URL,https://htn.to/Ch4JmLfNHt,Lazarus,https://x.com/RE_DO/status/2076677003865174268
 2026-07-13,tweetfeed,URL,http://covid19healthsystem.org,AsyncRAT,https://x.com/skocherhan/status/2076687664879677642
 2026-07-13,tweetfeed,URL,http://104.18.27.239:443,AsyncRAT,https://x.com/skocherhan/status/2076687664879677642
@@ -478,10 +446,9 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,URL,http://nextjs2385.ngrok.io,n/a,https://x.com/skocherhan/status/2077007236115677533
 2026-07-14,tweetfeed,URL,http://amc-us.mprevive.com,n/a,https://x.com/skocherhan/status/2077007236115677533
 2026-07-14,tweetfeed,URL,http://cdn.denisfsr-kemp.workers.dev,n/a,https://x.com/skocherhan/status/2077007236115677533
-2026-07-13,tweetfeed,DOMAIN,free-video-call.github.io,malware,https://x.com/d1v35hresearch/status/2076655116539863050
-2026-07-13,tweetfeed,DOMAIN,egisss.net,"AiTM, phishing",https://x.com/ShadowOpCode/status/2076656483652042764
-2026-07-13,tweetfeed,DOMAIN,larpers.su,n/a,https://x.com/malwrhunterteam/status/2076658668146180128
-2026-07-13,tweetfeed,DOMAIN,noventis8.com,n/a,https://x.com/malwrhunterteam/status/2076660023724236935
+2026-07-14,tweetfeed,URL,http://oofficemail.co.nz@mail.ru,n/a,https://x.com/SpiderLabs/status/2077017286360039771
+2026-07-14,tweetfeed,URL,https://logisticabiomedica.com/meet.me/,phishing,https://x.com/patialavii/status/2077024213521859035
+2026-07-14,tweetfeed,URL,https://logisticabiomedica.com/meet.me/Windows/download.php,phishing,https://x.com/patialavii/status/2077024213521859035
 2026-07-13,tweetfeed,DOMAIN,htn.to,Lazarus,https://x.com/RE_DO/status/2076677003865174268
 2026-07-13,tweetfeed,DOMAIN,covid19healthsystem.org,AsyncRAT,https://x.com/skocherhan/status/2076687664879677642
 2026-07-13,tweetfeed,DOMAIN,alcatelonetouch.us,AsyncRAT,https://x.com/skocherhan/status/2076688302522945662
@@ -610,8 +577,7 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,DOMAIN,nextjs2385.ngrok.io,n/a,https://x.com/skocherhan/status/2077007236115677533
 2026-07-14,tweetfeed,DOMAIN,amc-us.mprevive.com,n/a,https://x.com/skocherhan/status/2077007236115677533
 2026-07-14,tweetfeed,DOMAIN,cdn.denisfsr-kemp.workers.dev,n/a,https://x.com/skocherhan/status/2077007236115677533
-2026-07-13,tweetfeed,IP,25.2.4.92,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,IP,172.93.185.154,n/a,https://x.com/malwrhunterteam/status/2076660164317356059
+2026-07-14,tweetfeed,DOMAIN,logisticabiomedica.com,phishing,https://x.com/patialavii/status/2077024213521859035
 2026-07-13,tweetfeed,HASH_SHA256,b11880bbadb5a06cd44f60e08f48dd5592ad9add9377c81810f5216437415865,n/a,https://x.com/smica83/status/2076665951362089050
 2026-07-13,tweetfeed,HASH_SHA256,9ea614e8a886e5bf042bb544c30db021393d23c6010af1340155fae3d2f23c3b,n/a,https://x.com/JamfThreatLabs/status/2076675844328525854
 2026-07-13,tweetfeed,HASH_SHA256,36921e0b92dbd51e339b1b2e18f8fa6c8c9a5ca085db36a8cd14a37ac99733de,n/a,https://x.com/moonlock_lab/status/2076685755934540212
@@ -687,8 +653,7 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,HASH_SHA256,93b19bc56952ae1e82f1f41db49f455316736e2b8d161e64b115a150d8dcf204,n/a,https://x.com/smica83/status/2077003207012651222
 2026-07-14,tweetfeed,HASH_SHA256,8635730e272497621742ceaf5f6c7a54238c431f1b1e3db8488a17976c9fc576,n/a,https://x.com/smica83/status/2077004015838052710
 2026-07-14,tweetfeed,HASH_SHA256,cca1348574adbec17ae552954b595da6190ea15c2e1bb6b52f5592f82c196781,n/a,https://x.com/smica83/status/2077004851595137428
-2026-07-13,tweetfeed,HASH_MD5,25185dc12be843ffc0fafe2ecc4d961d,malware,https://x.com/d1v35hresearch/status/2076655116539863050
-2026-07-13,tweetfeed,HASH_MD5,4e1151dd79dabae691dac265f1f229a2,n/a,https://x.com/skocherhan/status/2076660743965933862
+2026-07-14,tweetfeed,HASH_SHA256,f259da2a3fe6fdcaf3c15a270da5373d79a1a627ae72b81e821d4a85ee70b284,phishing,https://x.com/patialavii/status/2077024213521859035
 2026-07-13,tweetfeed,HASH_MD5,ce774c9790930e46bd7d218c0dc17024,"C2, RAT",https://x.com/skocherhan/status/2076693851369005334
 2026-07-14,tweetfeed,HASH_MD5,68b2985b3d1cf864847dbcb01518db75,malware,https://x.com/bsforvt727/status/2076917655093850352
 2026-07-14,tweetfeed,HASH_MD5,94b823b0780748f21d7170ccf2b86d2b,ClickFix,https://x.com/suyog41/status/2076945482602127638
