@@ -1,6 +1,8 @@
 date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-56155,"Microsoft Active Directory Federation Services, kev","Microsoft Active Directory Federation Services contains an insufficient granularity of access control vulnerability that allows an authorized attacker to elevate privileges locally. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-28"
 2026-07-14,cisa_kev,CVE,CVE-2026-56164,"Microsoft SharePoint Server, kev","Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
+2026-07-14,cisa_kev,CVE,CVE-2026-15409,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
+2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-13,threatfox,URL,http://159.65.201.180/verify/request.vbs,"unknown, url",n/a
 2026-07-13,threatfox,URL,http://159.65.201.180/hGkBCsBr/Full%20AES.pyw,"unknown, url",n/a
 2026-07-13,threatfox,URL,https://moonlitprovince.top/router/verify-build,"js.smartapesg, url",n/a
@@ -34,10 +36,6 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,URL,https://shucare.com.au/,"win.vidar, url",n/a
 2026-07-14,threatfox,URL,https://hazelcitadel.top/public/callback-stylesheet.js,"js.smartapesg, url",n/a
 2026-07-14,threatfox,URL,https://silverbackchatbot.com/,"win.vidar, url",n/a
-2026-07-13,threatfox,DOMAIN,ecyz.plinko-1xbet.games,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,plinko-1xbet.games,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,texjqbwa.site-shartbandi-bedun-filter.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,site-shartbandi-bedun-filter.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,lgmkszyl.site-shartbandi-farsi.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,ljlmzirx.site-shartbandi-farsi.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,qnu58lbv.varzeshlife.ir,"js.clearfake, domain",n/a
@@ -304,6 +302,10 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,DOMAIN,boro3.bet,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,ggot.betmajic90.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,betmajic90.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,ykkgplvw.boroo.bet,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,boroo.bet,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,tptc.betrein90.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,betrein90.com,"js.clearfake, domain",n/a
 2026-07-13,tweetfeed,URL,http://107.174.244.101:5000,n/a,https://x.com/500mk500/status/2076746572876890471
 2026-07-13,tweetfeed,URL,http://18.221.52.83:8080,n/a,https://x.com/500mk500/status/2076746572876890471
 2026-07-13,tweetfeed,URL,http://68.67.113.3:8080,n/a,https://x.com/500mk500/status/2076746572876890471
@@ -500,6 +502,8 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,HASH_SHA256,c42130f2f9f1fc1a1c4189b6cc3bc5ce0207d21620e20cc4119ae86951105344,"py.creal_stealer, sha256_hash",n/a
 2026-07-14,threatfox,HASH_SHA256,b366811f3f74717395eddf884e59b329cf192d2a310cf47deadbf4102ef71e67,"py.creal_stealer, sha256_hash",n/a
 2026-07-14,tweetfeed,URL,http://garagedoorstexas.com,n/a,https://x.com/L0Psec/status/2077098867137343740
+2026-07-14,tweetfeed,URL,https://ADODB.Stream,n/a,https://x.com/Huntio/status/2077102991207723235
+2026-07-14,tweetfeed,URL,http://192.142.51.51,n/a,https://x.com/Huntio/status/2077102991207723235
 2026-07-13,tweetfeed,DOMAIN,spum.port0.org,phishing,https://x.com/skocherhan/status/2076758678397481412
 2026-07-13,tweetfeed,DOMAIN,c2.mysczd.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
 2026-07-13,tweetfeed,DOMAIN,hahaclaude-qqfn-05.evoxt.com,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
@@ -656,6 +660,7 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,HASH_MD5,773dda7eb9d848d9a3491ec2b61a9f0d,"py.creal_stealer, md5_hash",n/a
 2026-07-14,threatfox,HASH_MD5,7046e88eb63b1d5271901092ce6e3838,"win.netwire, md5_hash",n/a
 2026-07-14,tweetfeed,DOMAIN,garagedoorstexas.com,n/a,https://x.com/L0Psec/status/2077098867137343740
+2026-07-14,tweetfeed,DOMAIN,ADODB.Stream,n/a,https://x.com/Huntio/status/2077102991207723235
 2026-07-13,tweetfeed,IP,107.174.244.101,n/a,https://x.com/500mk500/status/2076746572876890471
 2026-07-13,tweetfeed,IP,18.221.52.83,n/a,https://x.com/500mk500/status/2076746572876890471
 2026-07-13,tweetfeed,IP,68.67.113.3,n/a,https://x.com/500mk500/status/2076746572876890471
@@ -726,6 +731,7 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,HASH_SHA256,8315da9faae7fa56986e5d13f643b010b300489f66c57c2136656d2eb6bad8ea,n/a,https://x.com/L0Psec/status/2077098870614454382
 2026-07-14,tweetfeed,HASH_SHA256,a68256638a3fe1a2ca48f7aad37da281f85f3a907ee234c28d1ccab0c25f2a7d,n/a,https://x.com/L0Psec/status/2077098870614454382
 2026-07-14,tweetfeed,HASH_SHA256,cde01d9970a83bdc37444246dd08866bd8d1c246a754f19b845b1f2a2c773d2e,n/a,https://x.com/L0Psec/status/2077098870614454382
+2026-07-14,tweetfeed,HASH_SHA256,f62519453afb691de16b4674927332cc8b28b4325c4e19892d31813b691652d0,n/a,https://x.com/smica83/status/2077114376323023094
 2026-07-14,tweetfeed,HASH_MD5,68b2985b3d1cf864847dbcb01518db75,malware,https://x.com/bsforvt727/status/2076917655093850352
 2026-07-14,tweetfeed,HASH_MD5,94b823b0780748f21d7170ccf2b86d2b,ClickFix,https://x.com/suyog41/status/2076945482602127638
 2026-07-14,tweetfeed,HASH_MD5,4b83cfbae973bea3425c3f2390cc77fb,ClickFix,https://x.com/suyog41/status/2076945482602127638
