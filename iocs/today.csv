@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-13,cisa_kev,CVE,CVE-2008-4128,"Cisco IOS, kev","Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain ""show privilege"" command to the /level/15/exec/- URI, and (2) a certain ""alias exec"" command to the /level/15/exec/-/configure/http URI. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-16"
-2026-07-13,threatfox,URL,http://95.40.222.37/getinstall64,"win.valley_rat, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/get/config,"unknown_stealer, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/mods/api/log-download,"unknown_stealer, url",n/a
 2026-07-13,threatfox,URL,https://gbwaaplus.com/,"apk.triada, url",n/a
@@ -27,14 +26,6 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,URL,https://moonlitprovince.top/router/verify-build,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,https://moonlitprovince.top/router/handler-asset.js,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,https://schuctz.click/dfhnn6yy.js,"js.kongtuke, url",n/a
-2026-07-13,threatfox,DOMAIN,threadtheory.interfe7ewith.garden,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,ceayo90m.jadoou.xyz,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,7c7ax36p.bahigo90bet.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,q7me81i7.jadoou.xyz,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,lichentoken.interfe7ewith.garden,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,ogedjbqx.jadoou.baby,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,exlt.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,dzlr.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,h4rd-craft.interfe7ewith.garden,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,aiqv.interfe7ewith.garden,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,klsv.betturkey.bet,"js.clearfake, domain",n/a
@@ -286,6 +277,10 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,DOMAIN,wjek.jadoou.lol,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,epal.jadoou.lol,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,marjdl.pro,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,sqbw.jadoou.makeup,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,ydzi.jadoou.makeup,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,wmgbwskd.pdfbama.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,fbecwqni.pdfbama.com,"js.clearfake, domain",n/a
 2026-07-13,tweetfeed,URL,https://0i3n894u-dpwyvwoituy1.edgeone.dev/english.html,phishing,https://x.com/PhishStats/status/2076491016668909953
 2026-07-13,tweetfeed,URL,https://uutiod.asia/login,phishing,https://x.com/masaomi346/status/2076519676725870873
 2026-07-13,tweetfeed,URL,http://sp21ct7-garsen-biz-vormek-faltik.pages.dev,ransomware,https://x.com/scanmalware/status/2076519823186510087
@@ -1014,6 +1009,7 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,IP,86.107.168.127,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
 2026-07-13,tweetfeed,IP,23.26.201.54,n/a,https://x.com/Yusufcancakiir/status/2076760008096686325
 2026-07-13,tweetfeed,IP,31.59.160.12,n/a,https://x.com/sicehice/status/2076777749289533665
+2026-07-14,tweetfeed,IP,45.87.223.100,phishing,https://x.com/AvukatMeleknur/status/2076847872142717011
 2026-07-13,tweetfeed,HASH_MD5,f436d3a67a330819f1462264e3289a5b,malware,https://x.com/d1v35hresearch/status/2076570466341511556
 2026-07-13,tweetfeed,HASH_MD5,4f88a13abda5f0a5747d7bb180cdec4c,NetSupport,https://x.com/skocherhan/status/2076574330926817361
 2026-07-13,tweetfeed,HASH_MD5,c4b9b25ea77d2244bcfb311661fac706,n/a,https://x.com/skocherhan/status/2076574836243988868
