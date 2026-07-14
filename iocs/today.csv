@@ -1,12 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-13,cisa_kev,CVE,CVE-2008-4128,"Cisco IOS, kev","Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain ""show privilege"" command to the /level/15/exec/- URI, and (2) a certain ""alias exec"" command to the /level/15/exec/-/configure/http URI. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-16"
-2026-07-13,threatfox,URL,https://irahook.com/get/config,"unknown_stealer, url",n/a
-2026-07-13,threatfox,URL,https://irahook.com/mods/api/log-download,"unknown_stealer, url",n/a
-2026-07-13,threatfox,URL,https://gbwaaplus.com/,"apk.triada, url",n/a
-2026-07-13,threatfox,URL,https://gbwaaplus.com/download/,"apk.triada, url",n/a
-2026-07-13,threatfox,URL,https://drive.google.com/uc?export=download&id=1HcFfTSeJ59rLIfby_DJTz0sLYvQV_a7T,"apk.triada, url",n/a
-2026-07-13,threatfox,URL,https://www.whatsplus.online/gbwhatsapp.apk,"apk.triada, url",n/a
-2026-07-13,threatfox,URL,https://cdn.gbwhatsapp.download/app/android/conf/gb_wakeup.json,"apk.triada, url",n/a
 2026-07-13,threatfox,URL,http://apk.gbwhat.pro/GBWhatsApp_2.23.9.490_gw_08_09_1510_sec_sign.apk,"apk.triada, url",n/a
 2026-07-13,threatfox,URL,https://ghost.nestdns.com/files,"unknown, url",n/a
 2026-07-13,threatfox,URL,https://69.164.253.21,"win.vidar, url",n/a
@@ -27,35 +20,17 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,URL,https://moonlitprovince.top/router/handler-asset.js,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,https://schuctz.click/dfhnn6yy.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://freememusic.com/,"win.vidar, url",n/a
-2026-07-13,threatfox,DOMAIN,file.pushclick.online,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,irahook.com,"unknown_stealer, domain",n/a
-2026-07-13,threatfox,DOMAIN,c.whatsplusdownload.com,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,c.obwhatsappdownload.com,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,server.fbsecurity.net,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,rpif.ad-tracker.network,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,app.pushonline.online,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,app.whatsplusdownload.com,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,app.obwhatsappdownload.com,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,c.pushonline.online,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,h5.webser.site,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,c.whatsplus.online,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,app.gbwhat.pro,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,app.whatsplus.online,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,p.thelayzf.fyi,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,q.thelayzf.fyi,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,dubai.thelayzf.fyi,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,gbw.cmpc.fun,"apk.triada, domain",n/a
-2026-07-13,threatfox,DOMAIN,stake.libertariancounterpoint.com,"js.fakeupdates, domain",n/a
-2026-07-13,threatfox,DOMAIN,xc1y2oam.jetbet.download,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,d9xy3942.jetbet.download,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,kelvenis.ima8invika.garden,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,growthflo.ima8invika.garden,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,ahkx.jadoou.lol,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.lol,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,pqxhifiu.jadoou.sbs,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.sbs,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,r0ot-line.veget-growing.garden,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,drawsmart.veget-growing.garden,"js.clearfake, domain",n/a
+2026-07-14,threatfox,URL,https://schuctz.click/e187jn2e.js,"js.kongtuke, url",n/a
+2026-07-14,threatfox,URL,https://irahook.com/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
+2026-07-14,threatfox,URL,https://irahook.com/?p=,"unknown_rat, url",n/a
+2026-07-14,threatfox,URL,http://44.223.110.247:1337/get/config,"unknown_rat, url",n/a
+2026-07-14,threatfox,URL,http://44.223.110.247:1337/mods/api/log-download,"unknown_rat, url",n/a
+2026-07-14,threatfox,URL,http://44.223.110.247:1337/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
+2026-07-14,threatfox,URL,http://44.223.110.247:1337/?p=,"unknown_rat, url",n/a
+2026-07-14,threatfox,URL,https://schuctz.click/h5gqnaud.js,"js.kongtuke, url",n/a
+2026-07-14,threatfox,URL,https://schuctz.click/xyzqcsdc.js,"js.kongtuke, url",n/a
+2026-07-14,threatfox,URL,https://schuctz.click/kkikc54m.js,"js.kongtuke, url",n/a
+2026-07-14,threatfox,URL,https://schuctz.click/2xfae91q.js,"js.kongtuke, url",n/a
 2026-07-13,threatfox,DOMAIN,byagqv8a.fileboroo.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,mlbn.jadoou.makeup,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,jadoou.makeup,"js.clearfake, domain",n/a
@@ -282,12 +257,11 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,DOMAIN,wcwe.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,euspwbzy.bet90forward.win,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,eekeltps.bet90forward.win,"js.clearfake, domain",n/a
-2026-07-13,tweetfeed,URL,https://secnond.khs4ik.info/H80AoO,phishing,https://x.com/Metemcyber/status/2076537601067221315
-2026-07-13,tweetfeed,URL,http://43.164.190.183,phishing,https://x.com/Metemcyber/status/2076537601067221315
-2026-07-13,tweetfeed,URL,https://aeon.ahzvenm.cn/44gt5t9tx8,phishing,https://x.com/Metemcyber/status/2076542076792295434
-2026-07-13,tweetfeed,URL,https://leviization.obktclg.cn/8Hg97ml/loginbab,phishing,https://x.com/Metemcyber/status/2076544305964200160
-2026-07-13,threatfox,HASH_SHA256,20e613ebf934844e6a08b0aac6b6be92d746a36de9da8bb73edbcd63d00383be,"apk.triada, sha256_hash",n/a
-2026-07-13,threatfox,HASH_SHA256,009862bde115a3829df8acd3587c73b4416c7f35d32dfcc4e2b72906544d7c1a,"apk.triada, sha256_hash",n/a
+2026-07-14,threatfox,DOMAIN,ucpwcpfl.jadoou.lat,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,eonjaoyi.jadoou.lat,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,edge.kernelmonitor.cc,"win.acr_stealer, domain",n/a
+2026-07-14,threatfox,DOMAIN,dscf.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,yaxy.radioshartbandi.bet,"js.clearfake, domain",n/a
 2026-07-13,tweetfeed,URL,https://live.view-zoom.us/windows/,phishing,https://x.com/patialavii/status/2076533921299533981
 2026-07-13,tweetfeed,URL,https://live.view-zoom.us/windows/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2076533921299533981
 2026-07-13,threatfox,HASH_SHA256,84bddb4249fecd2ab39b957c6394c828d8cf52b30c93012d91d229300fe5b272,"apk.triada, sha256_hash",n/a
@@ -818,9 +792,7 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,URL,https://arvenix.vu/mailgo/kagoya.html,phishing,https://x.com/masaomi346/status/2076828626646089843
 2026-07-14,tweetfeed,URL,https://canrsa.31thbi.info/H80AoO,phishing,https://x.com/masaomi346/status/2076877586026914244
 2026-07-14,tweetfeed,URL,http://xn--s6cgavda9baad5c8ebbt3bzb2njbehcc2dwsxb7kcdh.net,malware,https://x.com/scanmalware/status/2076889435841483191
-2026-07-13,tweetfeed,DOMAIN,secnond.khs4ik.info,phishing,https://x.com/Metemcyber/status/2076537601067221315
-2026-07-13,tweetfeed,DOMAIN,aeon.ahzvenm.cn,phishing,https://x.com/Metemcyber/status/2076542076792295434
-2026-07-13,tweetfeed,DOMAIN,leviization.obktclg.cn,phishing,https://x.com/Metemcyber/status/2076544305964200160
+2026-07-14,tweetfeed,URL,https://cumbose.vngfzsoz.cn/eD9490/index,phishing,https://x.com/Metemcyber/status/2076902581453099335
 2026-07-13,tweetfeed,DOMAIN,live.view-zoom.us,phishing,https://x.com/patialavii/status/2076533921299533981
 2026-07-13,tweetfeed,DOMAIN,taxiesnetsteamworks6058e.myclickfunnels.com,phishing,https://x.com/skocherhan/status/2076565278691864630
 2026-07-13,tweetfeed,DOMAIN,ffiuyoitfkyuyou.shop,phishing,https://x.com/masaomi346/status/2076569340099674244
@@ -950,8 +922,7 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,DOMAIN,arvenix.vu,phishing,https://x.com/masaomi346/status/2076828626646089843
 2026-07-14,tweetfeed,DOMAIN,canrsa.31thbi.info,phishing,https://x.com/masaomi346/status/2076877586026914244
 2026-07-14,tweetfeed,DOMAIN,xn--s6cgavda9baad5c8ebbt3bzb2njbehcc2dwsxb7kcdh.net,malware,https://x.com/scanmalware/status/2076889435841483191
-2026-07-13,tweetfeed,HASH_SHA256,54b18666cff2721220a2aab4aaaef419b3fc22aa263edbbc43d7b3164f562f7d,n/a,https://x.com/bomccss/status/2076532984031903839
-2026-07-13,tweetfeed,IP,43.164.190.183,phishing,https://x.com/Metemcyber/status/2076537601067221315
+2026-07-14,tweetfeed,DOMAIN,cumbose.vngfzsoz.cn,phishing,https://x.com/Metemcyber/status/2076902581453099335
 2026-07-13,tweetfeed,HASH_SHA256,377d233fb39607684dfa44f646e3b75d35c3d655d743117d20353c7d45357784,phishing,https://x.com/patialavii/status/2076533921299533981
 2026-07-13,tweetfeed,HASH_SHA256,6c0414eeb44baac941cc1facac0533b1ecd5f90792d29c16f493685995416433,phishing,https://x.com/skocherhan/status/2076566275845730633
 2026-07-13,tweetfeed,HASH_SHA256,616e74686f6e792e742e74686f6d70736f6e312e6d696c4061726d792e6d696c,malware,https://x.com/d1v35hresearch/status/2076570466341511556
