@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-07-10,cisa_kev,CVE,CVE-2026-56291,"Balbooa Forms, kev","Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-10,cisa_kev,CVE,CVE-2026-48939,"iCagenda iCagenda, kev","iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-13"
 2026-07-13,cisa_kev,CVE,CVE-2008-4128,"Cisco IOS, kev","Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain ""show privilege"" command to the /level/15/exec/- URI, and (2) a certain ""alias exec"" command to the /level/15/exec/-/configure/http URI. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-16"
-2026-07-07,threatfox,URL,https://acesgaragerepair.com/,"win.vidar, url",n/a
 2026-07-07,threatfox,URL,http://103.80.135.33/getinstall64,"win.valley_rat, url",n/a
 2026-07-07,threatfox,URL,http://95.40.215.140/getinstall64,"win.valley_rat, url",n/a
 2026-07-07,threatfox,URL,http://38.180.204.13/ryoheina/mort.php,"unknown, url",n/a
@@ -252,8 +251,6 @@ date,user,type,ioc,tags,context
 2026-07-13,threatfox,URL,https://moonlitprovince.top/router/verify-build,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,https://moonlitprovince.top/router/handler-asset.js,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,https://schuctz.click/dfhnn6yy.js,"js.kongtuke, url",n/a
-2026-07-07,threatfox,DOMAIN,hybnjif.1xpin.pro,"js.clearfake, domain",n/a
-2026-07-07,threatfox,DOMAIN,1xpin.pro,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,jhq8hqlo.1xforward.vip,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,1xforward.vip,"js.clearfake, domain",n/a
 2026-07-07,threatfox,DOMAIN,oybvqan.1xrussia.com,"js.clearfake, domain",n/a
@@ -2438,7 +2435,12 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,DOMAIN,vbtl.fileboroo.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,hqmcfjqy.madgal.life,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,ukoyzikh.madgal.life,"js.clearfake, domain",n/a
-2026-07-07,tweetfeed,URL,http://hcarter.site.aplus.net/activemail.kagoyamail.html,phishing,https://x.com/masaomi346/status/2074287649519767624
+2026-07-14,threatfox,DOMAIN,hczzqwrl.pinbahis-bedon-filter.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,mkneg2lo.pinbahis-bedon-filter.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,pinbahis-bedon-filter.com,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,wjek.jadoou.lol,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,epal.jadoou.lol,"js.clearfake, domain",n/a
+2026-07-14,threatfox,DOMAIN,marjdl.pro,"js.clearfake, domain",n/a
 2026-07-07,tweetfeed,URL,http://5gtradepro.com,"phishing, scam",https://x.com/skocherhan/status/2074304825626362160
 2026-07-07,tweetfeed,URL,http://mymarket-ge.order-id81232525.eu.cc,n/a,https://x.com/skocherhan/status/2074308777126354969
 2026-07-07,tweetfeed,URL,http://178.32.90.240:6384,n/a,https://x.com/skocherhan/status/2074308777126354969
@@ -4457,7 +4459,7 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,URL,http://warkelen.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
 2026-07-13,tweetfeed,URL,http://mikhaste-ru.duckdns.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
 2026-07-13,tweetfeed,URL,https://eletroshopoficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2076781554991255801
-2026-07-07,tweetfeed,DOMAIN,hcarter.site.aplus.net,phishing,https://x.com/masaomi346/status/2074287649519767624
+2026-07-14,tweetfeed,URL,https://arvenix.vu/mailgo/kagoya.html,phishing,https://x.com/masaomi346/status/2076828626646089843
 2026-07-07,tweetfeed,DOMAIN,5gtradepro.com,"phishing, scam",https://x.com/skocherhan/status/2074304825626362160
 2026-07-07,tweetfeed,DOMAIN,mymarket-ge.order-id81232525.eu.cc,n/a,https://x.com/skocherhan/status/2074308777126354969
 2026-07-07,tweetfeed,DOMAIN,counsellorscouch.com,n/a,https://x.com/skocherhan/status/2074309245013487767
@@ -5776,6 +5778,7 @@ date,user,type,ioc,tags,context
 2026-07-13,tweetfeed,DOMAIN,warkelen.mooo.com,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
 2026-07-13,tweetfeed,DOMAIN,mikhaste-ru.duckdns.org,phishing,https://x.com/Malwarehunterr/status/2076780800130097478
 2026-07-13,tweetfeed,DOMAIN,eletroshopoficial.com,"phishing, scam",https://x.com/Coolcarlos17/status/2076781554991255801
+2026-07-14,tweetfeed,DOMAIN,arvenix.vu,phishing,https://x.com/masaomi346/status/2076828626646089843
 2026-07-07,tweetfeed,IP,178.32.90.240,n/a,https://x.com/skocherhan/status/2074308777126354969
 2026-07-07,tweetfeed,IP,198.251.89.220,"phishing, scam",https://x.com/skocherhan/status/2074310729985867816
 2026-07-07,tweetfeed,IP,165.140.86.190,n/a,https://x.com/blackbigswan/status/2074303817382789457
