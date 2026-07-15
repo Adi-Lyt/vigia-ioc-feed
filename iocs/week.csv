@@ -6,7 +6,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-56164,"Microsoft SharePoint Server, kev","Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15409,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
-2026-07-08,threatfox,URL,https://acesgaragesanjose.com/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,https://faz.realmadridiran.news/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,https://faz.jurangsm188.top/,"win.vidar, url",n/a
 2026-07-08,threatfox,URL,https://faz.kataksm188.top/,"win.vidar, url",n/a
@@ -249,12 +248,6 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,URL,https://tommy-d.lol/f,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://alabastercompass.top/public/callback-stylesheet.js,"js.smartapesg, url",n/a
 2026-07-14,threatfox,URL,https://ritchie.click/cpr5bp4s.js,"js.kongtuke, url",n/a
-2026-07-08,threatfox,DOMAIN,hljajzy.arsenal11.com,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,arsenal11.com,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,wakvssup.1xgame.pro,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,vhkpyhz.alhilal90.com,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,avduwco.alhilal90.com,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,alhilal90.com,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,ydanflbg.1xgermany.com,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,pzhj.barcelona11.com,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,1xgermany.com,"js.clearfake, domain",n/a
@@ -2408,6 +2401,8 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,DOMAIN,sw10j5d9.behtarin-site-shartbandi-football.com,"js.clearfake, domain",n/a
 2026-07-15,threatfox,DOMAIN,xnuleibw.site-shartbandi-khareji.com,"js.clearfake, domain",n/a
 2026-07-15,threatfox,DOMAIN,fnvr.casinomhub.bet,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,yclhedrx.site-shartbandi-pasor.online,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,ibai.fileboroo.com,"js.clearfake, domain",n/a
 2026-07-08,tweetfeed,URL,https://login.s1q59z43q.top/dqa4asjk,phishing,https://x.com/masaomi346/status/2074679459513618500
 2026-07-08,tweetfeed,URL,http://91.92.40.118/wget.sh,n/a,https://x.com/sicehice/status/2074690569649979633
 2026-07-08,tweetfeed,URL,http://45.153.34.153/rondo.dtm.sh,n/a,https://x.com/sicehice/status/2074693494040330612
@@ -5250,6 +5245,7 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,DOMAIN,inventionsplendid.mbrceuo.com,phishing,https://x.com/masaomi346/status/2077163052265509029
 2026-07-14,tweetfeed,DOMAIN,wherevertreasure.llkkuan.com,phishing,https://x.com/masaomi346/status/2077163052265509029
 2026-07-15,tweetfeed,DOMAIN,wasitai.com,n/a,https://x.com/RussianPanda9xx/status/2077167195650400414
+2026-07-15,tweetfeed,DOMAIN,dsefer.dewqa.club,"malware, phishing",https://x.com/masaomi346/status/2077200026506535175
 2026-07-08,tweetfeed,IP,5.89.112.21,n/a,https://x.com/sicehice/status/2074689090188910737
 2026-07-08,tweetfeed,IP,45.156.87.213,n/a,https://x.com/sicehice/status/2074690569649979633
 2026-07-08,tweetfeed,IP,91.92.40.118,n/a,https://x.com/sicehice/status/2074690569649979633
@@ -5570,6 +5566,7 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,IP,54.39.43.117,n/a,https://x.com/RussianPanda9xx/status/2077167195650400414
 2026-07-15,tweetfeed,IP,132.243.225.125,n/a,https://x.com/JAMESWT_WT/status/2047981132763832686
 2026-07-15,tweetfeed,HASH_SHA256,969fa1cca8aaba236711e89da1ac779041c165454683e098ebb1e5dab6305b5b,n/a,https://x.com/JAMESWT_WT/status/2047981132763832686
+2026-07-15,tweetfeed,HASH_SHA256,330efaf161f2f4545c3550d71cf87ba752c57b3bc2bcadbc4a560cc41e335a72,"malware, phishing",https://x.com/masaomi346/status/2077200026506535175
 2026-07-08,tweetfeed,HASH_MD5,e8be48f95cbc2df9479731537a031ba2,n/a,https://x.com/sicehice/status/2074689090188910737
 2026-07-08,tweetfeed,HASH_MD5,c8aaf972d871e23a6a17581a81049ff1,n/a,https://x.com/sicehice/status/2074689090188910737
 2026-07-08,tweetfeed,HASH_MD5,27c926823687337fe491a0578dcee3bf,n/a,https://x.com/sicehice/status/2074690569649979633
