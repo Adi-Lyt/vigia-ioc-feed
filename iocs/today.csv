@@ -3,11 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-56164,"Microsoft SharePoint Server, kev","Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15409,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
-2026-07-14,threatfox,URL,https://hazelcitadel.top/public/refresh-cookie,"js.smartapesg, url",n/a
-2026-07-14,threatfox,URL,https://hazelcitadel.top/public/throttle-sandbox.js,"js.smartapesg, url",n/a
-2026-07-14,threatfox,URL,https://ritchie.click/cymfok8e.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://ritchie.click/api/v1/session,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://ritchie.click/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://ritchie.click/u4irfqiu.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://ritchie.click/api/v1/status,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://tommy-n.lol/f,"js.kongtuke, url",n/a
@@ -79,71 +74,6 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,URL,https://fij.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/y6noj7h0.js,"js.kongtuke, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/bgmmbr3x.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,DOMAIN,vrlr8kbu.couple.bet,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,couple.bet,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,ecourwue.takhtenard-online.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,takhtenard-online.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,sso.northjournal.one,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,worker.ivoryboard.lol,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,audit.techreef.one,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,catalog3.calmtexture.click,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,cron6.health-ly.lol,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,deploy.works-rhythm8.click,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,dns.frame-works.click,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,index.gentle-weekly.lol,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,queue8.vibepulse.one,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,relay7.apiforge.click,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,scheduler.civic-team.xyz,"win.revstealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,exczx.com,"win.phantom_stealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,paymenthhcvhs.ddns.net,"win.ave_maria, domain",n/a
-2026-07-14,threatfox,DOMAIN,wkstazionmagat.obrigadocristiano.space,"win.remcos, domain",n/a
-2026-07-14,threatfox,DOMAIN,ftp.elsyexpertise.com,"win.agent_tesla, domain",n/a
-2026-07-14,threatfox,DOMAIN,sycr.betforward90.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,betforward90.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,mail.trimnt.com,"win.masslogger, domain",n/a
-2026-07-14,threatfox,DOMAIN,WHNLICUSAMU42.com,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,WHNLICUSAMU41.com,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,hazelcitadel.top,"js.smartapesg, domain",n/a
-2026-07-14,threatfox,DOMAIN,apk.whatsplus.online,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,ritchie.click,"js.kongtuke, domain",n/a
-2026-07-14,threatfox,DOMAIN,www.vidfree.net,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,videmateshare.com,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,prod-weblink.videmateshare.com,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,vid-cdn.vidfree.net,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,node-vml.vidfree.net,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,102z512uqjl6m.xyz,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,108h764sg7npw.xyz,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,1ard675vnxd1l.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,1jmldxvj0gimm.app,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,1p6kkehfjfb2s.net,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,1v9g4jgcqisg4.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,1z0ky1gcb02j8.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,20hc9ahim3kky.site,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,212uqd371gsar.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,2169tae0hhtd6.net,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,226c6tcnujin1.app,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,2hnjv5o9tq18x.xyz,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,2qww8z7zh33r1.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,2t8cpyvwbhcze.app,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,2w189cccuwx1s.org,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,2w6p9lgp0st41.org,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,2xzklzguutbgd.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,32caj76pwqj8t.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,3dfkb2ls19wa5.xyz,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,3hhx8mtzd3dnc.org,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,3kyn1qbvv8l4s.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,3n5t7tlqbvfbi.net,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,3o93soz9pvqis.xyz,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,3vbdn0ysm07pe.xyz,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,6uh312tvknrg.net,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,a6dz9tb6oicn.app,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,emig4ta5wi0z.site,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,j56d50s1q53v.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,se2lnidzfvts.org,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,vrgqgg8y4ryf.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,chant-78.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,current99.com,"osx.amos, domain",n/a
-2026-07-14,threatfox,DOMAIN,images.miamionly.com,"js.fakeupdates, domain",n/a
 2026-07-14,threatfox,DOMAIN,bcouiutk.bordvipbet.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,bordvipbet.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,gwix.bethazarat.app,"js.clearfake, domain",n/a
@@ -378,10 +308,12 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,DOMAIN,ewbn.org,"unknown, domain",n/a
 2026-07-15,threatfox,DOMAIN,alumnofprojects.co.il,"unknown, domain",n/a
 2026-07-15,threatfox,DOMAIN,hqndcsdha.hazaratbet.game,"js.clearfake, domain",n/a
-2026-07-14,tweetfeed,URL,https://gfihomesfile.s3.us-east-2.amazonaws.com/dropbox.html,phishing,https://x.com/patialavii/status/2077032792492556454
-2026-07-14,tweetfeed,URL,http://gfihomes-com-rsnp.w-po893c.workers.dev,phishing,https://x.com/skocherhan/status/2077042936886272102
-2026-07-14,threatfox,HASH_SHA256,7daf16b2b8890df95d33bd7ec7e1b04beef9cd7ea91ec657899adfd77ac505c9,"unknown, sha256_hash",n/a
-2026-07-14,threatfox,HASH_SHA256,384a2975252cfe4e94512aa043226dde5243ef40ff07ea74b4151cdf9074d143,"unknown, sha256_hash",n/a
+2026-07-15,threatfox,DOMAIN,evfdqijee.efbetfarsi.com,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,tfys92ie.hazzarat.world,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,llgrzomtw.hazaratbet.games,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,saraviadorablogport.com,"unknown, domain",n/a
+2026-07-15,threatfox,DOMAIN,2d4e5f6-7a8b-4c2d-9e1f-3b5a7c8d9e0fc.s3.us-east-1.amazonaws.com,"unknown, domain",n/a
+2026-07-15,threatfox,DOMAIN,asioklaydpory.com,"win.latrodectus, domain",n/a
 2026-07-14,tweetfeed,URL,http://work.officialm.com,n/a,https://x.com/TheDFIRReport/status/2077046268463870149
 2026-07-14,tweetfeed,URL,http://cigalsn.com,n/a,https://x.com/L0Psec/status/2077047277286199678
 2026-07-14,threatfox,HASH_SHA256,8fe09be2bb21339f8b9ab4f3f30a9bcb4f6e167410ef3449f9659b3fb6f1cd10,"win.netwire, sha256_hash",n/a
@@ -523,8 +455,8 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,URL,https://drive-mofa-account-downlaod-folder-production.up.railway.app,APT,https://x.com/phatomcandle/status/2077372860339777671
 2026-07-15,tweetfeed,URL,http://pub-b0533a4f25fd47429514431d6c1a1d7b.r2.dev,phishing,https://x.com/scanmalware/status/2077380168096604396
 2026-07-15,tweetfeed,URL,https://asoiasvonc.dscgbu.info/H80AoO,phishing,https://x.com/masaomi346/status/2077381050226114591
-2026-07-14,tweetfeed,DOMAIN,gfihomesfile.s3.us-east-2.amazonaws.com,phishing,https://x.com/patialavii/status/2077032792492556454
-2026-07-14,tweetfeed,DOMAIN,gfihomes-com-rsnp.w-po893c.workers.dev,phishing,https://x.com/skocherhan/status/2077042936886272102
+2026-07-15,tweetfeed,URL,http://hzdfthr018.top/bvy8/,Formbook,https://x.com/D3LabIT/status/2077379636116226295
+2026-07-15,tweetfeed,URL,https://studiogioeli.it/armful/ATPI_Annual_Dinner.js,n/a,https://x.com/JAMESWT_WT/status/2077393652049936578
 2026-07-14,tweetfeed,DOMAIN,work.officialm.com,n/a,https://x.com/TheDFIRReport/status/2077046268463870149
 2026-07-14,tweetfeed,DOMAIN,cigalsn.com,n/a,https://x.com/L0Psec/status/2077047277286199678
 2026-07-14,threatfox,HASH_MD5,27a888a3dbaa952dbb432ef33815fbec,"win.netwire, md5_hash",n/a
@@ -650,7 +582,8 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,DOMAIN,drive-mofa-account-downlaod-folder-production.up.railway.app,APT,https://x.com/phatomcandle/status/2077372860339777671
 2026-07-15,tweetfeed,DOMAIN,pub-b0533a4f25fd47429514431d6c1a1d7b.r2.dev,phishing,https://x.com/scanmalware/status/2077380168096604396
 2026-07-15,tweetfeed,DOMAIN,asoiasvonc.dscgbu.info,phishing,https://x.com/masaomi346/status/2077381050226114591
-2026-07-14,tweetfeed,IP,185.212.128.6,n/a,https://x.com/Fact_Finder03/status/2077037473318961404
+2026-07-15,tweetfeed,DOMAIN,hzdfthr018.top,Formbook,https://x.com/D3LabIT/status/2077379636116226295
+2026-07-15,tweetfeed,DOMAIN,studiogioeli.it,n/a,https://x.com/JAMESWT_WT/status/2077393652049936578
 2026-07-14,tweetfeed,IP,31.192.107.162,n/a,https://x.com/TheDFIRReport/status/2077046268463870149
 2026-07-14,tweetfeed,HASH_SHA256,d44dafd48ec502e2512076ad1d66209059511292413123f87965011d5d96262e,n/a,https://x.com/L0Psec/status/2077047248068677826
 2026-07-14,tweetfeed,IP,45.142.141.24,"APT, Log4shell, malware",https://x.com/akaclandestine/status/2077023604944912856
@@ -695,3 +628,5 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,HASH_MD5,7f39ef3ca59c27cd5c2ef318c2560a5b,n/a,https://x.com/skocherhan/status/2077320526926618803
 2026-07-15,tweetfeed,HASH_MD5,1fdea279cb8c9217487ac4c86ae9316c,n/a,https://x.com/tdatwja/status/2077321798656647648
 2026-07-15,tweetfeed,HASH_MD5,f89e3efebfdee08a5f76ae2e49408301,APT,https://x.com/phatomcandle/status/2077372860339777671
+2026-07-15,tweetfeed,HASH_MD5,12041896b590fb738d63dc5bccb77747,Formbook,https://x.com/D3LabIT/status/2077379636116226295
+2026-07-15,tweetfeed,HASH_MD5,644b92817cbe0c4d670332f2e511a461,n/a,https://x.com/skocherhan/status/2077384784922230958
