@@ -3,17 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-56164,"Microsoft SharePoint Server, kev","Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15409,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
-2026-07-14,threatfox,URL,https://schuctz.click/e187jn2e.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://irahook.com/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
-2026-07-14,threatfox,URL,https://irahook.com/?p=,"unknown_rat, url",n/a
-2026-07-14,threatfox,URL,http://44.223.110.247:1337/get/config,"unknown_rat, url",n/a
-2026-07-14,threatfox,URL,http://44.223.110.247:1337/mods/api/log-download,"unknown_rat, url",n/a
-2026-07-14,threatfox,URL,http://44.223.110.247:1337/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
-2026-07-14,threatfox,URL,http://44.223.110.247:1337/?p=,"unknown_rat, url",n/a
-2026-07-14,threatfox,URL,https://schuctz.click/h5gqnaud.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://schuctz.click/xyzqcsdc.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://schuctz.click/kkikc54m.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://schuctz.click/2xfae91q.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://schuctz.click/epx4vn8q.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://schuctz.click/wvjn3nb0.js,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://schuctz.click/ps8oyg4x.js,"js.kongtuke, url",n/a
@@ -39,11 +28,7 @@ date,user,type,ioc,tags,context
 2026-07-14,threatfox,URL,https://tommy-d.lol/f,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://alabastercompass.top/public/callback-stylesheet.js,"js.smartapesg, url",n/a
 2026-07-14,threatfox,URL,https://ritchie.click/cpr5bp4s.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,DOMAIN,ucpwcpfl.jadoou.lat,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,eonjaoyi.jadoou.lat,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,edge.kernelmonitor.cc,"win.acr_stealer, domain",n/a
-2026-07-14,threatfox,DOMAIN,dscf.radioshartbandi.bet,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,yaxy.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-15,threatfox,URL,https://kcosmetics.kr/,"win.vidar, url",n/a
 2026-07-14,threatfox,DOMAIN,17eqwy30.takhtenard.app,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,takhtenard.app,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,cwkw.site-shartbandi-bedun-filter.com,"js.clearfake, domain",n/a
@@ -267,7 +252,9 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,DOMAIN,betyek.app,"js.clearfake, domain",n/a
 2026-07-15,threatfox,DOMAIN,byqxztkz.bethazarat.app,"js.clearfake, domain",n/a
 2026-07-15,threatfox,DOMAIN,wpvz.boroo.bet,"js.clearfake, domain",n/a
-2026-07-14,tweetfeed,URL,https://cumbose.vngfzsoz.cn/eD9490/index,phishing,https://x.com/Metemcyber/status/2076902581453099335
+2026-07-15,threatfox,DOMAIN,mprwjkek.betwanaa.com,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,umnb.daddybetiran.live,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,a9fh521j.bazisangkaqazgeychidancepoli.com,"js.clearfake, domain",n/a
 2026-07-14,tweetfeed,URL,http://telemgrn.com,phishing,https://x.com/scanmalware/status/2076919799720947880
 2026-07-14,tweetfeed,URL,http://31.76.241.232,n/a,https://x.com/500mk500/status/2076927048971333807
 2026-07-14,tweetfeed,URL,http://87.121.89.170,n/a,https://x.com/500mk500/status/2076927048971333807
@@ -415,7 +402,7 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,URL,http://54.39.43.117,n/a,https://x.com/RussianPanda9xx/status/2077167195650400414
 2026-07-15,tweetfeed,URL,http://wasitai.com,n/a,https://x.com/RussianPanda9xx/status/2077167195650400414
 2026-07-15,tweetfeed,URL,http://396048.xyz,"APT, malware",https://x.com/phatomcandle/status/2077216391514710277
-2026-07-14,tweetfeed,DOMAIN,cumbose.vngfzsoz.cn,phishing,https://x.com/Metemcyber/status/2076902581453099335
+2026-07-15,tweetfeed,URL,https://github.com/PonySecs/FakeCry,ransomware,https://x.com/d1v35hresearch/status/2077256702785904918
 2026-07-14,tweetfeed,DOMAIN,telemgrn.com,phishing,https://x.com/scanmalware/status/2076919799720947880
 2026-07-14,tweetfeed,DOMAIN,terminated.lol,n/a,https://x.com/500mk500/status/2076927048971333807
 2026-07-14,tweetfeed,DOMAIN,eon.myteammyway.net,n/a,https://x.com/patialavii/status/2076865824049295798
@@ -590,6 +577,7 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,IP,132.243.225.125,n/a,https://x.com/JAMESWT_WT/status/2047981132763832686
 2026-07-15,tweetfeed,HASH_SHA256,969fa1cca8aaba236711e89da1ac779041c165454683e098ebb1e5dab6305b5b,n/a,https://x.com/JAMESWT_WT/status/2047981132763832686
 2026-07-15,tweetfeed,HASH_SHA256,330efaf161f2f4545c3550d71cf87ba752c57b3bc2bcadbc4a560cc41e335a72,"malware, phishing",https://x.com/masaomi346/status/2077200026506535175
+2026-07-15,tweetfeed,HASH_SHA256,c279e2785ca454680e260f9b67f61c59e5378282a6854a4542cf40f9d9f6e800,ransomware,https://x.com/d1v35hresearch/status/2077256702785904918
 2026-07-14,tweetfeed,HASH_MD5,68b2985b3d1cf864847dbcb01518db75,malware,https://x.com/bsforvt727/status/2076917655093850352
 2026-07-14,tweetfeed,HASH_MD5,94b823b0780748f21d7170ccf2b86d2b,ClickFix,https://x.com/suyog41/status/2076945482602127638
 2026-07-14,tweetfeed,HASH_MD5,4b83cfbae973bea3425c3f2390cc77fb,ClickFix,https://x.com/suyog41/status/2076945482602127638
