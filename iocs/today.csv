@@ -3,9 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-56164,"Microsoft SharePoint Server, kev","Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15409,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
-2026-07-14,threatfox,URL,https://ritchie.click/u4irfqiu.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://ritchie.click/api/v1/status,"js.kongtuke, url",n/a
-2026-07-14,threatfox,URL,https://tommy-n.lol/f,"js.kongtuke, url",n/a
 2026-07-14,threatfox,URL,https://shucare.com.au/,"win.vidar, url",n/a
 2026-07-14,threatfox,URL,https://hazelcitadel.top/public/callback-stylesheet.js,"js.smartapesg, url",n/a
 2026-07-14,threatfox,URL,https://silverbackchatbot.com/,"win.vidar, url",n/a
@@ -74,12 +71,6 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,URL,https://fij.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/y6noj7h0.js,"js.kongtuke, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/bgmmbr3x.js,"js.kongtuke, url",n/a
-2026-07-14,threatfox,DOMAIN,bcouiutk.bordvipbet.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,bordvipbet.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,gwix.bethazarat.app,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,bethazarat.app,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,luckyware.cy,"unknown, domain",n/a
-2026-07-14,threatfox,DOMAIN,tommy-n.lol,"js.kongtuke, domain",n/a
 2026-07-14,threatfox,DOMAIN,npa8g2x5.cozmo90bet.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,cozmo90bet.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,pbhwzixj.boro1.bet,"js.clearfake, domain",n/a
@@ -314,8 +305,10 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,DOMAIN,saraviadorablogport.com,"unknown, domain",n/a
 2026-07-15,threatfox,DOMAIN,2d4e5f6-7a8b-4c2d-9e1f-3b5a7c8d9e0fc.s3.us-east-1.amazonaws.com,"unknown, domain",n/a
 2026-07-15,threatfox,DOMAIN,asioklaydpory.com,"win.latrodectus, domain",n/a
-2026-07-14,tweetfeed,URL,http://work.officialm.com,n/a,https://x.com/TheDFIRReport/status/2077046268463870149
-2026-07-14,tweetfeed,URL,http://cigalsn.com,n/a,https://x.com/L0Psec/status/2077047277286199678
+2026-07-15,threatfox,DOMAIN,tssjiwjfx.hazzarat.com,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,opeendacc.efcasino.bet,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,dohnx2bh.hazaratbet.bet,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,ckugvmkpg.hazarat.now,"js.clearfake, domain",n/a
 2026-07-14,threatfox,HASH_SHA256,8fe09be2bb21339f8b9ab4f3f30a9bcb4f6e167410ef3449f9659b3fb6f1cd10,"win.netwire, sha256_hash",n/a
 2026-07-14,threatfox,HASH_SHA256,daca7dff705d30c7f81ae424b54ee528e5559d7d4160eed7ffd357e294bf411e,"win.netwire, sha256_hash",n/a
 2026-07-14,threatfox,HASH_SHA256,28f28077680c530e9d4278cecf0d8a9ac0682ed63bf9ee1d6a90cd18b88e67fa,"win.wannacryptor, sha256_hash",n/a
@@ -457,8 +450,6 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,URL,https://asoiasvonc.dscgbu.info/H80AoO,phishing,https://x.com/masaomi346/status/2077381050226114591
 2026-07-15,tweetfeed,URL,http://hzdfthr018.top/bvy8/,Formbook,https://x.com/D3LabIT/status/2077379636116226295
 2026-07-15,tweetfeed,URL,https://studiogioeli.it/armful/ATPI_Annual_Dinner.js,n/a,https://x.com/JAMESWT_WT/status/2077393652049936578
-2026-07-14,tweetfeed,DOMAIN,work.officialm.com,n/a,https://x.com/TheDFIRReport/status/2077046268463870149
-2026-07-14,tweetfeed,DOMAIN,cigalsn.com,n/a,https://x.com/L0Psec/status/2077047277286199678
 2026-07-14,threatfox,HASH_MD5,27a888a3dbaa952dbb432ef33815fbec,"win.netwire, md5_hash",n/a
 2026-07-14,threatfox,HASH_MD5,f6e76ba53c968b6c967b618fe1788b0d,"win.wannacryptor, md5_hash",n/a
 2026-07-14,threatfox,HASH_MD5,7b6b7be273f8c409f44fd94655b3e6cb,"win.netwire, md5_hash",n/a
@@ -584,8 +575,6 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,DOMAIN,asoiasvonc.dscgbu.info,phishing,https://x.com/masaomi346/status/2077381050226114591
 2026-07-15,tweetfeed,DOMAIN,hzdfthr018.top,Formbook,https://x.com/D3LabIT/status/2077379636116226295
 2026-07-15,tweetfeed,DOMAIN,studiogioeli.it,n/a,https://x.com/JAMESWT_WT/status/2077393652049936578
-2026-07-14,tweetfeed,IP,31.192.107.162,n/a,https://x.com/TheDFIRReport/status/2077046268463870149
-2026-07-14,tweetfeed,HASH_SHA256,d44dafd48ec502e2512076ad1d66209059511292413123f87965011d5d96262e,n/a,https://x.com/L0Psec/status/2077047248068677826
 2026-07-14,tweetfeed,IP,45.142.141.24,"APT, Log4shell, malware",https://x.com/akaclandestine/status/2077023604944912856
 2026-07-14,tweetfeed,IP,85.137.53.71,n/a,https://x.com/feross/status/2077049398857806096
 2026-07-14,tweetfeed,HASH_SHA256,5607a94195a263ef620cebbc3c4e64930d631f0582d0452131c694556e623e50,n/a,https://x.com/BlinkzSec/status/2077070874495074648
