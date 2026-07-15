@@ -6,8 +6,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-56164,"Microsoft SharePoint Server, kev","Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15409,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
-2026-07-08,threatfox,URL,https://88.99.120.224,"win.vidar, url",n/a
-2026-07-08,threatfox,URL,http://144.31.57.70/c0e070fa9435429c8ea5.php,"win.stealc, url",n/a
 2026-07-08,threatfox,URL,http://185.223.82.171/fd89ba886125940b747e.php,"win.stealc, url",n/a
 2026-07-08,threatfox,URL,https://azevedo.lol/file.js,"js.kongtuke, url",n/a
 2026-07-08,threatfox,URL,https://azevedo.lol/api/v1/session,"js.kongtuke, url",n/a
@@ -252,19 +250,37 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,URL,https://ritchie.click/ahbod5es.js,"js.kongtuke, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/slyp1crx.js,"js.kongtuke, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/vdej742l.js,"js.kongtuke, url",n/a
-2026-07-08,threatfox,DOMAIN,fezk.polbaz.bet,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,nqwr.polbaz.bet,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,origin-al.org,"unknown, domain",n/a
-2026-07-08,threatfox,DOMAIN,sallyflint.com,"unknown, domain",n/a
-2026-07-08,threatfox,DOMAIN,infobpi.pl,"unknown, domain",n/a
-2026-07-08,threatfox,DOMAIN,cdn-79fe96.cloudflareinsight.com,"unknown, domain",n/a
-2026-07-08,threatfox,DOMAIN,cdn-d57299.cloudflareinsight.com,"unknown, domain",n/a
-2026-07-08,threatfox,DOMAIN,cdn-a085f7.cloudflareinsight.com,"unknown, domain",n/a
-2026-07-08,threatfox,DOMAIN,cdn-b1192b.cloudflareinsight.com,"unknown, domain",n/a
-2026-07-08,threatfox,DOMAIN,ironhausflow.mivonflowsrv.garden,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,desecq.shop,"win.remus, domain",n/a
-2026-07-08,threatfox,DOMAIN,tiduflxx.farsi1xbet.shop,"js.clearfake, domain",n/a
-2026-07-08,threatfox,DOMAIN,farsi1xbet.shop,"js.clearfake, domain",n/a
+2026-07-15,threatfox,URL,https://157.90.247.15/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://159.69.204.46/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://172.233.54.53/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://116.202.6.159/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://46.62.203.15/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://37.27.191.220/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://sra.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://dum.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://hab.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://xpo.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://195.201.39.59/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://bdm.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://gmn.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://fwh.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://kss.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://pve.paptogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://dum.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://hab.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://tdd.ambiltogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://dtm.ambiltogel.net/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://fwh.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://kss.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://pve.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://sra.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://telegram.me/r7t3at,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://steamcommunity.com/profiles/76561198674661449,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://tdd.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://dtm.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://gmn.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://tus.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-15,threatfox,URL,https://tus.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-08,threatfox,DOMAIN,errxxcnl.gamee.bet,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,vj7eaayr.fa1xbet.vip,"js.clearfake, domain",n/a
 2026-07-08,threatfox,DOMAIN,gamee.bet,"js.clearfake, domain",n/a
@@ -2377,6 +2393,41 @@ date,user,type,ioc,tags,context
 2026-07-15,threatfox,DOMAIN,niliafshar.com,"js.clearfake, domain",n/a
 2026-07-15,threatfox,DOMAIN,privatetoken.app,"unknown, domain",n/a
 2026-07-15,threatfox,DOMAIN,network000.ddns.net,"win.xworm, domain",n/a
+2026-07-15,threatfox,DOMAIN,wxxlppea.onjabet1.com,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,pajp.oragh8kaso1.com,"win.remcos, domain",n/a
+2026-07-15,threatfox,DOMAIN,gros59kalmso1.duckdns.org,"win.remcos, domain",n/a
+2026-07-15,threatfox,DOMAIN,gros59kalmso2.duckdns.org,"win.remcos, domain",n/a
+2026-07-15,threatfox,DOMAIN,metromachine.4nmn.com,"win.remcos, domain",n/a
+2026-07-15,threatfox,DOMAIN,armcobarriersuppliers.duckdns.org,"win.remcos, domain",n/a
+2026-07-15,threatfox,DOMAIN,armcobarriersuppliersbk.duckdns.org,"win.remcos, domain",n/a
+2026-07-15,threatfox,DOMAIN,pnsc.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,ftp.fundacionpiaz.org,"win.agent_tesla, domain",n/a
+2026-07-15,threatfox,DOMAIN,kavfquba.onjabet1.com,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,xpo.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,tdd.ambiltogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,dtm.ambiltogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,bdm.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,gmn.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,fwh.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,kss.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,pve.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,sra.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,dum.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,hab.paptogel.net,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,tdd.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,dtm.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,gmn.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,fwh.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,kss.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,pve.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,sra.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,dum.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,hab.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,drive-photo-id83123.com,"unknown_loader, domain",n/a
+2026-07-15,threatfox,DOMAIN,safeimageguest.info,"unknown_loader, domain",n/a
+2026-07-15,threatfox,DOMAIN,qds1jo2q.site-shartbandi-pasor.online,"js.clearfake, domain",n/a
+2026-07-15,threatfox,DOMAIN,tus.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-15,threatfox,DOMAIN,tus.ambiltogel.net,"win.vidar, domain",n/a
 2026-07-08,tweetfeed,URL,https://fmrel.com/login,phishing,https://x.com/masaomi346/status/2074761652214607958
 2026-07-08,tweetfeed,URL,https://veetong.com/login,phishing,https://x.com/masaomi346/status/2074761652214607958
 2026-07-08,tweetfeed,URL,https://wirgj.com/login,phishing,https://x.com/masaomi346/status/2074761652214607958
@@ -5211,8 +5262,6 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,DOMAIN,1passwordcompliance.com,n/a,https://x.com/lontze7/status/2077280605142741171
 2026-07-15,tweetfeed,DOMAIN,dashlanenewsletter.com,n/a,https://x.com/lontze7/status/2077280605142741171
 2026-07-15,tweetfeed,DOMAIN,dashlanecompliance.com,n/a,https://x.com/lontze7/status/2077280605142741171
-2026-07-08,tweetfeed,HASH_SHA256,c2ed69b4a1bb9432c75134e813c70539e27c8c1fe96a784d9be78c874e93d9d5,n/a,https://x.com/tdatwja/status/2074728921883619559
-2026-07-08,tweetfeed,HASH_SHA256,e6bfb3662ab4b1969a73441dbe35c96d51441b6bff8cf1fe7430bd5b246ca605,n/a,https://x.com/tdatwja/status/2074728921883619559
 2026-07-08,tweetfeed,IP,91.102.127.168,"C2, RAT",https://x.com/Fact_Finder03/status/2074764422350844035
 2026-07-08,tweetfeed,IP,192.252.180.45,n/a,https://x.com/tdatwja/status/2074757977152872860
 2026-07-08,tweetfeed,IP,152.53.154.171,n/a,https://x.com/Malwarehunterr/status/2074793512693014648
@@ -5523,9 +5572,8 @@ date,user,type,ioc,tags,context
 2026-07-15,tweetfeed,HASH_SHA256,969fa1cca8aaba236711e89da1ac779041c165454683e098ebb1e5dab6305b5b,n/a,https://x.com/JAMESWT_WT/status/2047981132763832686
 2026-07-15,tweetfeed,HASH_SHA256,330efaf161f2f4545c3550d71cf87ba752c57b3bc2bcadbc4a560cc41e335a72,"malware, phishing",https://x.com/masaomi346/status/2077200026506535175
 2026-07-15,tweetfeed,HASH_SHA256,c279e2785ca454680e260f9b67f61c59e5378282a6854a4542cf40f9d9f6e800,ransomware,https://x.com/d1v35hresearch/status/2077256702785904918
-2026-07-08,tweetfeed,HASH_MD5,ef62e9b3d7203f825dbf5dda8d4770c9,n/a,https://x.com/tdatwja/status/2074728921883619559
-2026-07-08,tweetfeed,HASH_MD5,03b43160d21c08de07a79d0a1c5ee81d,n/a,https://x.com/tdatwja/status/2074728921883619559
-2026-07-08,tweetfeed,HASH_MD5,6826705d895d90fb70fc4de4f46a4c34,n/a,https://x.com/tdatwja/status/2074728921883619559
+2026-07-15,tweetfeed,HASH_SHA256,32391ce6eca836369cfd5b3948ba978b7982dd3a85b81bb33c973773adeaef01,n/a,https://x.com/Dixit_404/status/2077259625196601834
+2026-07-15,tweetfeed,HASH_SHA256,5b798cf328c17ecd6a2e759c9adc695b068640226f0d4fae049bcb6470d4ae56,n/a,https://x.com/Dixit_404/status/2077259625196601834
 2026-07-08,tweetfeed,HASH_MD5,d390b8d43356c67994ca7651345e9361,n/a,https://x.com/suyog41/status/2074843393482440962
 2026-07-09,tweetfeed,HASH_MD5,2e8a9129ca81f69960875f1c40ac36f6,n/a,https://x.com/sicehice/status/2075041108535492886
 2026-07-09,tweetfeed,HASH_MD5,df8aa27526a049320eba122d1bea5346,"malware, ransomware",https://x.com/RakeshKrish12/status/2075100204068725097
@@ -5583,3 +5631,9 @@ date,user,type,ioc,tags,context
 2026-07-14,tweetfeed,HASH_MD5,a6ae1288b4475523b246fd27adfea3a5,opendir,https://x.com/skocherhan/status/2076967896899609049
 2026-07-14,tweetfeed,HASH_MD5,8e7a0ed78cbac68fed28496348576ab9,opendir,https://x.com/skocherhan/status/2076969006536311021
 2026-07-15,tweetfeed,HASH_MD5,77ea998805a95063806b2dba6130608b,n/a,https://x.com/JAMESWT_WT/status/2047981132763832686
+2026-07-15,tweetfeed,HASH_MD5,a3ee8569777f81a2cbce304d3ebe499e,n/a,https://x.com/Dixit_404/status/2077267387624419377
+2026-07-15,tweetfeed,HASH_MD5,30c62be8954504caabfd030a908b6799,n/a,https://x.com/Dixit_404/status/2077267387624419377
+2026-07-15,tweetfeed,HASH_MD5,15aaac1daf169572a96c2572fa1d5104,n/a,https://x.com/Dixit_404/status/2077267387624419377
+2026-07-15,tweetfeed,HASH_MD5,018dd859cbc0fe19c0b8055bb2aed481,n/a,https://x.com/Dixit_404/status/2077267387624419377
+2026-07-15,tweetfeed,HASH_MD5,f34e30934adb81667ebc1dc33776f302,n/a,https://x.com/Dixit_404/status/2077267387624419377
+2026-07-15,tweetfeed,HASH_MD5,137d8b79e5678d8438a8df0ad1d67fd2,n/a,https://x.com/Dixit_404/status/2077267387624419377
