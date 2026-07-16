@@ -8,10 +8,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-15,cisa_kev,CVE,CVE-2026-46817,"Oracle E-Business Suite, kev","Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-18"
 2026-07-15,cisa_kev,CVE,CVE-2023-4346,"KNX Association KNX Protocol Connection Authorization Option 1, kev","KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-29"
-2026-07-09,threatfox,URL,https://carreiro.lol/file.js,"js.kongtuke, url",n/a
-2026-07-09,threatfox,URL,https://carreiro.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-07-09,threatfox,URL,https://carreiro.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-09,threatfox,URL,https://linenregistry.top/route/health-json.js,"js.smartapesg, url",n/a
 2026-07-09,threatfox,URL,https://henreques.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-07-09,threatfox,URL,https://cloudpass7138.lol/update/package,"js.kongtuke, url",n/a
 2026-07-09,threatfox,URL,https://topazharbor.top/route/callback-deploy,"js.smartapesg, url",n/a
@@ -286,13 +282,14 @@ date,user,type,ioc,tags,context
 2026-07-16,threatfox,URL,https://f4m.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://hxi.kijangturbo88.top/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://hxi.ambiltogel.net/,"win.vidar, url",n/a
-2026-07-09,darkweb_forums,URL,https://t.me/CRPX0,"darkweb, telegram_threat_actors",commit 894c86a4 / telegram_threat_actors.md
-2026-07-09,threatfox,DOMAIN,hzcsq855.taaghcheirani.com,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,taaghcheirani.com,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,lttazjwo.pishbini90bet.bet,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,geazhjch.pishbini90bet.bet,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,xczy.barcelona11.com,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,carreiro.lol,"js.kongtuke, domain",n/a
+2026-07-16,threatfox,URL,https://ritchie.click/mmaxs0rs.js,"js.kongtuke, url",n/a
+2026-07-16,threatfox,URL,https://ritchie.click/lkg91c5q.js,"js.kongtuke, url",n/a
+2026-07-16,threatfox,URL,https://www.lmstamper.com/,"unknown, url",n/a
+2026-07-16,threatfox,URL,https://ritchie.click/t4et81av.js,"js.kongtuke, url",n/a
+2026-07-16,threatfox,URL,https://emberlattice.top/callback/signin-validator,"js.smartapesg, url",n/a
+2026-07-16,threatfox,URL,https://emberlattice.top/callback/health-sandbox.js,"js.smartapesg, url",n/a
+2026-07-16,threatfox,URL,https://nykaa.cloud/?__cf_chl_f_tk=s9E_M0.0thAbE5QhoOfMRMfP_WCBEvi9TNh8W2CdnPE-1783412894-1.0.1.1-pWen9T.IbakHP2Za25DiFM_FCjcXPWiFxTygAHHwcA4,"unknown, url",n/a
+2026-07-16,threatfox,URL,https://ritchie.click/l46p3f8z.js,"js.kongtuke, url",n/a
 2026-07-09,threatfox,DOMAIN,todahkuy.podcastshop.ir,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,ntlskcah.podcastshop.ir,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,podcastshop.ir,"js.clearfake, domain",n/a
@@ -3376,44 +3373,10 @@ date,user,type,ioc,tags,context
 2026-07-16,threatfox,DOMAIN,buaoqtgen.adsbln3.xyz,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,adsbln3.xyz,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,eastbwxa.funxbet.casino,"js.clearfake, domain",n/a
-2026-07-09,tweetfeed,URL,http://94.198.96.164,n/a,https://x.com/smica83/status/2075190815735857396
-2026-07-09,tweetfeed,URL,http://googletranslatesupport.blog,n/a,https://x.com/skocherhan/status/2075191345270915480
-2026-07-09,tweetfeed,URL,http://red64.duckdns.org,Remcos,https://x.com/skocherhan/status/2075191993156710595
-2026-07-09,tweetfeed,URL,http://red64bk.duckdns.org,Remcos,https://x.com/skocherhan/status/2075191993156710595
-2026-07-09,tweetfeed,URL,http://neuvop.ydns.eu,Remcos,https://x.com/skocherhan/status/2075197083691151573
-2026-07-09,tweetfeed,URL,http://94.198.96.165:62051,Remcos,https://x.com/skocherhan/status/2075197083691151573
-2026-07-09,tweetfeed,URL,http://94.198.96.164:62051,Remcos,https://x.com/skocherhan/status/2075197083691151573
-2026-07-09,tweetfeed,URL,http://neuvo.ydns.eu,Remcos,https://x.com/skocherhan/status/2075197811335848362
-2026-07-09,tweetfeed,URL,http://amergysolarsetup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://nexusenergysolutionsassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://nexusenergysolutionsgroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://p3solarequipment.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://p3solargroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://p3solarholdings.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://p3solarindustries.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://sevanabioenergyassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://sevanabioenergyco.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://sevanabioenergygroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://sevanabioenergygroup.com.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://sevanabioenergyhq.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://sevanabioenergypartners.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://solarplusequipment.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://solarplusindustrial.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://solarplusindustries.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://solarplusmfg.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://solarplusproducts.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://ubiquitysolarassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://ubiquitysolargroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://ubiquitysolarholdings.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://ubiquitysolarpartners.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://ubiquitysolarworks.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://unifiedenergyconsulting.info,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://unifiedenergymanagement.info,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://wnyenergyassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://wnyenergyholdings.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://wnyenergypartners.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://wnyenergyworks.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,URL,http://quicksfleet.com,phishing,https://x.com/tial_cl/status/2075199540257226992
+2026-07-16,threatfox,DOMAIN,y4d9qpyb.bazisangkaqazgeychidancepoli.com,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,emberlattice.top,"js.smartapesg, domain",n/a
+2026-07-16,threatfox,DOMAIN,tturfmcfk.adsbln4.xyz,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,bjoqbxxh.hazzarat.com,"js.clearfake, domain",n/a
 2026-07-09,tweetfeed,URL,http://37.120.208.37,Remcos,https://x.com/skocherhan/status/2075208430181073039
 2026-07-09,tweetfeed,URL,http://193.187.91.222:49322,Remcos,https://x.com/skocherhan/status/2075208430181073039
 2026-07-09,tweetfeed,URL,http://destinystealer.com/fileicin.php,n/a,https://x.com/anyrun_app/status/2075210982469554324
@@ -5077,41 +5040,8 @@ date,user,type,ioc,tags,context
 2026-07-16,tweetfeed,URL,https://usdpbank.com/login,phishing,https://x.com/masaomi346/status/2077656579109957986
 2026-07-16,tweetfeed,URL,http://54.39.43.117:1224/api/checkStatus,n/a,https://x.com/dimitribest/status/2077715154628731308
 2026-07-16,tweetfeed,URL,http://72.5.43.81,n/a,https://x.com/malwrhunterteam/status/2077718372486197256
-2026-07-09,tweetfeed,DOMAIN,googletranslatesupport.blog,n/a,https://x.com/skocherhan/status/2075191345270915480
-2026-07-09,"threatfox,tweetfeed",DOMAIN,red64.duckdns.org,Remcos,https://x.com/skocherhan/status/2075191993156710595
-2026-07-09,"threatfox,tweetfeed",DOMAIN,red64bk.duckdns.org,Remcos,https://x.com/skocherhan/status/2075191993156710595
-2026-07-09,tweetfeed,DOMAIN,neuvop.ydns.eu,Remcos,https://x.com/skocherhan/status/2075197083691151573
-2026-07-09,tweetfeed,DOMAIN,neuvo.ydns.eu,Remcos,https://x.com/skocherhan/status/2075197811335848362
-2026-07-09,tweetfeed,DOMAIN,amergysolarsetup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,nexusenergysolutionsassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,nexusenergysolutionsgroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,p3solarequipment.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,p3solargroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,p3solarholdings.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,p3solarindustries.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,sevanabioenergyassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,sevanabioenergyco.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,sevanabioenergygroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,sevanabioenergygroup.com.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,sevanabioenergyhq.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,sevanabioenergypartners.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,solarplusequipment.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,solarplusindustrial.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,solarplusindustries.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,solarplusmfg.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,solarplusproducts.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,ubiquitysolarassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,ubiquitysolargroup.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,ubiquitysolarholdings.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,ubiquitysolarpartners.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,ubiquitysolarworks.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,unifiedenergyconsulting.info,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,unifiedenergymanagement.info,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,wnyenergyassociates.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,wnyenergyholdings.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,wnyenergypartners.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,wnyenergyworks.com,phishing,https://x.com/Kb4Threatlabs/status/2075199464718086544
-2026-07-09,tweetfeed,DOMAIN,quicksfleet.com,phishing,https://x.com/tial_cl/status/2075199540257226992
+2026-07-16,tweetfeed,URL,http://157.254.223.141/25/,"Remcos, opendir",https://x.com/James_inthe_box/status/2077732994375414130
+2026-07-16,tweetfeed,URL,http://47.116.115.7,n/a,https://x.com/malwrhunterteam/status/2077733700544946623
 2026-07-09,tweetfeed,DOMAIN,destinystealer.com,n/a,https://x.com/anyrun_app/status/2075210982469554324
 2026-07-09,tweetfeed,DOMAIN,tipidor-38534.portmap.host,n/a,https://x.com/anyrun_app/status/2075210982469554324
 2026-07-09,tweetfeed,DOMAIN,mailupdate.edgeone.dev,ransomware,https://x.com/scanmalware/status/2075216655844589900
@@ -6142,11 +6072,6 @@ date,user,type,ioc,tags,context
 2026-07-16,tweetfeed,DOMAIN,jre3.sw000hc13.cc,phishing,https://x.com/masaomi346/status/2077565315404427394
 2026-07-16,tweetfeed,DOMAIN,jre4.sw000hc13.cc,phishing,https://x.com/masaomi346/status/2077565315404427394
 2026-07-16,tweetfeed,DOMAIN,usdpbank.com,phishing,https://x.com/masaomi346/status/2077656579109957986
-2026-07-09,tweetfeed,HASH_SHA256,4d69be4d684b56a99568417cb39a0bf829517667af98e7392142855b689c291e,n/a,https://x.com/smica83/status/2075185896039575601
-2026-07-09,tweetfeed,HASH_SHA256,b6f8ec01b7013b192407828582b36f89e4d8bb23a2470fdda9fa5ed401b40932,n/a,https://x.com/smica83/status/2075189470001795303
-2026-07-09,tweetfeed,IP,94.198.96.164,n/a,https://x.com/smica83/status/2075190815735857396
-2026-07-09,tweetfeed,HASH_SHA256,4003ca6885cba04a837e4cd8954289aa19a8c9b857889c422bdc9ccaf66e0533,n/a,https://x.com/smica83/status/2075190815735857396
-2026-07-09,tweetfeed,IP,94.198.96.165,Remcos,https://x.com/skocherhan/status/2075197083691151573
 2026-07-09,tweetfeed,IP,37.120.208.37,Remcos,https://x.com/skocherhan/status/2075208430181073039
 2026-07-09,tweetfeed,IP,193.187.91.222,Remcos,https://x.com/skocherhan/status/2075208430181073039
 2026-07-09,tweetfeed,HASH_SHA256,50008cd78878cb1b3c142e1fd60db55917b233465b8f3f6769ca862902af58bb,n/a,https://x.com/anyrun_app/status/2075210985539866988
@@ -6433,6 +6358,8 @@ date,user,type,ioc,tags,context
 2026-07-16,tweetfeed,IP,159.198.32.215,C2,https://x.com/Fact_Finder03/status/2077678121432572389
 2026-07-16,tweetfeed,HASH_SHA256,ed2c4429cf27e19aa6881d86bc5b42c21470525564fc53be688b9b26c83db766,n/a,https://x.com/Now_on_VT/status/2077680073293865113
 2026-07-16,tweetfeed,IP,72.5.43.81,n/a,https://x.com/malwrhunterteam/status/2077718372486197256
+2026-07-16,tweetfeed,IP,157.254.223.141,"Remcos, opendir",https://x.com/James_inthe_box/status/2077732994375414130
+2026-07-16,tweetfeed,IP,47.116.115.7,n/a,https://x.com/malwrhunterteam/status/2077733700544946623
 2026-07-09,tweetfeed,HASH_MD5,c8466c55eee75a6e77fd8776ca795297,n/a,https://x.com/suyog41/status/2075205221962400128
 2026-07-09,tweetfeed,HASH_MD5,d5a0a491d0a062e2d57c09497837e311,Android,https://x.com/volrant136/status/2075241178543378489
 2026-07-09,tweetfeed,HASH_MD5,f3d76b00d31aeef335a0bbb744671845,n/a,https://x.com/sicehice/status/2075248320591679756
