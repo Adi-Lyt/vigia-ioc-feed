@@ -8,9 +8,6 @@ date,user,type,ioc,tags,context
 2026-07-14,cisa_kev,CVE,CVE-2026-15410,"SonicWall SMA1000 Appliances, kev","SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-17"
 2026-07-15,cisa_kev,CVE,CVE-2026-46817,"Oracle E-Business Suite, kev","Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-18"
 2026-07-15,cisa_kev,CVE,CVE-2023-4346,"KNX Association KNX Protocol Connection Authorization Option 1, kev","KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-29"
-2026-07-09,threatfox,URL,https://henreques.lol/file.js,"js.kongtuke, url",n/a
-2026-07-09,threatfox,URL,https://henreques.lol/api/v1/session,"js.kongtuke, url",n/a
-2026-07-09,threatfox,URL,https://henreques.lol/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-09,threatfox,URL,https://carreiro.lol/file.js,"js.kongtuke, url",n/a
 2026-07-09,threatfox,URL,https://carreiro.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-09,threatfox,URL,https://carreiro.lol/api/v1/verify,"js.kongtuke, url",n/a
@@ -287,11 +284,8 @@ date,user,type,ioc,tags,context
 2026-07-16,threatfox,URL,https://lmstamper.com/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://f4m.kijangturbo88.top/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://f4m.ambiltogel.net/,"win.vidar, url",n/a
-2026-07-09,threatfox,DOMAIN,vsdipcxs.persianeducation.ir,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,pbgskytq.persianeducation.ir,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,eludftjk.mellbeet.com,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,bmmp.ace90betyek.bet,"js.clearfake, domain",n/a
-2026-07-09,threatfox,DOMAIN,henreques.lol,"js.kongtuke, domain",n/a
+2026-07-16,threatfox,URL,https://hxi.kijangturbo88.top/,"win.vidar, url",n/a
+2026-07-16,threatfox,URL,https://hxi.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-09,darkweb_forums,URL,https://t.me/CRPX0,"darkweb, telegram_threat_actors",commit 894c86a4 / telegram_threat_actors.md
 2026-07-09,threatfox,DOMAIN,hzcsq855.taaghcheirani.com,"js.clearfake, domain",n/a
 2026-07-09,threatfox,DOMAIN,taaghcheirani.com,"js.clearfake, domain",n/a
@@ -3375,7 +3369,13 @@ date,user,type,ioc,tags,context
 2026-07-16,threatfox,DOMAIN,iygfxiad.efcasino.bet,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,j112srgz.bahigo90bet.com,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,ftcfotjnd.adsbln2.xyz,"js.clearfake, domain",n/a
-2026-07-09,tweetfeed,URL,https://luxoriahub.shop,phishing,https://x.com/masaomi346/status/2075180544158228949
+2026-07-16,threatfox,DOMAIN,hxi.kijangturbo88.top,"win.vidar, domain",n/a
+2026-07-16,threatfox,DOMAIN,hxi.ambiltogel.net,"win.vidar, domain",n/a
+2026-07-16,threatfox,DOMAIN,adsbln4.xyz,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,adsbln5.xyz,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,buaoqtgen.adsbln3.xyz,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,adsbln3.xyz,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,eastbwxa.funxbet.casino,"js.clearfake, domain",n/a
 2026-07-09,tweetfeed,URL,http://94.198.96.164,n/a,https://x.com/smica83/status/2075190815735857396
 2026-07-09,tweetfeed,URL,http://googletranslatesupport.blog,n/a,https://x.com/skocherhan/status/2075191345270915480
 2026-07-09,tweetfeed,URL,http://red64.duckdns.org,Remcos,https://x.com/skocherhan/status/2075191993156710595
@@ -5075,7 +5075,8 @@ date,user,type,ioc,tags,context
 2026-07-16,threatfox,HASH_SHA256,02e6fbf7319629a352755bded9ec28dfdaffc0affb7c1a7de9a1b3b69bd91de5,"py.invisibleferret, sha256_hash",n/a
 2026-07-16,tweetfeed,URL,http://gsnc.eu:67,ClickFix,https://x.com/GroupIB/status/2077652969164571121
 2026-07-16,tweetfeed,URL,https://usdpbank.com/login,phishing,https://x.com/masaomi346/status/2077656579109957986
-2026-07-09,tweetfeed,DOMAIN,luxoriahub.shop,phishing,https://x.com/masaomi346/status/2075180544158228949
+2026-07-16,tweetfeed,URL,http://54.39.43.117:1224/api/checkStatus,n/a,https://x.com/dimitribest/status/2077715154628731308
+2026-07-16,tweetfeed,URL,http://72.5.43.81,n/a,https://x.com/malwrhunterteam/status/2077718372486197256
 2026-07-09,tweetfeed,DOMAIN,googletranslatesupport.blog,n/a,https://x.com/skocherhan/status/2075191345270915480
 2026-07-09,"threatfox,tweetfeed",DOMAIN,red64.duckdns.org,Remcos,https://x.com/skocherhan/status/2075191993156710595
 2026-07-09,"threatfox,tweetfeed",DOMAIN,red64bk.duckdns.org,Remcos,https://x.com/skocherhan/status/2075191993156710595
@@ -6431,6 +6432,7 @@ date,user,type,ioc,tags,context
 2026-07-16,tweetfeed,IP,199.217.99.134,n/a,https://x.com/Fact_Finder03/status/2077662518605123655
 2026-07-16,tweetfeed,IP,159.198.32.215,C2,https://x.com/Fact_Finder03/status/2077678121432572389
 2026-07-16,tweetfeed,HASH_SHA256,ed2c4429cf27e19aa6881d86bc5b42c21470525564fc53be688b9b26c83db766,n/a,https://x.com/Now_on_VT/status/2077680073293865113
+2026-07-16,tweetfeed,IP,72.5.43.81,n/a,https://x.com/malwrhunterteam/status/2077718372486197256
 2026-07-09,tweetfeed,HASH_MD5,c8466c55eee75a6e77fd8776ca795297,n/a,https://x.com/suyog41/status/2075205221962400128
 2026-07-09,tweetfeed,HASH_MD5,d5a0a491d0a062e2d57c09497837e311,Android,https://x.com/volrant136/status/2075241178543378489
 2026-07-09,tweetfeed,HASH_MD5,f3d76b00d31aeef335a0bbb744671845,n/a,https://x.com/sicehice/status/2075248320591679756
