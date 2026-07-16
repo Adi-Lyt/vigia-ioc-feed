@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-15,cisa_kev,CVE,CVE-2026-46817,"Oracle E-Business Suite, kev","Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-18"
 2026-07-15,cisa_kev,CVE,CVE-2023-4346,"KNX Association KNX Protocol Connection Authorization Option 1, kev","KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-29"
-2026-07-15,threatfox,URL,https://kcosmetics.kr/,"win.vidar, url",n/a
 2026-07-15,threatfox,URL,https://productionai-shop.pages.dev/recaptcha-verify,"unknown, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/i7r4dbm3.js,"js.kongtuke, url",n/a
 2026-07-15,threatfox,URL,https://pbhwzixj.boro1.bet/4f9a7c78-781f-4987-9e83-e804fb9a98e2/gc.key,"unknown, url",n/a
@@ -114,9 +113,6 @@ date,user,type,ioc,tags,context
 2026-07-16,threatfox,URL,https://raiatec.ir/,"unknown, url",n/a
 2026-07-16,threatfox,URL,https://catholicsma.com/h4r2.html?v=mxhrbmchnv,"unknown, url",n/a
 2026-07-16,threatfox,URL,https://ritchie.click/7kv57ax9.js,"js.kongtuke, url",n/a
-2026-07-15,threatfox,DOMAIN,mprwjkek.betwanaa.com,"js.clearfake, domain",n/a
-2026-07-15,threatfox,DOMAIN,umnb.daddybetiran.live,"js.clearfake, domain",n/a
-2026-07-15,threatfox,DOMAIN,a9fh521j.bazisangkaqazgeychidancepoli.com,"js.clearfake, domain",n/a
 2026-07-15,threatfox,DOMAIN,stickcloth.xyz,"unknown_loader, domain",n/a
 2026-07-15,threatfox,DOMAIN,beefsofa.xyz,"unknown_loader, domain",n/a
 2026-07-15,threatfox,DOMAIN,pdzb.pdfbama.com,"js.clearfake, domain",n/a
@@ -329,7 +325,10 @@ date,user,type,ioc,tags,context
 2026-07-16,threatfox,DOMAIN,steelecreekswim.com,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,services-server0-web.com,"unknown, domain",n/a
 2026-07-16,threatfox,DOMAIN,xquxoceqj.radioshartbandi.bet,"js.clearfake, domain",n/a
-2026-07-15,tweetfeed,URL,https://github.com/PonySecs/FakeCry,ransomware,https://x.com/d1v35hresearch/status/2077256702785904918
+2026-07-16,threatfox,DOMAIN,fmgvaoemg.jadoou.lat,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,cdctvukr.taktikkbet.com,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,bgzdrdniv.venus90bet.com,"js.clearfake, domain",n/a
+2026-07-16,threatfox,DOMAIN,cdbxemdoq.toofan90bet.com,"js.clearfake, domain",n/a
 2026-07-15,tweetfeed,URL,http://1passwordnewsletter.com,n/a,https://x.com/lontze7/status/2077280605142741171
 2026-07-15,tweetfeed,URL,http://1passwordcompliance.com,n/a,https://x.com/lontze7/status/2077280605142741171
 2026-07-15,tweetfeed,URL,http://dashlanenewsletter.com,n/a,https://x.com/lontze7/status/2077280605142741171
@@ -494,7 +493,6 @@ date,user,type,ioc,tags,context
 2026-07-16,tweetfeed,DOMAIN,jre2.sw000hc13.cc,phishing,https://x.com/masaomi346/status/2077565315404427394
 2026-07-16,tweetfeed,DOMAIN,jre3.sw000hc13.cc,phishing,https://x.com/masaomi346/status/2077565315404427394
 2026-07-16,tweetfeed,DOMAIN,jre4.sw000hc13.cc,phishing,https://x.com/masaomi346/status/2077565315404427394
-2026-07-15,tweetfeed,HASH_SHA256,c279e2785ca454680e260f9b67f61c59e5378282a6854a4542cf40f9d9f6e800,ransomware,https://x.com/d1v35hresearch/status/2077256702785904918
 2026-07-15,tweetfeed,HASH_SHA256,32391ce6eca836369cfd5b3948ba978b7982dd3a85b81bb33c973773adeaef01,n/a,https://x.com/Dixit_404/status/2077259625196601834
 2026-07-15,tweetfeed,HASH_SHA256,5b798cf328c17ecd6a2e759c9adc695b068640226f0d4fae049bcb6470d4ae56,n/a,https://x.com/Dixit_404/status/2077259625196601834
 2026-07-15,tweetfeed,IP,43.167.180.140,phishing,https://x.com/Metemcyber/status/2077305466624074178
