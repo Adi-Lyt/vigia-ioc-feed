@@ -2,20 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-16,threatfox,URL,http://144.172.103.226/301/301m,"py.invisibleferret, url",n/a
-2026-07-16,threatfox,URL,http://144.172.103.226/301/301l,"py.invisibleferret, url",n/a
-2026-07-16,threatfox,URL,http://144.172.103.226/301/301w,"py.invisibleferret, url",n/a
-2026-07-16,threatfox,URL,http://95.217.102.138:1144/s/30620700,"py.invisibleferret, url",n/a
-2026-07-16,threatfox,URL,http://95.216.64.240:1224/main,"py.invisibleferret, url",n/a
-2026-07-16,threatfox,URL,http://95.216.64.240:1224/client/36/700,"py.invisibleferret, url",n/a
-2026-07-16,threatfox,URL,https://ritchie.click/gkbfcesb.js,"js.kongtuke, url",n/a
-2026-07-16,threatfox,URL,https://petx.vet/,"unknown, url",n/a
-2026-07-16,threatfox,URL,https://ritchie.click/q7eu4gpd.js,"js.kongtuke, url",n/a
-2026-07-16,threatfox,URL,https://ritchie.click/jh2fg27r.js,"js.kongtuke, url",n/a
-2026-07-16,threatfox,URL,http://196.251.107.163/ca2f6543a0826c0f55e0.php,"win.stealc, url",n/a
-2026-07-16,threatfox,URL,https://raiatec.ir/,"unknown, url",n/a
-2026-07-16,threatfox,URL,https://catholicsma.com/h4r2.html?v=mxhrbmchnv,"unknown, url",n/a
-2026-07-16,threatfox,URL,https://ritchie.click/7kv57ax9.js,"js.kongtuke, url",n/a
 2026-07-16,threatfox,URL,http://ct607808.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
 2026-07-16,threatfox,URL,https://teambluewhitezuerich.ch/,"unknown, url",n/a
 2026-07-16,threatfox,URL,https://ritchie.click/85iuztos.js,"js.kongtuke, url",n/a
@@ -49,15 +35,7 @@ date,user,type,ioc,tags,context
 2026-07-17,threatfox,URL,https://bfg.kliksm188.top/,"win.vidar, url",n/a
 2026-07-17,threatfox,URL,https://bfg.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-17,threatfox,URL,http://89.110.104.237/46893b462dca7432.php,"win.stealc, url",n/a
-2026-07-16,threatfox,DOMAIN,6lphdepl.sibbet90iran.com,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,i365pptc.lion1bet.com,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,fcmznlck.hazaratbet.games,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,pub-acf013a9b65140b7b58cc3c104ee7105.r2.dev,"py.invisibleferret, domain",n/a
-2026-07-16,threatfox,DOMAIN,pub-06714264305c44ea94491c0c8d961a87.r2.dev,"py.invisibleferret, domain",n/a
-2026-07-16,threatfox,DOMAIN,Toureurpi51924.icu,"js.iclickfix, domain",n/a
-2026-07-16,threatfox,DOMAIN,steelecreekswim.com,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,services-server0-web.com,"unknown, domain",n/a
-2026-07-16,threatfox,DOMAIN,xquxoceqj.radioshartbandi.bet,"js.clearfake, domain",n/a
+2026-07-17,threatfox,URL,https://t.me/still_stellc,"win.stealc, url",n/a
 2026-07-16,threatfox,DOMAIN,fmgvaoemg.jadoou.lat,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,cdctvukr.taktikkbet.com,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,bgzdrdniv.venus90bet.com,"js.clearfake, domain",n/a
@@ -1164,11 +1142,10 @@ date,user,type,ioc,tags,context
 2026-07-17,threatfox,DOMAIN,ovbeoktk.coop-fresh.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,jorjsrfgd.lion1bet.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,u5dn1e6x.bazisangkaqazgeychidancepoli.com,"js.clearfake, domain",n/a
-2026-07-16,threatfox,HASH_SHA256,a129de4fd4f1374a292bd8964df30c9e82c99bac680c4d36d6890fbf30ffac1c,"py.invisibleferret, sha256_hash",n/a
-2026-07-16,threatfox,HASH_SHA256,683a1607808f49446191d775d181ec9cccd1d629fba76e4d416fa54d1cf42630,"py.invisibleferret, sha256_hash",n/a
-2026-07-16,threatfox,HASH_SHA256,cd3b606d31c9d3c2ee972916f8de9a403caf00f00698fd6b9acece6ff30647c6,"py.invisibleferret, sha256_hash",n/a
-2026-07-16,threatfox,HASH_SHA256,b34aa84e8b4ad57d773fab6cbd7c40cda65f5f17c566cbd726ce3edcd04255b1,"py.invisibleferret, sha256_hash",n/a
-2026-07-16,threatfox,HASH_SHA256,02e6fbf7319629a352755bded9ec28dfdaffc0affb7c1a7de9a1b3b69bd91de5,"py.invisibleferret, sha256_hash",n/a
+2026-07-17,threatfox,DOMAIN,los16zn2.celebritiesadda.com,"js.clearfake, domain",n/a
+2026-07-17,threatfox,DOMAIN,dy6t0cul.hazarat.now,"js.clearfake, domain",n/a
+2026-07-17,threatfox,DOMAIN,ggitkzzn.derbi.promo,"js.clearfake, domain",n/a
+2026-07-17,threatfox,DOMAIN,nruyvebwd.taktikkbet.com,"js.clearfake, domain",n/a
 2026-07-16,tweetfeed,URL,http://gsnc.eu:67,ClickFix,https://x.com/GroupIB/status/2077652969164571121
 2026-07-16,tweetfeed,URL,https://usdpbank.com/login,phishing,https://x.com/masaomi346/status/2077656579109957986
 2026-07-16,tweetfeed,URL,http://54.39.43.117:1224/api/checkStatus,n/a,https://x.com/dimitribest/status/2077715154628731308
