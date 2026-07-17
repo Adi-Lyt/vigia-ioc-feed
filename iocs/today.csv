@@ -2,9 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-16,threatfox,URL,http://43.198.235.91/getinstall64,"win.valley_rat, url",n/a
-2026-07-16,threatfox,URL,https://sa7.kijangturbo88.top/,"win.vidar, url",n/a
-2026-07-16,threatfox,URL,https://sa7.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://cra.kliksm188.top/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://cra.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://ffz.ambiltogel.net/,"win.vidar, url",n/a
@@ -42,12 +39,7 @@ date,user,type,ioc,tags,context
 2026-07-17,threatfox,URL,https://monteiro.click/api/v1/status,"js.kongtuke, url",n/a
 2026-07-17,threatfox,URL,https://tommy-aa.lol/f,"js.kongtuke, url",n/a
 2026-07-17,threatfox,URL,https://battagliadipavia1525.it/,"win.vidar, url",n/a
-2026-07-16,threatfox,DOMAIN,lvppjubyy.barkerautoms.com,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,qkvgzbcv.nextbahis.promo,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,sa7.kijangturbo88.top,"win.vidar, domain",n/a
-2026-07-16,threatfox,DOMAIN,zkgeaxbs.nextbahis.promo,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,sa7.ambiltogel.net,"win.vidar, domain",n/a
-2026-07-16,threatfox,DOMAIN,rmlgnuvje.barkerautoms.com,"js.clearfake, domain",n/a
+2026-07-17,threatfox,URL,http://80.76.49.77,"win.stealc, url",n/a
 2026-07-16,threatfox,DOMAIN,maxwhywtk.betbuf90.com,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,hdjdchgb.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,2rhdb98z.comfortinnlaytonutah.com,"js.clearfake, domain",n/a
@@ -155,6 +147,10 @@ date,user,type,ioc,tags,context
 2026-07-17,threatfox,DOMAIN,qzfhwillb.crazyhotchicken.net,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,crazyhotchicken.net,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,sebw9xod.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
+2026-07-17,threatfox,DOMAIN,lmkxs.imagederm.com,"js.clearfake, domain",n/a
+2026-07-17,threatfox,DOMAIN,imagederm.com,"js.clearfake, domain",n/a
+2026-07-17,threatfox,DOMAIN,beqbfjhnf.deepspaceparker.com,"js.clearfake, domain",n/a
+2026-07-17,threatfox,DOMAIN,deepspaceparker.com,"js.clearfake, domain",n/a
 2026-07-16,tweetfeed,URL,https://play.google.com/store/apps/details?id=com.soulmadestud.mountainprod.peakfolder_browsefilesreaddocs,n/a,https://x.com/Threatlabz/status/2077801434066911245
 2026-07-16,tweetfeed,URL,http://107.155.100.238:8080/privacy.txt,n/a,https://x.com/Threatlabz/status/2077801434066911245
 2026-07-16,tweetfeed,URL,http://193.24.123.18:85/api/,n/a,https://x.com/Threatlabz/status/2077801434066911245
