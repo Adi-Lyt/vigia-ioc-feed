@@ -1,12 +1,4 @@
 date,user,type,ioc,tags,context
-2026-07-17,threatfox,URL,https://boodystat.click/dl/file/,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://boodystat.click/ccheck,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://boodystat.click/cload,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://boodystat.click/tracker.js,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://basebaistat.my/dl/file/,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://basebaistat.my/ccheck,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://basebaistat.my/cload,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://basebaistat.my/tracker.js,"unknown, url",n/a
 2026-07-17,threatfox,URL,https://milkcoolbalstat.help/dl/file/,"unknown, url",n/a
 2026-07-17,threatfox,URL,https://milkcoolbalstat.help/ccheck,"unknown, url",n/a
 2026-07-17,threatfox,URL,https://milkcoolbalstat.help/cload,"unknown, url",n/a
@@ -210,11 +202,7 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,URL,https://jenniferhagen.ch/,"unknown, url",n/a
 2026-07-18,threatfox,URL,http://91.92.42.213/phantom.sh,"unknown, url",n/a
 2026-07-18,threatfox,URL,https://babelo.pro/,"unknown, url",n/a
-2026-07-17,threatfox,DOMAIN,boodystat.click,"unknown, domain",n/a
-2026-07-17,threatfox,DOMAIN,basebaistat.my,"unknown, domain",n/a
-2026-07-17,threatfox,DOMAIN,pgfiv.jbgroup21.com,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,maytwilcz.easternartmuseum.com,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,6mhijma6.tampabayspin.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,URL,https://windows-update-local.rest,"win.stealc, url",n/a
 2026-07-17,threatfox,DOMAIN,Charge0x.at,"unknown_stealer, domain",n/a
 2026-07-17,threatfox,DOMAIN,milkglobalstat.click,"unknown, domain",n/a
 2026-07-17,threatfox,DOMAIN,milkcoolbalstat.help,"unknown, domain",n/a
@@ -425,8 +413,8 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,DOMAIN,jfwh.hazzarat.com,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,ijt1.com,"win.valley_rat, domain",n/a
 2026-07-18,threatfox,DOMAIN,xhozx.onjabet1.com,"js.clearfake, domain",n/a
-2026-07-17,tweetfeed,URL,https://midns-dist.b-cdn.net/20260713/Asset_kGIsBI.jpg,n/a,https://x.com/smica83/status/2078205560348938405
-2026-07-17,tweetfeed,URL,https://vk.ru/away.php?cc_key=cG2fG9&to=https%3A%2F%2Flcinvest.com.br%2F,phishing,https://x.com/PhishStats/status/2078207606712062079
+2026-07-18,threatfox,DOMAIN,fazv.jadoobet.pro,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,inasa.pdfbama.com,"js.clearfake, domain",n/a
 2026-07-17,tweetfeed,URL,http://38.47.198.41:8082,"C2, Sliver, malware",https://x.com/Malwarehunterr/status/2078230723396534728
 2026-07-17,tweetfeed,URL,http://38.47.198.41:8444,"C2, Sliver, malware",https://x.com/Malwarehunterr/status/2078230723396534728
 2026-07-17,threatfox,HASH_SHA256,7073018596b174f584299d5152cf90f89a1f4e3bf072b778fc3342fda5c82f4f,"win.vidar, sha256_hash",n/a
@@ -560,8 +548,6 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,HASH_MD5,8d9fa801432654ebfe456974bb355bd2,"win.ghost_rat, md5_hash",n/a
 2026-07-18,threatfox,HASH_MD5,8ab0732a85899cb205f645e969d0b4b8,"py.venus_stealer, md5_hash",n/a
 2026-07-18,threatfox,HASH_MD5,036227aa4ccacd6153de68143e02f001,"win.nanocore, md5_hash",n/a
-2026-07-17,tweetfeed,HASH_SHA256,da50eb6030b8760f13c2e1fbd9d325b15f06e5c6f015b38c2c2ffde870b7ac0c,n/a,https://x.com/smica83/status/2078205560348938405
-2026-07-17,tweetfeed,IP,93.186.225.194,phishing,https://x.com/PhishStats/status/2078207606712062079
 2026-07-17,tweetfeed,IP,38.47.198.41,"C2, Sliver, malware",https://x.com/Malwarehunterr/status/2078230723396534728
 2026-07-17,tweetfeed,HASH_SHA256,11be8cac8706b75a9e854873e714ee66d247b6b61e311722130c248c4a8a0260,"C2, Sliver, malware",https://x.com/Malwarehunterr/status/2078230723396534728
 2026-07-18,tweetfeed,IP,20.5.176.76,n/a,https://x.com/smica83/status/2078391675018199074
