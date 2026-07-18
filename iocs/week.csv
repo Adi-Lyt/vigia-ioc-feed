@@ -9,16 +9,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-11,threatfox,URL,http://93.152.224.29/IpS9GN16MBsmhWBe,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://85.239.149.16/CloudFlare_Verification_Code_845270,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://85.239.149.16/CloudFlare_Captcha_Code_839101,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://85.239.149.16/wbpLpf9vg2EVbxmbfW,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://85.239.149.16/WOBVpWpXWLm37L9XF,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://85.239.149.40/lrcaoQ7xSYfFVno2S9,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://85.239.149.16/BvCPpznZO6547X47,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://93.152.224.29/tBiNhjfyJ2VFClAx85,"unknown, url",n/a
-2026-07-11,threatfox,URL,http://85.239.149.16/gWowSyTRkvfEcGsIj,"unknown, url",n/a
-2026-07-11,threatfox,URL,https://shift-art.com/123/cloudflare/verify/humanverfification/cloudflarechallenge/CustomerID37832738/,"unknown, url",n/a
 2026-07-12,threatfox,URL,http://178.17.59.40:5506/qk.vbs,"unknown, url",n/a
 2026-07-12,threatfox,URL,http://inkbookwriters.com/verify,"unknown, url",n/a
 2026-07-12,threatfox,URL,https://dozco.com/public,"unknown, url",n/a
@@ -486,12 +476,6 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,URL,https://jenniferhagen.ch/,"unknown, url",n/a
 2026-07-18,threatfox,URL,http://91.92.42.213/phantom.sh,"unknown, url",n/a
 2026-07-18,threatfox,URL,https://babelo.pro/,"unknown, url",n/a
-2026-07-11,threatfox,DOMAIN,eksq11dg.dancebet90.app,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,dancebet90.app,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,lpzi.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,lnfl.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,llgdqtat.betpublic.casino,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,fpbgrevs.betpublic.casino,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,iwyx.bekabet.casino,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,btye.bekabet.casino,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,tjsojdll.betropol.bet,"js.clearfake, domain",n/a
@@ -2807,6 +2791,8 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,DOMAIN,searchranktraffic.live,"unknown_stealer, domain",n/a
 2026-07-18,threatfox,DOMAIN,robbylinkpi.icu,"unknown_stealer, domain",n/a
 2026-07-18,threatfox,DOMAIN,nfghq.kmmits.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,ncia.hazaratbet.games,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,jxrml.luxurygoodscaree.com,"js.clearfake, domain",n/a
 2026-07-11,tweetfeed,URL,https://exoduuss.online,phishing,https://x.com/Malwarehunterr/status/2076036227208454223
 2026-07-11,tweetfeed,URL,https://exoduuss.online/en/seguranca_validacao.php,phishing,https://x.com/Malwarehunterr/status/2076036227208454223
 2026-07-11,tweetfeed,URL,https://exoduuss.online/en/completo.php,phishing,https://x.com/Malwarehunterr/status/2076036227208454223
