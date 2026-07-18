@@ -9,8 +9,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-11,threatfox,URL,http://bonneli.rs/tmp/coreserver/gate.php,"win.pony, url",n/a
-2026-07-11,threatfox,URL,https://vivekanandapu-edu.in/,"win.vidar, url",n/a
 2026-07-11,threatfox,URL,https://leconto.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-07-11,threatfox,URL,https://cloudupdate8155.com/update/package,"js.kongtuke, url",n/a
 2026-07-11,threatfox,URL,https://thibahlt.lol/file.js,"js.kongtuke, url",n/a
@@ -498,13 +496,6 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,URL,https://stek-moldova.com/ccheck,"unknown, url",n/a
 2026-07-18,threatfox,URL,https://stek-moldova.com/cload,"unknown, url",n/a
 2026-07-18,threatfox,URL,https://stek-moldova.com/tracker.js,"unknown, url",n/a
-2026-07-11,threatfox,DOMAIN,runtimebeacon.top,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,akvz.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,fgdd.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,zcnevugr.betewin.poker,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,fzneds6a.betropol.bet,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,betewin.poker,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,cjxj9gkn.betropol.bet,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,pmhy.gorgbet.net,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,bbhf.bet1forward.com,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,fphhkiyz.betforward.download,"js.clearfake, domain",n/a
@@ -2886,6 +2877,12 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,DOMAIN,kopicoffeeco.com,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,isrjnxfeb.fg777kito.com,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,fg777kito.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,4j6m037n.mcbelize.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,mcbelize.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,tygnu.lokercorp.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,lokercorp.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,cgocpkfgd.fg777tasya.net,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,fg777tasya.net,"js.clearfake, domain",n/a
 2026-07-11,threatfox,HASH_SHA256,0becac3708194f61f084acf35602644f8cef1bcb33a7bbdebbd96b0d1888bda3,"unknown, sha256_hash",n/a
 2026-07-11,threatfox,HASH_SHA256,a9f1e873451adc5be1e9924d876ebaf79a467ab94b3f6a4e27068206f7b52719,"win.netsupportmanager_rat, sha256_hash",n/a
 2026-07-11,threatfox,HASH_SHA256,9d7f9ba8bde293ce8fc8b703ea016eda37bdb5726fa2f86f83e70d09fcef919d,"win.netsupportmanager_rat, sha256_hash",n/a
