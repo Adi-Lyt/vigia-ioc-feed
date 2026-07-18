@@ -9,9 +9,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-11,threatfox,URL,https://91.98.111.49/,"win.vidar, url",n/a
-2026-07-11,threatfox,URL,http://41.216.189.92/nz.sh,"unknown, url",n/a
-2026-07-11,threatfox,URL,https://ctkmarketplace.com/,"win.vidar, url",n/a
 2026-07-11,threatfox,URL,http://columna.lol:6590,"win.remus, url",n/a
 2026-07-11,threatfox,URL,http://198.13.158.127:5506/dd.vbs,"js.clearfake, url",n/a
 2026-07-11,threatfox,URL,http://85.239.149.16/f6ptObhnkvaYRgMEJ,"js.clearfake, url",n/a
@@ -484,37 +481,6 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,URL,https://stek-moldova.com/tracker.js,"unknown, url",n/a
 2026-07-18,threatfox,URL,https://pressurewashingsacramento.net/,"win.vidar, url",n/a
 2026-07-18,threatfox,URL,https://targe.in/,"win.vidar, url",n/a
-2026-07-11,threatfox,DOMAIN,bonavol.info,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,genesis-softs.com,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,nightmare-download.pw,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,data.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,r1.kill-bot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,r3.nl.kill-bot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,r4.us.kill-bot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,connect.xlauncher.org,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,r5.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,sql.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,mail.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,redirect.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,new.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,data.kill-bot.net,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,msk.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,b.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,mc.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,tt.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,18452654.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,41637610.killbot.ru,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,tds.xlauncher.org,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,ansamble.duckdns.org,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,download.xlauncher.org,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,content.xlauncher.org,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,ansamble-auth.duckdns.org,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,minetoday.info,"unknown, domain",n/a
-2026-07-11,threatfox,DOMAIN,xbvj.bahigo90bet.com,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,gqtw.bahigo90bet.com,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,ocglemkm.betraca.bet,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,hrunarqq.betraca.bet,"js.clearfake, domain",n/a
-2026-07-11,threatfox,DOMAIN,borobet.cash,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,tglc.bahsegel90.com,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,pgxi.bahsegel90.com,"js.clearfake, domain",n/a
 2026-07-11,threatfox,DOMAIN,xb7ea3kq.betturkey.bet,"js.clearfake, domain",n/a
@@ -2804,6 +2770,10 @@ date,user,type,ioc,tags,context
 2026-07-18,threatfox,DOMAIN,quickandcleanfetish.com,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,mtvhf.socialclub112.com,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,socialclub112.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,sjhofpgpz.rahmagrill.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,rahmagrill.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,gygor.sultankito.com,"js.clearfake, domain",n/a
+2026-07-18,threatfox,DOMAIN,sultankito.com,"js.clearfake, domain",n/a
 2026-07-11,tweetfeed,URL,http://primecontent.online,"phishing, scam",https://x.com/Malwarehunterr/status/2075989673101689147
 2026-07-11,tweetfeed,URL,http://104.164.55.15,n/a,https://x.com/malwrhunterteam/status/2075993818822775141
 2026-07-11,tweetfeed,URL,https://exoduuss.online,phishing,https://x.com/Malwarehunterr/status/2076036227208454223
@@ -4207,6 +4177,12 @@ date,user,type,ioc,tags,context
 2026-07-18,tweetfeed,URL,https://www.dropbox.com/scl/fi/fip887af098gcad36o20w/P_1784215111_9817.a3x?rlkey=n18uy18evjto5ju8zdx,n/a,https://x.com/smica83/status/2078411788664680803
 2026-07-18,tweetfeed,URL,http://teleqrem.com,n/a,https://x.com/scanmalware/status/2078452233897754704
 2026-07-18,tweetfeed,URL,https://sdsdio.bfteng.com,phishing,https://x.com/PhishStats/status/2078453857361776899
+2026-07-18,tweetfeed,URL,https://www.playcomla.com.ar,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,URL,https://www.jarretelvankortrijk.be,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,URL,http://www.download.renaultsatelite.com.mx,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,URL,https://panychurasc0.com/ORIGINAL/13.exe,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,URL,https://shopleta.ru/updatechrome.exe,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,URL,http://honeypotlive.cc,n/a,https://x.com/blackorbird/status/2078488655048688118
 2026-07-11,tweetfeed,DOMAIN,primecontent.online,"phishing, scam",https://x.com/Malwarehunterr/status/2075989673101689147
 2026-07-11,tweetfeed,DOMAIN,exoduuss.online,phishing,https://x.com/Malwarehunterr/status/2076036227208454223
 2026-07-11,tweetfeed,DOMAIN,lnstagrarn.vercel.app,n/a,https://x.com/scanmalware/status/2076036896036159578
@@ -5025,6 +5001,12 @@ date,user,type,ioc,tags,context
 2026-07-18,tweetfeed,DOMAIN,incidentmanager.cc,n/a,https://x.com/smica83/status/2078405033603809682
 2026-07-18,tweetfeed,DOMAIN,teleqrem.com,n/a,https://x.com/scanmalware/status/2078452233897754704
 2026-07-18,tweetfeed,DOMAIN,sdsdio.bfteng.com,phishing,https://x.com/PhishStats/status/2078453857361776899
+2026-07-18,tweetfeed,DOMAIN,playcomla.com.ar,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,DOMAIN,jarretelvankortrijk.be,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,DOMAIN,download.renaultsatelite.com.mx,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,DOMAIN,panychurasc0.com,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,DOMAIN,shopleta.ru,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
+2026-07-18,tweetfeed,DOMAIN,honeypotlive.cc,n/a,https://x.com/blackorbird/status/2078488655048688118
 2026-07-11,tweetfeed,IP,185.199.111.153,C2,https://x.com/Fact_Finder03/status/2075988977988084009
 2026-07-11,tweetfeed,IP,104.164.55.15,n/a,https://x.com/malwrhunterteam/status/2075993818822775141
 2026-07-11,tweetfeed,HASH_SHA256,fc2907fa866f86e0821f75060a331ce69ee10ff3aa374587993b17ba5406fa33,n/a,https://x.com/skocherhan/status/2076057641827094772
@@ -5311,6 +5293,7 @@ date,user,type,ioc,tags,context
 2026-07-18,tweetfeed,IP,91.92.35.207,n/a,https://x.com/smica83/status/2078410560903786719
 2026-07-18,tweetfeed,HASH_SHA256,fe285ab91a5adecebcab3e63343b56fba31e2a689ce12be582bc4f5ab04a768f,n/a,https://x.com/smica83/status/2078410560903786719
 2026-07-18,tweetfeed,HASH_SHA256,05fb877f6d3aad5fbf9463814bd3fb1c775e73b806baded1ececee2bf8a424ec,n/a,https://x.com/smica83/status/2078411788664680803
+2026-07-18,tweetfeed,IP,169.58.38.23,"RAT, malware",https://x.com/0xrh0d4m1n/status/2078480229199192537
 2026-07-11,tweetfeed,HASH_MD5,a8e3d5cecdf5488975e2c3a0dc658808,malware,https://x.com/skocherhan/status/2076067866189701183
 2026-07-12,tweetfeed,HASH_MD5,7dda98b4ccc81a372dcc62e3dd9196c0,malware,https://x.com/bsforvt727/status/2076249499664810366
 2026-07-12,tweetfeed,HASH_MD5,810d4f818350cb3859c325d8e86e5ffc,malware,https://x.com/bsforvt727/status/2076249499664810366
