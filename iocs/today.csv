@@ -202,6 +202,11 @@ date,user,type,ioc,tags,context
 2026-07-19,threatfox,DOMAIN,ember-sdk.old-ground.garden,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,ifmpb.frizzhairforecast.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,frizzhairforecast.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,mjca.fontanayoga.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,fontanayoga.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,brdxo.old-ground.garden,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,dyzjs.gepco-energy.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,gepco-energy.com,"js.clearfake, domain",n/a
 2026-07-18,tweetfeed,URL,http://teleqrem.com,n/a,https://x.com/scanmalware/status/2078452233897754704
 2026-07-18,tweetfeed,URL,https://sdsdio.bfteng.com,phishing,https://x.com/PhishStats/status/2078453857361776899
 2026-07-18,tweetfeed,URL,https://www.playcomla.com.ar,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
@@ -267,6 +272,7 @@ date,user,type,ioc,tags,context
 2026-07-19,threatfox,HASH_SHA256,d8cd1d9f8c092aa4a6c1b1b2b97c7de71d55c2af8332532d2956e4f5becac17e,"elf.mirai, sha256_hash",n/a
 2026-07-19,threatfox,HASH_SHA256,95f5bd70c4e40f9663b67d40d23a46ca21d97448f9a609be10b12837e6a59805,"elf.mirai, sha256_hash",n/a
 2026-07-19,threatfox,HASH_SHA256,b1f2808e05cb42894790c12172ffacf8673a0a7e14c7af5ad43d5bedfa62a5e4,"elf.mirai, sha256_hash",n/a
+2026-07-19,tweetfeed,URL,http://jonathanhanley.com/ira,phishing,https://x.com/PhishStats/status/2078810589011312782
 2026-07-18,tweetfeed,DOMAIN,teleqrem.com,n/a,https://x.com/scanmalware/status/2078452233897754704
 2026-07-18,tweetfeed,DOMAIN,sdsdio.bfteng.com,phishing,https://x.com/PhishStats/status/2078453857361776899
 2026-07-18,tweetfeed,DOMAIN,playcomla.com.ar,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
@@ -308,6 +314,7 @@ date,user,type,ioc,tags,context
 2026-07-18,tweetfeed,DOMAIN,ajvcu.cn,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,DOMAIN,bitbrarwser.com,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,DOMAIN,ndiewh.com,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
+2026-07-19,tweetfeed,DOMAIN,jonathanhanley.com,phishing,https://x.com/PhishStats/status/2078810589011312782
 2026-07-18,tweetfeed,IP,169.58.38.23,"RAT, malware",https://x.com/0xrh0d4m1n/status/2078480229199192537
 2026-07-18,tweetfeed,IP,193.233.19.134,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078495588732301339
 2026-07-18,tweetfeed,HASH_SHA256,633258fc8aa5b4f3e32b05baf836a5cb24ce8309a9704499027649f249fc711f,ClickFix,https://x.com/Malwarehunterr/status/2078559201685807345
@@ -316,3 +323,11 @@ date,user,type,ioc,tags,context
 2026-07-18,tweetfeed,HASH_SHA256,70c47d8ef8d35f29173ab5ac9233d12858a56aab5ea176c5dfc8ec42980eebfd,ClickFix,https://x.com/Malwarehunterr/status/2078559201685807345
 2026-07-18,tweetfeed,HASH_SHA256,cb3bab4143f7d138b360856e13aa93cf519fa8b03749f229d0c3ce00c30d5700,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,HASH_SHA256,955415f950e1278a041992f6c6494b1d482861a78effb2c871907b21258631b0,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
+2026-07-19,tweetfeed,IP,193.27.90.102,C2,https://x.com/Fact_Finder03/status/2078809886151045171
+2026-07-19,tweetfeed,IP,77.83.175.76,C2,https://x.com/Fact_Finder03/status/2078809886151045171
+2026-07-19,tweetfeed,IP,172.233.212.129,phishing,https://x.com/PhishStats/status/2078810589011312782
+2026-07-19,tweetfeed,IP,37.221.66.43,C2,https://x.com/Fact_Finder03/status/2078812249205170422
+2026-07-19,tweetfeed,IP,66.116.246.57,"C2, RAT",https://x.com/Fact_Finder03/status/2078819895324602815
+2026-07-19,tweetfeed,IP,66.116.245.180,"C2, RAT",https://x.com/Fact_Finder03/status/2078819895324602815
+2026-07-19,tweetfeed,IP,115.190.162.84,C2,https://x.com/Fact_Finder03/status/2078823299199692872
+2026-07-19,tweetfeed,HASH_SHA256,707ec82013bfb7198df5cdbb34e96ce501bf8b72f589525af36013ba73b26264,C2,https://x.com/Fact_Finder03/status/2078823299199692872
