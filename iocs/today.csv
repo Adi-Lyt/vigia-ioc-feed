@@ -45,6 +45,7 @@ date,user,type,ioc,tags,context
 2026-07-19,threatfox,URL,https://afsd.net/,"win.vidar, url",n/a
 2026-07-19,threatfox,URL,https://markol.pro/,"unknown, url",n/a
 2026-07-19,threatfox,URL,https://rgb.arizonafamilylawfirm.com/,"win.vidar, url",n/a
+2026-07-19,threatfox,URL,https://fsc.arizonafamilylawfirm.com/,"win.vidar, url",n/a
 2026-07-18,threatfox,DOMAIN,iqr1pfqd.okegass.net,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,okegass.net,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,cloud-scn.info,"unknown_loader, domain",n/a
@@ -203,6 +204,13 @@ date,user,type,ioc,tags,context
 2026-07-19,threatfox,DOMAIN,brdxo.old-ground.garden,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,dyzjs.gepco-energy.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,gepco-energy.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,formonstore.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,uaycwz4b.nextbahis.blog,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,fsc.arizonafamilylawfirm.com,"win.vidar, domain",n/a
+2026-07-19,threatfox,DOMAIN,wgp8mmcl.nextbahis.app,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,hzzgoxjvb.pdfbama.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,ekjcg.gettalloway.com,"js.clearfake, domain",n/a
+2026-07-19,threatfox,DOMAIN,gettalloway.com,"js.clearfake, domain",n/a
 2026-07-18,tweetfeed,URL,https://www.playcomla.com.ar,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
 2026-07-18,tweetfeed,URL,https://www.jarretelvankortrijk.be,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
 2026-07-18,tweetfeed,URL,http://www.download.renaultsatelite.com.mx,"ClickFix, malware",https://x.com/Malwarehunterr/status/2078484535650754887
@@ -323,3 +331,4 @@ date,user,type,ioc,tags,context
 2026-07-19,tweetfeed,IP,66.116.245.180,"C2, RAT",https://x.com/Fact_Finder03/status/2078819895324602815
 2026-07-19,tweetfeed,IP,115.190.162.84,C2,https://x.com/Fact_Finder03/status/2078823299199692872
 2026-07-19,tweetfeed,HASH_SHA256,707ec82013bfb7198df5cdbb34e96ce501bf8b72f589525af36013ba73b26264,C2,https://x.com/Fact_Finder03/status/2078823299199692872
+2026-07-19,tweetfeed,IP,103.125.254.83,"C2, RAT",https://x.com/Fact_Finder03/status/2078827948216647894
