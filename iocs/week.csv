@@ -9,7 +9,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-12,threatfox,URL,http://tzpx.courses:4437,"win.remus, url",n/a
 2026-07-13,threatfox,URL,http://95.40.222.37/getinstall64,"win.valley_rat, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/get/config,"unknown_stealer, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/mods/api/log-download,"unknown_stealer, url",n/a
@@ -513,13 +512,6 @@ date,user,type,ioc,tags,context
 2026-07-19,threatfox,URL,https://telegram.me/f4g7ha,"win.vidar, url",n/a
 2026-07-19,threatfox,URL,http://telco.snovabits.com/,"js.iclickfix, url",n/a
 2026-07-19,threatfox,URL,https://stac.com.vn/,"unknown, url",n/a
-2026-07-12,threatfox,DOMAIN,sjzcjaqs.jadoou.bond,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,mypwk0n2.jadoou.click,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,jadoou.click,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,jidm.jadoobet.pro,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,thfn.jadoobet.pro,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,launchato.closer1ook.garden,"js.clearfake, domain",n/a
-2026-07-12,threatfox,DOMAIN,fdmyrhjq.jadoobet.vip,"js.clearfake, domain",n/a
 2026-07-12,threatfox,DOMAIN,mfej25tu.jadoou.cyou,"js.clearfake, domain",n/a
 2026-07-12,threatfox,DOMAIN,kz7rv55b.jadoou.cyou,"js.clearfake, domain",n/a
 2026-07-12,threatfox,DOMAIN,eikgcqyt.onjabet1.com,"js.clearfake, domain",n/a
@@ -2856,11 +2848,6 @@ date,user,type,ioc,tags,context
 2026-07-19,threatfox,DOMAIN,soccerpunter.org,"win.vidar, domain",n/a
 2026-07-19,threatfox,DOMAIN,toufafashion.com,"win.vidar, domain",n/a
 2026-07-19,threatfox,DOMAIN,yourhomeguide.co.uk,"win.vidar, domain",n/a
-2026-07-12,tweetfeed,URL,http://njzlopghznkamkl.cfd,n/a,https://x.com/skocherhan/status/2076395545791180971
-2026-07-12,tweetfeed,URL,http://kynxdev.xyz,n/a,https://x.com/skocherhan/status/2076397826192334892
-2026-07-12,tweetfeed,URL,http://schijndelse.nl,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
-2026-07-12,tweetfeed,URL,http://104.21.7.7,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
-2026-07-12,tweetfeed,URL,http://172.67.155.87,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
 2026-07-12,tweetfeed,URL,http://github.com/lorenzoDick,"AsyncRAT, Remcos, Xworm",https://x.com/skocherhan/status/2076431978962841886
 2026-07-12,tweetfeed,URL,http://github.com/albaluzzgom-byte,n/a,https://x.com/skocherhan/status/2076434591854866547
 2026-07-12,tweetfeed,URL,http://github.com/ultrarenewrecargado-alt,AsyncRAT,https://x.com/skocherhan/status/2076436880535560450
@@ -3866,8 +3853,6 @@ date,user,type,ioc,tags,context
 2026-07-19,tweetfeed,URL,http://okekjaiw.click,malware,https://x.com/FABO97662188/status/2078905505418760481
 2026-07-19,tweetfeed,URL,http://8jdjpwka.baby,malware,https://x.com/FABO97662188/status/2078905505418760481
 2026-07-19,threatfox,HASH_SHA256,45fb50f074613b46672fac2ce2f30f1dd5f4e15a3d7f1fd53c333b1e198dbbc3,"osx.unidentified_001, sha256_hash",n/a
-2026-07-12,tweetfeed,DOMAIN,kynxdev.xyz,n/a,https://x.com/skocherhan/status/2076397826192334892
-2026-07-12,tweetfeed,DOMAIN,schijndelse.nl,AsyncRAT,https://x.com/skocherhan/status/2076400578637320217
 2026-07-12,tweetfeed,DOMAIN,skocherhan98740bb0d8b1f23fcc1293ede85d920agithub.com,AsyncRAT,https://x.com/skocherhan/status/2076437149893685747
 2026-07-12,tweetfeed,DOMAIN,newzamrecarga.duckdns.org,"Dcrat, Njrat",https://x.com/skocherhan/status/2076440022161424893
 2026-07-12,tweetfeed,DOMAIN,doblelaidentedi.duckdns.org,"Dcrat, Njrat",https://x.com/skocherhan/status/2076440022161424893
