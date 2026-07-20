@@ -9,7 +9,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-13,threatfox,URL,https://ghost.nestdns.com/files,"unknown, url",n/a
 2026-07-13,threatfox,URL,https://69.164.253.21,"win.vidar, url",n/a
 2026-07-13,threatfox,URL,https://jadeworkshop.top/router/verify-build,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,https://jadeworkshop.top/router/handler-asset.js,"js.smartapesg, url",n/a
@@ -561,11 +560,6 @@ date,user,type,ioc,tags,context
 2026-07-20,threatfox,URL,https://pressao.sinprodf.org.br/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://academyda.co/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://carmag.nl/,"win.vidar, url",n/a
-2026-07-13,threatfox,DOMAIN,ovcvaphj.jadoou.cfd,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,vnuhxmfp.jadoou.cfd,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,zxco.madgal.life,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,ukgf.madgal.life,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,roland.uscourt.online,"unknown_rat, domain",n/a
 2026-07-13,threatfox,DOMAIN,576m4hgs.jadoobet.click,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,imjbwe71.jadoou.xyz,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,92991q0f.jadoou.xyz,"js.clearfake, domain",n/a
@@ -2895,15 +2889,6 @@ date,user,type,ioc,tags,context
 2026-07-20,threatfox,DOMAIN,f9e2ff2h.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,apexstorm6link.solavern.garden,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,neogateway9hub.solavern.garden,"js.clearfake, domain",n/a
-2026-07-13,tweetfeed,URL,http://microsoft.com.n1c2c3c8c3m.1r1a1-c7c1c5c8c.3m1r1a-syyasyimxbky.bravfr4rqiss39k6wu-jynmp-tekbge.844b540f-d8fa-4a47-aabc.7116cc364ac1.wormszone.app,n/a,https://x.com/skocherhan/status/2076606721682718797
-2026-07-13,tweetfeed,URL,http://2.27.62.244,n/a,https://x.com/skocherhan/status/2076606721682718797
-2026-07-13,tweetfeed,URL,http://127.0.0.1:12437,malware,https://x.com/Malwarehunterr/status/2076610949876982060
-2026-07-13,tweetfeed,URL,http://rigcheck.net,malware,https://x.com/Malwarehunterr/status/2076610949876982060
-2026-07-13,tweetfeed,URL,http://server8-node2.iworx-host.com,n/a,https://x.com/JAMESWT_WT/status/2076611400231801167
-2026-07-13,tweetfeed,URL,http://5.56.37.133,n/a,https://x.com/JAMESWT_WT/status/2076611400231801167
-2026-07-13,tweetfeed,URL,http://documentacces.com,phishing,https://x.com/skocherhan/status/2076612077783773495
-2026-07-13,tweetfeed,URL,http://accesdocument.com,phishing,https://x.com/skocherhan/status/2076612077783773495
-2026-07-13,tweetfeed,URL,http://144.172.109.240,phishing,https://x.com/skocherhan/status/2076612077783773495
 2026-07-13,tweetfeed,URL,http://sc-crypt.digital,n/a,https://x.com/skocherhan/status/2076627208051843376
 2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,n/a,https://x.com/skocherhan/status/2076628219818598507
 2026-07-13,tweetfeed,URL,http://meshcoral.com,n/a,https://x.com/skocherhan/status/2076642819268096404
@@ -3582,11 +3567,6 @@ date,user,type,ioc,tags,context
 2026-07-20,tweetfeed,URL,http://accreditedrec.xyz,n/a,https://x.com/skocherhan/status/2079156217344065943
 2026-07-20,tweetfeed,URL,http://loomlyt.xyz,n/a,https://x.com/skocherhan/status/2079156217344065943
 2026-07-20,tweetfeed,URL,http://31.76.252.47,n/a,https://x.com/malwrhunterteam/status/2079157644611223810
-2026-07-13,tweetfeed,DOMAIN,microsoft.com.n1c2c3c8c3m.1r1a1-c7c1c5c8c.3m1r1a-syyasyimxbky.bravfr4rqiss39k6wu-jynmp-tekbge.844b540f-d8fa-4a47-aabc.7116cc364ac1.wormszone.app,n/a,https://x.com/skocherhan/status/2076606721682718797
-2026-07-13,tweetfeed,DOMAIN,rigcheck.net,malware,https://x.com/Malwarehunterr/status/2076610949876982060
-2026-07-13,tweetfeed,DOMAIN,server8-node2.iworx-host.com,n/a,https://x.com/JAMESWT_WT/status/2076611400231801167
-2026-07-13,tweetfeed,DOMAIN,documentacces.com,phishing,https://x.com/skocherhan/status/2076612077783773495
-2026-07-13,tweetfeed,DOMAIN,accesdocument.com,phishing,https://x.com/skocherhan/status/2076612077783773495
 2026-07-13,"threatfox,tweetfeed",DOMAIN,sc-crypt.digital,n/a,https://x.com/skocherhan/status/2076627208051843376
 2026-07-13,"threatfox,tweetfeed",DOMAIN,nexrogcapital.xyz,n/a,https://x.com/skocherhan/status/2076628219818598507
 2026-07-13,tweetfeed,DOMAIN,meshcoral.com,n/a,https://x.com/skocherhan/status/2076642819268096404
@@ -4046,10 +4026,6 @@ date,user,type,ioc,tags,context
 2026-07-20,tweetfeed,DOMAIN,comprehensive.click,n/a,https://x.com/skocherhan/status/2079156217344065943
 2026-07-20,tweetfeed,DOMAIN,accreditedrec.xyz,n/a,https://x.com/skocherhan/status/2079156217344065943
 2026-07-20,tweetfeed,DOMAIN,loomlyt.xyz,n/a,https://x.com/skocherhan/status/2079156217344065943
-2026-07-13,tweetfeed,IP,2.27.62.244,n/a,https://x.com/skocherhan/status/2076606721682718797
-2026-07-13,tweetfeed,HASH_SHA256,396add01e02d5d834df8565606afe4c7535bd318d61350f67c1657d9dd62d5ae,malware,https://x.com/Malwarehunterr/status/2076610949876982060
-2026-07-13,tweetfeed,IP,5.56.37.133,n/a,https://x.com/JAMESWT_WT/status/2076611400231801167
-2026-07-13,tweetfeed,IP,144.172.109.240,phishing,https://x.com/skocherhan/status/2076612077783773495
 2026-07-13,tweetfeed,HASH_SHA256,dedabf845427e3983739ceef739528d80bffd209ca1a6328892dd169385b5d4a,n/a,https://x.com/smica83/status/2076625954126905665
 2026-07-13,tweetfeed,HASH_SHA256,6eb36447883376c1cc14129e77d8bebec87a1ac31ea069442ba76949797da3e1,n/a,https://x.com/skocherhan/status/2076628219818598507
 2026-07-13,tweetfeed,IP,31.76.57.92,phishing,https://x.com/PhishStats/status/2076637940852134195
@@ -4309,7 +4285,6 @@ date,user,type,ioc,tags,context
 2026-07-20,tweetfeed,HASH_SHA256,65ab49119c845801f29a57e8aa177146b2ffbd289d4278109b146f933380f951,n/a,https://x.com/Now_on_VT/status/2079155119988289981
 2026-07-20,tweetfeed,HASH_SHA256,94796cf6d4403856fcca825b4fb2e9efd2c2635d6ae43e62a6392c0153f5c944,n/a,https://x.com/smica83/status/2079155529713172481
 2026-07-20,tweetfeed,IP,31.76.252.47,n/a,https://x.com/malwrhunterteam/status/2079157644611223810
-2026-07-13,tweetfeed,HASH_MD5,b572c3298284a33af26c7ca2bfd1d1c9,n/a,https://x.com/skocherhan/status/2076606721682718797
 2026-07-13,tweetfeed,HASH_MD5,37256779c143820d7c2641ff7a0cc9e1,n/a,https://x.com/suyog41/status/2076641491641077867
 2026-07-13,tweetfeed,HASH_MD5,25185dc12be843ffc0fafe2ecc4d961d,malware,https://x.com/d1v35hresearch/status/2076655116539863050
 2026-07-13,tweetfeed,HASH_MD5,4e1151dd79dabae691dac265f1f229a2,n/a,https://x.com/skocherhan/status/2076660743965933862
