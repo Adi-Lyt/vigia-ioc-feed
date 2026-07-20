@@ -9,7 +9,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-13,threatfox,URL,http://95.40.222.37/getinstall64,"win.valley_rat, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/get/config,"unknown_stealer, url",n/a
 2026-07-13,threatfox,URL,https://irahook.com/mods/api/log-download,"unknown_stealer, url",n/a
 2026-07-13,threatfox,URL,https://gbwaaplus.com/,"apk.triada, url",n/a
@@ -514,14 +513,6 @@ date,user,type,ioc,tags,context
 2026-07-19,threatfox,URL,https://stac.com.vn/,"unknown, url",n/a
 2026-07-20,threatfox,URL,http://192.162.199.186/aB7xTy2N/mAjOR.php,"win.amadey, url",n/a
 2026-07-20,threatfox,URL,http://196.251.107.186/qK3mRv9L/pLdWr.php,"win.amadey, url",n/a
-2026-07-13,threatfox,DOMAIN,threadtheory.interfe7ewith.garden,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,ceayo90m.jadoou.xyz,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,7c7ax36p.bahigo90bet.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,q7me81i7.jadoou.xyz,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,lichentoken.interfe7ewith.garden,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,ogedjbqx.jadoou.baby,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,exlt.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,dzlr.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,h4rd-craft.interfe7ewith.garden,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,aiqv.interfe7ewith.garden,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,klsv.betturkey.bet,"js.clearfake, domain",n/a
