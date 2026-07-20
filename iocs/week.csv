@@ -9,8 +9,6 @@ date,user,type,ioc,tags,context
 2026-07-16,cisa_kev,CVE,CVE-2026-58644,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-25089,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
 2026-07-16,cisa_kev,CVE,CVE-2026-39808,"Fortinet FortiSandbox, kev","Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-19"
-2026-07-13,threatfox,URL,https://jadeworkshop.top/router/verify-build,"js.smartapesg, url",n/a
-2026-07-13,threatfox,URL,https://jadeworkshop.top/router/handler-asset.js,"js.smartapesg, url",n/a
 2026-07-13,threatfox,URL,http://s.na-cs.com/b2f628/b.sh,"elf.kinsing, url",n/a
 2026-07-13,threatfox,URL,http://s.na-cs.com/t.sh,"elf.kinsing, url",n/a
 2026-07-13,threatfox,URL,http://oracle.zzhreceive.top/b2f628/b.sh,"elf.kinsing, url",n/a
@@ -565,24 +563,6 @@ date,user,type,ioc,tags,context
 2026-07-20,threatfox,URL,https://bechisalbinoantenne.it/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://adminbyrequest.agilemtech.ae/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://nenodescolado.com.br/,"win.vidar, url",n/a
-2026-07-13,threatfox,DOMAIN,droptest.xyz,"unknown_loader, domain",n/a
-2026-07-13,threatfox,DOMAIN,tcp.niceports.shop,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,yxxyqkkf.jadoou.one,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadeworkshop.top,"js.smartapesg, domain",n/a
-2026-07-13,threatfox,DOMAIN,genesis-cheats.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,wifihgu.duckdns.org,"elf.mirai, domain",n/a
-2026-07-13,threatfox,DOMAIN,lumennix.life,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.online,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.site,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.space,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.store,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,jadoou.xyz,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,instance-v81wjy-relay.screenconnect.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,fanampiana.screenconnect.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,cdnssa.com,"unknown, domain",n/a
-2026-07-13,threatfox,DOMAIN,hnzi.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,owhj.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
-2026-07-13,threatfox,DOMAIN,na-cs.com,"unknown, domain",n/a
 2026-07-13,threatfox,DOMAIN,2cca57zt.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,tzcy9ec8.onjabet1.com,"js.clearfake, domain",n/a
 2026-07-13,threatfox,DOMAIN,ulgqmzld.jadoou.online,"js.clearfake, domain",n/a
@@ -2925,28 +2905,16 @@ date,user,type,ioc,tags,context
 2026-07-20,threatfox,DOMAIN,generososbakerycafe.com,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,cglp.cleantruckchecksac.com,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,embvx.hazaratbet.bet,"js.clearfake, domain",n/a
-2026-07-13,tweetfeed,URL,https://free-video-call.github.io/Sexytalk/,malware,https://x.com/d1v35hresearch/status/2076655116539863050
-2026-07-13,tweetfeed,URL,https://egisss.net,"AiTM, phishing",https://x.com/ShadowOpCode/status/2076656483652042764
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Login,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Host,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Script.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.exe,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.application,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.jnlp,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.ClientBootstrap.jnlp,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://nexrogcapital.xyz/Bin/ScreenConnect.Client.zip,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz:8041,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Login,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Host,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Script.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/AuthenticationService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/PageService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/SecurityService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/ToolboxService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,http://nexrogcapital.xyz/Services/TriggerService.ashx,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,URL,https://larpers.su/login,n/a,https://x.com/malwrhunterteam/status/2076658668146180128
-2026-07-13,tweetfeed,URL,http://noventis8.com,n/a,https://x.com/malwrhunterteam/status/2076660023724236935
-2026-07-13,tweetfeed,URL,http://172.93.185.154,n/a,https://x.com/malwrhunterteam/status/2076660164317356059
+2026-07-20,darkweb_forums,URL,https://t.me/Alphvforum,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/crackedstatusupdate,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/DarkForumsss,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/getrektio,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/leakforumio,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/patchedstatus,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/PwnForums,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/RaidForumsHub,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/SpearAnnouncements,"darkweb, forum",commit 0bcb6578 / forum.md
+2026-07-20,darkweb_forums,URL,https://t.me/+LV-lyCog6r42OWM0,"darkweb, forum",commit 0bcb6578 / forum.md
 2026-07-13,tweetfeed,URL,https://htn.to/Ch4JmLfNHt,Lazarus,https://x.com/RE_DO/status/2076677003865174268
 2026-07-13,tweetfeed,URL,http://covid19healthsystem.org,AsyncRAT,https://x.com/skocherhan/status/2076687664879677642
 2026-07-13,tweetfeed,URL,http://104.18.27.239:443,AsyncRAT,https://x.com/skocherhan/status/2076687664879677642
@@ -3625,10 +3593,6 @@ date,user,type,ioc,tags,context
 2026-07-20,threatfox,HASH_SHA256,b4991986b29c3882404e7078ccd37954f9f9676bb766f83161199eee1f1b85d0,"win.krakenkeylogger, sha256_hash",n/a
 2026-07-20,threatfox,HASH_SHA256,7132a14099e6824598c5899dea19a4b8f4d89683bb01774b402674da1d4fee2f,"win.wannacryptor, sha256_hash",n/a
 2026-07-20,threatfox,HASH_SHA256,d5e71f60f77f8f7853d80ff308d7b0420e20600fe03af2529a2c8e740ed52943,"win.valley_rat, sha256_hash",n/a
-2026-07-13,tweetfeed,DOMAIN,free-video-call.github.io,malware,https://x.com/d1v35hresearch/status/2076655116539863050
-2026-07-13,tweetfeed,DOMAIN,egisss.net,"AiTM, phishing",https://x.com/ShadowOpCode/status/2076656483652042764
-2026-07-13,tweetfeed,DOMAIN,larpers.su,n/a,https://x.com/malwrhunterteam/status/2076658668146180128
-2026-07-13,tweetfeed,DOMAIN,noventis8.com,n/a,https://x.com/malwrhunterteam/status/2076660023724236935
 2026-07-13,tweetfeed,DOMAIN,htn.to,Lazarus,https://x.com/RE_DO/status/2076677003865174268
 2026-07-13,tweetfeed,DOMAIN,covid19healthsystem.org,AsyncRAT,https://x.com/skocherhan/status/2076687664879677642
 2026-07-13,tweetfeed,DOMAIN,alcatelonetouch.us,AsyncRAT,https://x.com/skocherhan/status/2076688302522945662
@@ -4104,8 +4068,6 @@ date,user,type,ioc,tags,context
 2026-07-20,threatfox,HASH_MD5,4be889e143b460ccf80fc02e44840ee0,"win.krakenkeylogger, md5_hash",n/a
 2026-07-20,threatfox,HASH_MD5,be9aee8c3cb56fa17d293d48dd0fc1d1,"win.privateloader, md5_hash",n/a
 2026-07-20,threatfox,HASH_MD5,3270606f7138f08b0c4e051d0a9ebc2b,"win.valley_rat, md5_hash",n/a
-2026-07-13,tweetfeed,IP,25.2.4.92,"C2, malware",https://x.com/Malwarehunterr/status/2076657066442433023
-2026-07-13,tweetfeed,IP,172.93.185.154,n/a,https://x.com/malwrhunterteam/status/2076660164317356059
 2026-07-13,tweetfeed,HASH_SHA256,b11880bbadb5a06cd44f60e08f48dd5592ad9add9377c81810f5216437415865,n/a,https://x.com/smica83/status/2076665951362089050
 2026-07-13,tweetfeed,HASH_SHA256,9ea614e8a886e5bf042bb544c30db021393d23c6010af1340155fae3d2f23c3b,n/a,https://x.com/JamfThreatLabs/status/2076675844328525854
 2026-07-13,tweetfeed,HASH_SHA256,36921e0b92dbd51e339b1b2e18f8fa6c8c9a5ca085db36a8cd14a37ac99733de,n/a,https://x.com/moonlock_lab/status/2076685755934540212
@@ -4368,8 +4330,6 @@ date,user,type,ioc,tags,context
 2026-07-20,tweetfeed,HASH_SHA256,f264f04f597a2bdda372a27ae701c18d4036175b1eb8722db5f8531615b38788,n/a,https://x.com/G60930953/status/2079166325595820255
 2026-07-20,tweetfeed,HASH_SHA256,1849dd8e732e4e70410b48d598b7995f7af8d0935e4a85fe10928292daaaa41a,n/a,https://x.com/smica83/status/2079167170983108899
 2026-07-20,tweetfeed,IP,103.228.74.167,C2,https://x.com/Fact_Finder03/status/2079182282850746380
-2026-07-13,tweetfeed,HASH_MD5,25185dc12be843ffc0fafe2ecc4d961d,malware,https://x.com/d1v35hresearch/status/2076655116539863050
-2026-07-13,tweetfeed,HASH_MD5,4e1151dd79dabae691dac265f1f229a2,n/a,https://x.com/skocherhan/status/2076660743965933862
 2026-07-13,tweetfeed,HASH_MD5,ce774c9790930e46bd7d218c0dc17024,"C2, RAT",https://x.com/skocherhan/status/2076693851369005334
 2026-07-14,tweetfeed,HASH_MD5,68b2985b3d1cf864847dbcb01518db75,malware,https://x.com/bsforvt727/status/2076917655093850352
 2026-07-14,tweetfeed,HASH_MD5,94b823b0780748f21d7170ccf2b86d2b,ClickFix,https://x.com/suyog41/status/2076945482602127638
