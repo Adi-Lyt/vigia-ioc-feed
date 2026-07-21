@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2026-63030,"WordPress Core, kev","WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2026-0770,"Langflow Langflow, kev","Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
-2026-07-20,threatfox,URL,https://foh.aww88.net/,"win.vidar, url",n/a
-2026-07-20,threatfox,URL,https://foh.luckyturbo88.top/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://31.76.252.47/v1/telemetry/config,"unknown, url",n/a
 2026-07-21,threatfox,URL,https://www.studiotecnicoareanova.it/,"unknown, url",n/a
 2026-07-21,threatfox,URL,http://162.33.178.68/msedge.txt,"unknown, url",n/a
@@ -34,14 +32,6 @@ date,user,type,ioc,tags,context
 2026-07-21,threatfox,URL,https://goc.77zeus.com/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://goc.aww88.net/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://goc.luckyturbo88.top/,"win.vidar, url",n/a
-2026-07-20,threatfox,DOMAIN,txvii.hazaratbet.bet,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,ttvsj7o9.jdexteriorcleaning.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,atlasgridflow.florenth.garden,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,xkzh.highkickstkd.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,foh.luckyturbo88.top,"win.vidar, domain",n/a
-2026-07-20,threatfox,DOMAIN,foh.aww88.net,"win.vidar, domain",n/a
-2026-07-20,threatfox,DOMAIN,jdexteriorcleaning.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,macro3siteview.florenth.garden,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,wakgo.jbgroup21.com,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,zztz.jetourmexico.com,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,mlmgp.jenslittlerugrats.org,"js.clearfake, domain",n/a
@@ -217,8 +207,9 @@ date,user,type,ioc,tags,context
 2026-07-21,threatfox,DOMAIN,7ixxwwhf.pacesettershomehealth.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,pacesettershomehealth.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,newtownsquareweather.com,"js.clearfake, domain",n/a
-2026-07-20,tweetfeed,URL,https://initiatives-interfaces-impossible-illustration.trycloudflare.com,opendir,https://x.com/smica83/status/2079292412560564620
-2026-07-20,tweetfeed,URL,http://159.198.44.67:5000,phishing,https://x.com/Malwarehunterr/status/2079293149600702552
+2026-07-21,threatfox,DOMAIN,ulqg.ridgerenovation.com,"js.clearfake, domain",n/a
+2026-07-21,threatfox,DOMAIN,nbaye.rickybobbystowing.com,"js.clearfake, domain",n/a
+2026-07-21,threatfox,DOMAIN,carbonmeshnode.verdalya.garden,"js.clearfake, domain",n/a
 2026-07-20,tweetfeed,URL,http://103.27.110.141,CobaltStrike,https://x.com/500mk500/status/2079271324946448628
 2026-07-20,tweetfeed,URL,http://oosterhout.click,n/a,https://x.com/KirkDerpca/status/2079325558920364311
 2026-07-20,tweetfeed,URL,http://connectingdg.co.uk,AsyncRAT,https://x.com/skocherhan/status/2079331689596141627
@@ -685,7 +676,6 @@ date,user,type,ioc,tags,context
 2026-07-21,tweetfeed,URL,http://ekorrit.site,n/a,https://x.com/skocherhan/status/2079590696932024660
 2026-07-21,tweetfeed,URL,https://lumanotch.cc/app/Lumanotch.dmg,n/a,https://x.com/L0Psec/status/2079591999158583706
 2026-07-21,tweetfeed,URL,http://87.251.64.113,phishing,https://x.com/skocherhan/status/2079595040913944659
-2026-07-20,tweetfeed,DOMAIN,initiatives-interfaces-impossible-illustration.trycloudflare.com,opendir,https://x.com/smica83/status/2079292412560564620
 2026-07-20,tweetfeed,DOMAIN,connectingdg.co.uk,AsyncRAT,https://x.com/skocherhan/status/2079331689596141627
 2026-07-20,tweetfeed,DOMAIN,origin.ku2626.net,AsyncRAT,https://x.com/skocherhan/status/2079331689596141627
 2026-07-20,tweetfeed,DOMAIN,www-rg8369.net,AsyncRAT,https://x.com/skocherhan/status/2079331689596141627
@@ -1059,8 +1049,6 @@ date,user,type,ioc,tags,context
 2026-07-21,tweetfeed,DOMAIN,softoniconline.help,n/a,https://x.com/skocherhan/status/2079590696932024660
 2026-07-21,tweetfeed,DOMAIN,ekorrit.site,n/a,https://x.com/skocherhan/status/2079590696932024660
 2026-07-21,tweetfeed,DOMAIN,lumanotch.cc,n/a,https://x.com/L0Psec/status/2079591999158583706
-2026-07-20,tweetfeed,HASH_SHA256,84d07f96725bc87d56f68936dd3879ffe67f1f8d694be9fbc4edd4a6d9a44615,n/a,https://x.com/smica83/status/2079291969424306432
-2026-07-20,tweetfeed,IP,159.198.44.67,phishing,https://x.com/Malwarehunterr/status/2079293149600702552
 2026-07-20,tweetfeed,IP,103.27.110.141,CobaltStrike,https://x.com/500mk500/status/2079271324946448628
 2026-07-20,tweetfeed,IP,157.10.53.213,AsyncRAT,https://x.com/skocherhan/status/2079331689596141627
 2026-07-20,tweetfeed,IP,172.86.107.229,ClickFix,https://x.com/Malwarehunterr/status/2079334098456412314
