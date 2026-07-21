@@ -8,7 +8,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2026-63030,"WordPress Core, kev","WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2026-0770,"Langflow Langflow, kev","Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
-2026-07-14,threatfox,URL,https://ritchie.click/cpr5bp4s.js,"js.kongtuke, url",n/a
 2026-07-15,threatfox,URL,https://kcosmetics.kr/,"win.vidar, url",n/a
 2026-07-15,threatfox,URL,https://productionai-shop.pages.dev/recaptcha-verify,"unknown, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/i7r4dbm3.js,"js.kongtuke, url",n/a
@@ -554,10 +553,6 @@ date,user,type,ioc,tags,context
 2026-07-21,threatfox,URL,https://goc.77zeus.com/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://goc.aww88.net/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://goc.luckyturbo88.top/,"win.vidar, url",n/a
-2026-07-14,threatfox,DOMAIN,ssefhahu.bahsegel90.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,gejy.site-shartbandi-takhtenard.com,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,cckoient.boroo.bet,"js.clearfake, domain",n/a
-2026-07-14,threatfox,DOMAIN,serversniperxx.duckdns.org,"unknown, domain",n/a
 2026-07-14,threatfox,DOMAIN,nlxmperk.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,1nto2x4n.bahigo90bet.com,"js.clearfake, domain",n/a
 2026-07-14,threatfox,DOMAIN,derbi.bet,"js.clearfake, domain",n/a
@@ -2794,6 +2789,10 @@ date,user,type,ioc,tags,context
 2026-07-21,threatfox,DOMAIN,ulqg.ridgerenovation.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,nbaye.rickybobbystowing.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,carbonmeshnode.verdalya.garden,"js.clearfake, domain",n/a
+2026-07-21,threatfox,DOMAIN,ndnj.webyek.com,"js.clearfake, domain",n/a
+2026-07-21,threatfox,DOMAIN,webyek.com,"js.clearfake, domain",n/a
+2026-07-21,threatfox,DOMAIN,gjif3sqh.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
+2026-07-21,threatfox,DOMAIN,eevmi.evansunitedspringcarnivalsherman.com,"js.clearfake, domain",n/a
 2026-07-14,tweetfeed,URL,https://businessmanbrick.jtgyjzq.com,phishing,https://x.com/masaomi346/status/2077163052265509029
 2026-07-14,tweetfeed,URL,https://classification.hplxmsw.com,phishing,https://x.com/masaomi346/status/2077163052265509029
 2026-07-14,tweetfeed,URL,https://immenseastonish.jszmbdw.com,phishing,https://x.com/masaomi346/status/2077163052265509029
@@ -3683,6 +3682,7 @@ date,user,type,ioc,tags,context
 2026-07-21,tweetfeed,URL,http://ekorrit.site,n/a,https://x.com/skocherhan/status/2079590696932024660
 2026-07-21,tweetfeed,URL,https://lumanotch.cc/app/Lumanotch.dmg,n/a,https://x.com/L0Psec/status/2079591999158583706
 2026-07-21,tweetfeed,URL,http://87.251.64.113,phishing,https://x.com/skocherhan/status/2079595040913944659
+2026-07-21,tweetfeed,URL,http://89.34.90.99:56001,n/a,https://x.com/netresec/status/2079673044516155664
 2026-07-14,tweetfeed,DOMAIN,businessmanbrick.jtgyjzq.com,phishing,https://x.com/masaomi346/status/2077163052265509029
 2026-07-14,tweetfeed,DOMAIN,classification.hplxmsw.com,phishing,https://x.com/masaomi346/status/2077163052265509029
 2026-07-14,tweetfeed,DOMAIN,immenseastonish.jszmbdw.com,phishing,https://x.com/masaomi346/status/2077163052265509029
@@ -4598,6 +4598,7 @@ date,user,type,ioc,tags,context
 2026-07-21,tweetfeed,HASH_SHA256,5efeda0efe0c7d1bf3e78db272a97a1d305b07ae509c73e27ae3067a188962a8,n/a,https://x.com/L0Psec/status/2079591997610791192
 2026-07-21,tweetfeed,HASH_SHA256,de815a907a87a167d41cd96baa1ed864d50946512268fddaf61109a2c3496f75,n/a,https://x.com/L0Psec/status/2079592000840409492
 2026-07-21,tweetfeed,IP,87.251.64.113,phishing,https://x.com/skocherhan/status/2079595040913944659
+2026-07-21,tweetfeed,IP,89.34.90.99,n/a,https://x.com/netresec/status/2079673044516155664
 2026-07-15,tweetfeed,HASH_MD5,77ea998805a95063806b2dba6130608b,n/a,https://x.com/JAMESWT_WT/status/2047981132763832686
 2026-07-15,tweetfeed,HASH_MD5,a3ee8569777f81a2cbce304d3ebe499e,n/a,https://x.com/Dixit_404/status/2077267387624419377
 2026-07-15,tweetfeed,HASH_MD5,30c62be8954504caabfd030a908b6799,n/a,https://x.com/Dixit_404/status/2077267387624419377
