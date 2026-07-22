@@ -3,8 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2026-63030,"WordPress Core, kev","WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2026-0770,"Langflow Langflow, kev","Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
-2026-07-21,threatfox,URL,https://markdl.pro/,"unknown, url",n/a
-2026-07-21,threatfox,URL,https://cldaa.org/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://datarecoverycenterbd.com/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://pub-7ac99e69d5af40ffa345a3f731c1b833.r2.dev/tz.js,"unknown, url",n/a
 2026-07-21,threatfox,URL,http://fimmora.surf:6504,"win.remus, url",n/a
@@ -36,12 +34,7 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,URL,https://sorrelalmanac.top/alias/legacy-dom,"js.smartapesg, url",n/a
 2026-07-22,threatfox,URL,https://sorrelalmanac.top/alias/acl-component.js,"js.smartapesg, url",n/a
 2026-07-22,threatfox,URL,http://vriclactrina.cz/index.php,"win.smokeloader, url",n/a
-2026-07-21,threatfox,DOMAIN,uxwc.orangefarmersmarket.org,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,orangefarmersmarket.org,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,contabili.balanteo.shop,"win.asyncrat, domain",n/a
-2026-07-21,threatfox,DOMAIN,oyawba10.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,lufry.mabelsnursery.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,mabelsnursery.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,URL,https://filpack.fr/,"unknown_loader, url",n/a
 2026-07-21,threatfox,DOMAIN,ordereltacofeliz.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,embermeshnode.florenth.garden,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,qrilb.rickybobbystowing.com,"js.clearfake, domain",n/a
@@ -206,31 +199,11 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,DOMAIN,enpji31a.impactpromotionsclt.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,pixz1b5f.salsaonyxstudio.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,salsaonyxstudio.com,"js.clearfake, domain",n/a
-2026-07-21,tweetfeed,URL,http://24v42v24awcawc543.bumbleshrimp.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://13v3dssssssssssssssssss.dynuddns.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://3v2223v2sdsdhgghgf.bumbleshrimp.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://awcawcaw44.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://oaskoaksoaossas44.ddnsguru.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://fddfdf353.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://33v434v34xxx.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://spongebob.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://42v2xxx.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://acacww422542525.1cooldns.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://fsocietyandtools.workers.dev,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://eromefotosprivadas.sbs,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://small-morning-8be0.fsocietyandtools.workers.dev/N64Y-JVB2-WT8X-CRI7/img_sz2mdo.png,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://141.94.121.162:111,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,URL,http://unionpayintiyl.com,"phishing, scam",https://x.com/c9lab_soc/status/2079509390533537922
-2026-07-21,tweetfeed,URL,http://google-signin.com,"phishing, scam",https://x.com/c9lab_soc/status/2079509327736393919
-2026-07-21,tweetfeed,URL,http://account-samsung-club.com,"phishing, scam",https://x.com/c9lab_soc/status/2079509228230750334
-2026-07-21,tweetfeed,URL,https://couturecarern.com/ftx/,phishing,https://x.com/patialavii/status/2079509671912604035
-2026-07-21,tweetfeed,URL,https://gooseberry.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2079509671912604035
-2026-07-21,tweetfeed,URL,http://unionpayintitl.com,"phishing, scam",https://x.com/c9lab_soc/status/2079510941809467654
-2026-07-21,tweetfeed,URL,https://agfgpycp.com/docsza1/Windows/invite.php,phishing,https://x.com/patialavii/status/2079516020671218073
-2026-07-21,tweetfeed,URL,https://agfgpyc.com/docsza1/Windows/download.php,phishing,https://x.com/patialavii/status/2079516020671218073
-2026-07-21,tweetfeed,URL,http://docsz42.zip,phishing,https://x.com/patialavii/status/2079516020671218073
-2026-07-21,tweetfeed,URL,https://uso4web-zoom-conferances.com/DA/z/Z01926/zoom/Windows/invite.php,phishing,https://x.com/patialavii/status/2079517610677526891
-2026-07-21,tweetfeed,URL,https://lockalcontractiongesatate.cc/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2079517610677526891
+2026-07-22,threatfox,DOMAIN,llcuj.virtuvespasaule.lv,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,reku.sohosushigr.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,virtuvespasaule.lv,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,sohosushigr.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,rootlogicway.biomasselement.garden,"js.clearfake, domain",n/a
 2026-07-21,tweetfeed,URL,https://uso4web-zoom-conferances.com/DA/z/Z01926/zoom/Windows/invite.phpMSI,phishing,https://x.com/skocherhan/status/2079519476039418197
 2026-07-21,tweetfeed,URL,https://lockalcontractiongesatate.cc/Bin/ScreenConnect.ClientSetup.msi#ThreatIntel,phishing,https://x.com/skocherhan/status/2079519476039418197
 2026-07-21,tweetfeed,URL,http://sup.desarrollosoftwaresco.shop,n/a,https://x.com/skocherhan/status/2079521177450565651
@@ -588,29 +561,11 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,URL,http://ghj44hs.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,URL,http://ishlrk27.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,URL,https://teamswedenclub.com/login,phishing,https://x.com/masaomi346/status/2079859596626448718
-2026-07-21,tweetfeed,DOMAIN,24v42v24awcawc543.bumbleshrimp.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,13v3dssssssssssssssssss.dynuddns.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,3v2223v2sdsdhgghgf.bumbleshrimp.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,awcawcaw44.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,oaskoaksoaossas44.ddnsguru.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,fddfdf353.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,33v434v34xxx.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,spongebob.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,42v2xxx.dynuddns.net,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,acacww422542525.1cooldns.com,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,fsocietyandtools.workers.dev,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,eromefotosprivadas.sbs,AsyncRAT,https://x.com/skocherhan/status/2079508536132845897
-2026-07-21,tweetfeed,DOMAIN,unionpayintiyl.com,"phishing, scam",https://x.com/c9lab_soc/status/2079509390533537922
-2026-07-21,tweetfeed,DOMAIN,google-signin.com,"phishing, scam",https://x.com/c9lab_soc/status/2079509327736393919
-2026-07-21,tweetfeed,DOMAIN,account-samsung-club.com,"phishing, scam",https://x.com/c9lab_soc/status/2079509228230750334
-2026-07-21,tweetfeed,DOMAIN,couturecarern.com,phishing,https://x.com/patialavii/status/2079509671912604035
-2026-07-21,tweetfeed,DOMAIN,gooseberry.screenconnect.com,phishing,https://x.com/patialavii/status/2079509671912604035
-2026-07-21,tweetfeed,DOMAIN,unionpayintitl.com,"phishing, scam",https://x.com/c9lab_soc/status/2079510941809467654
-2026-07-21,tweetfeed,DOMAIN,agfgpycp.com,phishing,https://x.com/patialavii/status/2079516020671218073
-2026-07-21,tweetfeed,DOMAIN,agfgpyc.com,phishing,https://x.com/patialavii/status/2079516020671218073
-2026-07-21,tweetfeed,DOMAIN,docsz42.zip,phishing,https://x.com/patialavii/status/2079516020671218073
-2026-07-21,tweetfeed,DOMAIN,uso4web-zoom-conferances.com,phishing,https://x.com/patialavii/status/2079517610677526891
-2026-07-21,tweetfeed,DOMAIN,lockalcontractiongesatate.cc,phishing,https://x.com/patialavii/status/2079517610677526891
+2026-07-22,tweetfeed,URL,http://workinghardo.link/login,n/a,https://x.com/malwrhunterteam/status/2079869512615071810
+2026-07-22,tweetfeed,URL,http://103.193.173.199,n/a,https://x.com/malwrhunterteam/status/2079869806472273940
+2026-07-22,tweetfeed,URL,http://usph1ap0035.eastus2.cloudapp.azure.com,n/a,https://x.com/k3yp0d/status/2079870685527065029
+2026-07-22,tweetfeed,URL,http://vpn.rujun.xyz/login,n/a,https://x.com/skocherhan/status/2079871354061332618
+2026-07-22,tweetfeed,URL,http://girope.hu/downloads/page/excel-document.php/en-US?doc=Document&action=download&slot=0&dstamp=2026_07_20_174434&_t=1784562412393,n/a,https://x.com/smica83/status/2079873182278803650
 2026-07-21,tweetfeed,DOMAIN,sup.desarrollosoftwaresco.shop,n/a,https://x.com/skocherhan/status/2079521177450565651
 2026-07-21,tweetfeed,DOMAIN,ethereum-rpc.publicnode.com,n/a,https://x.com/stop_spammerz/status/2079534358914850868
 2026-07-21,tweetfeed,DOMAIN,telegram-vpn.fun,"phishing, scam",https://x.com/c9lab_soc/status/2079536361896329308
@@ -953,7 +908,10 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,DOMAIN,ghj44hs.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,DOMAIN,ishlrk27.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,DOMAIN,teamswedenclub.com,phishing,https://x.com/masaomi346/status/2079859596626448718
-2026-07-21,tweetfeed,HASH_SHA256,c5e36e12849943e2db6423c6a1cd5c658a10c57cc2dfc9d3b9bc2b08d906f04e,phishing,https://x.com/patialavii/status/2079509671912604035
+2026-07-22,tweetfeed,DOMAIN,workinghardo.link,n/a,https://x.com/malwrhunterteam/status/2079869512615071810
+2026-07-22,tweetfeed,DOMAIN,usph1ap0035.eastus2.cloudapp.azure.com,n/a,https://x.com/k3yp0d/status/2079870685527065029
+2026-07-22,tweetfeed,DOMAIN,vpn.rujun.xyz,n/a,https://x.com/skocherhan/status/2079871354061332618
+2026-07-22,tweetfeed,DOMAIN,girope.hu,n/a,https://x.com/smica83/status/2079873182278803650
 2026-07-21,tweetfeed,HASH_SHA256,625f912f4bdb5df0f2584f6b162c8602e5bb756b4853b94a12b9b9dadc25b915,n/a,https://x.com/smica83/status/2079521903509684284
 2026-07-21,tweetfeed,HASH_SHA256,821da79d727351dd67ce5df7950e9a3de6647a3cf474bb3a093f67507fed92a6,n/a,https://x.com/FarghlyMal/status/2079531309756518640
 2026-07-21,tweetfeed,HASH_SHA256,55477ab23e15a8cf5861c9fa1919dcc22e9ca9f6b1fce78694a8b200e8d5fa62,n/a,https://x.com/stop_spammerz/status/2079534358914850868
@@ -975,9 +933,14 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,IP,37.148.205.56,phishing,https://x.com/PhishStats/status/2079812625483919761
 2026-07-22,tweetfeed,HASH_SHA256,104447278779517e2b397a18d501685ae61a9da84abe1c180ff9bb67a5a0f0fc,"Android, malware",https://x.com/d1v35hresearch/status/2079829287109296521
 2026-07-22,tweetfeed,HASH_SHA256,e097f3b445b63b07afacde8d6a67f0be654dd51e228a3610fb0710a1f7e29a69,n/a,https://x.com/skocherhan/status/2079855169588629836
+2026-07-22,tweetfeed,IP,103.193.173.199,n/a,https://x.com/malwrhunterteam/status/2079869806472273940
+2026-07-22,tweetfeed,HASH_SHA256,f99a50bd0884d356bd1bf9f2642f813a9e7c9035c8db31de268cb8d2cd4fa0a4,n/a,https://x.com/k3yp0d/status/2079870685527065029
+2026-07-22,tweetfeed,HASH_SHA256,5fff61dff1fe18f59ebabe729c5ff9c42de64911248fb424815755fc7e76d5a1,n/a,https://x.com/smica83/status/2079870865143984566
+2026-07-22,tweetfeed,HASH_SHA256,62faa8c54f0d300196dc5d4e8e4e5c7bc248c2ec6d5aa667aa76ebd53cfd51da,n/a,https://x.com/smica83/status/2079873182278803650
 2026-07-21,tweetfeed,HASH_MD5,bfb1c77ba8cbacc45ff06443b2997ca5,phishing,https://x.com/skocherhan/status/2079517966756884948
 2026-07-21,tweetfeed,HASH_MD5,5c92d3b8734b4f498752f735a1ca0987,n/a,https://x.com/stop_spammerz/status/2079534358914850868
 2026-07-21,tweetfeed,HASH_MD5,eba53d9eda8340a3de128a2a772b0f09,n/a,https://x.com/skocherhan/status/2079563521432436851
 2026-07-21,tweetfeed,HASH_MD5,3dde0918106e3fbaa4a5621882f80adf,n/a,https://x.com/skocherhan/status/2079565505334030507
 2026-07-21,tweetfeed,HASH_MD5,0406d00a0f661bf5351b7c8e5c0431bc,n/a,https://x.com/skocherhan/status/2079568209359831300
 2026-07-22,tweetfeed,HASH_MD5,139912756c7b0b4f9fbf7dab562f1852,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
+2026-07-22,tweetfeed,HASH_MD5,98a81af2a597b62866610d32d03421ff,n/a,https://x.com/k3yp0d/status/2079870685527065029
