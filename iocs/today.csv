@@ -1,4 +1,6 @@
 date,user,type,ioc,tags,context
+2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
+2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-21,threatfox,URL,http://aidrmvo.cn/getinstall64,"win.valley_rat, url",n/a
 2026-07-21,threatfox,URL,http://cy614451.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
 2026-07-22,threatfox,URL,https://stt.majusm188.top/,"win.vidar, url",n/a
@@ -35,14 +37,6 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,URL,https://almavidahorseranch.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://gte.77zeus.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://gte.majusm188.top/,"win.vidar, url",n/a
-2026-07-21,threatfox,DOMAIN,ymfr.ricardotaxiservices.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,ricardotaxiservices.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,yn9w54gw.springfieldsummerhoops.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,zvgxb.phimmoichilla.org,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,jdmkc.ordereltacofeliz.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,7ixxwwhf.pacesettershomehealth.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,pacesettershomehealth.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,newtownsquareweather.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,ulqg.ridgerenovation.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,nbaye.rickybobbystowing.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,carbonmeshnode.verdalya.garden,"js.clearfake, domain",n/a
@@ -204,6 +198,19 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,DOMAIN,therippleeffectcollc.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,xtxu.kafekarachi.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,gte.majusm188.top,"win.vidar, domain",n/a
+2026-07-22,threatfox,DOMAIN,xroz.augustus-kirby.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,thechildrencomefirst.org,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,thunderinternationalgroup.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,wvgo.augustus-kirby.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,sagxjkhp.solucionesintegralesgiraldo.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,augustus-kirby.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,pg22wk81.kuechen-welt.eu,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,audiovideoinsightllc.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,windhorseevents.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,solucionesintegralesgiraldo.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,yz6ip5pa.kaltourusa.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,glowlogicgate.xenonraypoint.garden,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,beam3meshsite.xenonraypoint.garden,"js.clearfake, domain",n/a
 2026-07-21,tweetfeed,URL,http://89.34.90.99:56001,n/a,https://x.com/netresec/status/2079673044516155664
 2026-07-21,tweetfeed,URL,http://volkswagenfinancial.com,"phishing, scam",https://x.com/skocherhan/status/2079685716469010633
 2026-07-21,tweetfeed,URL,https://images.google.com.bd/?gws_rd=ssl,phishing,https://x.com/PhishStats/status/2079687755446034511
@@ -375,6 +382,12 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,URL,https://martincristal.com.ar/wp-admin/JCP/ZIP,phishing,https://x.com/skocherhan/status/2079996543579406594
 2026-07-22,tweetfeed,URL,https://martincristal.com.ar/wp-admin/JCP/download.phpSHA256,phishing,https://x.com/skocherhan/status/2079996543579406594
 2026-07-22,tweetfeed,URL,http://serv.therapasqualis.com#ThreatIntel,phishing,https://x.com/skocherhan/status/2079996543579406594
+2026-07-22,tweetfeed,URL,http://reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,URL,http://login.authmicrosofttauthentication.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,URL,http://rehamdticktt.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,URL,http://104.248.209.204,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,URL,http://mail-mzkt-by.reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,URL,http://webmail-customs-go-kr.reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
 2026-07-21,tweetfeed,DOMAIN,volkswagenfinancial.com,"phishing, scam",https://x.com/skocherhan/status/2079685716469010633
 2026-07-21,tweetfeed,DOMAIN,unionpayintibl.com,"phishing, scam",https://x.com/skocherhan/status/2079689333569691788
 2026-07-21,tweetfeed,DOMAIN,webversie-verkeer.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
@@ -507,6 +520,11 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,DOMAIN,serv.therapasqualis.com,phishing,https://x.com/patialavii/status/2079993536599175619
 2026-07-22,tweetfeed,DOMAIN,ns2.theendlessweb.com,n/a,https://x.com/skocherhan/status/2079995315285897560
 2026-07-22,tweetfeed,DOMAIN,sni13.docsmanagement.endl.site,n/a,https://x.com/skocherhan/status/2079995315285897560
+2026-07-22,tweetfeed,DOMAIN,reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,DOMAIN,login.authmicrosofttauthentication.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,DOMAIN,rehamdticktt.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,DOMAIN,mail-mzkt-by.reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
+2026-07-22,tweetfeed,DOMAIN,webmail-customs-go-kr.reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
 2026-07-21,tweetfeed,IP,89.34.90.99,n/a,https://x.com/netresec/status/2079673044516155664
 2026-07-21,tweetfeed,IP,103.101.85.123,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
 2026-07-22,tweetfeed,HASH_SHA256,91a331a2dc17c4146e630a88ffd802128cccc0c374522b4bdc82741b8cbff080,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
@@ -540,6 +558,7 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,HASH_SHA256,32a962439ec0fb5559e494fe1ea6be039815d3c4c1cceb95b16dc123e5abde61,n/a,https://x.com/smica83/status/2079990627001921880
 2026-07-22,tweetfeed,IP,74.207.198.32,phishing,https://x.com/patialavii/status/2079993536599175619
 2026-07-22,tweetfeed,HASH_SHA256,0d569ad60a23f4df4b9b6318cc170ec05866afe5b12743e77d75c14a0cdd1a07,phishing,https://x.com/patialavii/status/2079993536599175619
+2026-07-22,tweetfeed,IP,104.248.209.204,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
 2026-07-22,tweetfeed,HASH_MD5,139912756c7b0b4f9fbf7dab562f1852,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,HASH_MD5,98a81af2a597b62866610d32d03421ff,n/a,https://x.com/k3yp0d/status/2079870685527065029
 2026-07-22,tweetfeed,HASH_MD5,000732e37ed2431c677cca56aafbd53f,ransomware,https://x.com/suyog41/status/2079921737601515699
