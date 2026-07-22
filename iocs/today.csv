@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-21,threatfox,URL,http://aidrmvo.cn/getinstall64,"win.valley_rat, url",n/a
-2026-07-21,threatfox,URL,http://cy614451.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
 2026-07-22,threatfox,URL,https://stt.majusm188.top/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://stt.77zeus.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://45.83.180.74,"win.vidar, url",n/a
@@ -37,9 +35,8 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,URL,https://almavidahorseranch.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://gte.77zeus.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://gte.majusm188.top/,"win.vidar, url",n/a
-2026-07-21,threatfox,DOMAIN,xipr.reliablerentalz.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,qkduh.jadoou.lat,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,zhbyv.everestpointnorthglenn.org,"js.clearfake, domain",n/a
+2026-07-22,threatfox,URL,https://tir.majusm188.top/,"win.vidar, url",n/a
+2026-07-22,threatfox,URL,https://tir.77zeus.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,DOMAIN,qyov.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,soyze.kafekarachi.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,wig43mz5.keymedconsulting.com,"js.clearfake, domain",n/a
@@ -212,39 +209,14 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,DOMAIN,6rsny75a.tastebudspopcorncanton.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,tastebudspopcorncanton.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,thewrayforward.com,"unknown, domain",n/a
-2026-07-21,tweetfeed,URL,http://volkswagenfinancial.com,"phishing, scam",https://x.com/skocherhan/status/2079685716469010633
-2026-07-21,tweetfeed,URL,https://images.google.com.bd/?gws_rd=ssl,phishing,https://x.com/PhishStats/status/2079687755446034511
-2026-07-21,tweetfeed,URL,http://unionpayintibl.com,"phishing, scam",https://x.com/skocherhan/status/2079689333569691788
-2026-07-21,tweetfeed,URL,http://webversie-verkeer.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,URL,http://layer3block.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,URL,http://anwbcheck-uwvalidatie.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,URL,http://ai-b-update-today.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,URL,http://ai-b-updatetoday.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,URL,http://teamwork-recover-password.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://confirm-your-order.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://whatsappbusineses.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://account-sams-club.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://namshi-uae.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://sephoras.org,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://ibraq-perfumes.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://stage3.wpengine-bestbidestimating.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://stage3.wpengine-tennisintheparks.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://stage3.wpengine-tagtogs.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://stage3.wpengine-flowpressousa.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://stage3.wpengine-myfloraland.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://stage3.wpengine-universalimaginginc.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://103.101.85.123,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,URL,http://posteitaliane-b2.servebeer.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://posteitaliane-b1.ddns.net,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://posteitaliane-a5.serveirc.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://posteitaliane-a2.redirectme.net,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://rt5467tgu.serveftp.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://nexiftyz7eg68d7hu.webhop.me,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://assistenza-spa.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://in-attesa-della-conferma-di-nexi.assistenza-spa.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://78yughi.servemp3.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://nexi-a2.onthewifi.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,URL,http://nexi-a1.hopto.org,phishing,https://x.com/skocherhan/status/2079697817623224704
+2026-07-22,threatfox,DOMAIN,ksxu.thelazybunnyfarm.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,vhxo.badgalbeautyllc.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,badgalbeautyllc.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,pbhx.azautotraders.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,tir.majusm188.top,"win.vidar, domain",n/a
+2026-07-22,threatfox,DOMAIN,tir.77zeus.com,"win.vidar, domain",n/a
+2026-07-22,threatfox,DOMAIN,nhku.azautotraders.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,yujv.thehandymanconcierge.com,"js.clearfake, domain",n/a
 2026-07-22,tweetfeed,URL,http://order.order-tropicalismoothecaffe.com,phishing,https://x.com/skocherhan/status/2079703799904543220
 2026-07-22,tweetfeed,URL,http://order-tropicalismoothecaffe.com,phishing,https://x.com/skocherhan/status/2079703799904543220
 2026-07-22,tweetfeed,URL,http://wabragarill.com,phishing,https://x.com/skocherhan/status/2079703799904543220
@@ -610,37 +582,26 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,URL,https://review.heliumcompliance.info,malware,https://x.com/Malwarehunterr/status/2080043274212102332
 2026-07-22,tweetfeed,URL,http://review.heliumcompliance.info,malware,https://x.com/Malwarehunterr/status/2080043274212102332
 2026-07-22,tweetfeed,URL,http://setupaidswave.top:8041,malware,https://x.com/Malwarehunterr/status/2080043274212102332
-2026-07-21,tweetfeed,DOMAIN,volkswagenfinancial.com,"phishing, scam",https://x.com/skocherhan/status/2079685716469010633
-2026-07-21,tweetfeed,DOMAIN,unionpayintibl.com,"phishing, scam",https://x.com/skocherhan/status/2079689333569691788
-2026-07-21,tweetfeed,DOMAIN,webversie-verkeer.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,DOMAIN,layer3block.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,DOMAIN,anwbcheck-uwvalidatie.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,DOMAIN,ai-b-update-today.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,DOMAIN,ai-b-updatetoday.com,"phishing, scam",https://x.com/skocherhan/status/2079690802452652343
-2026-07-21,tweetfeed,DOMAIN,teamwork-recover-password.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,confirm-your-order.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,whatsappbusineses.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,account-sams-club.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,namshi-uae.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,sephoras.org,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,ibraq-perfumes.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,stage3.wpengine-bestbidestimating.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,stage3.wpengine-tennisintheparks.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,stage3.wpengine-tagtogs.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,stage3.wpengine-flowpressousa.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,stage3.wpengine-myfloraland.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,stage3.wpengine-universalimaginginc.com,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
-2026-07-21,tweetfeed,DOMAIN,posteitaliane-b2.servebeer.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,posteitaliane-b1.ddns.net,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,posteitaliane-a5.serveirc.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,posteitaliane-a2.redirectme.net,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,rt5467tgu.serveftp.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,nexiftyz7eg68d7hu.webhop.me,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,assistenza-spa.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,in-attesa-della-conferma-di-nexi.assistenza-spa.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,78yughi.servemp3.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,nexi-a2.onthewifi.com,phishing,https://x.com/skocherhan/status/2079697817623224704
-2026-07-21,tweetfeed,DOMAIN,nexi-a1.hopto.org,phishing,https://x.com/skocherhan/status/2079697817623224704
+2026-07-22,tweetfeed,URL,https://www.fireblocksdocusign.icu/-,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,https://docusign.ostiumterms.com/-,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,https://review.casacompliance.info/-,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,http://www.iotapolicyreview.org/-,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,https://www.heliumcompliance.info/I,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,https://www.heliumcompliance.info/-,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,https://review.heliumcompliance.info/-,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,http://setupaidswave.top,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,URL,http://bsmaopm.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://jgdopas.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://mayvioel1982.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://yernbdsakpo.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://classification-timeline-karl-collectors.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://devon-camel-bring-enquiry.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://dollar-jury-outsourcing-vocational.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://driving-approach-sword-ave.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://edition-happens-promised-webcast.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://exhibit-thereafter-surrounded-editorial.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://rome-johnson-mesh-consider.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,URL,http://sequences-williams-analytical-graduate.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
 2026-07-22,tweetfeed,DOMAIN,order.order-tropicalismoothecaffe.com,phishing,https://x.com/skocherhan/status/2079703799904543220
 2026-07-22,tweetfeed,DOMAIN,order-tropicalismoothecaffe.com,phishing,https://x.com/skocherhan/status/2079703799904543220
 2026-07-22,tweetfeed,DOMAIN,wabragarill.com,phishing,https://x.com/skocherhan/status/2079703799904543220
@@ -966,7 +927,11 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,DOMAIN,iotapolicyreview.org,malware,https://x.com/Malwarehunterr/status/2080043274212102332
 2026-07-22,tweetfeed,DOMAIN,heliumcompliance.info,malware,https://x.com/Malwarehunterr/status/2080043274212102332
 2026-07-22,tweetfeed,DOMAIN,review.heliumcompliance.info,malware,https://x.com/Malwarehunterr/status/2080043274212102332
-2026-07-21,tweetfeed,IP,103.101.85.123,"phishing, scam",https://x.com/skocherhan/status/2079692769321275511
+2026-07-22,tweetfeed,DOMAIN,setupaidswave.top,malware,https://x.com/skocherhan/status/2080049566053753104
+2026-07-22,tweetfeed,DOMAIN,bsmaopm.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,DOMAIN,jgdopas.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,DOMAIN,mayvioel1982.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
+2026-07-22,tweetfeed,DOMAIN,yernbdsakpo.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
 2026-07-22,tweetfeed,HASH_SHA256,91a331a2dc17c4146e630a88ffd802128cccc0c374522b4bdc82741b8cbff080,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
 2026-07-22,tweetfeed,IP,37.148.205.56,phishing,https://x.com/PhishStats/status/2079812625483919761
 2026-07-22,tweetfeed,HASH_SHA256,104447278779517e2b397a18d501685ae61a9da84abe1c180ff9bb67a5a0f0fc,"Android, malware",https://x.com/d1v35hresearch/status/2079829287109296521
@@ -1002,6 +967,8 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,IP,43.130.45.49,phishing,https://x.com/skocherhan/status/2080039966659199364
 2026-07-22,tweetfeed,HASH_SHA256,0c09f2611660441084ce0df425c51c11e147e6447963c3690f97e0b25c55ed64,malware,https://x.com/Malwarehunterr/status/2080043274212102332
 2026-07-22,tweetfeed,HASH_SHA256,e2f78e3cd83f5c1869cd1f28db9051b786955c01243a64c570356d7e6d70a2f5,malware,https://x.com/Malwarehunterr/status/2080043274212102332
+2026-07-22,tweetfeed,HASH_SHA256,0583da8c5fd0fffa254d4864c4f1df12985a5fd59bf99d475875780fc7deadbd,n/a,https://x.com/RussianPanda9xx/status/2080052407375983010
 2026-07-22,tweetfeed,HASH_MD5,139912756c7b0b4f9fbf7dab562f1852,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,HASH_MD5,98a81af2a597b62866610d32d03421ff,n/a,https://x.com/k3yp0d/status/2079870685527065029
 2026-07-22,tweetfeed,HASH_MD5,000732e37ed2431c677cca56aafbd53f,ransomware,https://x.com/suyog41/status/2079921737601515699
+2026-07-22,tweetfeed,HASH_MD5,54902a839f1e0339e0f014d6f0b1dd85,n/a,https://x.com/skocherhan/status/2080055851646136692
