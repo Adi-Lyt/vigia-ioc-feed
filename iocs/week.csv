@@ -8,7 +8,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2026-63030,"WordPress Core, kev","WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2026-0770,"Langflow Langflow, kev","Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
-2026-07-15,threatfox,URL,https://kcosmetics.kr/,"win.vidar, url",n/a
 2026-07-15,threatfox,URL,https://productionai-shop.pages.dev/recaptcha-verify,"unknown, url",n/a
 2026-07-15,threatfox,URL,https://ritchie.click/i7r4dbm3.js,"js.kongtuke, url",n/a
 2026-07-15,threatfox,URL,https://pbhwzixj.boro1.bet/4f9a7c78-781f-4987-9e83-e804fb9a98e2/gc.key,"unknown, url",n/a
@@ -557,9 +556,7 @@ date,user,type,ioc,tags,context
 2026-07-21,threatfox,URL,http://cy614451.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
 2026-07-22,threatfox,URL,https://stt.majusm188.top/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://stt.77zeus.com/,"win.vidar, url",n/a
-2026-07-15,threatfox,DOMAIN,mprwjkek.betwanaa.com,"js.clearfake, domain",n/a
-2026-07-15,threatfox,DOMAIN,umnb.daddybetiran.live,"js.clearfake, domain",n/a
-2026-07-15,threatfox,DOMAIN,a9fh521j.bazisangkaqazgeychidancepoli.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,URL,https://45.83.180.74,"win.vidar, url",n/a
 2026-07-15,threatfox,DOMAIN,stickcloth.xyz,"unknown_loader, domain",n/a
 2026-07-15,threatfox,DOMAIN,beefsofa.xyz,"unknown_loader, domain",n/a
 2026-07-15,threatfox,DOMAIN,pdzb.pdfbama.com,"js.clearfake, domain",n/a
@@ -2809,7 +2806,13 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,DOMAIN,phh4mjzz.missavws.net,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,missavws.net,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,4fkzvuv9.hurtigegevinster.com,"js.clearfake, domain",n/a
-2026-07-15,tweetfeed,URL,https://github.com/PonySecs/FakeCry,ransomware,https://x.com/d1v35hresearch/status/2077256702785904918
+2026-07-22,threatfox,DOMAIN,raiselop.info,"js.tonrat, domain",n/a
+2026-07-22,threatfox,DOMAIN,s617c6w1.rsudtarutung.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,uvfa.kafekarachi.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,ykwpo.shopsoleilcollective.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,shopsoleilcollective.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,yegs.taqueriadonamariaky.com,"js.clearfake, domain",n/a
+2026-07-22,threatfox,DOMAIN,taqueriadonamariaky.com,"js.clearfake, domain",n/a
 2026-07-15,tweetfeed,URL,http://1passwordnewsletter.com,n/a,https://x.com/lontze7/status/2077280605142741171
 2026-07-15,tweetfeed,URL,http://1passwordcompliance.com,n/a,https://x.com/lontze7/status/2077280605142741171
 2026-07-15,tweetfeed,URL,http://dashlanenewsletter.com,n/a,https://x.com/lontze7/status/2077280605142741171
@@ -4444,7 +4447,6 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,DOMAIN,blpqr4ekqlo-wjnhf98plos-0c9d1a-lxp05w.pages.dev,ransomware,https://x.com/scanmalware/status/2079733376160841991
 2026-07-22,tweetfeed,DOMAIN,42tb-074w-sdzp.callummacrae-federaltaxform-com-s-account.workers.dev,phishing,https://x.com/scanmalware/status/2079736241382203736
 2026-07-22,tweetfeed,DOMAIN,panel-franchise99.com,n/a,https://x.com/skocherhan/status/2079780089969926427
-2026-07-15,tweetfeed,HASH_SHA256,c279e2785ca454680e260f9b67f61c59e5378282a6854a4542cf40f9d9f6e800,ransomware,https://x.com/d1v35hresearch/status/2077256702785904918
 2026-07-15,tweetfeed,HASH_SHA256,32391ce6eca836369cfd5b3948ba978b7982dd3a85b81bb33c973773adeaef01,n/a,https://x.com/Dixit_404/status/2077259625196601834
 2026-07-15,tweetfeed,HASH_SHA256,5b798cf328c17ecd6a2e759c9adc695b068640226f0d4fae049bcb6470d4ae56,n/a,https://x.com/Dixit_404/status/2077259625196601834
 2026-07-15,tweetfeed,IP,43.167.180.140,phishing,https://x.com/Metemcyber/status/2077305466624074178
