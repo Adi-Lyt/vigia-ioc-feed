@@ -5,8 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-16,threatfox,URL,https://cra.kliksm188.top/,"win.vidar, url",n/a
-2026-07-16,threatfox,URL,https://cra.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-16,threatfox,URL,https://ffz.ambiltogel.net/,"win.vidar, url",n/a
 2026-07-17,threatfox,URL,https://ffz.kliksm188.top/,"win.vidar, url",n/a
 2026-07-17,threatfox,URL,https://bfg.kliksm188.top/,"win.vidar, url",n/a
@@ -691,12 +689,9 @@ date,user,type,ioc,tags,context
 2026-07-23,threatfox,URL,https://barringer.click/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-23,threatfox,URL,https://barringer.click/api/v1/status,"js.kongtuke, url",n/a
 2026-07-23,threatfox,URL,https://tommy-bb.lol/f,"js.kongtuke, url",n/a
-2026-07-16,threatfox,DOMAIN,qfphjme9.irani-music.com,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,ic7s8w54.jetboro.fun,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,ojwvrerrm.derbi.promo,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,auucqutq.pdfbama.com,"js.clearfake, domain",n/a
-2026-07-16,threatfox,DOMAIN,cra.kliksm188.top,"win.vidar, domain",n/a
-2026-07-16,threatfox,DOMAIN,cra.ambiltogel.net,"win.vidar, domain",n/a
+2026-07-23,threatfox,URL,http://103.68.31.134:38038/Mozi.m,"elf.mozi, url",n/a
+2026-07-23,threatfox,URL,http://221.225.124.161:50875/Mozi.m,"elf.mozi, url",n/a
+2026-07-23,threatfox,URL,http://103.244.172.155:53639/Mozi.m,"elf.mozi, url",n/a
 2026-07-16,threatfox,DOMAIN,xyoyfdeyf.efbetfarsi.com,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,pzsbygor.radioshartbandi.bet,"js.clearfake, domain",n/a
 2026-07-16,threatfox,DOMAIN,r4iuquzx.cookeatrun.com,"js.clearfake, domain",n/a
@@ -2024,7 +2019,9 @@ date,user,type,ioc,tags,context
 2026-07-23,threatfox,DOMAIN,barringer.click,"js.kongtuke, domain",n/a
 2026-07-23,threatfox,DOMAIN,tommy-bb.lol,"js.kongtuke, domain",n/a
 2026-07-23,threatfox,DOMAIN,view2pathgate.focallensview.garden,"js.clearfake, domain",n/a
-2026-07-16,tweetfeed,URL,http://eri0-dreayi.vercel.app,malware,https://x.com/scanmalware/status/2077820570196951428
+2026-07-23,threatfox,DOMAIN,railchalk.xyz,"unknown_loader, domain",n/a
+2026-07-23,threatfox,DOMAIN,soilhostunit.stigmaflowlink.garden,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,sssh.burntstorerecycling.com,"js.clearfake, domain",n/a
 2026-07-16,tweetfeed,URL,http://193.111.125.37:8888/excel/,malware,https://x.com/Malwarehunterr/status/2077820782978510901
 2026-07-16,tweetfeed,URL,http://193.111.125.37:8888/files/EXCEL.zip,malware,https://x.com/Malwarehunterr/status/2077820782978510901
 2026-07-16,tweetfeed,URL,http://Project-Proposal-BOQ-Rev-A.zip,malware,https://x.com/Malwarehunterr/status/2077820782978510901
@@ -3345,7 +3342,8 @@ date,user,type,ioc,tags,context
 2026-07-23,tweetfeed,URL,https://formsubmit.co/ajax/gabriel5657@proton.me,phishing,https://x.com/patialavii/status/2080335557989949948
 2026-07-23,tweetfeed,URL,http://owa-outgfgfhfhh.blogspot.com,phishing,https://x.com/skocherhan/status/2080338585861886356
 2026-07-23,tweetfeed,URL,http://dtdtrtrdtr.blogspot.com,phishing,https://x.com/skocherhan/status/2080338585861886356
-2026-07-16,tweetfeed,DOMAIN,eri0-dreayi.vercel.app,malware,https://x.com/scanmalware/status/2077820570196951428
+2026-07-23,tweetfeed,URL,http://udnvk.site,"APT, C2, Kimsuky, malware",https://x.com/phatomcandle/status/2080352364511588392
+2026-07-23,tweetfeed,URL,http://27.102.137.59,"APT, C2, Kimsuky, malware",https://x.com/phatomcandle/status/2080352364511588392
 2026-07-16,tweetfeed,DOMAIN,Project-Proposal-BOQ-Rev-A.zip,malware,https://x.com/Malwarehunterr/status/2077820782978510901
 2026-07-16,tweetfeed,DOMAIN,Finity.New,malware,https://x.com/Malwarehunterr/status/2077820782978510901
 2026-07-16,threatfox,HASH_MD5,3166ae39b46472d2ee53a880eb8248e0,"win.ghost_rat, md5_hash",n/a
@@ -4383,6 +4381,7 @@ date,user,type,ioc,tags,context
 2026-07-23,tweetfeed,DOMAIN,djflslfjflslfikrorie.blogspot.com,phishing,https://x.com/patialavii/status/2080335557989949948
 2026-07-23,tweetfeed,DOMAIN,owa-outgfgfhfhh.blogspot.com,phishing,https://x.com/skocherhan/status/2080338585861886356
 2026-07-23,tweetfeed,DOMAIN,dtdtrtrdtr.blogspot.com,phishing,https://x.com/skocherhan/status/2080338585861886356
+2026-07-23,tweetfeed,DOMAIN,udnvk.site,"APT, C2, Kimsuky, malware",https://x.com/phatomcandle/status/2080352364511588392
 2026-07-16,tweetfeed,IP,193.111.125.37,malware,https://x.com/Malwarehunterr/status/2077820782978510901
 2026-07-16,tweetfeed,HASH_SHA256,2d635592d0ec00bbb0eeb4ce9506a194e33f741a36b76978320a19d547c7a020,malware,https://x.com/Malwarehunterr/status/2077820782978510901
 2026-07-16,tweetfeed,IP,102.37.147.45,phishing,https://x.com/Malwarehunterr/status/2077824851407155520
@@ -4654,6 +4653,7 @@ date,user,type,ioc,tags,context
 2026-07-23,tweetfeed,HASH_SHA256,4a26cd1c6d66dcc1166369a173aa4c15136f4a480e775588b03d0555e0cf4c75,n/a,https://x.com/L0Psec/status/2080342320843526348
 2026-07-23,tweetfeed,HASH_SHA256,479a988674554f518eed16b3ffa1ef23dc6189aa6950fc8725ef1343596c3652,n/a,https://x.com/L0Psec/status/2080342325109178437
 2026-07-23,tweetfeed,HASH_SHA256,1df83d6dfdef90cea886bd033806feba236f42382cd3cf003567df91f43463ce,n/a,https://x.com/L0Psec/status/2080342325109178437
+2026-07-23,tweetfeed,IP,27.102.137.59,"APT, C2, Kimsuky, malware",https://x.com/phatomcandle/status/2080352364511588392
 2026-07-16,tweetfeed,HASH_MD5,c3ca73b883699d6c722a70e71434df12,n/a,https://x.com/bsforvt727/status/2077790848734154986
 2026-07-17,tweetfeed,HASH_MD5,9694294addbe58be93ddbb6cabc499ce,"Android, malware",https://x.com/d1v35hresearch/status/2077997483062677742
 2026-07-17,tweetfeed,HASH_MD5,58330aaf1f533e9fe03b6355c60347b4,"Android, malware",https://x.com/d1v35hresearch/status/2077997483062677742
