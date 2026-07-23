@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-22,threatfox,URL,https://the-sun.com.au/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://bsw.majusm188.top/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://bsw.77zeus.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://theglobeandmail.com.au/,"win.vidar, url",n/a
@@ -123,12 +122,8 @@ date,user,type,ioc,tags,context
 2026-07-23,threatfox,URL,https://dev.8bitbola.org/,"win.vidar, url",n/a
 2026-07-23,threatfox,URL,https://kuchenna.pl/,"unknown, url",n/a
 2026-07-23,threatfox,URL,https://dev.masihsm188.top/,"win.vidar, url",n/a
-2026-07-22,threatfox,DOMAIN,xlwaf.virtuvespasaulis.lt,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,ozxc.stagneswv.org,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,virtuvespasaulis.lt,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,stagneswv.org,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,y71dzxlq.scissormasterstanningsalon.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,scissormasterstanningsalon.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,URL,https://dev.808skor.org/,"win.vidar, url",n/a
+2026-07-23,threatfox,URL,https://sky-arts.com/,"unknown, url",n/a
 2026-07-22,threatfox,DOMAIN,quqr.keymedconsulting.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,odomp.shopsoleilcollective.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,aawhn.salutemarket.net,"js.clearfake, domain",n/a
@@ -373,6 +368,23 @@ date,user,type,ioc,tags,context
 2026-07-23,threatfox,DOMAIN,62ukoitn.thetokestudio.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,bossynailspa.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,heatmeshbase.plasmagridunit.garden,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,brandonstreeservices.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,yqmdwk40.thetokestudio.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,bpwe.beyondhomehealthcareservices.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,dev.808skor.org,"win.vidar, domain",n/a
+2026-07-23,threatfox,DOMAIN,iuqf.beyondhomehealthcareservices.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,beyondhomehealthcareservices.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,ionhostgate1.plasmagridunit.garden,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,amberskyforge.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,stormravenwatch.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,stormvenomcitadel.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,ironwraithkeep.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,ironwolfwatch.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,wildravencore.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,wildfirecrest.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,emberskyforge.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,darkmatrixcore.top,"js.magecart, domain",n/a
+2026-07-23,threatfox,DOMAIN,crimsonskyforge.top,"js.magecart, domain",n/a
 2026-07-22,tweetfeed,URL,http://107.189.24.181:8080,n/a,https://x.com/malwrhunterteam/status/2079898664080703668
 2026-07-22,tweetfeed,URL,http://107.189.24.181:8080/bot_staged.sh,n/a,https://x.com/malwrhunterteam/status/2079898664080703668
 2026-07-22,threatfox,HASH_SHA256,7b4b991e822eaebebd75246685ae83fc4594f32c4b3f8aaa73db575e243d3393,"unknown_stealer, sha256_hash",n/a
@@ -801,6 +813,10 @@ date,user,type,ioc,tags,context
 2026-07-23,tweetfeed,URL,https://devhub-36yl.pages.dev,phishing,https://x.com/Malwarehunterr/status/2080206718496362514
 2026-07-23,tweetfeed,URL,https://ik.imagekit.io/wxydeiplp/RAD%200612671-pdf.url,n/a,https://x.com/smica83/status/2080218069998113125
 2026-07-23,tweetfeed,URL,https://file.tugou.com.co/files/rrobKVb52q.vbs,n/a,https://x.com/smica83/status/2080218069998113125
+2026-07-23,tweetfeed,URL,http://telegram-6.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246999094288800
+2026-07-23,tweetfeed,URL,http://microsoftmailsupports.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246932400713880
+2026-07-23,tweetfeed,URL,http://paypal-refund.com,"phishing, scam",https://x.com/c9lab_soc/status/2080247179852108241
+2026-07-23,tweetfeed,URL,http://paypalhit.com,"phishing, scam",https://x.com/c9lab_soc/status/2080247049564438562
 2026-07-22,tweetfeed,DOMAIN,brand-ads-2026013.pages.dev,phishing,https://x.com/scanmalware/status/2079915184512966810
 2026-07-22,tweetfeed,DOMAIN,8161.uk,n/a,https://x.com/smica83/status/2079922519784423727
 2026-07-22,tweetfeed,DOMAIN,cdn.infolservice.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
@@ -1169,6 +1185,10 @@ date,user,type,ioc,tags,context
 2026-07-23,tweetfeed,DOMAIN,mjoyvlht.ssetchonddontpins1975.workers.dev,phishing,https://x.com/Malwarehunterr/status/2080206718496362514
 2026-07-23,tweetfeed,DOMAIN,devhub-36yl.pages.dev,phishing,https://x.com/Malwarehunterr/status/2080206718496362514
 2026-07-23,tweetfeed,DOMAIN,file.tugou.com.co,n/a,https://x.com/smica83/status/2080218069998113125
+2026-07-23,tweetfeed,DOMAIN,telegram-6.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246999094288800
+2026-07-23,tweetfeed,DOMAIN,microsoftmailsupports.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246932400713880
+2026-07-23,tweetfeed,DOMAIN,paypal-refund.com,"phishing, scam",https://x.com/c9lab_soc/status/2080247179852108241
+2026-07-23,tweetfeed,DOMAIN,paypalhit.com,"phishing, scam",https://x.com/c9lab_soc/status/2080247049564438562
 2026-07-22,tweetfeed,IP,107.189.24.181,n/a,https://x.com/malwrhunterteam/status/2079898664080703668
 2026-07-22,tweetfeed,HASH_SHA256,0c81d6dbad069b31724b40b793fe42e139f2794a542830ae13dacff897b1617f,malware,https://x.com/d1v35hresearch/status/2079908627432054888
 2026-07-22,tweetfeed,HASH_SHA256,4814838500d5650f8ef755e26ca09cc09808209519a18b8758aaa2a3864c9601,n/a,https://x.com/smica83/status/2079912451882041780
