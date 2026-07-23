@@ -248,10 +248,8 @@ date,user,type,ioc,tags,context
 2026-07-23,threatfox,URL,http://103.244.172.155:53639/Mozi.m,"elf.mozi, url",n/a
 2026-07-23,threatfox,URL,https://bouoher.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-23,threatfox,URL,https://bouoher.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-22,threatfox,DOMAIN,cqbl.thechildrencomefirst.org,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,gjpz.auladeingles.co,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,auladeingles.co,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,nkvi.thunderinternationalgroup.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,URL,https://ego.merahsm188.top/,"win.vidar, url",n/a
+2026-07-23,threatfox,URL,https://ego.808skor.org/,"win.vidar, url",n/a
 2026-07-22,threatfox,DOMAIN,azautotraders.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,6rsny75a.tastebudspopcorncanton.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,tastebudspopcorncanton.com,"js.clearfake, domain",n/a
@@ -493,6 +491,11 @@ date,user,type,ioc,tags,context
 2026-07-23,threatfox,DOMAIN,etlv.cafeonthehillbrooklyn.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,cafeonthehillbrooklyn.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,bouoher.lol,"js.kongtuke, domain",n/a
+2026-07-23,threatfox,DOMAIN,rgwshtif.ushealthlaboratories.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,ego.merahsm188.top,"win.vidar, domain",n/a
+2026-07-23,threatfox,DOMAIN,ego.808skor.org,"win.vidar, domain",n/a
+2026-07-23,threatfox,DOMAIN,xuxk.cancunbayfiesta.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,cancunbayfiesta.com,"js.clearfake, domain",n/a
 2026-07-22,tweetfeed,URL,http://es-agenbiterigob.top,phishing,https://x.com/skocherhan/status/2080039966659199364
 2026-07-22,tweetfeed,URL,http://umbrellseaparking.top,phishing,https://x.com/skocherhan/status/2080039966659199364
 2026-07-22,tweetfeed,URL,http://essnacex.top,phishing,https://x.com/skocherhan/status/2080039966659199364
@@ -889,6 +892,7 @@ date,user,type,ioc,tags,context
 2026-07-23,tweetfeed,URL,http://udnvk.site,"APT, C2, Kimsuky, malware",https://x.com/phatomcandle/status/2080352364511588392
 2026-07-23,tweetfeed,URL,http://27.102.137.59,"APT, C2, Kimsuky, malware",https://x.com/phatomcandle/status/2080352364511588392
 2026-07-23,tweetfeed,URL,http://185.95.156.74/szch2107/westreader.ps1,n/a,https://x.com/smica83/status/2080379396712443952
+2026-07-23,tweetfeed,URL,http://185.95.156.76/krr4g4/knittingdonation.ps1,n/a,https://x.com/smica83/status/2080381006398238995
 2026-07-22,tweetfeed,DOMAIN,es-agenbiterigob.top,phishing,https://x.com/skocherhan/status/2080039966659199364
 2026-07-22,tweetfeed,DOMAIN,umbrellseaparking.top,phishing,https://x.com/skocherhan/status/2080039966659199364
 2026-07-22,tweetfeed,DOMAIN,essnacex.top,phishing,https://x.com/skocherhan/status/2080039966659199364
@@ -1267,8 +1271,13 @@ date,user,type,ioc,tags,context
 2026-07-23,tweetfeed,IP,185.95.156.74,n/a,https://x.com/smica83/status/2080379396712443952
 2026-07-23,tweetfeed,HASH_SHA256,e388e7ce2449ba4100483186d9242e96f0cf74196d2519d37b581df682c57de6,n/a,https://x.com/smica83/status/2080379396712443952
 2026-07-23,tweetfeed,HASH_SHA256,962bd2fdde0752a0ba60650f3808a99a3dfe1068b0a8c7a50360134ea8bb1f92,n/a,https://x.com/smica83/status/2080380264048394420
+2026-07-23,tweetfeed,IP,185.95.156.76,n/a,https://x.com/smica83/status/2080381006398238995
+2026-07-23,tweetfeed,HASH_SHA256,8a50ed3d9d9e90c971100e211b7f5c8c7128ccbf9164cf3bd1beed8a49da6ab6,n/a,https://x.com/smica83/status/2080381006398238995
 2026-07-22,tweetfeed,HASH_MD5,54902a839f1e0339e0f014d6f0b1dd85,n/a,https://x.com/skocherhan/status/2080055851646136692
 2026-07-23,tweetfeed,HASH_MD5,0248c26c25bb5804f0c6d83238b6172c,stealer,https://x.com/suyog41/status/2080233826861867174
 2026-07-23,tweetfeed,HASH_MD5,98c185174e9f659b91b9f82250546ab3,n/a,https://x.com/suyog41/status/2080263076595814880
 2026-07-23,tweetfeed,HASH_MD5,dec873fd811d43f9860fcd33ab637ab4,n/a,https://x.com/suyog41/status/2080263076595814880
 2026-07-23,tweetfeed,HASH_MD5,5bdb128072c02f52153eaeea6899a5b1,n/a,https://x.com/Now_on_VT/status/2080275234704503052
+2026-07-23,tweetfeed,HASH_MD5,162c8c9dd215a42a59aa83df9d3064d7,HijackLoader,https://x.com/skocherhan/status/2080387314358870089
+2026-07-23,tweetfeed,HASH_MD5,9dfabf218925dc71598897415dcbcce8,n/a,https://x.com/skocherhan/status/2080388083690672268
+2026-07-23,tweetfeed,HASH_MD5,a58e4a8366ab4084d8d5e74e11b9a6f1,HijackLoader,https://x.com/skocherhan/status/2080390375131267140
