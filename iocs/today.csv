@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-22,threatfox,URL,https://stt.majusm188.top/,"win.vidar, url",n/a
-2026-07-22,threatfox,URL,https://stt.77zeus.com/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://45.83.180.74,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://zaciszewbobrzy.pl/,"unknown, url",n/a
 2026-07-22,threatfox,URL,https://nebulaloom.top/oauth/reset-dom.js,"js.smartapesg, url",n/a
@@ -37,13 +35,6 @@ date,user,type,ioc,tags,context
 2026-07-22,threatfox,URL,https://gte.majusm188.top/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://tir.majusm188.top/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://tir.77zeus.com/,"win.vidar, url",n/a
-2026-07-22,threatfox,DOMAIN,mpmu.slepsluzbaublizini.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,slepsluzbaublizini.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,malekos.pro,"unknown_webinject, domain",n/a
-2026-07-22,threatfox,DOMAIN,clna.springhillcommons.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,zqwhz.phimmoichilla.org,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,stt.majusm188.top,"win.vidar, domain",n/a
-2026-07-22,threatfox,DOMAIN,stt.77zeus.com,"win.vidar, domain",n/a
 2026-07-22,threatfox,DOMAIN,ywku.smoothbioticsgummies.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,smoothbioticsgummies.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,gorto.ridgerenovation.com,"js.clearfake, domain",n/a
@@ -216,10 +207,13 @@ date,user,type,ioc,tags,context
 2026-07-23,threatfox,DOMAIN,bambatagear.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,8jt1f2hv.wellcome-c-store.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,wellcome-c-store.com,"js.clearfake, domain",n/a
-2026-07-22,tweetfeed,URL,https://skjwoodstone.com/safety/update/,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
-2026-07-22,tweetfeed,URL,https://tonghedianzi.com/safety/update/,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
-2026-07-22,tweetfeed,URL,https://yijiatuliao.com/safety/update/,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
-2026-07-22,tweetfeed,URL,https://zhuodashufa.com/safety/update/,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
+2026-07-23,threatfox,DOMAIN,jfpi.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,hloj.bangla-mart.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,bangla-mart.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,oh3nc2mh.monicarobles.org,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,wolverinasbball.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,bvd0k429.maia-bentley.com,"js.clearfake, domain",n/a
+2026-07-23,threatfox,DOMAIN,lard.asset-images-konoha.us,"js.clearfake, domain",n/a
 2026-07-22,tweetfeed,URL,http://blpqr4ekqlo-wjnhf98plos-0c9d1a-lxp05w.pages.dev,ransomware,https://x.com/scanmalware/status/2079733376160841991
 2026-07-22,tweetfeed,URL,http://42tb-074w-sdzp.callummacrae-federaltaxform-com-s-account.workers.dev,phishing,https://x.com/scanmalware/status/2079736241382203736
 2026-07-22,tweetfeed,URL,http://panel-franchise99.com,n/a,https://x.com/skocherhan/status/2079780089969926427
@@ -584,10 +578,6 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,URL,http://exhibit-thereafter-surrounded-editorial.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
 2026-07-22,tweetfeed,URL,http://rome-johnson-mesh-consider.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
 2026-07-22,tweetfeed,URL,http://sequences-williams-analytical-graduate.trycloudflare.com,n/a,https://x.com/skocherhan/status/2080055851646136692
-2026-07-22,tweetfeed,DOMAIN,skjwoodstone.com,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
-2026-07-22,tweetfeed,DOMAIN,tonghedianzi.com,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
-2026-07-22,tweetfeed,DOMAIN,yijiatuliao.com,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
-2026-07-22,tweetfeed,DOMAIN,zhuodashufa.com,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
 2026-07-22,tweetfeed,DOMAIN,blpqr4ekqlo-wjnhf98plos-0c9d1a-lxp05w.pages.dev,ransomware,https://x.com/scanmalware/status/2079733376160841991
 2026-07-22,tweetfeed,DOMAIN,42tb-074w-sdzp.callummacrae-federaltaxform-com-s-account.workers.dev,phishing,https://x.com/scanmalware/status/2079736241382203736
 2026-07-22,tweetfeed,DOMAIN,panel-franchise99.com,n/a,https://x.com/skocherhan/status/2079780089969926427
@@ -897,7 +887,6 @@ date,user,type,ioc,tags,context
 2026-07-22,tweetfeed,DOMAIN,jgdopas.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
 2026-07-22,tweetfeed,DOMAIN,mayvioel1982.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
 2026-07-22,tweetfeed,DOMAIN,yernbdsakpo.duckdns.org,n/a,https://x.com/skocherhan/status/2080055851646136692
-2026-07-22,tweetfeed,HASH_SHA256,91a331a2dc17c4146e630a88ffd802128cccc0c374522b4bdc82741b8cbff080,"malware, phishing",https://x.com/masaomi346/status/2079718236665643353
 2026-07-22,tweetfeed,IP,37.148.205.56,phishing,https://x.com/PhishStats/status/2079812625483919761
 2026-07-22,tweetfeed,HASH_SHA256,104447278779517e2b397a18d501685ae61a9da84abe1c180ff9bb67a5a0f0fc,"Android, malware",https://x.com/d1v35hresearch/status/2079829287109296521
 2026-07-22,tweetfeed,HASH_SHA256,e097f3b445b63b07afacde8d6a67f0be654dd51e228a3610fb0710a1f7e29a69,n/a,https://x.com/skocherhan/status/2079855169588629836
