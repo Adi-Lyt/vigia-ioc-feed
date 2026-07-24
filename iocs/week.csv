@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-17,"threatfox,tweetfeed",URL,http://80.76.49.77,"win.stealc, url",n/a
 2026-07-17,threatfox,URL,https://boodystat.click/dl/file/,"unknown, url",n/a
 2026-07-17,threatfox,URL,https://boodystat.click/ccheck,"unknown, url",n/a
 2026-07-17,threatfox,URL,https://boodystat.click/cload,"unknown, url",n/a
@@ -701,10 +700,10 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,URL,https://fenzpr.com/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://bouoher.lol/api/v1/status,"js.kongtuke, url",n/a
 2026-07-24,threatfox,URL,https://tommy-ee.top/f,"js.kongtuke, url",n/a
-2026-07-17,threatfox,DOMAIN,lmkxs.imagederm.com,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,imagederm.com,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,beqbfjhnf.deepspaceparker.com,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,deepspaceparker.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,URL,https://martinkreitl.com/,"unknown, url",n/a
+2026-07-24,threatfox,URL,https://mattgambino.com/,"unknown, url",n/a
+2026-07-24,threatfox,URL,https://martyhigh.com/,"unknown, url",n/a
+2026-07-24,threatfox,URL,https://kompozers.com/,"unknown, url",n/a
 2026-07-17,threatfox,DOMAIN,vddrs.inkbossstudios.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,eabcewlhe.diloro.dev,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,inkbossstudios.com,"js.clearfake, domain",n/a
@@ -2096,6 +2095,9 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,DOMAIN,tommy-ee.top,"js.kongtuke, domain",n/a
 2026-07-24,threatfox,DOMAIN,js-sec.seketafrica.org,"js.fakeupdates, domain",n/a
 2026-07-24,threatfox,DOMAIN,upxdate.duckdns.org,"win.quasar_rat, domain",n/a
+2026-07-24,threatfox,DOMAIN,lxxlpjojdzakqqxnha.doubledavespizzatx.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,k5blk157.becoffeecompany.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,mkffhshsedbptmkqjo.chammaautosales.com,"js.clearfake, domain",n/a
 2026-07-17,tweetfeed,URL,https://ope1.marconimpianti.it/adm/?CTSO=SOUJ,phishing,https://x.com/Malwarehunterr/status/2078163280334659948
 2026-07-17,tweetfeed,URL,http://manager-area-wordpress-automattic.tornieri.eu,phishing,https://x.com/Malwarehunterr/status/2078163280334659948
 2026-07-17,tweetfeed,URL,http://tableautieridf.com,phishing,https://x.com/Malwarehunterr/status/2078163280334659948
@@ -3965,6 +3967,7 @@ date,user,type,ioc,tags,context
 2026-07-24,tweetfeed,URL,https://mail-fisheries-gov-bd.netlify.app,n/a,https://x.com/volrant136/status/2080669471878819889
 2026-07-24,tweetfeed,URL,https://submit-form.com/iI9rhaiDC,n/a,https://x.com/volrant136/status/2080669471878819889
 2026-07-24,tweetfeed,URL,http://brebe01.duckdns.org:2929,malware,https://x.com/FABO97662188/status/2080679471993049528
+2026-07-24,tweetfeed,URL,https://reservphotoinstay.one/WKjTsG1u3C-dRdvI7U7-eWThJ766.rolKnILalAUJ,booking,https://x.com/skocherhan/status/2080690322909118635
 2026-07-17,tweetfeed,DOMAIN,ope1.marconimpianti.it,phishing,https://x.com/Malwarehunterr/status/2078163280334659948
 2026-07-17,tweetfeed,DOMAIN,manager-area-wordpress-automattic.tornieri.eu,phishing,https://x.com/Malwarehunterr/status/2078163280334659948
 2026-07-17,tweetfeed,DOMAIN,tableautieridf.com,phishing,https://x.com/Malwarehunterr/status/2078163280334659948
@@ -5743,6 +5746,7 @@ date,user,type,ioc,tags,context
 2026-07-24,tweetfeed,IP,91.204.209.35,phishing,https://x.com/PhishStats/status/2080662028151058479
 2026-07-24,tweetfeed,HASH_SHA256,81a9af3846bad3a1107164ff7cf0a08e020b31a3b32fd17866e17d4c1565f7f2,n/a,https://x.com/smica83/status/2080670381401051330
 2026-07-24,tweetfeed,HASH_SHA256,9dec582e808a71dc03c07e99898096c561427e4bf71cb9ecc03f3a2629ffef78,malware,https://x.com/FABO97662188/status/2080679471993049528
+2026-07-24,tweetfeed,HASH_SHA256,7d9188f6b628b1e5a3dff798364c6380db410fd1f5e299baf8bd2e3b50dc0da5,"malware, ransomware",https://x.com/akudryk007/status/2080688995982356712
 2026-07-18,tweetfeed,HASH_MD5,9ba85b93da1735a86c3bff27e85f69bb,n/a,https://x.com/bsforvt727/status/2078382078773837897
 2026-07-18,tweetfeed,HASH_MD5,1aac25a6de881d4fc158e1d25dcb3003,n/a,https://x.com/bsforvt727/status/2078382078773837897
 2026-07-20,tweetfeed,HASH_MD5,7c6372580a9e78e8caff7ba50ef859aa,CobaltStrike,https://x.com/500mk500/status/2079271324946448628
