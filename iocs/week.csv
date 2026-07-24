@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-17,threatfox,URL,http://digiace.top:4190,"win.remus, url",n/a
 2026-07-17,threatfox,URL,https://cedaristhmus.top/public/middleware-sessionstore,"js.smartapesg, url",n/a
 2026-07-17,threatfox,URL,https://cedaristhmus.top/public/callback-asset.js,"js.smartapesg, url",n/a
 2026-07-17,threatfox,URL,https://okx.kliksm188.top/,"win.vidar, url",n/a
@@ -690,10 +689,9 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,URL,https://alinais.ch/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://bbinvinoveritas.com/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://fwf.808skor.org/,"win.vidar, url",n/a
-2026-07-17,threatfox,DOMAIN,wtkxprzu.funxbet.casino,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,earthweight.xyz,"unknown_loader, domain",n/a
-2026-07-17,threatfox,DOMAIN,hzdmfcatc.sky7bet.casino,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,api.startservicefounds.com,"unknown, domain",n/a
+2026-07-24,threatfox,URL,https://codingnplay.co.kr/,"unknown, url",n/a
+2026-07-24,threatfox,URL,https://chessco.co.za/,"unknown, url",n/a
+2026-07-24,threatfox,URL,https://fwf.merahsm188.top/,"win.vidar, url",n/a
 2026-07-17,threatfox,DOMAIN,gdtuyoor.gamehazarat.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,xfakmoduw.lion1bet.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,8kq7qw7a.site-takhtenard-sharti-betland.com,"js.clearfake, domain",n/a
@@ -2063,6 +2061,19 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,DOMAIN,dyn-lithum.th0rniva.garden,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,infinity-spc.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,gabriellekwilson.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,gdvi.janatcosmetics.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,lhsq.janatcosmetics.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,janatcosmetics.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,jtgj.interventionalpainmanagement.net,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,getamericanglass.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,interventionalpainmanagement.net,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,bcmsc.deckico.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,cfuuzz.deckico.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,gentletouchchiropracticclinicauroracol.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,79ccfm8.deckico.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,fwf.merahsm188.top,"win.vidar, domain",n/a
+2026-07-24,threatfox,DOMAIN,ifnj.intellectualgroupie.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,intellectualgroupie.com,"js.clearfake, domain",n/a
 2026-07-17,tweetfeed,URL,https://exhibit-thereafter-surrounded-editorial.trycloudflare.com,opendir,https://x.com/smica83/status/2078082104118628506
 2026-07-17,tweetfeed,URL,https://driving-approach-sword-ave.trycloudflare.com,opendir,https://x.com/smica83/status/2078082569992614251
 2026-07-17,tweetfeed,URL,https://pabloclock.com,"phishing, scam",https://x.com/Coolcarlos17/status/2078090839029342452
@@ -5700,3 +5711,5 @@ date,user,type,ioc,tags,context
 2026-07-24,tweetfeed,HASH_MD5,8cd05fd628ed7927871e9dd53d4e613b,C2,https://x.com/goldenjackel12/status/2047562480315142260
 2026-07-24,tweetfeed,HASH_MD5,208d83a5b80f6069d828a36c56155e43,C2,https://x.com/goldenjackel12/status/2047562480315142260
 2026-07-24,tweetfeed,HASH_MD5,43ec61c2a96acef6e36a4b69b8f8e333,C2,https://x.com/goldenjackel12/status/2047562480315142260
+2026-07-24,tweetfeed,HASH_MD5,71a33e6d32f15ed29abe514ae5d7b962,n/a,https://x.com/skocherhan/status/2080591856161767450
+2026-07-24,tweetfeed,HASH_MD5,fa0e784f90adb9a329644033c1c73e87,n/a,https://x.com/skocherhan/status/2080591856161767450
