@@ -5,11 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-17,threatfox,URL,http://144.31.57.94/350be244a2f97a3a4ca8.php,"win.stealc, url",n/a
-2026-07-17,threatfox,URL,http://41.216.189.236/nz.sh,"unknown, url",n/a
-2026-07-17,threatfox,URL,https://amberobservatory.top/public/scope-cookie.js,"js.smartapesg, url",n/a
-2026-07-17,threatfox,URL,https://amberobservatory.top/public/middleware-sessionstore,"js.smartapesg, url",n/a
-2026-07-17,threatfox,URL,https://amberobservatory.top/public/callback-asset.js,"js.smartapesg, url",n/a
 2026-07-17,threatfox,URL,http://digiace.top:4190,"win.remus, url",n/a
 2026-07-17,threatfox,URL,https://cedaristhmus.top/public/middleware-sessionstore,"js.smartapesg, url",n/a
 2026-07-17,threatfox,URL,https://cedaristhmus.top/public/callback-asset.js,"js.smartapesg, url",n/a
@@ -694,12 +689,7 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,URL,http://103.176.16.65:50528/Mozi.a,"elf.mozi, url",n/a
 2026-07-24,threatfox,URL,https://alinais.ch/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://bbinvinoveritas.com/,"unknown, url",n/a
-2026-07-17,threatfox,DOMAIN,vzsagfrw.derbi.football,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,dvc734k1.hazaratbet.game,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,3x6v81kc.varzeshlife.ir,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,lhozmsokb.nextbahis.coupons,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,eogwp3fe.site-shartbandi-pasor.online,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,amberobservatory.top,"js.smartapesg, domain",n/a
+2026-07-24,threatfox,URL,https://fwf.808skor.org/,"win.vidar, url",n/a
 2026-07-17,threatfox,DOMAIN,wtkxprzu.funxbet.casino,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,earthweight.xyz,"unknown_loader, domain",n/a
 2026-07-17,threatfox,DOMAIN,hzdmfcatc.sky7bet.casino,"js.clearfake, domain",n/a
@@ -2063,13 +2053,16 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,DOMAIN,4tom-pulse.reptbot.bet,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,chammaautosales.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,upkx.infinityjoespizzaclearwater.com,"js.clearfake, domain",n/a
-2026-07-17,tweetfeed,URL,https://storage.googleapis.com/protesto-att/agent.msi,n/a,https://x.com/smica83/status/2078048583677325660
-2026-07-17,tweetfeed,URL,http://c2nuevpoder.kozow.com,n/a,https://x.com/malwrhunterteam/status/2078049593091076549
-2026-07-17,tweetfeed,URL,http://pulseeeee.beer,n/a,https://x.com/smica83/status/2078050185112924413
-2026-07-17,tweetfeed,URL,http://sa3wd.com,n/a,https://x.com/smica83/status/2078053124187582618
-2026-07-17,tweetfeed,URL,http://47.243.59.62,n/a,https://x.com/smica83/status/2078053124187582618
-2026-07-17,tweetfeed,URL,http://zhugel5.com,n/a,https://x.com/smica83/status/2078054634342519271
-2026-07-17,tweetfeed,URL,http://206.119.81.53,n/a,https://x.com/smica83/status/2078054634342519271
+2026-07-24,threatfox,DOMAIN,stabimodule.deckico.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,geigersjobs.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,uocqxlqf.sendrat.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,pijw.inspirationflorida.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,fwf.808skor.org,"win.vidar, domain",n/a
+2026-07-24,threatfox,DOMAIN,inspirationflorida.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,cinemacast.sendrat.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,dyn-lithum.th0rniva.garden,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,infinity-spc.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,gabriellekwilson.com,"js.clearfake, domain",n/a
 2026-07-17,tweetfeed,URL,https://exhibit-thereafter-surrounded-editorial.trycloudflare.com,opendir,https://x.com/smica83/status/2078082104118628506
 2026-07-17,tweetfeed,URL,https://driving-approach-sword-ave.trycloudflare.com,opendir,https://x.com/smica83/status/2078082569992614251
 2026-07-17,tweetfeed,URL,https://pabloclock.com,"phishing, scam",https://x.com/Coolcarlos17/status/2078090839029342452
@@ -3893,10 +3886,33 @@ date,user,type,ioc,tags,context
 2026-07-24,tweetfeed,URL,http://zioncreationcheongsam.shop/hopeservices4u/,phishing,https://x.com/skocherhan/status/2080572519006773555
 2026-07-24,tweetfeed,URL,http://zippotehran.com/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
 2026-07-24,tweetfeed,URL,http://zoom-webinar.vu/_wildcard_.zoom-webinar.vu/adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-17,tweetfeed,DOMAIN,c2nuevpoder.kozow.com,n/a,https://x.com/malwrhunterteam/status/2078049593091076549
-2026-07-17,tweetfeed,DOMAIN,pulseeeee.beer,n/a,https://x.com/smica83/status/2078050185112924413
-2026-07-17,tweetfeed,DOMAIN,sa3wd.com,n/a,https://x.com/smica83/status/2078053124187582618
-2026-07-17,tweetfeed,DOMAIN,zhugel5.com,n/a,https://x.com/smica83/status/2078054634342519271
+2026-07-24,tweetfeed,URL,https://vckvjn.asia/login,phishing,https://x.com/masaomi346/status/2080581787856916973
+2026-07-24,tweetfeed,URL,https://apresfrom.space/ndjb79,"phishing, scam",https://x.com/illegalFawn/status/2080583594196467798
+2026-07-24,tweetfeed,URL,http://dezined.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://zemevim.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://vevicced.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://zepodcen.fwh.is,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://vonxypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://deviwe.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://voxnypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://waveformpod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://votingchoice.ichoose-deal.cfd,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://votingllobalsprimes.fwh.is,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://zesenik.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://fuxypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://polverse.pages.dev,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://publicxpodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://tvshowhosting.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://premiumkeypodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://votzypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://fairelectpodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://publichoicepodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://premiumxtalkspodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://votepr6me.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://vote.ce4se.top,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://premiumtalkspodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://vozyspotifypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,URL,http://googlepodstream.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
 2026-07-17,tweetfeed,DOMAIN,exhibit-thereafter-surrounded-editorial.trycloudflare.com,opendir,https://x.com/smica83/status/2078082104118628506
 2026-07-17,tweetfeed,DOMAIN,driving-approach-sword-ave.trycloudflare.com,opendir,https://x.com/smica83/status/2078082569992614251
 2026-07-17,tweetfeed,DOMAIN,mattecomateriais.com,"phishing, scam",https://x.com/Coolcarlos17/status/2078090061116019024
@@ -5375,14 +5391,33 @@ date,user,type,ioc,tags,context
 2026-07-24,tweetfeed,DOMAIN,zioncreationcheongsam.shop,phishing,https://x.com/skocherhan/status/2080572519006773555
 2026-07-24,tweetfeed,DOMAIN,zippotehran.com,phishing,https://x.com/skocherhan/status/2080572519006773555
 2026-07-24,tweetfeed,DOMAIN,zoom-webinar.vu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-17,tweetfeed,IP,20.205.31.8,C2,https://x.com/Fact_Finder03/status/2078045542664270098
-2026-07-17,tweetfeed,HASH_SHA256,e78621a003939efda0a6eab548c07a25167275be9fd70da1d4c2b8833fbff104,n/a,https://x.com/smica83/status/2078048583677325660
-2026-07-17,tweetfeed,HASH_SHA256,21e5d1db878d6830f1830e8f6675250cac209c9d8453617436ce8d1f09c1d9ae,n/a,https://x.com/smica83/status/2078048583677325660
-2026-07-17,tweetfeed,HASH_SHA256,7fdd6fde6ea2e3d40119544558b89ec7d1f295a2b00e2f1383cb728caae1af74,n/a,https://x.com/smica83/status/2078050185112924413
-2026-07-17,tweetfeed,IP,47.243.59.62,n/a,https://x.com/smica83/status/2078053124187582618
-2026-07-17,tweetfeed,HASH_SHA256,e4283d10ea2d8bfe524e2da68870d67653ce895ff4fcafdef68edc47576a5e3c,n/a,https://x.com/smica83/status/2078053124187582618
-2026-07-17,tweetfeed,IP,206.119.81.53,n/a,https://x.com/smica83/status/2078054634342519271
-2026-07-17,tweetfeed,HASH_SHA256,8a72afcb3bdd892ae106b2e6c7bd3df4e4be98f151342509603e31d7efd555f3,n/a,https://x.com/smica83/status/2078054634342519271
+2026-07-24,tweetfeed,DOMAIN,vckvjn.asia,phishing,https://x.com/masaomi346/status/2080581787856916973
+2026-07-24,tweetfeed,DOMAIN,apresfrom.space,"phishing, scam",https://x.com/illegalFawn/status/2080583594196467798
+2026-07-24,tweetfeed,DOMAIN,dezined.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,zemevim.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,vevicced.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,zepodcen.fwh.is,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,vonxypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,deviwe.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,voxnypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,waveformpod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,votingchoice.ichoose-deal.cfd,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,votingllobalsprimes.fwh.is,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,zesenik.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,fuxypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,polverse.pages.dev,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,publicxpodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,tvshowhosting.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,premiumkeypodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,votzypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,fairelectpodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,publichoicepodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,premiumxtalkspodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,votepr6me.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,vote.ce4se.top,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,premiumtalkspodcast.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,vozyspotifypod.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
+2026-07-24,tweetfeed,DOMAIN,googlepodstream.unaux.com,phishing,https://x.com/skocherhan/status/2080588110094532696
 2026-07-17,tweetfeed,HASH_SHA256,e67a284bd0be98ea328522cdf3b2941627fcbae8d9ec186a563ba5c942d30ba2,n/a,https://x.com/jaydinbas/status/2078108275908755760
 2026-07-17,tweetfeed,IP,185.199.197.216,"C2, RAT",https://x.com/Fact_Finder03/status/2078119588534137190
 2026-07-17,tweetfeed,IP,118.107.19.103,n/a,https://x.com/teamcymru_S2/status/2078199955047543181
