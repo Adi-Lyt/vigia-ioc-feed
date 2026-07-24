@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-17,threatfox,URL,https://t.me/still_stellc,"win.stealc, url",n/a
 2026-07-17,threatfox,URL,https://ritchie.click/o9qhk2jz.js,"js.kongtuke, url",n/a
 2026-07-17,threatfox,URL,https://copperlandmark.top/claims/redirect-state.js,"js.smartapesg, url",n/a
 2026-07-17,threatfox,URL,https://copperlandmark.top/claims/realm-fetch.js,"js.smartapesg, url",n/a
@@ -697,10 +696,6 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,URL,https://zil.merahsm188.top/,"win.vidar, url",n/a
 2026-07-24,threatfox,URL,https://kinikar.pro/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://popelkar.pro/,"unknown, url",n/a
-2026-07-17,threatfox,DOMAIN,los16zn2.celebritiesadda.com,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,dy6t0cul.hazarat.now,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,ggitkzzn.derbi.promo,"js.clearfake, domain",n/a
-2026-07-17,threatfox,DOMAIN,nruyvebwd.taktikkbet.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,suwqmlyd.efbetfarsi.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,6j7gyyz9.barkerautoms.com,"js.clearfake, domain",n/a
 2026-07-17,threatfox,DOMAIN,wexltdqtf.hazzarat.com,"js.clearfake, domain",n/a
@@ -2062,6 +2057,11 @@ date,user,type,ioc,tags,context
 2026-07-24,threatfox,DOMAIN,flowerqueensgirls.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,bojk.bossynailspa.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,zlcv.bossynailspa.com,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,portcho.lunave5.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,levyvo.lunave5.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,eritreancenter.org,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,glacie-palet.oppo5it.bet,"js.clearfake, domain",n/a
+2026-07-24,threatfox,DOMAIN,umpt.focus-logistics.net,"js.clearfake, domain",n/a
 2026-07-17,tweetfeed,URL,https://mmbqjtbogsr.top/qcrcycpz/,phishing,https://x.com/Metemcyber/status/2077992954988478919
 2026-07-17,tweetfeed,URL,http://172.67.166.149,phishing,https://x.com/Metemcyber/status/2077992954988478919
 2026-07-17,tweetfeed,URL,http://104.21.49.195,phishing,https://x.com/Metemcyber/status/2077992954988478919
@@ -3455,6 +3455,9 @@ date,user,type,ioc,tags,context
 2026-07-24,tweetfeed,URL,https://zoravikenara.info/jp,phishing,https://x.com/masaomi346/status/2080471731739992320
 2026-07-24,tweetfeed,URL,https://chat.login-ocn.com/login2,phishing,https://x.com/masaomi346/status/2080497257145868564
 2026-07-24,tweetfeed,URL,https://quraffev.forms.app/verification-form,phishing,https://x.com/PhishStats/status/2080502666921152549
+2026-07-24,tweetfeed,URL,http://snapchat-login-secure.com,"phishing, scam",https://x.com/c9lab_soc/status/2080515793419428166
+2026-07-24,tweetfeed,URL,http://snapchat-plus.online,"phishing, scam",https://x.com/c9lab_soc/status/2080515682303979776
+2026-07-24,threatfox,HASH_SHA256,833f110b8ec1d51b1d56795bc9049d4cda5b1447a546209856cac9355612abb4,"js.clearfake, sha256_hash",n/a
 2026-07-17,tweetfeed,DOMAIN,mmbqjtbogsr.top,phishing,https://x.com/Metemcyber/status/2077992954988478919
 2026-07-17,tweetfeed,DOMAIN,certainlyous.ppipioo.cn,phishing,https://x.com/Metemcyber/status/2077995511496470814
 2026-07-17,tweetfeed,DOMAIN,sub-informacion-net.com,phishing,https://x.com/PhishStats/status/2077998482191733188
@@ -4574,6 +4577,8 @@ date,user,type,ioc,tags,context
 2026-07-24,tweetfeed,DOMAIN,zoravikenara.info,phishing,https://x.com/masaomi346/status/2080471731739992320
 2026-07-24,tweetfeed,DOMAIN,chat.login-ocn.com,phishing,https://x.com/masaomi346/status/2080497257145868564
 2026-07-24,tweetfeed,DOMAIN,quraffev.forms.app,phishing,https://x.com/PhishStats/status/2080502666921152549
+2026-07-24,tweetfeed,DOMAIN,snapchat-login-secure.com,"phishing, scam",https://x.com/c9lab_soc/status/2080515793419428166
+2026-07-24,tweetfeed,DOMAIN,snapchat-plus.online,"phishing, scam",https://x.com/c9lab_soc/status/2080515682303979776
 2026-07-17,tweetfeed,IP,45.74.61.7,phishing,https://x.com/PhishStats/status/2077998482191733188
 2026-07-17,tweetfeed,HASH_SHA256,974974cb3771f3511b28056d6170d30536eefe022304eeaac4e47d4b598f76b0,"Android, malware",https://x.com/smica83/status/2078022693757108299
 2026-07-17,tweetfeed,HASH_SHA256,c6528aba9265127234f36dab178d1688b541c1878ba3093ddd7d5b84535a9d76,"Android, malware",https://x.com/smica83/status/2078022693757108299
