@@ -562,8 +562,6 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,URL,http://117.251.194.217:34712/Mozi.a,"elf.mozi, url",n/a
 2026-07-25,threatfox,URL,https://silenttunnelzone.top/token/token-controller.js,"js.smartapesg, url",n/a
 2026-07-25,threatfox,URL,https://contextio.one/trfbvzqmny/assets/js/script.php,"unknown, url",n/a
-2026-07-18,threatfox,DOMAIN,jtab.jbgroup21.com,"js.clearfake, domain",n/a
-2026-07-18,threatfox,DOMAIN,ynzpk.varzeshlife.ir,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,n5yqon6r.site-takhtenard-sharti-betland.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,bzki.jetbet.download,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,lfumk.winston.bet,"js.clearfake, domain",n/a
@@ -2081,6 +2079,12 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,DOMAIN,marathonmktggroup.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,ixscgl.marquettedetailing.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,marquettedetailing.com,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,qliccx.mclennancotxgenweb.org,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,emxq57ih.nextbahis.blog,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,mclennancotxgenweb.org,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,gi4q7bgx.infinityjoespizzaclearwater.com,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,kyzvja.matsnews.com,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,matsnews.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,HASH_SHA256,b1a6dba6636b519d76d7219f6264ac9f1456681c0855baef954fb435d3e25ce5,"elf.mirai, sha256_hash",n/a
 2026-07-19,threatfox,HASH_SHA256,bf38b3e5d645c78377599a6c218a347312c5a3daef693c7931f2710806d85317,"elf.mirai, sha256_hash",n/a
 2026-07-19,threatfox,HASH_SHA256,f5cb6dadaee4399a1f014ef5946d0a4c1af578d15ff078e725e0757f28dc8493,"elf.mirai, sha256_hash",n/a
@@ -4070,6 +4074,9 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,HASH_SHA256,cf426ee0da8f8907c42dfe264552ec560d5a97ff85ec7a7bf4518e773b19ce50,"py.venus_stealer, sha256_hash",n/a
 2026-07-25,threatfox,HASH_SHA256,4f8df06e14378fef16c78183525ba7c0dbcc5176e92ae20102d6ea25dbccbf1d,"win.vidar, sha256_hash",n/a
 2026-07-25,threatfox,HASH_SHA256,bdabc7198cc94abbf0446bda43a21128c548f8fa3e039562502e308de3a890b6,"win.phorpiex, sha256_hash",n/a
+2026-07-25,tweetfeed,URL,http://auth.lukamasa.us,phishing,https://x.com/Malwarehunterr/status/2081145926882939357
+2026-07-25,tweetfeed,URL,http://auth.lukamasa.us/auth/stream,phishing,https://x.com/Malwarehunterr/status/2081145926882939357
+2026-07-25,tweetfeed,URL,http://155.254.25.34:8501,phishing,https://x.com/Malwarehunterr/status/2081145926882939357
 2026-07-19,tweetfeed,DOMAIN,jonathanhanley.com,phishing,https://x.com/PhishStats/status/2078810589011312782
 2026-07-19,tweetfeed,DOMAIN,cqurg.com,phishing,https://x.com/masaomi346/status/2078855556069212637
 2026-07-19,tweetfeed,DOMAIN,okekjaiw.click,malware,https://x.com/FABO97662188/status/2078905505418760481
@@ -5701,6 +5708,7 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,HASH_MD5,0755a7cc6c033ed6f38280a4dd78c3e8,"py.venus_stealer, md5_hash",n/a
 2026-07-25,threatfox,HASH_MD5,b6ea03ecc9f09124603cfde6c0017483,"win.vidar, md5_hash",n/a
 2026-07-25,threatfox,HASH_MD5,1b27f8fc61f3c0d5798c71e88678c68a,"win.phorpiex, md5_hash",n/a
+2026-07-25,tweetfeed,DOMAIN,auth.lukamasa.us,phishing,https://x.com/Malwarehunterr/status/2081145926882939357
 2026-07-19,tweetfeed,IP,193.27.90.102,C2,https://x.com/Fact_Finder03/status/2078809886151045171
 2026-07-19,tweetfeed,IP,77.83.175.76,C2,https://x.com/Fact_Finder03/status/2078809886151045171
 2026-07-19,tweetfeed,IP,172.233.212.129,phishing,https://x.com/PhishStats/status/2078810589011312782
@@ -5964,6 +5972,7 @@ date,user,type,ioc,tags,context
 2026-07-25,tweetfeed,IP,124.198.132.5,n/a,https://x.com/skocherhan/status/2081062135308693722
 2026-07-25,tweetfeed,IP,104.223.50.181,phishing,https://x.com/Malwarehunterr/status/2081092485154296168
 2026-07-25,tweetfeed,IP,103.179.190.58,n/a,https://x.com/sicehice/status/2081113859947970962
+2026-07-25,tweetfeed,IP,155.254.25.34,phishing,https://x.com/Malwarehunterr/status/2081145926882939357
 2026-07-20,tweetfeed,HASH_MD5,7c6372580a9e78e8caff7ba50ef859aa,CobaltStrike,https://x.com/500mk500/status/2079271324946448628
 2026-07-21,tweetfeed,HASH_MD5,bfb1c77ba8cbacc45ff06443b2997ca5,phishing,https://x.com/skocherhan/status/2079517966756884948
 2026-07-21,tweetfeed,HASH_MD5,5c92d3b8734b4f498752f735a1ca0987,n/a,https://x.com/stop_spammerz/status/2079534358914850868
