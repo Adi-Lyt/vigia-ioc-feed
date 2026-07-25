@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-18,"threatfox,tweetfeed",URL,https://windows-update-local.rest,"win.stealc, url",n/a
 2026-07-19,threatfox,URL,http://keutbdump3.temp.swtest.ru/pipePhpjsPacketLongpoll.php,"win.dcrat, url",n/a
 2026-07-19,threatfox,URL,https://kayhector.com/,"win.vidar, url",n/a
 2026-07-19,threatfox,URL,http://185.132.133.140,"unknown, url",n/a
@@ -563,8 +562,6 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,URL,http://117.251.194.217:34712/Mozi.a,"elf.mozi, url",n/a
 2026-07-25,threatfox,URL,https://silenttunnelzone.top/token/token-controller.js,"js.smartapesg, url",n/a
 2026-07-25,threatfox,URL,https://contextio.one/trfbvzqmny/assets/js/script.php,"unknown, url",n/a
-2026-07-18,threatfox,DOMAIN,fazv.jadoobet.pro,"js.clearfake, domain",n/a
-2026-07-18,threatfox,DOMAIN,inasa.pdfbama.com,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,4dc5hwj8.nextbahis.poker,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,g9epkl53.site-asli-bedon-filter-1xbet.com,"js.clearfake, domain",n/a
 2026-07-18,threatfox,DOMAIN,flyi.jadoou.lat,"js.clearfake, domain",n/a
@@ -2087,6 +2084,8 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,DOMAIN,general-soft.space,"unknown, domain",n/a
 2026-07-25,threatfox,DOMAIN,jqpamy.mapesandmapes.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,mapesandmapes.com,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,mfusiv.marathonmktggroup.com,"js.clearfake, domain",n/a
+2026-07-25,threatfox,DOMAIN,marathonmktggroup.com,"js.clearfake, domain",n/a
 2026-07-18,tweetfeed,URL,http://ajvcu.cn,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,URL,https://bitbrarwser.com/run.bat,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,URL,https://bitbrarwser.com/XinPu.zip,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
@@ -3993,6 +3992,93 @@ date,user,type,ioc,tags,context
 2026-07-25,tweetfeed,URL,http://sp3ct-hesrik-biz8-qolvak-durem.pages.dev,malware,https://x.com/scanmalware/status/2081059443932901865
 2026-07-25,tweetfeed,URL,http://124.198.132.5,n/a,https://x.com/skocherhan/status/2081062135308693722
 2026-07-25,tweetfeed,URL,http://krnaver.com,n/a,https://x.com/skocherhan/status/2081068414479585425
+2026-07-25,tweetfeed,URL,http://dist.vertexengine.cc,n/a,https://x.com/skocherhan/status/2081087626472251777
+2026-07-25,tweetfeed,URL,http://104.223.50.181,phishing,https://x.com/Malwarehunterr/status/2081092485154296168
+2026-07-25,tweetfeed,URL,http://microlsireqjn.com,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,URL,http://carogra.biz,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,URL,http://myrtler.biz,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,URL,http://utiliq.xyz,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,URL,http://aethernetworking.cc,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,URL,http://pop.aethernetworking.cc,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,URL,https://renfe.my.id/bSqKolWKCF,phishing,https://x.com/PhishStats/status/2081109289498771541
+2026-07-25,tweetfeed,URL,https://return.st/216.146.31.1,n/a,https://x.com/skocherhan/status/2081114346449469637
+2026-07-25,tweetfeed,URL,http://project.ogeskitchen.com,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,tweetfeed,URL,http://wpadminprojects.space,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,tweetfeed,URL,http://www.beykozolay.com,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,threatfox,HASH_SHA256,fda5556e3fa55664509ab396469d00939b0ac6260d01c8cdfbde999ee3a9d0ab,"win.netwire, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,1ba28ed44b1be838f303f53c5388cf1b007212798d50bb3e82932cfc06d7f6dc,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,44acb3159fd6e085d3fce3991211912252edbe24c2a1b94b04d55431edab2630,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,4f4f30d07cc0ed90a92e39b637da4dc99aa76f36cff2362d4d907d77a2465ee5,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,6925fdec115ca580da0c37cf3804ec6252d1210a4af5acc205bf695aa8d0e0e9,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,7949631d3490ed9fb6b63aff678f7b203df719fe75e671ea16975c6b873010dd,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,9eacc45bc8c6a2e4954e116d9cd8add64f89e14d1c7d6c1c0027ba6d93c6086a,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,bb313ea63402edd0fac30bad39a56e2405bee5b4f07013b09af72ef6c382a731,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,ad5b27155e1f34fad298c6889dbc845692f5861ad7ea835c42e991640470909f,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,e5bccb979fef3945c64622c6ad4461947eca123465f2989d9f4af879fd467890,"jar.crossrat, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,b08f921c92a29a0a8449ee27d6860597d7a34baf8d609ca7dbcb06c32d5b2f80,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,155d1dce8e17b107b531b80b648f1a3fcbcbed764d76a39b0b3972d9424dd2f7,"win.njrat, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,1fd16cdde518d79227aedb9cec2e3b69ee47727e119cd8cec611cf1320e61265,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,748c32e3718319e569d7a71eab5ace7589ed012764902b55475faab82a63c89b,"jar.crossrat, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,52f447218c94376f552d1c2b5bfa01c4ef2b5d32ac9ac061236cd286a9efba67,"win.coinminer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,bae3dd2745c3822b1bc6b869f10bf56167195452dd65104d76f5089537ab6fc2,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,99076f5c4404f5ead7b4489b055ea199d6e145ab7194e3e3fa4a8fe2634f6bb9,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,7b16b0dda74cc8410364fd32d1b16ec9d2961a77dfbc6167f4bf908904e92a98,"win.valley_rat, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,377f0aa03ac75e555ef3c7299faa1725452cd18966c4ce53622719dd6e5f5cf8,"py.venus_stealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,c48e3a289464eec1e638c36ec12996e1c3e71d4b0c098baf94f89086c2ac69d7,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,004ee466e951b32eaf7d0e611050efb1d9f9261c64d69ffc9d8c6a84836fc365,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,005fa4606e1c5f4e382a302d5da1a00a8204316848a2fa7e58600b2faa52f12a,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,00cb8d48f2571613e9bd7e9ef93986009cb5c075a9079f10d274910128f5bd40,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,007256dae6b6239ab6774958cbac6ceae190df52278bc66e18ed05764be811c4,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,00dc46d870422064f4f0570db6774034349e5927eb32d0d1b784475d2f77294a,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,00e5c871d833b8b97bb7401591044dd92a52c20207e2f693d99e9175c9ef7e28,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,01b5e2711d157c6aec9a981bd3f74d9153aef5789f3463e3de472e4cf05ca990,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,53030654fbe1aef7d34abb151ac5725291f9a880d1fa2ee5b174445abfab6d58,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,1fbeebd50284ce6fa42e48fcd3a36a8b27ee0a2f1b9ff8b4674f5bcdf4549ad7,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,00eca1a382560f46f042bcc2fd972dddca20768d3ec13448f5d43bf5d5f54002,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,b234d7021ec9c148ad3f4cd0d45368f7694fd78ed9728e66c13f00a87994dcce,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,d33fe738471c6f21f7f9c2c56893c5e286f110bb0eb242ec1b3f9145fccdaf79,"apk.facestealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,d9caf6b0f7220657c8ebd40ee6e8a20ce2ff71b977d99553c3db0b59bb0eaad9,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,fbf4ef28c4b49c6304d23a738afabf8981590eae8585834bf24e3c7e87163c1a,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,1cfa40843d9e169e9df5d61ab7b6cc6db59a3237b8a3ca9a3fa047ef836d7453,"win.vidar, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,08161e05c4971e5a566f534a6690cbf8a42470744855524834bd510b6229c172,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,c674994e24fe2c51bc8c4c0dc76ae844f0b16e54870602302b75497a417a2557,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,2d9adcb653a222351652077abc838e027fa814f120741c7fb4f14d71d03f9fa0,"win.overlord, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,20541efb895ad4079d4dbd7234c661c15b77d67085d67a0582a1b80fa093c16b,"win.overlord, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,e0a5189ebecb70081ad4ddc0f94f2aafdae713f72302ceb259690b0d4c6a261f,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,7153c7609816c1a5c2882dd7889cd2db9050813f3e5220f76e19f238709ad2d2,"win.vidar, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,a0c5ebaa47f0cf3d8cd695d66b8c5e5561afd30da1b2f4d73f3736dca35efba7,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,fcbc96043c0217e9b62e9329d6b98ecf5223ee0e3976ed5ac83c263428c2d947,"apk.clipper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,9d213d633161dd70b082f47ff0a55cacdd37e871af84e9da17f8ab51555d764d,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,cd62ae8b73fe8129e2912975108f4e9881b872a5e0219c880721c2107bfd4058,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,be14447b6480a1e999401100061a9c999992d96ec12eaaa86d796cf486d3db99,"win.maskgramstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,fb161cc64fab576a19e3ccc99bcaf69b3960ab8929b0d636061514d7cdf1b06a,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,faad7b41abeef3da7099a6815d7799c647108a13d2fc397ab2ee468899c8a5c4,"win.remotex, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,d15749f77571b9aeb35c82944783d149b45ef7a55a51fd36244be74a9d66c291,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,3ce59f9ba6c5ba98cace75c4d68e1e157b43d30747f4078a91d517a9f3b27e66,"elf.kuiper, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,d58ce6cac24a1c453f868afc0d2bc3e3cc32f430bd0c93be395f76c7de2d2fd8,"win.wannacryptor, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,e2da32f62c86eea0510dba268c1bd5a51e7bd6dd869a70089da2fa292e325e71,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,f4c635ed4761ec8bf5f0b2355afee43110093952eb2b13441b64ac1a93bfbc40,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,3de53a836a8bdfab5e23339d6fd8ac680beb6d6d7f8f7f81fcb53044a1fe2c97,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,cbd39a1bfb6a591298418c026ac5499733abd16236f412e29082085c476dde49,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,19b21214dd78b3a065128d30499eb976921a41807219cee3e93a90923f1db155,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,3a11c263682f30013c8296fc6aaf0346033b48bd9aea2c4c9c1edbc2877622df,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,47377911b9784cf8379421a5da97eb06e3931d34ab87086e3384478b7893343c,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,0696fd2ed2a522cd1ed53e2a99adae2c79db3ffc993c20155d936f355698f485,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,c45401463f0b09ee869597da52050a3beb89194c12c7f7a08b7bc7e44f425415,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,9b09f24903d7f94aeeb26b25c495f256692322a99e650fca4e886fa90c94b2dc,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,cfef64ebd87c672631f63f65e30f3b14815f690a8a922b38fbe34c3dffbdece1,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,e62cc271c23df1c9473a6c6d486a76e5b1e429702e791aebbe7dfa5eecece0ca,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,364d3883e81da01bb449083552e5f1526ec734bdf40b27e71a4670fc3df12e76,"win.xoriumstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,d1385115e76ee9953b959bfb963aaee1a77a2862842b6995dc057fef332bac10,"win.formbook, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,a7829a27c6c2f6d93cc7bcae6069a511a4c466ce3b99df09147a741477a4fcc3,"win.salatstealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,31a762fdce1008e635a5e6486d7bc50b4bce671c9232006216e70cd8f2a4a7fb,"win.agent_tesla, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,e76d373869783dc10414994a1f2a052f8740e257372f4d4de17615cde3c87a3f,"py.venus_stealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,2880c19f853059bae15a838d1320f728d3f681ff8bdfe22d455bc0335d317c7f,"py.venus_stealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,2a5050ebca4c8fa135b80503d1d2bdf77ec30e8089cbd318a939888048957b55,"win.vidar, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,93f44970a8af6f0f348f79843fb0e182d5057e4eb4e3a0623b1aebf27251fe5d,"py.venus_stealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,cf426ee0da8f8907c42dfe264552ec560d5a97ff85ec7a7bf4518e773b19ce50,"py.venus_stealer, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,4f8df06e14378fef16c78183525ba7c0dbcc5176e92ae20102d6ea25dbccbf1d,"win.vidar, sha256_hash",n/a
+2026-07-25,threatfox,HASH_SHA256,bdabc7198cc94abbf0446bda43a21128c548f8fa3e039562502e308de3a890b6,"win.phorpiex, sha256_hash",n/a
 2026-07-18,tweetfeed,DOMAIN,ajvcu.cn,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,DOMAIN,bitbrarwser.com,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,DOMAIN,ndiewh.com,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
@@ -5541,6 +5627,92 @@ date,user,type,ioc,tags,context
 2026-07-25,tweetfeed,DOMAIN,sp3ct-delvak-biz8-harqik-mured.pages.dev,ransomware,https://x.com/scanmalware/status/2081049512135500070
 2026-07-25,tweetfeed,DOMAIN,sp3ct-hesrik-biz8-qolvak-durem.pages.dev,malware,https://x.com/scanmalware/status/2081059443932901865
 2026-07-25,tweetfeed,DOMAIN,krnaver.com,n/a,https://x.com/skocherhan/status/2081068414479585425
+2026-07-25,tweetfeed,DOMAIN,dist.vertexengine.cc,n/a,https://x.com/skocherhan/status/2081087626472251777
+2026-07-25,tweetfeed,DOMAIN,sabadocomofertasnahavan.shop,"phishing, scam",https://x.com/Coolcarlos17/status/2081106674031394969
+2026-07-25,tweetfeed,DOMAIN,microlsireqjn.com,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,DOMAIN,utiliq.xyz,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,DOMAIN,aethernetworking.cc,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,DOMAIN,pop.aethernetworking.cc,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,DOMAIN,project.ogeskitchen.com,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,tweetfeed,DOMAIN,wpadminprojects.space,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,tweetfeed,DOMAIN,beykozolay.com,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,tweetfeed,DOMAIN,anollda.com,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,tweetfeed,DOMAIN,hemloperations.com,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,tweetfeed,DOMAIN,imacksectorobs.icu,phishing,https://x.com/Malwarehunterr/status/2081117477036253368
+2026-07-25,threatfox,HASH_MD5,731219563f05a61e639b645f4892d6cb,"win.netwire, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,41faa6070b56ee395b5f811008213b03,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,687136a7d7e1c1e201913a6168e047ac,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,a554260842be80f9fddffcb47f203d43,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,f7a9be6e4140bb14d916bd73f0868aad,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,b8d3dfe5aff8f0c8955038c174e70195,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,88789a1cc82d672509fc1ce33dff1fe8,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,5323cf5c653ed0d88b92e934d1c7aff6,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,0c2577473d74812f1236f9b799657b49,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,cc7e9ae7f054d90355af2dd379625ec3,"jar.crossrat, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,9ef42799d880c522be09618a03a7b9e6,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,0268fde13e99c555ed4a4c6ef193b9ea,"win.njrat, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,de4b52b0f65e583ab1be4564a3e863c6,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,c29ddb54bb464846ba7e2de1d3eff471,"jar.crossrat, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,5a59127af8fcd4d20671f83f4ea243a7,"win.coinminer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,a71ebf9fd2b7e1969f15e73c9c6eda6e,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,6fe286907a6a28e94425df612efe40c7,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,8fa335df29a65265e791f22f053200b8,"win.valley_rat, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,54e487a440d73b2e2ada3b012c221268,"py.venus_stealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,ebcf21be8b00200b2ffba93aa86ab6d4,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,dcfa838bccb8d683e124b106fdb8a75b,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,24338d2e35bd0bf40aee61ed5f54b48a,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,154776e2ade2e0ef31b5e2752f30f6b4,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,04e0c05f989f7f60892b0c1670dd9ca1,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,b570ca54a362a61ad5237681c90e1523,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,534e81996c3cc467ac4441170608b58e,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,e5ca659a13cad28aae3f8494f600d74c,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,77307555f8d4076fe040ddc0ab1f0fea,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,30d0e8c5d3deac9607282a0c49bd1cf2,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,abe1f41e3fd3c7e3dbcc986426f694dd,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,a96181ed94ae70267b7f64383b29246c,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,04cb543da02c2227c4ec3a17d72d41fb,"apk.facestealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,d33e96d3fab0ef6266c645266c1312d0,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,fa80df233f896120abded61035b868ec,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,11b0e224ad2108cc24be3918299c2c3e,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,91092ecc0a5a3866dea9fb5088e6ad74,"win.vidar, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,e6a5add76044236710a699d28da24437,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,f3a81cd70d0c86700e45b9de40644c87,"win.overlord, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,f2bc1f451548fadcaa799ab9d46782ba,"win.overlord, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,9bd97475aa0d8fb22a284d070a2ee795,"win.vidar, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,5819a7037df52589bf6de48a85cc0b76,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,b4a65477542b3799b10940edaca3067e,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,445145d633ac80e6149cdb46374f2f45,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,79f30bbec34fbbd5fe391949dc6af0e0,"apk.clipper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,9115bd384681bae8ad1fda391f0f3235,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,9d15fd606542c103035ec3a3b9ec8da8,"win.maskgramstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,1dcab6f5621e7c3b7096bf817bf5ba5b,"win.remotex, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,c861ff93e1836ff9b0117fdf0960698d,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,f829810332b993b28f0a3f40cda8c589,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,fb1f416ee85327a14fcecae86e35eb67,"elf.kuiper, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,0e95388031bc357808ae5c06bd70640b,"win.wannacryptor, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,e811e3e6d9e7ba41c7cd64e4d24999ea,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,a77d976fbff17ce256e18d5ad1935c48,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,e7b0885f84c96d3d3c5a133f6406d678,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,7c54db36b3f281e62fbeedcfc3df0334,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,cf50721c59df8b48d1e5b7d52273de2a,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,07b9dd4ef7ab29f740a0d38bac2b61b0,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,a1afa2cf674e56a055b95de0a7c27d99,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,b67c8964f2cfa9ed322d586d8ba8089b,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,8cbef6881dc0e6869634c1c719220912,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,075ec71d3218db4742c584452a9dcdbf,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,3b23e3489c42b7d1dd895be45667ae06,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,7ceeb0955c8bd51f57b3ea264316e1ad,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,ceb87ea810e8222d416234bed15f36bb,"win.salatstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,65c3aa0a48027921f2f94df9fd45c422,"win.xoriumstealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,7503c336e6854e0fd68af9dca257b930,"win.formbook, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,0b905aa2442d333f5c3bccc3724a5d7a,"win.agent_tesla, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,2c04e7af16f472c1354448f81b7a7ffe,"py.venus_stealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,a5cd6f31554350d552c42dc0320c85cb,"py.venus_stealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,c7fe8f4f25bad097efcadcd798da0a46,"win.vidar, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,7ed591cb63556c9df3ccc1077c9a434d,"py.venus_stealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,0755a7cc6c033ed6f38280a4dd78c3e8,"py.venus_stealer, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,b6ea03ecc9f09124603cfde6c0017483,"win.vidar, md5_hash",n/a
+2026-07-25,threatfox,HASH_MD5,1b27f8fc61f3c0d5798c71e88678c68a,"win.phorpiex, md5_hash",n/a
 2026-07-18,tweetfeed,HASH_SHA256,cb3bab4143f7d138b360856e13aa93cf519fa8b03749f229d0c3ce00c30d5700,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-18,tweetfeed,HASH_SHA256,955415f950e1278a041992f6c6494b1d482861a78effb2c871907b21258631b0,ClickFix,https://x.com/Malwarehunterr/status/2078589994776895931
 2026-07-19,tweetfeed,IP,193.27.90.102,C2,https://x.com/Fact_Finder03/status/2078809886151045171
@@ -5804,6 +5976,8 @@ date,user,type,ioc,tags,context
 2026-07-25,tweetfeed,IP,94.249.203.150,"C2, malware",https://x.com/skocherhan/status/2081048325415903318
 2026-07-25,tweetfeed,IP,46.246.99.135,"C2, malware",https://x.com/skocherhan/status/2081059365084164376
 2026-07-25,tweetfeed,IP,124.198.132.5,n/a,https://x.com/skocherhan/status/2081062135308693722
+2026-07-25,tweetfeed,IP,104.223.50.181,phishing,https://x.com/Malwarehunterr/status/2081092485154296168
+2026-07-25,tweetfeed,IP,103.179.190.58,n/a,https://x.com/sicehice/status/2081113859947970962
 2026-07-20,tweetfeed,HASH_MD5,7c6372580a9e78e8caff7ba50ef859aa,CobaltStrike,https://x.com/500mk500/status/2079271324946448628
 2026-07-21,tweetfeed,HASH_MD5,bfb1c77ba8cbacc45ff06443b2997ca5,phishing,https://x.com/skocherhan/status/2079517966756884948
 2026-07-21,tweetfeed,HASH_MD5,5c92d3b8734b4f498752f735a1ca0987,n/a,https://x.com/stop_spammerz/status/2079534358914850868
@@ -5842,3 +6016,8 @@ date,user,type,ioc,tags,context
 2026-07-25,tweetfeed,HASH_MD5,170785080ba3a811c99d2f50be3a238e,n/a,https://x.com/skocherhan/status/2081067268063055933
 2026-07-25,tweetfeed,HASH_MD5,8435587bfe68d7e6da8fa8370f4482dd,n/a,https://x.com/skocherhan/status/2081068414479585425
 2026-07-25,tweetfeed,HASH_MD5,8552951ec6ab253e038ffc809235b08c,n/a,https://x.com/skocherhan/status/2081068414479585425
+2026-07-25,tweetfeed,HASH_MD5,7e44b420b694043a79b27afd087e69ce,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,HASH_MD5,7d2ba6aea3af36507cc5e6c23741bb04,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,HASH_MD5,331dc3004c365938ff7c66177e36a25f,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,HASH_MD5,876f82d8c6c1b5bb62fc2909ab2a2f2a,n/a,https://x.com/skocherhan/status/2081108439443386490
+2026-07-25,tweetfeed,HASH_MD5,170d441d0a4c6177ece5a3813f732546,n/a,https://x.com/sicehice/status/2081113859947970962
