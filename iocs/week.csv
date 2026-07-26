@@ -556,12 +556,7 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,URL,http://59.96.137.70:47200/Mozi.a,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,http://202.63.209.63:43046/Mozi.7,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,http://103.197.112.230:57672/Mozi.m,"elf.mozi, url",n/a
-2026-07-19,threatfox,DOMAIN,wz43qign.houseofhakka.com,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,houseofhakka.com,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,qpduk.hazaratbet.bet,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,vectorpointbit.veloria.garden,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,silicon8host.veloria.garden,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,alpha4gateweb.glenmora.garden,"js.clearfake, domain",n/a
+2026-07-26,threatfox,URL,https://landlordsolutions.uk/,"unknown, url",n/a
 2026-07-19,threatfox,DOMAIN,moszp.jetbet.download,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,edtbi.jetbet.download,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,zwhun.hazaratbet.bet,"js.clearfake, domain",n/a
@@ -2104,6 +2099,12 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,DOMAIN,ciemaster.com,"win.vidar, domain",n/a
 2026-07-26,threatfox,DOMAIN,apaearaxa.org.br,"win.vidar, domain",n/a
 2026-07-26,threatfox,DOMAIN,wpteamcdn.beer,"unknown, domain",n/a
+2026-07-26,threatfox,DOMAIN,dns1.dreamls.com,"win.cobalt_strike, domain",n/a
+2026-07-26,threatfox,DOMAIN,dns2.dreamls.com,"win.cobalt_strike, domain",n/a
+2026-07-26,threatfox,DOMAIN,mboxao.lipoviveofficials.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,mainstreetcarpetsc.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,lowfeesrealtors.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,m1brakes.com,"js.clearfake, domain",n/a
 2026-07-20,tweetfeed,URL,https://paraminasconstrucao.com,"phishing, scam",https://x.com/Coolcarlos17/status/2079016905369641470
 2026-07-20,tweetfeed,URL,https://luzitanacasa.com,"phishing, scam",https://x.com/Coolcarlos17/status/2079017336737026372
 2026-07-20,threatfox,HASH_SHA256,b59653f1e2b8dae784ca4211199d2887ea676d27e7af9d057a625cf9281c17e0,"win.redline_stealer, sha256_hash",n/a
@@ -4283,6 +4284,8 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,URL,https://inbio.me/EE,phishing,https://x.com/PhishStats/status/2081470588741153122
 2026-07-26,tweetfeed,URL,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion,n/a,https://x.com/JRoosen/status/2081475549231284729
 2026-07-26,tweetfeed,URL,https://mzrst.com,malware,https://x.com/ppeepuppy/status/2081481756172238960
+2026-07-26,tweetfeed,URL,http://175.107.237.163:37596/Mozi.m,n/a,https://x.com/sicehice/status/2081498504455733515
+2026-07-26,tweetfeed,URL,http://58.37.101.152:39822/Mozi.m,n/a,https://x.com/sicehice/status/2081498755753296147
 2026-07-20,tweetfeed,DOMAIN,paraminasconstrucao.com,"phishing, scam",https://x.com/Coolcarlos17/status/2079016905369641470
 2026-07-20,tweetfeed,DOMAIN,luzitanacasa.com,"phishing, scam",https://x.com/Coolcarlos17/status/2079017336737026372
 2026-07-20,threatfox,HASH_MD5,8c21b2fbded2faeb6db2e7a20c513cdb,"win.redline_stealer, md5_hash",n/a
@@ -6425,6 +6428,8 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,IP,95.216.118.146,n/a,https://x.com/w0rmsign/status/2081462921209561236
 2026-07-26,tweetfeed,HASH_SHA256,41986e5a10e7d708d74a8758a0dfc543fcaae48fe238a4b82194da0292338c14,n/a,https://x.com/smica83/status/2081468595528217014
 2026-07-26,tweetfeed,IP,199.36.158.100,phishing,https://x.com/PhishStats/status/2081470588741153122
+2026-07-26,tweetfeed,IP,175.107.237.163,n/a,https://x.com/sicehice/status/2081498504455733515
+2026-07-26,tweetfeed,IP,58.37.101.152,n/a,https://x.com/sicehice/status/2081498755753296147
 2026-07-20,tweetfeed,HASH_MD5,7c6372580a9e78e8caff7ba50ef859aa,CobaltStrike,https://x.com/500mk500/status/2079271324946448628
 2026-07-21,tweetfeed,HASH_MD5,bfb1c77ba8cbacc45ff06443b2997ca5,phishing,https://x.com/skocherhan/status/2079517966756884948
 2026-07-21,tweetfeed,HASH_MD5,5c92d3b8734b4f498752f735a1ca0987,n/a,https://x.com/stop_spammerz/status/2079534358914850868
