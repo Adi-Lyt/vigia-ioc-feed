@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-19,threatfox,URL,https://fsc.arizonafamilylawfirm.com/,"win.vidar, url",n/a
 2026-07-19,threatfox,URL,https://htk.arizonafamilylawfirm.com/,"win.vidar, url",n/a
 2026-07-19,threatfox,URL,https://qrt.arizonafamilylawfirm.com/,"win.vidar, url",n/a
 2026-07-19,threatfox,URL,https://amazon-ny-gifts.com/shellsajshdasd/ftpaksjdkasdjkxnckzxn/ywOVkkem.txt,"unknown, url",n/a
@@ -553,13 +552,15 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,URL,http://101.53.228.185:48530/Mozi.m,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,http://103.225.191.6:54880/Mozi.m,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,https://consultingroomsbirmingham.co.uk/,"win.vidar, url",n/a
-2026-07-19,threatfox,DOMAIN,formonstore.com,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,uaycwz4b.nextbahis.blog,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,fsc.arizonafamilylawfirm.com,"win.vidar, domain",n/a
-2026-07-19,threatfox,DOMAIN,wgp8mmcl.nextbahis.app,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,hzzgoxjvb.pdfbama.com,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,ekjcg.gettalloway.com,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,gettalloway.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,URL,https://kcredit.io.vn/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://www.fmanmachines.com/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://www.k9curated.com/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://www.dooball.bz/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://net-work.web.id/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://cashspace.xyz/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://www.centroesteticakarisma.it/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://bestvegasattorneys.com/,"unknown, url",n/a
+2026-07-26,threatfox,URL,https://www.bestcriminallawyerdelhi.com/,"unknown, url",n/a
 2026-07-19,threatfox,DOMAIN,fadedfractal.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,c4rr1-switch.fashina5pread.garden,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,hollowash.fashina5pread.garden,"js.clearfake, domain",n/a
@@ -2115,6 +2116,11 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,DOMAIN,ikhebkankerinmijnrechterteelbal.st,"unknown, domain",n/a
 2026-07-26,threatfox,DOMAIN,lsivqj.kkslot777.asia,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,ipmoyu.com,"elf.jackskid, domain",n/a
+2026-07-26,threatfox,DOMAIN,lsgalu.lltreeremoval.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,lltreeremoval.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,comb.betyek.store,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,s8yeyqet.enus-metabodrops.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,ar16clz9.metrodesignconcepts.com,"js.clearfake, domain",n/a
 2026-07-19,tweetfeed,URL,https://cqurg.com/JxBgwINm/,phishing,https://x.com/masaomi346/status/2078855556069212637
 2026-07-19,tweetfeed,URL,http://okekjaiw.click,malware,https://x.com/FABO97662188/status/2078905505418760481
 2026-07-19,tweetfeed,URL,http://8jdjpwka.baby,malware,https://x.com/FABO97662188/status/2078905505418760481
@@ -4169,6 +4175,50 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,HASH_SHA256,f2671998df35ac2bb333747d3a6bcabeb10b285f4596d97ba66dfa2349f303d3,"unknown, sha256_hash",n/a
 2026-07-26,threatfox,HASH_SHA256,f3b927cad2739bc0a0f2d5a6f8f72e552ab0685149b58b8ff3e25fd8fce0a3fe,"unknown, sha256_hash",n/a
 2026-07-26,threatfox,HASH_SHA256,fbae207bcd09e0e505ebbc319460693130843655853dba07f47eed277afdcc66,"unknown, sha256_hash",n/a
+2026-07-26,tweetfeed,URL,http://en36d1y3x078x6e.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://en7brhxplmzjhqd.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://en8ex9t5x62xh8j.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://en8mao5ztmkvvj4.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://enfiniql2buev6o.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://enhefltfk6lkkg.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://enl26cuw0kz8dp5.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://enn8qyorvduubar.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://ent943y5tpj9hth.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://envwydqh12tolzy.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://enyd70em3mq3ha4.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo1yvguro5fxcmr.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo2gxj0b4ckepcl.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo2kq5dcgjcbwow.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo2mxtqmeqzafqi.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo2zh8uirqsjut7.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo33ayomfh72axw.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo45bevx07aaqo1.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo4my11nemxkmqn.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo5e1lf8irqabnv.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo62krf6hlwltgs.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo7kgfy503exk1a.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo7sipfapd352r.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo8h7pi228eewbj.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eo8wopqlt5g9yrc.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoahgl4pezvrojk.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eobg04lu58l17sv.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoda72g8cz688o7.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eogda17r9lql7cl.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eogf5ocftnzns2c.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eohftoeff78z9gn.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eohqu3f64bwk0ok.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoi7d326i197q9f.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eojhnk1qdqyvh49.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eojv8twqsaxqheb.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoko2mj7s8gld8d.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eolmtzulpct0cnn.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoml42e9ob2br00.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoocwlwy1kka5jh.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eouk69piu17mbqm.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoux7sn0ctfzdru.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoxbjtzd2uvfldl.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eoypclmx1y9vxws.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,URL,http://eozud98w9ly2iq4.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
 2026-07-19,tweetfeed,DOMAIN,cqurg.com,phishing,https://x.com/masaomi346/status/2078855556069212637
 2026-07-19,tweetfeed,DOMAIN,okekjaiw.click,malware,https://x.com/FABO97662188/status/2078905505418760481
 2026-07-19,tweetfeed,DOMAIN,8jdjpwka.baby,malware,https://x.com/FABO97662188/status/2078905505418760481
@@ -5916,7 +5966,50 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,DOMAIN,facebook.alheekmah.edu.pk,phishing,https://x.com/phishunt_io/status/2081348991338320301
 2026-07-26,tweetfeed,DOMAIN,paraticenter.com,"phishing, scam",https://x.com/Coolcarlos17/status/2081350382945448008
 2026-07-26,tweetfeed,DOMAIN,eobdzec833knbura.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081356378589823446
-2026-07-19,tweetfeed,IP,103.125.254.83,"C2, RAT",https://x.com/Fact_Finder03/status/2078827948216647894
+2026-07-26,tweetfeed,DOMAIN,en36d1y3x078x6e.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,en7brhxplmzjhqd.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,en8ex9t5x62xh8j.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,en8mao5ztmkvvj4.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,enfiniql2buev6o.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,enhefltfk6lkkg.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,enl26cuw0kz8dp5.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,enn8qyorvduubar.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,ent943y5tpj9hth.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,envwydqh12tolzy.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,enyd70em3mq3ha4.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo1yvguro5fxcmr.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo2gxj0b4ckepcl.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo2kq5dcgjcbwow.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo2mxtqmeqzafqi.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo2zh8uirqsjut7.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo33ayomfh72axw.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo45bevx07aaqo1.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo4my11nemxkmqn.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo5e1lf8irqabnv.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo62krf6hlwltgs.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo7kgfy503exk1a.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo7sipfapd352r.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo8h7pi228eewbj.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eo8wopqlt5g9yrc.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoahgl4pezvrojk.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eobg04lu58l17sv.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoda72g8cz688o7.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eogda17r9lql7cl.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eogf5ocftnzns2c.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eohftoeff78z9gn.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eohqu3f64bwk0ok.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoi7d326i197q9f.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eojhnk1qdqyvh49.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eojv8twqsaxqheb.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoko2mj7s8gld8d.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eolmtzulpct0cnn.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoml42e9ob2br00.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoocwlwy1kka5jh.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eouk69piu17mbqm.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoux7sn0ctfzdru.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoxbjtzd2uvfldl.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eoypclmx1y9vxws.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
+2026-07-26,tweetfeed,DOMAIN,eozud98w9ly2iq4.m.pipedream.net,n/a,https://x.com/skocherhan/status/2081362376964669512
 2026-07-20,tweetfeed,IP,23.27.180.36,n/a,https://x.com/banthisguy9349/status/2079034460901929367
 2026-07-20,tweetfeed,IP,79.76.52.42,n/a,https://x.com/2eroHunter/status/2079023331874128204
 2026-07-20,tweetfeed,HASH_SHA256,41ee7ddb2be173686dc3a73a49b4e93bc883ef363acca770f7ede891451122ab,n/a,https://x.com/banthisguy9349/status/2079077405113860398
