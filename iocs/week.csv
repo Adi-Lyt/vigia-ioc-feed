@@ -5,8 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-19,threatfox,URL,https://kayhector.com/,"win.vidar, url",n/a
-2026-07-19,threatfox,URL,http://185.132.133.140,"unknown, url",n/a
 2026-07-19,threatfox,URL,https://alababababa.cloud/cVGvQio6.txt,"unknown, url",n/a
 2026-07-19,threatfox,URL,https://productionai.shop/recaptcha-verify,"unknown, url",n/a
 2026-07-19,threatfox,URL,http://95.164.53.115:5506/do.vbs,"unknown, url",n/a
@@ -563,10 +561,6 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,URL,https://contextio.one/trfbvzqmny/assets/js/script.php,"unknown, url",n/a
 2026-07-26,threatfox,URL,https://eco-megalabs.com/,"unknown, url",n/a
 2026-07-26,threatfox,URL,https://tecnotetto.ch/it/,"unknown, url",n/a
-2026-07-19,threatfox,DOMAIN,lqcah.cheaperthan-dirt.com,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,cheaperthan-dirt.com,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,olotu.cardanaircraft.org,"js.clearfake, domain",n/a
-2026-07-19,threatfox,DOMAIN,cardanaircraft.org,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,bikertlane.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,royaldoorsspringdale.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,DOMAIN,4yl6u62i.pdfbama.com,"js.clearfake, domain",n/a
@@ -2075,6 +2069,8 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,DOMAIN,usen-pegasus.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,fjedaz.us-en-pegasus.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,us-en-pegasus.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,extranet-helpdesk15.com,"js.tonrat, domain",n/a
+2026-07-26,threatfox,DOMAIN,ealzou.ushealthlaboratories.com,"js.clearfake, domain",n/a
 2026-07-19,threatfox,HASH_SHA256,b1a6dba6636b519d76d7219f6264ac9f1456681c0855baef954fb435d3e25ce5,"elf.mirai, sha256_hash",n/a
 2026-07-19,threatfox,HASH_SHA256,bf38b3e5d645c78377599a6c218a347312c5a3daef693c7931f2710806d85317,"elf.mirai, sha256_hash",n/a
 2026-07-19,threatfox,HASH_SHA256,f5cb6dadaee4399a1f014ef5946d0a4c1af578d15ff078e725e0757f28dc8493,"elf.mirai, sha256_hash",n/a
