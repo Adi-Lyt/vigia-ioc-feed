@@ -34,8 +34,6 @@ date,user,type,ioc,tags,context
 2026-07-25,threatfox,URL,https://silenttunnelzone.top/token/token-controller.js,"js.smartapesg, url",n/a
 2026-07-25,threatfox,URL,https://contextio.one/trfbvzqmny/assets/js/script.php,"unknown, url",n/a
 2026-07-26,threatfox,URL,https://eco-megalabs.com/,"unknown, url",n/a
-2026-07-25,threatfox,DOMAIN,a6ybbuqh.eaglepasstoday.com,"js.clearfake, domain",n/a
-2026-07-25,threatfox,DOMAIN,dnxmrhdnqiybpdmia.infinityjoespizzaclearwater.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,dxuqwuwuofecqgqgb.greenpulselandscaping.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,greenpulselandscaping.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,appujqrcbzsmxdjcs.greatcarprofessionalwindowtint.net,"js.clearfake, domain",n/a
@@ -388,7 +386,8 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,DOMAIN,memap.me,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,ylprof.metrodesignconcepts.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,pawyjf.metrodesignconcepts.com,"js.clearfake, domain",n/a
-2026-07-25,tweetfeed,URL,https://whop.com/checkout/plan_TQMOHUp7AzuJS/?session=ch_vzzKXzRMilUrJwm,phishing,https://x.com/PhishStats/status/2080837086647595283
+2026-07-26,threatfox,DOMAIN,jksdav.mireyasflowersshop.com,"js.clearfake, domain",n/a
+2026-07-26,threatfox,DOMAIN,mireyasflowersshop.com,"js.clearfake, domain",n/a
 2026-07-25,tweetfeed,URL,https://semprecardsecure.com/variants/variant_01.apk,Android,https://x.com/JAMESWT_WT/status/2080959018067984492
 2026-07-25,tweetfeed,URL,https://semprecardsecure.com/variants/variant_20.apk,Android,https://x.com/JAMESWT_WT/status/2080959018067984492
 2026-07-25,tweetfeed,URL,http://154.29.74.158,n/a,https://x.com/skocherhan/status/2080981156929953809
@@ -532,6 +531,7 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,URL,https://outlookmailwww.webcindario.com,"phishing, scam",https://x.com/phishunt_io/status/2081154321601724752
 2026-07-26,tweetfeed,URL,http://125.47.207.244:49245/Mozi.m,n/a,https://x.com/sicehice/status/2081155746067034131
 2026-07-26,tweetfeed,URL,http://xfactor300.vercel.app,phishing,https://x.com/scanmalware/status/2081190275674783778
+2026-07-26,tweetfeed,URL,http://tampareroofing.com,"infostealer, malvertising, malware",https://x.com/masaomi346/status/2081204299615588769
 2026-07-25,threatfox,HASH_MD5,3bff059c64e6c65f02913352c7d1c28e,"win.adaptix_c2, md5_hash",n/a
 2026-07-25,tweetfeed,DOMAIN,renfe.my.id,phishing,https://x.com/skocherhan/status/2081007005339185360
 2026-07-25,tweetfeed,DOMAIN,posta-rs.cyou,n/a,https://x.com/skocherhan/status/2081008246437867844
@@ -652,6 +652,7 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,DOMAIN,gonusdask.com,phishing,https://x.com/skocherhan/status/2081148559143907593
 2026-07-26,tweetfeed,DOMAIN,outlookmailwebcindario.com,"phishing, scam",https://x.com/phishunt_io/status/2081154321601724752
 2026-07-26,tweetfeed,DOMAIN,xfactor300.vercel.app,phishing,https://x.com/scanmalware/status/2081190275674783778
+2026-07-26,tweetfeed,DOMAIN,tampareroofing.com,"infostealer, malvertising, malware",https://x.com/masaomi346/status/2081204299615588769
 2026-07-25,tweetfeed,IP,153.75.86.26,C2,https://x.com/Fact_Finder03/status/2080967294659056071
 2026-07-25,tweetfeed,IP,209.46.126.251,C2,https://x.com/Fact_Finder03/status/2080967836605043016
 2026-07-25,tweetfeed,IP,163.5.102.194,C2,https://x.com/Fact_Finder03/status/2080979122709545087
@@ -682,7 +683,6 @@ date,user,type,ioc,tags,context
 2026-07-25,tweetfeed,IP,155.254.25.34,phishing,https://x.com/Malwarehunterr/status/2081145926882939357
 2026-07-26,tweetfeed,IP,5.57.226.202,"phishing, scam",https://x.com/phishunt_io/status/2081154321601724752
 2026-07-26,tweetfeed,IP,125.47.207.244,n/a,https://x.com/sicehice/status/2081155746067034131
-2026-07-25,tweetfeed,HASH_MD5,4daf288ff0e5aabc3c0c7e4654c317d9,n/a,https://x.com/skocherhan/status/2080833294627656094
 2026-07-25,tweetfeed,HASH_MD5,d210c6ecc4061ad0aac193d892c4fbfd,n/a,https://x.com/skocherhan/status/2081065972606108014
 2026-07-25,tweetfeed,HASH_MD5,170785080ba3a811c99d2f50be3a238e,n/a,https://x.com/skocherhan/status/2081067268063055933
 2026-07-25,tweetfeed,HASH_MD5,8435587bfe68d7e6da8fa8370f4482dd,n/a,https://x.com/skocherhan/status/2081068414479585425
