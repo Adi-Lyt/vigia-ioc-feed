@@ -5,7 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-20,threatfox,URL,https://nenodescolado.com.br/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://dif.loloxsm188.top/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://aurorapavilion.top/acl/trace-serializer,"js.smartapesg, url",n/a
 2026-07-20,threatfox,URL,https://aurorapavilion.top/acl/principal-core.js,"js.smartapesg, url",n/a
@@ -560,13 +559,13 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,URL,https://reclaimingthemission.com/,"win.vidar, url",n/a
 2026-07-27,threatfox,URL,https://bauabach.lol/api/v1/session,"js.kongtuke, url",n/a
 2026-07-27,threatfox,URL,https://bauabach.lol/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-20,threatfox,DOMAIN,vastlogicweb.petalune.garden,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,stellar5bit.petalune.garden,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,clouderfaster.cc,"unknown, domain",n/a
-2026-07-20,threatfox,DOMAIN,wbpypinui.generososbakerycafe.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,generososbakerycafe.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,cglp.cleantruckchecksac.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,embvx.hazaratbet.bet,"js.clearfake, domain",n/a
+2026-07-27,threatfox,URL,https://appliedcontrols.in/,"unknown, url",n/a
+2026-07-27,threatfox,URL,https://silversapnm.com/,"unknown, url",n/a
+2026-07-27,threatfox,URL,https://weddenvoetbaltips.com/,"unknown, url",n/a
+2026-07-27,threatfox,URL,https://freshnewtracks.com/,"unknown, url",n/a
+2026-07-27,threatfox,URL,https://jeewanjee.com/,"unknown, url",n/a
+2026-07-27,threatfox,URL,http://117.252.241.93:50178/Mozi.a,"elf.mozi, url",n/a
+2026-07-27,threatfox,URL,https://vividanchorlab.top/auth/rate-script.js,"js.smartapesg, url",n/a
 2026-07-20,darkweb_forums,URL,https://t.me/Alphvforum,"darkweb, forum",commit 0bcb6578 / forum.md
 2026-07-20,darkweb_forums,URL,https://t.me/crackedstatusupdate,"darkweb, forum",commit 0bcb6578 / forum.md
 2026-07-20,darkweb_forums,URL,https://t.me/DarkForumsss,"darkweb, forum",commit 0bcb6578 / forum.md
@@ -2808,6 +2807,14 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,DOMAIN,qolpwy.akabespokejewellers.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,dsluen.akabespokejewellers.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,bauabach.lol,"js.kongtuke, domain",n/a
+2026-07-27,threatfox,DOMAIN,vucfhf.en-us-eachwaymultiplier.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,vizsfjtvzafvkdgsdt.mamaspizzansubsmenu.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,iwsbcy.en-us-eachwaymultiplier.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,kbnvuvtsfjksbqvdhj.mamaspizzansubsmenu.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,iiwado.en-us-eachwaymultiplier.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,en-us-eachwaymultiplier.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,rollingpi4512.icu,"js.iclickfix, domain",n/a
+2026-07-27,threatfox,DOMAIN,vividanchorlab.top,"js.smartapesg, domain",n/a
 2026-07-20,tweetfeed,URL,https://leophir.com/P4jlba9,phishing,https://x.com/PhishStats/status/2079205644196888699
 2026-07-20,tweetfeed,URL,http://146.19.216.119,n/a,https://x.com/SimoKohonen/status/2079217523984040270
 2026-07-20,tweetfeed,URL,http://178.16.52.93,n/a,https://x.com/Threatlabz/status/2079227567572492689
