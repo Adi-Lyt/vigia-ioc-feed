@@ -43,8 +43,6 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,URL,http://202.63.209.63:43046/Mozi.7,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,http://103.197.112.230:57672/Mozi.m,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,https://landlordsolutions.uk/,"unknown, url",n/a
-2026-07-26,threatfox,DOMAIN,ylprof.metrodesignconcepts.com,"js.clearfake, domain",n/a
-2026-07-26,threatfox,DOMAIN,pawyjf.metrodesignconcepts.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,jksdav.mireyasflowersshop.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,mireyasflowersshop.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,m5sqhbpy.qlaneturnstiles.com,"js.clearfake, domain",n/a
@@ -252,7 +250,8 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,DOMAIN,usa-tupitea.us,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,naftyv.usa-us-metabodrops.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,usa-us-metabodrops.com,"js.clearfake, domain",n/a
-2026-07-26,tweetfeed,URL,http://xfactor300.vercel.app,phishing,https://x.com/scanmalware/status/2081190275674783778
+2026-07-27,threatfox,DOMAIN,fzolfm.usen-burnflow.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,usen-burnflow.com,"js.clearfake, domain",n/a
 2026-07-26,tweetfeed,URL,http://tampareroofing.com,"infostealer, malvertising, malware",https://x.com/masaomi346/status/2081204299615588769
 2026-07-26,tweetfeed,URL,http://facebooksecurepage.blogspot.com,phishing,https://x.com/phishunt_io/status/2081273503483891850
 2026-07-26,tweetfeed,URL,http://legal-andlaw.com,n/a,https://x.com/banthisguy9349/status/2081300221024166173
@@ -647,7 +646,7 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,URL,http://walmartt.us,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,URL,http://premiumzoom.online,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-27,tweetfeed,URL,https://ooosn.top/PovamROI/,phishing,https://x.com/masaomi346/status/2081543335966347395
-2026-07-26,tweetfeed,DOMAIN,xfactor300.vercel.app,phishing,https://x.com/scanmalware/status/2081190275674783778
+2026-07-27,tweetfeed,URL,https://bioevhealthcare.com/x1wJeP?uid=aaaa@example.jp,phishing,https://x.com/romonlyht/status/2081556616793747848
 2026-07-26,tweetfeed,DOMAIN,tampareroofing.com,"infostealer, malvertising, malware",https://x.com/masaomi346/status/2081204299615588769
 2026-07-26,threatfox,HASH_MD5,32827e9bdf630d974531c2f715d2426c,"unknown, md5_hash",n/a
 2026-07-26,threatfox,HASH_MD5,8875172a0977677ce6e30277ef6fea79,"unknown, md5_hash",n/a
@@ -1074,6 +1073,7 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,DOMAIN,walmartt.us,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,DOMAIN,premiumzoom.online,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-27,tweetfeed,DOMAIN,ooosn.top,phishing,https://x.com/masaomi346/status/2081543335966347395
+2026-07-27,tweetfeed,DOMAIN,bioevhealthcare.com,phishing,https://x.com/romonlyht/status/2081556616793747848
 2026-07-26,tweetfeed,IP,109.236.92.46,phishing,https://x.com/phishunt_io/status/2081348991338320301
 2026-07-26,tweetfeed,HASH_SHA256,81bedb0639d5857c6d28b23b06cf87f812c1070d2c7c6ee8c985362a0ef2b873,opendir,https://x.com/BlinkzSec/status/2081387945420837179
 2026-07-26,tweetfeed,HASH_SHA256,dbf03ba27ac911cecc5e5f4402a0648d5c2e9544daddbf76fb53408a40b7f982,opendir,https://x.com/BlinkzSec/status/2081387945420837179
@@ -1094,6 +1094,7 @@ date,user,type,ioc,tags,context
 2026-07-26,tweetfeed,IP,199.36.158.100,phishing,https://x.com/PhishStats/status/2081470588741153122
 2026-07-26,tweetfeed,IP,175.107.237.163,n/a,https://x.com/sicehice/status/2081498504455733515
 2026-07-26,tweetfeed,IP,58.37.101.152,n/a,https://x.com/sicehice/status/2081498755753296147
+2026-07-27,tweetfeed,IP,202.69.74.130,phishing,https://x.com/romonlyht/status/2081556616793747848
 2026-07-26,tweetfeed,HASH_MD5,55f8d660ce1161e4c41e7e35293b60c1,n/a,https://x.com/skocherhan/status/2081342627459248376
 2026-07-26,tweetfeed,HASH_MD5,ae4283afa81bb6e63c56ca8eb72067e1,Lumma,https://x.com/skocherhan/status/2081419527913435394
 2026-07-26,tweetfeed,HASH_MD5,b95bd766c9aa886726bcaf30577eeb23,C2,https://x.com/skocherhan/status/2081421638860439591
