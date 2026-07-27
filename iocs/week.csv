@@ -5,21 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-20,threatfox,URL,https://rolems.com/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://www.nr-7releases.com/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://rumahlift.com/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://moroneyaccountants.ie/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://yourhomeguide.co.uk/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://mazradioaurora.com/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://lucianasalomao.com.br/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://guiasantosdumont.com.br/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://instantfixservices.com/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://mobilitate.primariapetrosani.ro/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://toufafashion.com/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://www.casadesignsrl.it/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://dailyinterior.co.uk/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://euregio-camper.de/,"unknown, url",n/a
-2026-07-20,threatfox,URL,https://daoyiyuan.cn/,"unknown, url",n/a
 2026-07-20,threatfox,URL,https://178.105.212.106/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://37.27.235.227/,"win.vidar, url",n/a
 2026-07-20,threatfox,URL,https://65.108.197.198/,"win.vidar, url",n/a
@@ -559,16 +544,10 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,URL,http://103.170.85.16:43635/Mozi.m,"elf.mozi, url",n/a
 2026-07-27,threatfox,URL,https://moon.attorneycover.com,"win.stealc, url",n/a
 2026-07-27,threatfox,URL,https://t.me/r2s7ko,"win.stealc, url",n/a
-2026-07-20,threatfox,DOMAIN,oqtr.haleywoodportfolio.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,tztgw.impactpromotionsclt.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,haleywoodportfolio.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,impactpromotionsclt.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,primeglow2unit.mistbriar.garden,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,bognervopi.icu,"unknown, domain",n/a
-2026-07-20,threatfox,DOMAIN,nvms9000.online,"elf.mirai, domain",n/a
-2026-07-20,threatfox,DOMAIN,signalwestport.mistbriar.garden,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,t13ecldw.calculadoracomisiones.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,proxyfastzone.lunavera.garden,"js.clearfake, domain",n/a
+2026-07-27,threatfox,URL,http://223.123.125.34:48831/Mozi.m,"elf.mozi, url",n/a
+2026-07-27,threatfox,URL,http://182.117.107.220:49098/Mozi.m,"elf.mozi, url",n/a
+2026-07-27,threatfox,URL,http://139.135.41.11:47507/Mozi.m,"elf.mozi, url",n/a
+2026-07-27,threatfox,URL,http://103.174.243.204:46707/Mozi.m,"elf.mozi, url",n/a
 2026-07-20,threatfox,DOMAIN,sei.loloxsm188.top,"win.vidar, domain",n/a
 2026-07-20,threatfox,DOMAIN,okx.loloxsm188.top,"win.vidar, domain",n/a
 2026-07-20,threatfox,DOMAIN,ylp.brslot.net,"win.vidar, domain",n/a
@@ -2749,6 +2728,12 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,DOMAIN,agroflow.co.za,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,aguiasdedetizadora.com.br,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,ahrefs.blog,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,pmmcin.thelibertytoken.org,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,thelibertytoken.org,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,imsbap.thelibertytoken.net,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,vmjkew.thelibertytoken.net,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,thelibertytoken.net,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,v0hkpadr04mbz5lkearqa.com,"win.pure_rat, domain",n/a
 2026-07-20,tweetfeed,URL,http://ahmeddoserr-37232.portmap.host,Njrat,https://x.com/skocherhan/status/2079111293424808117
 2026-07-20,tweetfeed,URL,http://193.161.193.99:37232,Njrat,https://x.com/skocherhan/status/2079111293424808117
 2026-07-20,tweetfeed,URL,http://rest-icon-helper.store,n/a,https://x.com/nextronresearch/status/2079118025236566357
