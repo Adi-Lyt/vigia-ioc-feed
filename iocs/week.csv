@@ -5,8 +5,6 @@ date,user,type,ioc,tags,context
 2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
-2026-07-20,threatfox,URL,http://192.162.199.186/aB7xTy2N/mAjOR.php,"win.amadey, url",n/a
-2026-07-20,threatfox,URL,http://196.251.107.186/qK3mRv9L/pLdWr.php,"win.amadey, url",n/a
 2026-07-20,threatfox,URL,https://rolems.com/,"unknown, url",n/a
 2026-07-20,threatfox,URL,https://www.nr-7releases.com/,"unknown, url",n/a
 2026-07-20,threatfox,URL,https://rumahlift.com/,"unknown, url",n/a
@@ -557,10 +555,6 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,URL,http://202.63.209.63:43046/Mozi.7,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,http://103.197.112.230:57672/Mozi.m,"elf.mozi, url",n/a
 2026-07-26,threatfox,URL,https://landlordsolutions.uk/,"unknown, url",n/a
-2026-07-20,threatfox,DOMAIN,dtzu.patxisdublin.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,patxisdublin.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,8g7kgrp5.frisbeeburgerllc.com,"js.clearfake, domain",n/a
-2026-07-20,threatfox,DOMAIN,imrmd.drdavidzweiback.com,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,vqwj.phimmoichilla.org,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,basalt9logic.thorniva.garden,"js.clearfake, domain",n/a
 2026-07-20,threatfox,DOMAIN,quartz5prism.veloria.garden,"js.clearfake, domain",n/a
@@ -2102,6 +2096,11 @@ date,user,type,ioc,tags,context
 2026-07-26,threatfox,DOMAIN,m1brakes.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,wfupkm.lippogummy.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,mamaspizzansubsmenu.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,bidd0t2b.enus-tupitea.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,1y9igykt.liberty--token.com,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,ttvgjb.usa-tupitea.us,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,pvpffy.usa-tupitea.us,"js.clearfake, domain",n/a
+2026-07-27,threatfox,DOMAIN,usa-tupitea.us,"js.clearfake, domain",n/a
 2026-07-20,tweetfeed,URL,https://paraminasconstrucao.com,"phishing, scam",https://x.com/Coolcarlos17/status/2079016905369641470
 2026-07-20,tweetfeed,URL,https://luzitanacasa.com,"phishing, scam",https://x.com/Coolcarlos17/status/2079017336737026372
 2026-07-20,threatfox,HASH_SHA256,b59653f1e2b8dae784ca4211199d2887ea676d27e7af9d057a625cf9281c17e0,"win.redline_stealer, sha256_hash",n/a
