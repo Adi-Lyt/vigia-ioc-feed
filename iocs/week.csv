@@ -7,10 +7,6 @@ date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-21,threatfox,URL,https://pub-7ac99e69d5af40ffa345a3f731c1b833.r2.dev/tz.js,"unknown, url",n/a
-2026-07-21,threatfox,URL,http://fimmora.surf:6504,"win.remus, url",n/a
-2026-07-21,threatfox,URL,https://omnia360.de/reCAPTCHA.hta,"js.clearfake, url",n/a
-2026-07-21,threatfox,URL,https://www.diction.ch/wp-content/uploads/2026/07/ScreenConnect.ClientSetup.msi,"js.clearfake, url",n/a
 2026-07-21,threatfox,URL,https://hur.luckyturbo88.top/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://hur.aww88.net/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,http://185.132.133.127,"unknown, url",n/a
@@ -583,19 +579,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,URL,https://griffihhs.click/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-28,threatfox,URL,https://novacupola.top/role/handler-deploy,"js.smartapesg, url",n/a
 2026-07-28,threatfox,URL,https://novacupola.top/role/rate-layout.js,"js.smartapesg, url",n/a
-2026-07-21,threatfox,DOMAIN,mvjx.phtaxiservices.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,api.googlevv.com,"unknown, domain",n/a
-2026-07-21,threatfox,DOMAIN,analyzer01.com,"unknown, domain",n/a
-2026-07-21,threatfox,DOMAIN,moorlandatlas.com,"unknown, domain",n/a
-2026-07-21,threatfox,DOMAIN,w3jxkd42.jardins-do-mar.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,pmzvrv9c.ezgarageautorepairtx.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,ezgarageautorepairtx.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,kori1903.anondns.net,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,jqtzbyimn.hrmotorsspringville.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,hrmotorsspringville.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,kdlff.riggsjacksboro.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,riggsjacksboro.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,izhx.phimmoichilla.org,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,hur.luckyturbo88.top,"win.vidar, domain",n/a
 2026-07-21,threatfox,DOMAIN,r7e0hc30.legend-capital-group.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,hur.aww88.net,"win.vidar, domain",n/a
@@ -3354,18 +3337,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,DOMAIN,hoehnacura.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,snssqb.cheznevine.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,mon-banana-03.cfd,"js.clearfake, domain",n/a
-2026-07-21,tweetfeed,URL,http://134.122.173.26,"AsyncRAT, Dcrat, malware",https://x.com/d1v35hresearch/status/2079553343806910934
-2026-07-21,tweetfeed,URL,https://vfvxvbb.com,n/a,https://x.com/bomccss/status/2079559037830807925
-2026-07-21,tweetfeed,URL,http://請求書.zip,n/a,https://x.com/bomccss/status/2079559040217362847
-2026-07-21,tweetfeed,URL,http://202.61.160.189:8383,n/a,https://x.com/bomccss/status/2079559040217362847
-2026-07-21,tweetfeed,URL,https://jb.mywwjj.xyz/sys/A/1/c2b8.zip,n/a,https://x.com/skocherhan/status/2079559968450134457
-2026-07-21,tweetfeed,URL,http://ダウンロード請求書.zip,n/a,https://x.com/skocherhan/status/2079559968450134457
-2026-07-21,tweetfeed,URL,http://fffbx.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,URL,http://bnmnui.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,URL,http://hbnbgjh.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,URL,http://vcggbft.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,URL,http://niygni.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,URL,http://38.181.52.18,n/a,https://x.com/skocherhan/status/2079561348644516151
 2026-07-21,tweetfeed,URL,http://xajosu.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
 2026-07-21,tweetfeed,URL,http://zetewawe.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
 2026-07-21,tweetfeed,URL,http://images.google.com.bd,phishing,https://x.com/Kb4Threatlabs/status/2079576155154272387
@@ -6152,13 +6123,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,URL,http://salesforcecertification.net,"phishing, scam",https://x.com/c9lab_soc/status/2082082983092121680
 2026-07-28,tweetfeed,URL,http://kinonetflix.ru,"phishing, scam",https://x.com/c9lab_soc/status/2082082940876398681
 2026-07-28,tweetfeed,URL,https://construnovaatacado.com,"phishing, scam",https://x.com/Coolcarlos17/status/2082094546037465233
-2026-07-21,tweetfeed,DOMAIN,vfvxvbb.com,n/a,https://x.com/bomccss/status/2079559037830807925
-2026-07-21,tweetfeed,DOMAIN,jb.mywwjj.xyz,n/a,https://x.com/skocherhan/status/2079559968450134457
-2026-07-21,tweetfeed,DOMAIN,fffbx.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,DOMAIN,bnmnui.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,DOMAIN,hbnbgjh.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,DOMAIN,vcggbft.com,n/a,https://x.com/skocherhan/status/2079561348644516151
-2026-07-21,tweetfeed,DOMAIN,niygni.com,n/a,https://x.com/skocherhan/status/2079561348644516151
 2026-07-21,tweetfeed,DOMAIN,xajosu.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
 2026-07-21,tweetfeed,DOMAIN,zetewawe.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
 2026-07-21,tweetfeed,DOMAIN,images.google.com.bd,phishing,https://x.com/Kb4Threatlabs/status/2079576155154272387
@@ -8995,12 +8959,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,cn-microsoft.com,"phishing, scam",https://x.com/c9lab_soc/status/2082081909656396117
 2026-07-28,tweetfeed,DOMAIN,salesforcecertification.net,"phishing, scam",https://x.com/c9lab_soc/status/2082082983092121680
 2026-07-28,tweetfeed,DOMAIN,kinonetflix.ru,"phishing, scam",https://x.com/c9lab_soc/status/2082082940876398681
-2026-07-21,tweetfeed,IP,176.53.159.66,n/a,https://x.com/psiloycne/status/2079514392060723347
-2026-07-21,tweetfeed,IP,134.122.173.26,"AsyncRAT, Dcrat, malware",https://x.com/d1v35hresearch/status/2079553343806910934
-2026-07-21,tweetfeed,HASH_SHA256,2ebe16be492f30a5f7263a930e79965958b62d4fdda1c0a3e891ce6bdad9dc1b,"AsyncRAT, Dcrat, malware",https://x.com/d1v35hresearch/status/2079553343806910934
-2026-07-21,tweetfeed,HASH_SHA256,4f6acb1daa8ee1f43e3881e78e1f092922027c898c2c99ae83a9aa9ddf405360,n/a,https://x.com/bomccss/status/2079559040217362847
-2026-07-21,tweetfeed,IP,202.61.160.189,n/a,https://x.com/skocherhan/status/2079559968450134457
-2026-07-21,tweetfeed,IP,38.181.52.18,n/a,https://x.com/skocherhan/status/2079561348644516151
 2026-07-21,tweetfeed,IP,45.59.120.13,n/a,https://x.com/bomccss/status/2079569269743083862
 2026-07-21,tweetfeed,IP,91.92.41.55,phishing,https://x.com/skocherhan/status/2079589391182303376
 2026-07-21,tweetfeed,HASH_SHA256,9d1a1a5e3b5e5de8a6c76ded7a01fa01709d426232b0048c9ee6ba0c5c1b8b42,n/a,https://x.com/skocherhan/status/2079590696932024660
