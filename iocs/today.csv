@@ -1,14 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-27,threatfox,URL,https://hypeairdrop.us/,"unknown, url",n/a
-2026-07-27,threatfox,URL,https://chaphan.click/api/v1/session,"js.kongtuke, url",n/a
-2026-07-27,threatfox,URL,https://chaphan.click/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-27,threatfox,URL,https://chaphan.click/api/v1/status,"js.kongtuke, url",n/a
-2026-07-27,threatfox,URL,https://tommy-er.top/f,"js.kongtuke, url",n/a
-2026-07-27,threatfox,URL,https://pfannerrtill.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-07-27,threatfox,URL,http://42.234.144.27:35871/Mozi.m,"elf.mozi, url",n/a
-2026-07-27,threatfox,URL,http://103.244.172.140:39200/Mozi.a,"elf.mozi, url",n/a
-2026-07-27,threatfox,URL,http://185.92.180.145/ry.php,"unknown_loader, url",n/a
 2026-07-27,threatfox,URL,https://edenads.com/,"unknown, url",n/a
 2026-07-27,threatfox,URL,https://t.me/+viEc3YLkulJhNTc0,"unknown, url",n/a
 2026-07-28,threatfox,URL,http://182.112.30.222:60319/Mozi.m,"elf.mozi, url",n/a
@@ -81,13 +72,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,URL,https://tommy-eg.top/f,"js.kongtuke, url",n/a
 2026-07-28,threatfox,URL,http://91.199.133.133:8080/deploy.sh,"unknown, url",n/a
 2026-07-28,threatfox,URL,http://78.40.209.164:5506/dk.vbs,"win.hijackloader, url",n/a
-2026-07-27,threatfox,DOMAIN,chaphan.click,"js.kongtuke, domain",n/a
-2026-07-27,threatfox,DOMAIN,tommy-er.top,"js.kongtuke, domain",n/a
-2026-07-27,threatfox,DOMAIN,dist.eventgateway.cc,"win.acr_stealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,lhsighlrp.jawahirjewels.co.uk,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,jofqbg.fraudhelper.co.uk,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,jawahirjewels.co.uk,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,fraudhelper.co.uk,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,epltd3ga.kkslot777.asia,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,nqnlh9i9.shop-pegasus.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,dwfbenn9.qlaneturnstiles.com,"js.clearfake, domain",n/a
@@ -711,8 +695,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,DOMAIN,racines.restaurant,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,peasoupeats.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,rjh4yjp2.shop-lipogummy.com,"js.clearfake, domain",n/a
-2026-07-27,tweetfeed,URL,http://tremorcrest.click,"APT, malware",https://x.com/phatomcandle/status/2081801814488580442
-2026-07-27,tweetfeed,URL,https://www.spfc-punjab-govpk.xyz,n/a,https://x.com/volrant136/status/2081805669175370115
 2026-07-27,tweetfeed,URL,http://exfil5gqmbxrg6yky5aeitkdj7kfwxxjh3wxzrtlewjqi2x67o634iyd.onion/microsoft_samples.7z.torrent,n/a,https://x.com/exfilsquad/status/2081768684843110542
 2026-07-27,tweetfeed,URL,https://bascofinefood.cfd,n/a,https://x.com/skocherhan/status/2081821791287144740
 2026-07-27,tweetfeed,URL,https://bascofinefood.cfd:8443,n/a,https://x.com/skocherhan/status/2081821791287144740
@@ -1281,8 +1263,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,URL,http://tellegram-web.com,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,URL,http://ecliptera.info,"APT, C2, malware",https://x.com/skocherhan/status/2082164540410576948
 2026-07-28,tweetfeed,URL,https://aplgareana-lienquan.com,phishing,https://x.com/PhishStats/status/2082168288822407304
-2026-07-27,tweetfeed,DOMAIN,tremorcrest.click,"APT, malware",https://x.com/phatomcandle/status/2081801814488580442
-2026-07-27,tweetfeed,DOMAIN,spfc-punjab-govpk.xyz,n/a,https://x.com/volrant136/status/2081805669175370115
 2026-07-27,tweetfeed,DOMAIN,bascofinefood.cfd,n/a,https://x.com/skocherhan/status/2081821791287144740
 2026-07-27,tweetfeed,DOMAIN,shopdoseletroportateis.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2081829119944183952
 2026-07-27,threatfox,HASH_MD5,6afcaa8ef95e2867087f41d30b3e3e1b,"elf.kuiper, md5_hash",n/a
