@@ -1,7 +1,4 @@
 date,user,type,ioc,tags,context
-2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-27,threatfox,URL,https://edenads.com/,"unknown, url",n/a
-2026-07-27,threatfox,URL,https://t.me/+viEc3YLkulJhNTc0,"unknown, url",n/a
 2026-07-28,threatfox,URL,http://182.112.30.222:60319/Mozi.m,"elf.mozi, url",n/a
 2026-07-28,threatfox,URL,http://139.135.44.17:33905/Mozi.m,"elf.mozi, url",n/a
 2026-07-28,threatfox,URL,http://14.1.106.10:37095/Mozi.m,"elf.mozi, url",n/a
@@ -72,17 +69,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,URL,https://tommy-eg.top/f,"js.kongtuke, url",n/a
 2026-07-28,threatfox,URL,http://91.199.133.133:8080/deploy.sh,"unknown, url",n/a
 2026-07-28,threatfox,URL,http://78.40.209.164:5506/dk.vbs,"win.hijackloader, url",n/a
-2026-07-27,threatfox,DOMAIN,epltd3ga.kkslot777.asia,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,nqnlh9i9.shop-pegasus.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,dwfbenn9.qlaneturnstiles.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,shop-pegasus.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,sgspmozgq.lowermyoverheads.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,eqidyf.hear-easy.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,breakneckridgefarm.com,"unknown, domain",n/a
-2026-07-27,threatfox,DOMAIN,lowermyoverheads.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,hear-easy.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,fine-work-team.com,"unknown, domain",n/a
-2026-07-27,threatfox,DOMAIN,woxtvuojcsdld.mamglaqwek.com,"unknown, domain",n/a
 2026-07-27,threatfox,DOMAIN,xpcnbrpll.eng-bettinggods.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,ckhycd.lipogammy.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,hatshdnxi.merit-uk.co.uk,"js.clearfake, domain",n/a
@@ -698,10 +684,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,DOMAIN,nleikppzo.ninas-pizza.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,ninas-pizza.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,xaztwb.redcanoerealestate.com,"js.clearfake, domain",n/a
-2026-07-27,tweetfeed,URL,http://exfil5gqmbxrg6yky5aeitkdj7kfwxxjh3wxzrtlewjqi2x67o634iyd.onion/microsoft_samples.7z.torrent,n/a,https://x.com/exfilsquad/status/2081768684843110542
-2026-07-27,tweetfeed,URL,https://bascofinefood.cfd,n/a,https://x.com/skocherhan/status/2081821791287144740
-2026-07-27,tweetfeed,URL,https://bascofinefood.cfd:8443,n/a,https://x.com/skocherhan/status/2081821791287144740
-2026-07-27,tweetfeed,URL,http://shopdoseletroportateis.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2081829119944183952
 2026-07-27,tweetfeed,URL,http://sharepointdocument.online/?rb.routing.mode=proxy&rb.routing.signature=80582,phishing,https://x.com/PhishStats/status/2081836100180439223
 2026-07-27,threatfox,HASH_SHA256,55328cd52aed6e375338b394b1bb8c4a1438e52d3ddf079c316f05e764b6f72d,"elf.kuiper, sha256_hash",n/a
 2026-07-27,threatfox,HASH_SHA256,6342bad7408a482326ff663f94f092e5c8e7757f83a6b4a3c39b80e113338c0f,"elf.kuiper, sha256_hash",n/a
@@ -1268,8 +1250,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,URL,https://aplgareana-lienquan.com,phishing,https://x.com/PhishStats/status/2082168288822407304
 2026-07-28,tweetfeed,URL,http://dns1.p02.nsone.net,phishing,https://x.com/TeamDreier/status/2082180625432223744
 2026-07-28,tweetfeed,URL,https://1d2ef215ce65986951fe48e70c16d6d4.r2.cloudflarestorage.com/my-files/5.msi?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6483d30e4e635518dc3375a0d3ab56a6/20260727/auto/s3/aws4_request&X-Amz-Date=20260727T191829Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a9992d87e82deb0062b4299448b1050236e325aeaef616a16debb9690a8ca832,n/a,https://x.com/smica83/status/2082188998210887885
-2026-07-27,tweetfeed,DOMAIN,bascofinefood.cfd,n/a,https://x.com/skocherhan/status/2081821791287144740
-2026-07-27,tweetfeed,DOMAIN,shopdoseletroportateis.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2081829119944183952
 2026-07-27,threatfox,HASH_MD5,6afcaa8ef95e2867087f41d30b3e3e1b,"elf.kuiper, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,fe1f23de8bd1e84ad1a33939638144ee,"elf.kuiper, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,068fe402eb8cdbb0fe21f972ac4a23fa,"elf.orbit, md5_hash",n/a
@@ -1814,9 +1794,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,aplgareana-lienquan.com,phishing,https://x.com/PhishStats/status/2082168288822407304
 2026-07-28,tweetfeed,DOMAIN,dns1.p02.nsone.net,phishing,https://x.com/TeamDreier/status/2082180625432223744
 2026-07-28,tweetfeed,DOMAIN,1d2ef215ce65986951fe48e70c16d6d4.r2.cloudflarestorage.com,n/a,https://x.com/smica83/status/2082188998210887885
-2026-07-27,tweetfeed,IP,104.36.229.213,n/a,https://x.com/skocherhan/status/2081823163114049879
-2026-07-27,tweetfeed,HASH_SHA256,962816d91ffc29da83605699c467b88d7952d3fda7217a81fce5d2aff746a920,n/a,https://x.com/skocherhan/status/2081823163114049879
-2026-07-27,tweetfeed,IP,5.189.151.112,n/a,https://x.com/skocherhan/status/2081823448741884282
 2026-07-27,tweetfeed,IP,52.72.49.79,phishing,https://x.com/PhishStats/status/2081836100180439223
 2026-07-27,tweetfeed,HASH_SHA256,ffa5c396a37ef0dbabf541cecc4e1bda84675eace39d2a8d2ccf355f08a9ca80,n/a,https://x.com/smica83/status/2081855040143110231
 2026-07-28,tweetfeed,IP,96.44.169.124,phishing,https://x.com/skocherhan/status/2081916596226830553
