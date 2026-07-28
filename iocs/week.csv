@@ -3,15 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-21,threatfox,URL,https://goc.majusm188.top/,"win.vidar, url",n/a
-2026-07-21,threatfox,URL,https://ahtimes.com/,"unknown, url",n/a
-2026-07-21,threatfox,URL,https://mark-hatch.co.uk/,"unknown, url",n/a
-2026-07-21,threatfox,URL,https://octopoda.gmbh/,"unknown, url",n/a
-2026-07-21,threatfox,URL,https://alkahan.com/,"unknown, url",n/a
-2026-07-21,threatfox,URL,https://planet-grid.com/,"unknown, url",n/a
-2026-07-21,threatfox,URL,https://goc.77zeus.com/,"win.vidar, url",n/a
-2026-07-21,threatfox,URL,https://goc.aww88.net/,"win.vidar, url",n/a
-2026-07-21,threatfox,URL,https://goc.luckyturbo88.top/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,http://aidrmvo.cn/getinstall64,"win.valley_rat, url",n/a
 2026-07-21,threatfox,URL,http://cy614451.tw1.ru/L1nc0In.php,"win.dcrat, url",n/a
 2026-07-22,threatfox,URL,https://stt.majusm188.top/,"win.vidar, url",n/a
@@ -624,21 +615,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,URL,https://tommy-eg.top/f,"js.kongtuke, url",n/a
 2026-07-28,threatfox,URL,http://91.199.133.133:8080/deploy.sh,"unknown, url",n/a
 2026-07-28,threatfox,URL,http://78.40.209.164:5506/dk.vbs,"win.hijackloader, url",n/a
-2026-07-21,threatfox,DOMAIN,udjn.restorepowerwash.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,restorepowerwash.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,silicon7point.verdalya.garden,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,goc.majusm188.top,"win.vidar, domain",n/a
-2026-07-21,threatfox,DOMAIN,cdn1-lake.skysriver.com,"js.iclickfix, domain",n/a
-2026-07-21,threatfox,DOMAIN,0hfy318f.medstopmedicalservices.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,zm0xs3ai.karinamasfina.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,ybm58ckf.finovestpedia.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,karinamasfina.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,medstopmedicalservices.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,goc.77zeus.com,"win.vidar, domain",n/a
-2026-07-21,threatfox,DOMAIN,finovestpedia.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,yukgk.orangefarmersmarket.org,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,goc.luckyturbo88.top,"win.vidar, domain",n/a
-2026-07-21,threatfox,DOMAIN,goc.aww88.net,"win.vidar, domain",n/a
 2026-07-21,threatfox,DOMAIN,ymfr.ricardotaxiservices.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,ricardotaxiservices.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,yn9w54gw.springfieldsummerhoops.com,"js.clearfake, domain",n/a
