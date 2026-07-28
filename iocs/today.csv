@@ -1,9 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-27,threatfox,URL,https://omarakitchencabinets.genxe.pk/,"unknown, url",n/a
-2026-07-27,threatfox,URL,https://clocktowerhighered.com/,"unknown, url",n/a
-2026-07-27,threatfox,URL,https://bss.edu.pk/,"unknown, url",n/a
 2026-07-27,threatfox,URL,https://hypeairdrop.us/,"unknown, url",n/a
 2026-07-27,threatfox,URL,https://chaphan.click/api/v1/session,"js.kongtuke, url",n/a
 2026-07-27,threatfox,URL,https://chaphan.click/api/v1/verify,"js.kongtuke, url",n/a
@@ -33,107 +30,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,URL,https://griffihhs.click/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-28,threatfox,URL,https://novacupola.top/role/handler-deploy,"js.smartapesg, url",n/a
 2026-07-28,threatfox,URL,https://novacupola.top/role/rate-layout.js,"js.smartapesg, url",n/a
-2026-07-27,threatfox,DOMAIN,ovq3ncff.eachway-multiplier.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,tzpx.courses,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,wertexnew.com,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,with-hypergolic.com,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,zernvia.shop,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,horizonl.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,iuta.today,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,kotoyk.shop,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,marxgo.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,netbst.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,nexzen.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,prochr.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,ruhrvr.xyz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,smaeak.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,syntaxj.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,tallyr.shop,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,teaspor.cloud,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,treify.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,tyxa.today,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,angect.xyz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,citife.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,columna.lol,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,digiace.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,dikdiy.xyz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,dreaub.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,easeal.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,elbowa.shop,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,envelzm.xyz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,exuviai.cloud,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,fasea.top,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,fervxy.xyz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,fimmora.surf,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,freshis.biz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,geminyw.xyz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,hairkeratin.net,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,ultrasshell1.ddns.net,"win.asyncrat, domain",n/a
-2026-07-27,threatfox,DOMAIN,npmrjgdquafdhwjngw.crownconnectpk.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,ivbrwc.eng-bettinggods.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,stage6.stillpath8.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,status7.skypress.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,store.framecove.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,sync.northform.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,task.valley-north.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,test.kilnteam35.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,trace.lunartempo.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,trace.novagarden.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,vault8.brighttempo.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,watch.common-store.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,watch.harvestbazaar.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,watch7.deepclimate.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,push.pixelplaza.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,push.shorecourt.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,queue.cdnbazaar.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,registry.amberscreen.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,report.clearlens.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,route4.modellab84.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,scan.civicblaze.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,setup.explore-store.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,stage.mycourt33.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,meta1.net-weather.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,metric.mentorcreek25.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,monitor5.roast-core85.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,node.gentleroom.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,node3.meadowrhythm.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,ops.canvascampus.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,ping.node-stock.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,ping0.aqua-grid77.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,portal.framerun.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,prod.commonsource14.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,proxy.everatlas.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,pull.alpha-zone.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,pull7.motiondepot.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,event.wanderwest.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,files4.jade-hub.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,gate.steadygroup.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,gate.voyagezone.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,guard.warm-climate.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,health0.pinetile86.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,lab.loomweather.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,log.neonhq.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,lookup.hazelshelf.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,main.commontexture76.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,meta.bench-grid.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,archive.mintfair.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,assets5.frameai35.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,board8.creekpath.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,bridge.garden-pixel.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,cache.coastpilot.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,content.lakepeak.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,dev2.kitchensignal.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,edge.ivorytexture.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,edge.kitchencraft.lol,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,edge1.gentleline.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,admin.topsite.one,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,admin9.planden35.click,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,api.atlasbyte.xyz,"win.revstealer, domain",n/a
-2026-07-27,threatfox,DOMAIN,yvesrxkzcdxycnarab.crownconnectpk.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,khekev.eng-bettinggods.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,eng-bettinggods.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,diggero.biz,"win.remus, domain",n/a
-2026-07-27,threatfox,DOMAIN,morkaj.bet,"win.smokeloader, domain",n/a
 2026-07-27,threatfox,DOMAIN,rtlyeadry.thelibertytoken.org,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,dnpejc.eng-lotterymaximizer.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,eng-lotterymaximizer.com,"js.clearfake, domain",n/a
@@ -749,137 +645,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,DOMAIN,2026.zwaansails.nl,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,dig-itrecords.nl,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,nickopi141.life,"js.iclickfix, domain",n/a
-2026-07-27,tweetfeed,URL,http://chat-whatsapp.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://cnweb-whatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://ef-whatsappdf.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://help-whatsapp.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://whats-app.love,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://whtsapp-assist.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://1-800-495-2277-scotiabank.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://info-scotiabank.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://scotia-reset.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://scotiabanksecurityhelp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://supports-appleid.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://support-apple.top,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://findmap-icloud.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://microsfot.live,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://microsoft365businessbasic.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://shareonedrive.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://rablox.ltd,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://roblos.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://robloxprize.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://tiktokmall.ink,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://tiktokshopcn.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://descontos-tiktok.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://booking-confirmation178368app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://booking-confirmation179428app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://getlinkedinhelp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://invoicing-linkedln.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://banoret.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://bbvalim.bond,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://auth-coinbase.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://719314-binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://fireblocksdocusign.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://faqcebook.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://fortnitetournament.pro,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://instagramrecoveraccount.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://pagosmaprfe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://prestamosfacilnequi.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://login-konto-pay-pal.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://temucoupons.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://ubisoftgearbrand.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://walmartuso.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://microsoftoffice365login.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://microsoftonline-outlook.live,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://mysharepointpersonalfile.vip,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://e-mailmicrosoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://logmein-microsoftonline.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://microsoft-online.tech,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://microsoft23.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://microsoftonline.space,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://offices65.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://ban-orte.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://banarte.us,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://banorate.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://banorate.us,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://banorote.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://movistari.top,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://facturacionesmovistar.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://movistas.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://movistaz.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://recaudosmovistarepayco.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://flowtiktok.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://tik-tok.sale,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://tiktok19.win,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://tiktokaicreator.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://docucloudadobe.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://everythingsecurebyadobeacrobat.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://everythingsecurebyadobeacrobat.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://amazonde-play.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://amazonoaws.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://purchasing-amazon.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://appleid-applesecureco.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://findmyimaps.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://myphones-icloud.help,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://doc-sign.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://docu-signs.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://docusigndesktop.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://app-facebook.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://facebookadminservices.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://faceboolk.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://robloxx.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://robloxx.tech,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://deltarobloxru.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://wb-whatsappsh.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://wuhatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://wyhatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://674512binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://674552binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://instagramaccount.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://instagranrm.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://mercadopagol.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://merc-pago-play.site,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://milecraft.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://robuxileminecraftskin.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://pichincha-encuestapago.lat,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://pichinchaencuestapago.sbs,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://temucashback.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://temuonliner.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://privatezoommeeting.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://privatezoommeeting.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://weblbbvanetcashrperu.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://booking-confirmation170728app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://new-red5gclaro-pe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://discordsetupbot.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://emaildropbox.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://entelmovil.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://free-fire.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://googlemeet.lat,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://interbankswitch.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://itaumilhas.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://northfaceshrvatska.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://parastesintago.club,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://pagoluzygasrepsol.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://validatescotiabankclient.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://sharepointdocument.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://dlai-telegrem.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://freefire.today,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://freefireadvanceserverdl.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://freefireadvanceserverdl.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://freefireadvanceserverx.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://freefireadvanceserverx.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://bancofalabella.help,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://falabellacmr.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://falabellausuario.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://helpsecurity-microsoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://securityhelp-microsoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://securityhelpmicrosoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://liveadobe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://applesecurityserveraustralia.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://keystonequillsigningagent.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,http://robox.se,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,URL,https://204.44.93.88:8449,n/a,https://x.com/skocherhan/status/2081764707321385003
-2026-07-27,tweetfeed,URL,http://github.com/eticosdatos903-wq,AsyncRAT,https://x.com/skocherhan/status/2081768436120662266
 2026-07-27,tweetfeed,URL,https://mvuuf.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2081769705631879284
 2026-07-27,tweetfeed,URL,http://mi-paciente.com,n/a,https://x.com/chum1ng0/status/2081769683187909068
 2026-07-27,tweetfeed,URL,https://contactquest.com/signin/edw/windows/invite.php,phishing,https://x.com/skocherhan/status/2081774329419759806
@@ -1124,134 +889,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,URL,https://construnovaatacado.com,"phishing, scam",https://x.com/Coolcarlos17/status/2082094546037465233
 2026-07-28,tweetfeed,URL,https://soravikenaxira.com/page/hfvfegkqrn,phishing,https://x.com/harugasumi/status/2082107898151453100
 2026-07-28,tweetfeed,URL,http://www.pmdc.gov.pk-hq.cc,n/a,https://x.com/skocherhan/status/2082121070585283062
-2026-07-27,tweetfeed,DOMAIN,chat-whatsapp.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,cnweb-whatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,ef-whatsappdf.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,help-whatsapp.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,whats-app.love,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,whtsapp-assist.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,1-800-495-2277-scotiabank.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,info-scotiabank.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,scotia-reset.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,scotiabanksecurityhelp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,supports-appleid.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,support-apple.top,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,findmap-icloud.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsfot.live,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoft365businessbasic.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,shareonedrive.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,rablox.ltd,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,roblos.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,robloxprize.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,tiktokmall.ink,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,tiktokshopcn.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,descontos-tiktok.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,booking-confirmation178368app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,booking-confirmation179428app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,getlinkedinhelp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,invoicing-linkedln.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,banoret.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,bbvalim.bond,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,auth-coinbase.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,719314-binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,faqcebook.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,fortnitetournament.pro,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,instagramrecoveraccount.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,pagosmaprfe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,prestamosfacilnequi.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,login-konto-pay-pal.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,temucoupons.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,ubisoftgearbrand.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,walmartuso.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoftoffice365login.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoftonline-outlook.live,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,mysharepointpersonalfile.vip,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,e-mailmicrosoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,logmein-microsoftonline.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoft-online.tech,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoft23.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoftonline.space,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,offices65.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,ban-orte.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,banarte.us,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,banorate.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,banorate.us,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,banorote.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,movistari.top,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,facturacionesmovistar.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,movistas.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,movistaz.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,recaudosmovistarepayco.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,flowtiktok.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,tik-tok.sale,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,tiktok19.win,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,tiktokaicreator.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,docucloudadobe.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,everythingsecurebyadobeacrobat.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,everythingsecurebyadobeacrobat.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,amazonde-play.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,amazonoaws.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,purchasing-amazon.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,appleid-applesecureco.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,findmyimaps.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,myphones-icloud.help,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,doc-sign.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,docu-signs.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,docusigndesktop.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,app-facebook.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,facebookadminservices.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,faceboolk.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,robloxx.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,robloxx.tech,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,deltarobloxru.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,wb-whatsappsh.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,wuhatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,wyhatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,674512binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,674552binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,instagramaccount.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,instagranrm.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,mercadopagol.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,merc-pago-play.site,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,milecraft.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,robuxileminecraftskin.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,pichincha-encuestapago.lat,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,pichinchaencuestapago.sbs,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,temucashback.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,temuonliner.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,privatezoommeeting.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,privatezoommeeting.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,weblbbvanetcashrperu.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,booking-confirmation170728app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,new-red5gclaro-pe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,discordsetupbot.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,emaildropbox.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,entelmovil.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,free-fire.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,googlemeet.lat,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,interbankswitch.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,itaumilhas.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,northfaceshrvatska.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,parastesintago.club,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,pagoluzygasrepsol.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,validatescotiabankclient.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,sharepointdocument.online,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,dlai-telegrem.org,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,freefire.today,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverdl.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverdl.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverx.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverx.net,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,bancofalabella.help,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,falabellacmr.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,falabellausuario.info,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,helpsecurity-microsoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,securityhelp-microsoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,securityhelpmicrosoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,liveadobe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,applesecurityserveraustralia.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,keystonequillsigningagent.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,robox.se,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,DOMAIN,mi-paciente.com,n/a,https://x.com/chum1ng0/status/2081769683187909068
 2026-07-27,tweetfeed,DOMAIN,contactquest.com,phishing,https://x.com/skocherhan/status/2081774329419759806
 2026-07-27,tweetfeed,DOMAIN,mvuuf.screenconnect.com,phishing,https://x.com/skocherhan/status/2081774329419759806
@@ -1474,9 +1111,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,kinonetflix.ru,"phishing, scam",https://x.com/c9lab_soc/status/2082082940876398681
 2026-07-28,tweetfeed,DOMAIN,soravikenaxira.com,phishing,https://x.com/harugasumi/status/2082107898151453100
 2026-07-28,tweetfeed,DOMAIN,pmdc.gov.pk-hq.cc,n/a,https://x.com/skocherhan/status/2082121070585283062
-2026-07-27,tweetfeed,HASH_SHA256,0da0e50360469d64558e6de818b57f966126400d0b1e4b50cd50acd6cde86ae1,n/a,https://x.com/ShadowOpCode/status/2081764112648884246
-2026-07-27,tweetfeed,HASH_SHA256,5cae7777da045d7c7d9b921e83a92e3703e39c0d489204564d037c3634170537,n/a,https://x.com/ShadowOpCode/status/2081764112648884246
-2026-07-27,tweetfeed,IP,204.44.93.88,n/a,https://x.com/skocherhan/status/2081764707321385003
 2026-07-27,tweetfeed,HASH_SHA256,c6713b3c5ba4da5044d96463cae74227a6a898abb051a5f75ab7b508eb20f7e1,n/a,https://x.com/James_inthe_box/status/2081773019836666139
 2026-07-27,tweetfeed,HASH_SHA256,116713d2198c38d56eddd7deed0f55390009747f4b080dd641030af75f6f64a0,phishing,https://x.com/skocherhan/status/2081774329419759806
 2026-07-27,tweetfeed,IP,79.124.58.150,phishing,https://x.com/phishunt_io/status/2081786895034396768
@@ -1501,7 +1135,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,HASH_SHA256,624ac3ad002bf57ad104a1153a4196e24d954086091348bcf7a0b57b38998dbc,n/a,https://x.com/BlinkzSec/status/2082076588544303332
 2026-07-28,tweetfeed,HASH_SHA256,d8b6088156477df342a5387bc81aef1e242f12d2f722e5e2030cbc51c203d547,n/a,https://x.com/BlinkzSec/status/2082076588544303332
 2026-07-28,tweetfeed,IP,43.163.207.119,phishing,https://x.com/harugasumi/status/2082107898151453100
-2026-07-27,tweetfeed,HASH_MD5,7c3296f411c190404154aa89904a61b1,AsyncRAT,https://x.com/skocherhan/status/2081768436120662266
 2026-07-28,tweetfeed,HASH_MD5,598b222fe1d12453639dc14b390b3fa9,"malware, ransomware",https://x.com/RakeshKrish12/status/2081976599256371286
 2026-07-28,tweetfeed,HASH_MD5,698a96701561254ffa1bac9a7b4a7600,"malware, stealer",https://x.com/bsforvt727/status/2082025156487295050
 2026-07-28,tweetfeed,HASH_MD5,141280bc97444f90d665a64ce5f9facc,n/a,https://x.com/skocherhan/status/2082050241881137154
