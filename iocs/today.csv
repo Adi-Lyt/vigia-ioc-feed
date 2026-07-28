@@ -97,8 +97,6 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,URL,http://185.92.180.145/ry.php,"unknown_loader, url",n/a
 2026-07-27,threatfox,URL,https://edenads.com/,"unknown, url",n/a
 2026-07-27,threatfox,URL,https://t.me/+viEc3YLkulJhNTc0,"unknown, url",n/a
-2026-07-27,threatfox,DOMAIN,fzolfm.usen-burnflow.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,usen-burnflow.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,ezobkk.usen-prostadefend.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,usen-prostadefend.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,utjsax.usen-pegasus.com,"js.clearfake, domain",n/a
@@ -1117,7 +1115,9 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,DOMAIN,83dwnguj.shop-tupitea.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,ieat5hjq.littlecreationsacademy.net,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,shop-tupitea.com,"js.clearfake, domain",n/a
-2026-07-27,tweetfeed,URL,https://bioevhealthcare.com/x1wJeP?uid=aaaa@example.jp,phishing,https://x.com/romonlyht/status/2081556616793747848
+2026-07-28,threatfox,DOMAIN,78wuc7cl.sppartamax.com,"js.clearfake, domain",n/a
+2026-07-28,threatfox,DOMAIN,yoaqwu.lipogammy.com,"js.clearfake, domain",n/a
+2026-07-28,threatfox,DOMAIN,hcfaifcbu.franbellamail.co.uk,"js.clearfake, domain",n/a
 2026-07-27,tweetfeed,URL,https://bioevhealthcare.com/x1wJeP/?uid=aaaa@example.jp,phishing,https://x.com/romonlyht/status/2081556619054469498
 2026-07-27,tweetfeed,URL,https://bioevhealthcare.com/x1wJeP/fibber.php,phishing,https://x.com/romonlyht/status/2081556619054469498
 2026-07-27,tweetfeed,URL,http://osteels.com,phishing,https://x.com/skocherhan/status/2081559036516802562
@@ -1656,7 +1656,13 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,HASH_SHA256,405904c8a9ec04b73ac95b7e43a4c9c567b526d178257b56e4a8d812f478ddc3,"win.phorpiex, sha256_hash",n/a
 2026-07-27,threatfox,HASH_SHA256,6a12f1b9d531003b507b251a6fbbd9fc8c3673bb386852749c161730fbc312d9,"win.supper, sha256_hash",n/a
 2026-07-28,tweetfeed,URL,http://intesa.banca-rs.com,phishing,https://x.com/skocherhan/status/2081898579820445714
-2026-07-27,tweetfeed,DOMAIN,bioevhealthcare.com,phishing,https://x.com/romonlyht/status/2081556616793747848
+2026-07-28,tweetfeed,URL,http://pastebin.com/raw/egRXhWVs,malware,https://x.com/Merlax_/status/2081905778751897664
+2026-07-28,tweetfeed,URL,http://stcokspmj.com/page/rtptrhvgvc,phishing,https://x.com/skocherhan/status/2081913916188225702
+2026-07-28,tweetfeed,URL,http://bgsgjzdbfgcrdx.top/jp,phishing,https://x.com/skocherhan/status/2081913916188225702
+2026-07-28,tweetfeed,URL,http://43.128.252.32,phishing,https://x.com/skocherhan/status/2081913916188225702
+2026-07-28,tweetfeed,URL,http://fnxxcl.com/ocoss,phishing,https://x.com/skocherhan/status/2081916596226830553
+2026-07-28,tweetfeed,URL,http://manyishw.com/UcifotqL,phishing,https://x.com/skocherhan/status/2081916596226830553
+2026-07-28,tweetfeed,URL,http://96.44.169.124,phishing,https://x.com/skocherhan/status/2081916596226830553
 2026-07-27,tweetfeed,DOMAIN,osteels.com,phishing,https://x.com/skocherhan/status/2081559036516802562
 2026-07-27,tweetfeed,DOMAIN,exuhmvefs.com,phishing,https://x.com/skocherhan/status/2081559036516802562
 2026-07-27,tweetfeed,DOMAIN,cydww.com,phishing,https://x.com/skocherhan/status/2081559036516802562
@@ -2455,7 +2461,10 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,HASH_MD5,00dee4b7bc493f6c89e9e5dc9467f892,"win.phorpiex, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,4124a167cef576ccae119247431709f6,"win.supper, md5_hash",n/a
 2026-07-28,tweetfeed,DOMAIN,intesa.banca-rs.com,phishing,https://x.com/skocherhan/status/2081898579820445714
-2026-07-27,tweetfeed,IP,202.69.74.130,phishing,https://x.com/romonlyht/status/2081556616793747848
+2026-07-28,tweetfeed,DOMAIN,stcokspmj.com,phishing,https://x.com/skocherhan/status/2081913916188225702
+2026-07-28,tweetfeed,DOMAIN,bgsgjzdbfgcrdx.top,phishing,https://x.com/skocherhan/status/2081913916188225702
+2026-07-28,tweetfeed,DOMAIN,fnxxcl.com,phishing,https://x.com/skocherhan/status/2081916596226830553
+2026-07-28,tweetfeed,DOMAIN,manyishw.com,phishing,https://x.com/skocherhan/status/2081916596226830553
 2026-07-27,tweetfeed,IP,8.211.153.128,phishing,https://x.com/romonlyht/status/2080530740153024563
 2026-07-27,tweetfeed,IP,176.65.148.145,n/a,https://x.com/RussianPanda9xx/status/2081577120657006724
 2026-07-27,tweetfeed,IP,77.68.5.178,phishing,https://x.com/phishunt_io/status/2081635921301021084
@@ -2490,12 +2499,3 @@ date,user,type,ioc,tags,context
 2026-07-27,tweetfeed,IP,211.4.1.152,n/a,https://x.com/skocherhan/status/2081740805962637573
 2026-07-27,tweetfeed,IP,211.4.1.47,n/a,https://x.com/skocherhan/status/2081740805962637573
 2026-07-27,tweetfeed,HASH_SHA256,1c5dd7caaf5627303c3032f3ec6a4480a6c253db6a861a1e3f34b05cd4968c21,n/a,https://x.com/skocherhan/status/2081739557557371326
-2026-07-27,tweetfeed,HASH_SHA256,0da0e50360469d64558e6de818b57f966126400d0b1e4b50cd50acd6cde86ae1,n/a,https://x.com/ShadowOpCode/status/2081764112648884246
-2026-07-27,tweetfeed,HASH_SHA256,5cae7777da045d7c7d9b921e83a92e3703e39c0d489204564d037c3634170537,n/a,https://x.com/ShadowOpCode/status/2081764112648884246
-2026-07-27,tweetfeed,IP,204.44.93.88,n/a,https://x.com/skocherhan/status/2081764707321385003
-2026-07-27,tweetfeed,HASH_SHA256,c6713b3c5ba4da5044d96463cae74227a6a898abb051a5f75ab7b508eb20f7e1,n/a,https://x.com/James_inthe_box/status/2081773019836666139
-2026-07-27,tweetfeed,HASH_SHA256,116713d2198c38d56eddd7deed0f55390009747f4b080dd641030af75f6f64a0,phishing,https://x.com/skocherhan/status/2081774329419759806
-2026-07-27,tweetfeed,IP,79.124.58.150,phishing,https://x.com/phishunt_io/status/2081786895034396768
-2026-07-27,tweetfeed,IP,104.36.229.213,n/a,https://x.com/skocherhan/status/2081823163114049879
-2026-07-27,tweetfeed,HASH_SHA256,962816d91ffc29da83605699c467b88d7952d3fda7217a81fce5d2aff746a920,n/a,https://x.com/skocherhan/status/2081823163114049879
-2026-07-27,tweetfeed,IP,5.189.151.112,n/a,https://x.com/skocherhan/status/2081823448741884282
