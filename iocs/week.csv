@@ -1,14 +1,8 @@
 date,user,type,ioc,tags,context
-2026-07-21,cisa_kev,CVE,CVE-2026-60137,"WordPress Core, kev","WordPress Core contains a SQL injection vulnerability when a plugin or theme passes untrusted input to the parameter. This vulnerability can be chained with CVE-2026-63030 to allow an unauthenticated attacker to gain remote code execution on default WordPress installations. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-04"
-2026-07-21,cisa_kev,CVE,CVE-2026-63030,"WordPress Core, kev","WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
-2026-07-21,cisa_kev,CVE,CVE-2026-0770,"Langflow Langflow, kev","Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.  Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
-2026-07-21,cisa_kev,CVE,CVE-2021-27137,"DD-WRT DD-WRT, kev","DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-24"
 2026-07-22,cisa_kev,CVE,CVE-2026-16232,"Check Point SmartConsole, kev","Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-21,threatfox,URL,https://hur.luckyturbo88.top/,"win.vidar, url",n/a
-2026-07-21,threatfox,URL,https://hur.aww88.net/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,http://185.132.133.127,"unknown, url",n/a
 2026-07-21,threatfox,URL,https://goc.majusm188.top/,"win.vidar, url",n/a
 2026-07-21,threatfox,URL,https://ahtimes.com/,"unknown, url",n/a
@@ -579,18 +573,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,URL,https://griffihhs.click/api/v1/verify,"js.kongtuke, url",n/a
 2026-07-28,threatfox,URL,https://novacupola.top/role/handler-deploy,"js.smartapesg, url",n/a
 2026-07-28,threatfox,URL,https://novacupola.top/role/rate-layout.js,"js.smartapesg, url",n/a
-2026-07-21,threatfox,DOMAIN,hur.luckyturbo88.top,"win.vidar, domain",n/a
-2026-07-21,threatfox,DOMAIN,r7e0hc30.legend-capital-group.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,hur.aww88.net,"win.vidar, domain",n/a
-2026-07-21,threatfox,DOMAIN,legend-capital-group.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,ybsve.springhillcommons.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,springhillcommons.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,udsik.springfieldsummerhoops.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,springfieldsummerhoops.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,nrqbf.spencershorttexas.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,spencershorttexas.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,cppeh.spacedecorideas.com,"js.clearfake, domain",n/a
-2026-07-21,threatfox,DOMAIN,spacedecorideas.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,hsdav.stable-virtual-camera.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,stable-virtual-camera.com,"js.clearfake, domain",n/a
 2026-07-21,threatfox,DOMAIN,ironlogicway5.florenth.garden,"js.clearfake, domain",n/a
@@ -3345,25 +3327,6 @@ date,user,type,ioc,tags,context
 2026-07-28,threatfox,DOMAIN,d2dvwf88.nextbahis.blog,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,uqmhozbmv.hospitaldemascotas.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,fixzba.cosaques.com,"js.clearfake, domain",n/a
-2026-07-21,tweetfeed,URL,http://xajosu.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
-2026-07-21,tweetfeed,URL,http://zetewawe.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
-2026-07-21,tweetfeed,URL,http://images.google.com.bd,phishing,https://x.com/Kb4Threatlabs/status/2079576155154272387
-2026-07-21,tweetfeed,URL,http://images.google.dj,phishing,https://x.com/Kb4Threatlabs/status/2079576155154272387
-2026-07-21,tweetfeed,URL,http://googletagmanager.com/debug/clearcookies?url=,phishing,https://x.com/Kb4Threatlabs/status/2079576155154272387
-2026-07-21,tweetfeed,URL,http://goldenearth.ma,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://document24acces.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://anglictina-doucovani.cz,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://camara-verde.org,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://demo.mybluekart.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://doc.jason-lou-teo-hock.workers.dev,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://ust-auth-sync-static-f049698-j874837.joel-89f.workers.dev,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://sefvraa.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://monntgro.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://cindymagee.net,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://amzn-redirecturl-dc73bfyf29-campaign.sharepoint.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://itunes321.rovitan.vu/030b343f85c2,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://servicesmallplanetdigitalsystems.gdipbrinfotech.vu,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,URL,http://pittni.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
 2026-07-21,tweetfeed,URL,http://eon.myteammyway.net,phishing,https://x.com/skocherhan/status/2079589391182303376
 2026-07-21,tweetfeed,URL,http://electracomproject.com,phishing,https://x.com/skocherhan/status/2079589391182303376
 2026-07-21,tweetfeed,URL,http://nutrsipoint.com,phishing,https://x.com/skocherhan/status/2079589391182303376
@@ -6132,24 +6095,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,URL,http://kinonetflix.ru,"phishing, scam",https://x.com/c9lab_soc/status/2082082940876398681
 2026-07-28,tweetfeed,URL,https://construnovaatacado.com,"phishing, scam",https://x.com/Coolcarlos17/status/2082094546037465233
 2026-07-28,tweetfeed,URL,https://soravikenaxira.com/page/hfvfegkqrn,phishing,https://x.com/harugasumi/status/2082107898151453100
-2026-07-21,tweetfeed,DOMAIN,xajosu.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
-2026-07-21,tweetfeed,DOMAIN,zetewawe.shorts.gy,n/a,https://x.com/skocherhan/status/2079568209359831300
-2026-07-21,tweetfeed,DOMAIN,images.google.com.bd,phishing,https://x.com/Kb4Threatlabs/status/2079576155154272387
-2026-07-21,tweetfeed,DOMAIN,images.google.dj,phishing,https://x.com/Kb4Threatlabs/status/2079576155154272387
-2026-07-21,tweetfeed,DOMAIN,goldenearth.ma,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,document24acces.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,anglictina-doucovani.cz,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,camara-verde.org,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,demo.mybluekart.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,doc.jason-lou-teo-hock.workers.dev,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,ust-auth-sync-static-f049698-j874837.joel-89f.workers.dev,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,sefvraa.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,monntgro.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,cindymagee.net,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,amzn-redirecturl-dc73bfyf29-campaign.sharepoint.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,itunes321.rovitan.vu,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,servicesmallplanetdigitalsystems.gdipbrinfotech.vu,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
-2026-07-21,tweetfeed,DOMAIN,pittni.com,n/a,https://x.com/Kb4Threatlabs/status/2079576159164203113
 2026-07-21,tweetfeed,DOMAIN,electracomproject.com,phishing,https://x.com/skocherhan/status/2079589391182303376
 2026-07-21,tweetfeed,DOMAIN,nutrsipoint.com,phishing,https://x.com/skocherhan/status/2079589391182303376
 2026-07-21,tweetfeed,DOMAIN,chgroup-pt.com,phishing,https://x.com/skocherhan/status/2079589391182303376
@@ -8969,7 +8914,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,salesforcecertification.net,"phishing, scam",https://x.com/c9lab_soc/status/2082082983092121680
 2026-07-28,tweetfeed,DOMAIN,kinonetflix.ru,"phishing, scam",https://x.com/c9lab_soc/status/2082082940876398681
 2026-07-28,tweetfeed,DOMAIN,soravikenaxira.com,phishing,https://x.com/harugasumi/status/2082107898151453100
-2026-07-21,tweetfeed,IP,45.59.120.13,n/a,https://x.com/bomccss/status/2079569269743083862
 2026-07-21,tweetfeed,IP,91.92.41.55,phishing,https://x.com/skocherhan/status/2079589391182303376
 2026-07-21,tweetfeed,HASH_SHA256,9d1a1a5e3b5e5de8a6c76ded7a01fa01709d426232b0048c9ee6ba0c5c1b8b42,n/a,https://x.com/skocherhan/status/2079590696932024660
 2026-07-21,tweetfeed,HASH_SHA256,5efeda0efe0c7d1bf3e78db272a97a1d305b07ae509c73e27ae3067a188962a8,n/a,https://x.com/L0Psec/status/2079591997610791192
@@ -9200,9 +9144,6 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,HASH_SHA256,624ac3ad002bf57ad104a1153a4196e24d954086091348bcf7a0b57b38998dbc,n/a,https://x.com/BlinkzSec/status/2082076588544303332
 2026-07-28,tweetfeed,HASH_SHA256,d8b6088156477df342a5387bc81aef1e242f12d2f722e5e2030cbc51c203d547,n/a,https://x.com/BlinkzSec/status/2082076588544303332
 2026-07-28,tweetfeed,IP,43.163.207.119,phishing,https://x.com/harugasumi/status/2082107898151453100
-2026-07-21,tweetfeed,HASH_MD5,eba53d9eda8340a3de128a2a772b0f09,n/a,https://x.com/skocherhan/status/2079563521432436851
-2026-07-21,tweetfeed,HASH_MD5,3dde0918106e3fbaa4a5621882f80adf,n/a,https://x.com/skocherhan/status/2079565505334030507
-2026-07-21,tweetfeed,HASH_MD5,0406d00a0f661bf5351b7c8e5c0431bc,n/a,https://x.com/skocherhan/status/2079568209359831300
 2026-07-22,tweetfeed,HASH_MD5,139912756c7b0b4f9fbf7dab562f1852,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,HASH_MD5,98a81af2a597b62866610d32d03421ff,n/a,https://x.com/k3yp0d/status/2079870685527065029
 2026-07-22,tweetfeed,HASH_MD5,000732e37ed2431c677cca56aafbd53f,ransomware,https://x.com/suyog41/status/2079921737601515699
