@@ -3,10 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-22,threatfox,URL,http://93.152.223.30:5000/api/stealer/report,"unknown_stealer, url",n/a
-2026-07-22,threatfox,URL,https://sorrelalmanac.top/alias/legacy-dom,"js.smartapesg, url",n/a
-2026-07-22,threatfox,URL,https://sorrelalmanac.top/alias/acl-component.js,"js.smartapesg, url",n/a
-2026-07-22,threatfox,URL,http://vriclactrina.cz/index.php,"win.smokeloader, url",n/a
 2026-07-22,threatfox,URL,https://filpack.fr/,"unknown_loader, url",n/a
 2026-07-22,threatfox,URL,https://the-sun.com.au/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://bsw.majusm188.top/,"win.vidar, url",n/a
@@ -617,14 +613,6 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,URL,http://202.63.209.175:41894/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,http://101.53.228.209:59139/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,http://103.174.243.201:44562/Mozi.m,"elf.mozi, url",n/a
-2026-07-22,threatfox,DOMAIN,stormvenomforge.top,"js.magecart, domain",n/a
-2026-07-22,threatfox,DOMAIN,ktqwn.ktsoon.ee,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,kqut.pandlautoparts.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,ktsoon.ee,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,pandlautoparts.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,sorrelalmanac.top,"js.smartapesg, domain",n/a
-2026-07-22,threatfox,DOMAIN,qselq.jadoou.lat,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,vsxc.webyek.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,quvf.sansekerta.org,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,wlphc.kuechen-welt.eu,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,kuechen-welt.eu,"js.clearfake, domain",n/a
@@ -3512,13 +3500,6 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,DOMAIN,bmguom.weisfeedbacksurvey.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,weisfeedbacksurvey.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,ubqnkx.wavelu.com,"js.clearfake, domain",n/a
-2026-07-22,tweetfeed,URL,http://0djedia.duckdns.org,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,URL,http://3jqa0awh.duckdns.org,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,URL,http://7jbockzc.duckdns.org,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,URL,http://a.230528.top,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,URL,http://a.ngnwenh.top,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,URL,http://ghj44hs.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,URL,http://ishlrk27.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,URL,https://teamswedenclub.com/login,phishing,https://x.com/masaomi346/status/2079859596626448718
 2026-07-22,tweetfeed,URL,http://workinghardo.link/login,n/a,https://x.com/malwrhunterteam/status/2079869512615071810
 2026-07-22,tweetfeed,URL,http://103.193.173.199,n/a,https://x.com/malwrhunterteam/status/2079869806472273940
@@ -6761,13 +6742,6 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,HASH_SHA256,d862dd2dcc9a6902ed6f2c552048b918a8356d3f7a19b0413c03aefc007afdf9,"unknown, sha256_hash",n/a
 2026-07-29,threatfox,HASH_SHA256,ec629793d24df390035c535e12b968dd4c7573fa6202c8a08b021d9194fc0164,"unknown, sha256_hash",n/a
 2026-07-29,tweetfeed,URL,https://sgximmzqmqi.top/jp,phishing,https://x.com/Metemcyber/status/2082369627666194689
-2026-07-22,tweetfeed,DOMAIN,0djedia.duckdns.org,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,DOMAIN,3jqa0awh.duckdns.org,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,DOMAIN,7jbockzc.duckdns.org,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,DOMAIN,a.230528.top,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,DOMAIN,a.ngnwenh.top,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,DOMAIN,ghj44hs.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
-2026-07-22,tweetfeed,DOMAIN,ishlrk27.github.io,"Android, malware",https://x.com/skocherhan/status/2079847226403131412
 2026-07-22,tweetfeed,DOMAIN,teamswedenclub.com,phishing,https://x.com/masaomi346/status/2079859596626448718
 2026-07-22,tweetfeed,DOMAIN,workinghardo.link,n/a,https://x.com/malwrhunterteam/status/2079869512615071810
 2026-07-22,tweetfeed,DOMAIN,usph1ap0035.eastus2.cloudapp.azure.com,n/a,https://x.com/k3yp0d/status/2079870685527065029
@@ -9499,3 +9473,29 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,ip9-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,jz7-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,li7-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,location-apple.net,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,oz5-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,ps3-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,te2-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,www-findmydevice.online,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,zh2-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonleobilling.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,billing-amazon-leo.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazon-bucket.online,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonaf.cfd,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonawsbedrock.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonenterprise1.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonenterprise2.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonfree.online,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonmgmstudio.org,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonnetwork360.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonvoiceai.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,ab-whatsappdf.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,rk-whatsappsh.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whasappdata.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whasappla.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whasapplc.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whasapptc.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whassapp-us.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whataspp-cx.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whatsapp-me-chatnow.club,phishing,https://x.com/tial_cl/status/2082150910101225915
