@@ -616,6 +616,7 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,URL,http://103.181.160.201:37308/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,http://115.51.43.20:46643/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,https://ziegler-partner.eu/,"unknown, url",n/a
+2026-07-29,threatfox,URL,http://greenns.biz:2930,"win.remus, url",n/a
 2026-07-22,threatfox,DOMAIN,epe20s1q.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,whitelaneint.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,4sh78giy.jennyrussianbluepalace.com,"js.clearfake, domain",n/a
@@ -4122,6 +4123,16 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,DOMAIN,vjdvle.wasteoilparts.net,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,qjadqgu.wildwingpreservepoa.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,uocoxj.viveheadspa.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,sc-api.abuarerestaurant.net,"js.fakeupdates, domain",n/a
+2026-07-29,threatfox,DOMAIN,2hzfeoep.crownconnectpk.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,wwjgeu.phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,wupvgbt.prairiefurnitureshop.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,prairiefurnitureshop.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,cbrldu.phoenixfactory.org,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,lgteexx.witchwatchchapters.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,phoenixfactory.org,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,vrzslhe.wisconsinriveroutfitters.com,"js.clearfake, domain",n/a
 2026-07-22,tweetfeed,URL,http://cdn.infolservice.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,URL,http://relay.dinkfoundry.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,URL,http://relay.cdn-statmetrics.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
@@ -7362,6 +7373,8 @@ date,user,type,ioc,tags,context
 2026-07-29,tweetfeed,URL,http://api.0tokens.xyz,n/a,https://x.com/skocherhan/status/2082432490279420395
 2026-07-29,tweetfeed,URL,http://cn-steampowered.com.cn,phishing,https://x.com/phishunt_io/status/2082436221607858298
 2026-07-29,tweetfeed,URL,http://msfconfig.icu,ClickFix,https://x.com/CriminalIP_US/status/2082451082878328961
+2026-07-29,tweetfeed,URL,http://217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
+2026-07-29,tweetfeed,URL,http://litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-22,tweetfeed,DOMAIN,cdn.infolservice.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,DOMAIN,relay.dinkfoundry.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,DOMAIN,relay.cdn-statmetrics.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
@@ -9486,16 +9499,3 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,HASH_MD5,357b903fbfc7c4bc6590a92f3e07aaf4,"win.blustealer, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,7cf591c9fd2aed0286ffb519f12da683,"py.venus_stealer, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,ea2b5a00e49d3a09f38eadfda23df277,"py.venus_stealer, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,fa928a93d7521a60e5ced8454d0120fd,"py.venus_stealer, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,7b229cd58d97751c907b89d5d5612b18,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,e63172525926f847841634253c9534ac,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,b25fd6814be7f03c56bfb669d8587844,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,b9b9e94e807a98caa367cf2b4b995eeb,"win.asyncrat, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,b40c04705635d82de166087f3ff19874,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,7d3b80cea19400db61de4bc0d888678a,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,474856aa1c293807bf2d2362b82d7291,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,d62739dd92c54d194150ef0638c01895,"win.formbook, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,0ef492da421b72a19541d1ae856efdff,"win.vipkeylogger, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,404f0d36fcbe5c4643e821403a4827eb,"py.creal_stealer, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,2519e7b005a0bd8e444eafa32d41141c,"win.phantom_stealer, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,825820fc81056e0cb65b2ef0dbffac08,"win.formbook, md5_hash",n/a
