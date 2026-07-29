@@ -3,6 +3,7 @@ date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
+2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
 2026-07-22,threatfox,URL,https://tir.majusm188.top/,"win.vidar, url",n/a
 2026-07-22,threatfox,URL,https://tir.77zeus.com/,"win.vidar, url",n/a
 2026-07-23,threatfox,URL,https://ssf.77zeus.com/,"win.vidar, url",n/a
@@ -617,6 +618,7 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,URL,http://vifroup.biz:7527,"win.remus, url",n/a
 2026-07-29,threatfox,URL,https://telemetryworks.pro/,"unknown, url",n/a
 2026-07-29,threatfox,URL,https://rne8b0wt5znenjp.xyz/,"unknown, url",n/a
+2026-07-29,threatfox,URL,http://123.172.77.129:59541/Mozi.m,"elf.mozi, url",n/a
 2026-07-22,threatfox,DOMAIN,xroz.augustus-kirby.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,thechildrencomefirst.org,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,thunderinternationalgroup.com,"js.clearfake, domain",n/a
@@ -4194,6 +4196,14 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,DOMAIN,firebird-skydiving.de,"js.iclickfix, domain",n/a
 2026-07-29,threatfox,DOMAIN,flyingstreet.art,"js.iclickfix, domain",n/a
 2026-07-29,threatfox,DOMAIN,gabcoonline.org,"js.iclickfix, domain",n/a
+2026-07-29,threatfox,DOMAIN,reynoldsbrothersconstruction.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,phfifdv.rentechglobalsolutions.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,rentechglobalsolutions.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,kbtmm8vw.redcanoerealestate.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,gfodqo.pradanailsspakaty.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,pradanailsspakaty.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,exvgbus.reliablelogisticsltd.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,reliablelogisticsltd.com,"js.clearfake, domain",n/a
 2026-07-22,tweetfeed,URL,http://reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
 2026-07-22,tweetfeed,URL,http://login.authmicrosofttauthentication.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
 2026-07-22,tweetfeed,URL,http://rehamdticktt.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
@@ -7361,6 +7371,17 @@ date,user,type,ioc,tags,context
 2026-07-29,tweetfeed,URL,https://forumdeenergias.com.br/futuremastics/11.php/,phishing,https://x.com/patialavii/status/2082515718353158461
 2026-07-29,tweetfeed,URL,https://secure-document-review-c3l30u.pagefile.workers.dev/app,phishing,https://x.com/patialavii/status/2082515718353158461
 2026-07-29,tweetfeed,URL,http://v0hkpadr04mbz5lkearqa.com,n/a,https://x.com/netresec/status/2082524480299991451
+2026-07-29,tweetfeed,URL,https://matakwan.com/ngx(2)/ngx(2)/ngx(2)/ngx(1)/ngx/,phishing,https://x.com/patialavii/status/2082512086132044251
+2026-07-29,tweetfeed,URL,https://nath-c.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2082512086132044251
+2026-07-29,tweetfeed,URL,https://eventomepartae.top,phishing,https://x.com/patialavii/status/2082514603842609347
+2026-07-29,tweetfeed,URL,https://raw.githubusercontent.com/sean1004960/bgf/refs/heads/main/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2082514603842609347
+2026-07-29,tweetfeed,URL,https://sakamoti.me/idan/,phishing,https://x.com/patialavii/status/2082518947874865158
+2026-07-29,tweetfeed,URL,https://pub-7018b3240dea4c67b01648963fcbc60a.r2.dev/setup_Assigned.msi,phishing,https://x.com/patialavii/status/2082518947874865158
+2026-07-29,tweetfeed,URL,https://pdf.adodefile.cam,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
+2026-07-29,tweetfeed,URL,https://pdf.adodefile.cam/windows/,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
+2026-07-29,tweetfeed,URL,https://pdf.adodefile.cam/windows/pop.html,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
+2026-07-29,tweetfeed,URL,https://cleanascanbee.com.au/atoincomestatement/download.html,"malware, phishing",https://x.com/Malwarehunterr/status/2082546128348983544
+2026-07-29,tweetfeed,URL,https://cleanascanbee.com.au/atoincomestatement/complete.php,"malware, phishing",https://x.com/Malwarehunterr/status/2082546128348983544
 2026-07-22,tweetfeed,DOMAIN,reha-stims.com,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
 2026-07-22,tweetfeed,DOMAIN,login.authmicrosofttauthentication.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
 2026-07-22,tweetfeed,DOMAIN,rehamdticktt.top,phishing,https://x.com/Malwarehunterr/status/2080010053541928987
@@ -9478,24 +9499,3 @@ date,user,type,ioc,tags,context
 2026-07-27,tweetfeed,DOMAIN,booking-confirmation179428app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,DOMAIN,getlinkedinhelp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,DOMAIN,invoicing-linkedln.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,banoret.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,bbvalim.bond,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,auth-coinbase.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,719314-binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,faqcebook.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,fortnitetournament.pro,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,instagramrecoveraccount.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,pagosmaprfe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,prestamosfacilnequi.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,login-konto-pay-pal.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,temucoupons.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,ubisoftgearbrand.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,walmartuso.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoftoffice365login.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoftonline-outlook.live,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,mysharepointpersonalfile.vip,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,e-mailmicrosoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,logmein-microsoftonline.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoft-online.tech,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoft23.com,phishing,https://x.com/tial_cl/status/2081760527257149767
-2026-07-27,tweetfeed,DOMAIN,microsoftonline.space,phishing,https://x.com/tial_cl/status/2081760527257149767
