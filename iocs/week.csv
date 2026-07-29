@@ -3,11 +3,6 @@ date,user,type,ioc,tags,context
 2026-07-22,cisa_kev,CVE,CVE-2026-50522,"Microsoft SharePoint, kev","Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-25"
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
-2026-07-22,threatfox,URL,https://goncllves.click/api/v1/session,"js.kongtuke, url",n/a
-2026-07-22,threatfox,URL,https://goncllves.click/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-22,threatfox,URL,http://196.251.107.186/acovp/post.php,"win.svcstealer, url",n/a
-2026-07-22,threatfox,URL,http://196.251.107.163/bioxp/post.php,"win.svcstealer, url",n/a
-2026-07-22,threatfox,URL,http://192.162.199.186/usovp/post.php,"win.svcstealer, url",n/a
 2026-07-22,threatfox,URL,https://monterro.click/api/v1/status,"js.kongtuke, url",n/a
 2026-07-22,threatfox,URL,https://tommy-nn.lol/f,"js.kongtuke, url",n/a
 2026-07-22,threatfox,URL,https://isctmasjid.org/analytics.google.com,"js.smartapesg, url",n/a
@@ -621,16 +616,6 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,URL,http://103.181.160.201:37308/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,http://115.51.43.20:46643/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,https://ziegler-partner.eu/,"unknown, url",n/a
-2026-07-22,threatfox,DOMAIN,dgmik.snydersflowershop.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,marvelouslooks.monster,"unknown, domain",n/a
-2026-07-22,threatfox,DOMAIN,rnmhv672.segfortecorretoradeseguros.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,segfortecorretoradeseguros.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,fabric16.com,"osx.amos, domain",n/a
-2026-07-22,threatfox,DOMAIN,kainashirt.com,"osx.amos, domain",n/a
-2026-07-22,threatfox,DOMAIN,goncllves.click,"js.kongtuke, domain",n/a
-2026-07-22,threatfox,DOMAIN,dtub.twobrothersjunkllc.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,twobrothersjunkllc.com,"js.clearfake, domain",n/a
-2026-07-22,threatfox,DOMAIN,trueamatuermodels.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,epe20s1q.behtarin-site-shartbandi.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,whitelaneint.com,"js.clearfake, domain",n/a
 2026-07-22,threatfox,DOMAIN,4sh78giy.jennyrussianbluepalace.com,"js.clearfake, domain",n/a
@@ -4137,9 +4122,6 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,DOMAIN,vjdvle.wasteoilparts.net,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,qjadqgu.wildwingpreservepoa.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,uocoxj.viveheadspa.com,"js.clearfake, domain",n/a
-2026-07-22,tweetfeed,URL,http://brand-ads-2026013.pages.dev,phishing,https://x.com/scanmalware/status/2079915184512966810
-2026-07-22,tweetfeed,URL,http://8161.uk,n/a,https://x.com/smica83/status/2079922519784423727
-2026-07-22,threatfox,HASH_SHA256,fc2009166867bee88885f2f889a608260cb971c1e946bbb79ea7d75ae0d429f6,"osx.amos, sha256_hash",n/a
 2026-07-22,tweetfeed,URL,http://cdn.infolservice.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,URL,http://relay.dinkfoundry.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,URL,http://relay.cdn-statmetrics.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
@@ -7380,8 +7362,6 @@ date,user,type,ioc,tags,context
 2026-07-29,tweetfeed,URL,http://api.0tokens.xyz,n/a,https://x.com/skocherhan/status/2082432490279420395
 2026-07-29,tweetfeed,URL,http://cn-steampowered.com.cn,phishing,https://x.com/phishunt_io/status/2082436221607858298
 2026-07-29,tweetfeed,URL,http://msfconfig.icu,ClickFix,https://x.com/CriminalIP_US/status/2082451082878328961
-2026-07-22,tweetfeed,DOMAIN,brand-ads-2026013.pages.dev,phishing,https://x.com/scanmalware/status/2079915184512966810
-2026-07-22,tweetfeed,DOMAIN,8161.uk,n/a,https://x.com/smica83/status/2079922519784423727
 2026-07-22,tweetfeed,DOMAIN,cdn.infolservice.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,DOMAIN,relay.dinkfoundry.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
 2026-07-22,tweetfeed,DOMAIN,relay.cdn-statmetrics.com,Magecart,https://x.com/sdcyberresearch/status/2079927203144286603
@@ -9499,3 +9479,23 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,HASH_MD5,eafb10f6fb3732229b64d5cddfc7540f,"py.venus_stealer, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,87873d4cb6d2c05ffdacb2da3400a033,"py.venus_stealer, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,0d618238e35254bcad69d184ef94a8e9,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3ac8576f45bb73244f12a00976fefbae,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d7ae17502be4db7ddac2dedaf98404d5,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b1b109827296c243ffc9e4583b9fd738,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,81729e5e6c1936b27f016a20897d30f1,"apk.clipper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,357b903fbfc7c4bc6590a92f3e07aaf4,"win.blustealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7cf591c9fd2aed0286ffb519f12da683,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ea2b5a00e49d3a09f38eadfda23df277,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fa928a93d7521a60e5ced8454d0120fd,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7b229cd58d97751c907b89d5d5612b18,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e63172525926f847841634253c9534ac,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b25fd6814be7f03c56bfb669d8587844,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b9b9e94e807a98caa367cf2b4b995eeb,"win.asyncrat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b40c04705635d82de166087f3ff19874,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7d3b80cea19400db61de4bc0d888678a,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,474856aa1c293807bf2d2362b82d7291,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d62739dd92c54d194150ef0638c01895,"win.formbook, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0ef492da421b72a19541d1ae856efdff,"win.vipkeylogger, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,404f0d36fcbe5c4643e821403a4827eb,"py.creal_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2519e7b005a0bd8e444eafa32d41141c,"win.phantom_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,825820fc81056e0cb65b2ef0dbffac08,"win.formbook, md5_hash",n/a
