@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-28,threatfox,URL,http://smarwth.biz:5292,"win.remus, url",n/a
 2026-07-28,threatfox,URL,https://www.risefoundationngo.org/,"unknown, url",n/a
 2026-07-28,threatfox,URL,http://fervxy.xyz:8893,"win.remus, url",n/a
 2026-07-29,threatfox,URL,https://teachinctrl.org/,"win.vidar, url",n/a
@@ -39,15 +38,6 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,URL,https://telemetryworks.pro/,"unknown, url",n/a
 2026-07-29,threatfox,URL,https://rne8b0wt5znenjp.xyz/,"unknown, url",n/a
 2026-07-29,threatfox,URL,http://123.172.77.129:59541/Mozi.m,"elf.mozi, url",n/a
-2026-07-28,threatfox,DOMAIN,subkhpknl.omwcafespot.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,omwcafespot.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,pdsrds.smkn7bandung.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,smkn7bandung.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,serve0.omega-fabric41.lol,"win.revstealer, domain",n/a
-2026-07-28,threatfox,DOMAIN,azcd8d81.libartytoken.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,6vtl1yo2.enus-metabodrops.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,libartytoken.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,ofjunlnfr.omahacaulkingandsealing.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,qxisjdiag.oneidajailroster.org,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,oneidajailroster.org,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,5cc3bt7i.simply-bpo.me,"js.clearfake, domain",n/a
@@ -1015,74 +1005,12 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,DOMAIN,scrummyafterscandyshoppe.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,roperotivo.pro,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,mitkzq.reynoldsbrothersconstruction.com,"js.clearfake, domain",n/a
-2026-07-28,tweetfeed,URL,http://azale1980.duckdns.org,"WsgiDAV, opendir",https://x.com/skocherhan/status/2082204771331575833
-2026-07-28,tweetfeed,URL,http://var-prohibited-strike-seventh.trycloudflare.com,"WsgiDAV, opendir",https://x.com/skocherhan/status/2082204771331575833
-2026-07-28,tweetfeed,URL,http://hvnjune8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xwjun7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://robvbs8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://sepvio1982.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://apri1982om.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://octhnv8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://sep8787hvn.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://hvnjuly8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://asyaugusth5858.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://asyjuly5858.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://recfebnew8100.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://jul5050quasaf.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://asyn5858july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://asy5858d.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://voilt1984may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://marc5858asy2n.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://marc5858asy4n.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xwr9402may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xwom9402a.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://hnvapri8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xrwo9402maynew.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xrw9402july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://marc5858asyn.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://marcc9402xrwo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://phvnmarch8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://marccc9402xrw.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://dec9402xwoo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://dec9402xwo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://dec9402xwor.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://phvnc8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://novxwor9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://novxrw9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xroct9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://lar7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://daislyjs7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://gen7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://x5wo9402sep.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xwor3july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://cav7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://rem8000jun.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://asen9400jun.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://1982js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://june9402xw.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://hvn8500newmay.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://maynewxw9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://hmay8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://reco8100may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://mayxw9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xw9402may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xmay8000.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://xwormay8450.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://hvaprinew850.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://aprilxrwonew8450.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://aprijs7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://remco8100.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://aprilxrwo8450.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://janxworm9090.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://marxrwonew9090.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,URL,http://203.88.119.53,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,URL,http://137.220.144.253:12305,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,URL,http://207.180.56.150,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,URL,http://1daynews.app/435736b425a677a8,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,URL,http://aitoday.me,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,URL,http://142.171.160.137:8888,n/a,https://x.com/SansLimit3/status/2053906675430568281
-2026-07-28,tweetfeed,URL,http://ncloudtechlab.online/XebvZG/glCigX/communigatepro/communigatepro.png,n/a,https://x.com/smica83/status/2082214285648736437
+2026-07-29,threatfox,DOMAIN,1tdaz761.shop-lipogummy.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,ufpykr.rossbridgemedicalcenterlp.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,rossbridgemedicalcenterlp.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,ookzqmk.selladorasgovi.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,selladorasgovi.com,"js.clearfake, domain",n/a
+2026-07-29,threatfox,DOMAIN,rne8b0wt5znenjp.xyz,"unknown, domain",n/a
 2026-07-28,tweetfeed,URL,https://privacy-grain-hypothesis-cities.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082222383260168490
 2026-07-28,tweetfeed,URL,https://gmbh-hunt-dividend-arena.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082222770990219599
 2026-07-28,threatfox,HASH_SHA256,bf1dde0ee67946f8ec76c64b6eb4252040ad4ffb097cdc9528c844de923a1dad,"win.phorpiex, sha256_hash",n/a
@@ -1508,69 +1436,6 @@ date,user,type,ioc,tags,context
 2026-07-29,tweetfeed,URL,http://vira.aidigitalcenter.com,"malware, phishing",https://x.com/Malwarehunterr/status/2082551030458519602
 2026-07-29,tweetfeed,URL,http://79.141.166.211/windows/,"malware, phishing",https://x.com/Malwarehunterr/status/2082553262008627502
 2026-07-29,tweetfeed,URL,http://grupohenry1.com,Xworm,https://x.com/0x_Olympus/status/2082558686535311864
-2026-07-28,tweetfeed,DOMAIN,azale1980.duckdns.org,"WsgiDAV, opendir",https://x.com/skocherhan/status/2082204771331575833
-2026-07-28,tweetfeed,DOMAIN,hvnjune8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xwjun7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,robvbs8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,sepvio1982.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,apri1982om.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,octhnv8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,sep8787hvn.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,hvnjuly8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,asyaugusth5858.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,asyjuly5858.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,recfebnew8100.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,jul5050quasaf.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,asyn5858july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,asy5858d.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,voilt1984may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,marc5858asy2n.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,marc5858asy4n.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xwr9402may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xwom9402a.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,hnvapri8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xrwo9402maynew.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xrw9402july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,marc5858asyn.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,marcc9402xrwo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,phvnmarch8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,marccc9402xrw.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,dec9402xwoo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,dec9402xwo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,dec9402xwor.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,phvnc8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,novxwor9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,novxrw9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xroct9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,lar7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,daislyjs7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,gen7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,x5wo9402sep.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xwor3july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,cav7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,rem8000jun.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,asen9400jun.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,7250js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,1982js.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,june9402xw.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,hvn8500newmay.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,maynewxw9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,hmay8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,reco8100may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,mayxw9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xw9402may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xmay8000.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,xwormay8450.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,hvaprinew850.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,aprilxrwonew8450.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,aprijs7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,remco8100.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,aprilxrwo8450.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,janxworm9090.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,marxrwonew9090.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
-2026-07-28,tweetfeed,DOMAIN,1daynews.app,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,DOMAIN,aitoday.me,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,DOMAIN,ncloudtechlab.online,n/a,https://x.com/smica83/status/2082214285648736437
 2026-07-28,tweetfeed,DOMAIN,privacy-grain-hypothesis-cities.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082222383260168490
 2026-07-28,tweetfeed,DOMAIN,gmbh-hunt-dividend-arena.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082222770990219599
 2026-07-28,threatfox,HASH_MD5,7dfab6d94576579e466f5bc7ace0019b,"win.phorpiex, md5_hash",n/a
@@ -1722,15 +1587,6 @@ date,user,type,ioc,tags,context
 2026-07-29,tweetfeed,DOMAIN,cleanascanbee.com.au,"malware, phishing",https://x.com/Malwarehunterr/status/2082546128348983544
 2026-07-29,tweetfeed,DOMAIN,vira.aidigitalcenter.com,"malware, phishing",https://x.com/Malwarehunterr/status/2082551030458519602
 2026-07-29,tweetfeed,DOMAIN,grupohenry1.com,Xworm,https://x.com/0x_Olympus/status/2082558686535311864
-2026-07-28,tweetfeed,IP,203.88.119.53,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,IP,137.220.144.253,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,IP,143.92.51.76,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,IP,207.180.56.150,n/a,https://x.com/SansLimit3/status/2082208253539438766
-2026-07-28,tweetfeed,IP,142.171.160.137,n/a,https://x.com/SansLimit3/status/2053906675430568281
-2026-07-28,tweetfeed,IP,142.171.149.169,n/a,https://x.com/SansLimit3/status/2053906675430568281
-2026-07-28,tweetfeed,IP,100.81.245.29,n/a,https://x.com/SansLimit3/status/2053906675430568281
-2026-07-28,tweetfeed,HASH_SHA256,a8d04c3d4a97c48d33d9e14009bb3765f22242d51d9a6c9cabdaaa0bb7b22270,n/a,https://x.com/smica83/status/2082214285648736437
-2026-07-28,tweetfeed,HASH_SHA256,4fc548d4267d30acd658a3a43e30b4924dade9371cf6448cb1ae9e374f7dd69a,n/a,https://x.com/smica83/status/2082214285648736437
 2026-07-29,tweetfeed,IP,43.165.168.4,phishing,https://x.com/Metemcyber/status/2082281384614433115
 2026-07-29,tweetfeed,HASH_SHA256,3f09145757282e6a59cd69319ac3b9da3265022a1d4f92a1646f8ddbaad89333,n/a,https://x.com/tdatwja/status/2082413200398762100
 2026-07-29,tweetfeed,IP,174.138.33.139,"C2, stealer",https://x.com/Fact_Finder03/status/2082434920929271898
@@ -1753,7 +1609,6 @@ date,user,type,ioc,tags,context
 2026-07-29,tweetfeed,IP,159.198.64.83,"malware, phishing",https://x.com/Malwarehunterr/status/2082551030458519602
 2026-07-29,tweetfeed,IP,79.141.166.211,"malware, phishing",https://x.com/Malwarehunterr/status/2082553262008627502
 2026-07-29,tweetfeed,IP,31.40.204.237,Xworm,https://x.com/0x_Olympus/status/2082558686535311864
-2026-07-28,tweetfeed,HASH_MD5,4a7218afd537e38e9ed62c7cbe0e1cf8,n/a,https://x.com/skocherhan/status/2082216236868383010
 2026-07-29,tweetfeed,HASH_MD5,5bcdf2811f6a0cd1b93ed9a6cc7ce2dc,malware,https://x.com/d1v35hresearch/status/2082389300243779685
 2026-07-29,tweetfeed,HASH_MD5,a751ea8a6607d2922493d25509477157,n/a,https://x.com/Now_on_VT/status/2082410791106379840
 2026-07-29,tweetfeed,HASH_MD5,fc76a69330918c7327b4990c7747ea67,n/a,https://x.com/tdatwja/status/2082413200398762100
