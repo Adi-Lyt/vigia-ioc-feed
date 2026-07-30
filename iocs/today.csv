@@ -1,7 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-29,threatfox,URL,https://www.guvenceliotoelektrik.com/,"unknown, url",n/a
-2026-07-29,threatfox,URL,http://brigne.top:7673,"win.remus, url",n/a
 2026-07-29,threatfox,URL,http://103.174.243.204:39667/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,https://novacupola.top/role/logout-header.js,"js.smartapesg, url",n/a
 2026-07-29,threatfox,URL,http://124.29.247.76:57576/Mozi.m,"elf.mozi, url",n/a
@@ -38,25 +36,17 @@ date,user,type,ioc,tags,context
 2026-07-29,threatfox,URL,https://roperotivo.pro/,"unknown, url",n/a
 2026-07-30,threatfox,URL,http://31.56.209.153/bins.sh,"unknown, url",n/a
 2026-07-30,threatfox,URL,http://103.196.163.73:52527/Mozi.m,"elf.mozi, url",n/a
-2026-07-29,threatfox,DOMAIN,epnoyy.viveheadspa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,viveheadspa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,iivwka.vivaan-sharma.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,ljqwjle.wisconsinriveroutfitters.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,vivaan-sharma.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wisconsinriveroutfitters.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wwlhzmx.wing88.net,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,djdfav.villas-restaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wing88.net,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,gepskmb.wildwingpreservepoa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,i1s4s2bo.disnakerkopjambikota.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,xfktqi.villas-restaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,villas-restaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,inzngil.wildwingpreservepoa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wildwingpreservepoa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,aotkjl.petgroomercoralsprings.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,petgroomercoralsprings.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,pamsribbonsandroses.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,nqvtmc.parkwayheightsptsa.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,URL,http://153.117.41.230:42178/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,http://110.136.44.90:51644/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,http://223.123.35.126:44063/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,http://103.174.243.192:60994/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,http://223.123.124.126:33879/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,http://103.26.86.38:57605/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,http://104.234.200.205:8181/api/reenvio/webhook/status/cliente,"unknown, url",n/a
+2026-07-30,threatfox,URL,http://104.234.200.205:8181/api/reenvio/rate-limit?email=config,"unknown, url",n/a
+2026-07-30,threatfox,URL,https://88.212.109.208.host.secureserver.net/?/reel/,"unknown, url",n/a
+2026-07-30,threatfox,URL,https://goo.su/xls7375d,"unknown, url",n/a
+2026-07-30,threatfox,URL,https://trueconnectives.com/,"unknown, url",n/a
 2026-07-29,threatfox,DOMAIN,oldmon56121.icu,"js.iclickfix, domain",n/a
 2026-07-29,threatfox,DOMAIN,analyze-me3.buzz,"js.iclickfix, domain",n/a
 2026-07-29,threatfox,DOMAIN,trokorypi451.icu,"js.iclickfix, domain",n/a
@@ -1010,9 +1000,14 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,DOMAIN,sarahelizabethphotoandfilm.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,wohinmn.smallshopsandwhatknot.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,smallshopsandwhatknot.com,"js.clearfake, domain",n/a
-2026-07-29,tweetfeed,URL,https://thedigitalvibe.com/page/agbqxryteq,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,URL,https://uggxposclps.top/jp,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,URL,https://czaldeylkrn.top/jp,phishing,https://x.com/Metemcyber/status/2082348112287596849
+2026-07-30,threatfox,DOMAIN,rpm.sm188xxzx.top,"win.vidar, domain",n/a
+2026-07-30,threatfox,DOMAIN,vmi3474446.contaboserver.net,"unknown, domain",n/a
+2026-07-30,threatfox,DOMAIN,yxrbya.soochiparawaterfalls.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,soochiparawaterfalls.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,effyyws.sunservicedryice.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,sunservicedryice.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,trueconnectives.com,"unknown, domain",n/a
+2026-07-30,threatfox,DOMAIN,88.212.109.208.host.secureserver.net,"unknown, domain",n/a
 2026-07-29,tweetfeed,URL,http://paypal.myproccesing.com,phishing,https://x.com/phishunt_io/status/2082360660860547152
 2026-07-29,tweetfeed,URL,https://ppz0y9a6grw3veoqwz.live,phishing,https://x.com/masaomi346/status/2082360914251280693
 2026-07-29,threatfox,HASH_SHA256,a8ab5c112f0e6f7f2762b0f96fd16da312af98820d46a79f58689abdb679d561,"unknown, sha256_hash",n/a
@@ -1441,9 +1436,6 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,URL,http://jreseivce.jiwlec.cn,phishing,https://x.com/skocherhan/status/2082636123281457467
 2026-07-30,tweetfeed,URL,https://www.absquaredr.com/fgmodx/,phishing,https://x.com/masaomi346/status/2082637793545888037
 2026-07-30,tweetfeed,URL,http://validacaoexpirado.click,"phishing, scam",https://x.com/Coolcarlos17/status/2082645803810635948
-2026-07-29,tweetfeed,DOMAIN,thedigitalvibe.com,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,DOMAIN,uggxposclps.top,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,DOMAIN,czaldeylkrn.top,phishing,https://x.com/Metemcyber/status/2082348112287596849
 2026-07-29,tweetfeed,DOMAIN,paypal.myproccesing.com,phishing,https://x.com/phishunt_io/status/2082360660860547152
 2026-07-29,tweetfeed,DOMAIN,ppz0y9a6grw3veoqwz.live,phishing,https://x.com/masaomi346/status/2082360914251280693
 2026-07-29,threatfox,HASH_MD5,71549eced18fa532dc060d19cae80549,"unknown, md5_hash",n/a
