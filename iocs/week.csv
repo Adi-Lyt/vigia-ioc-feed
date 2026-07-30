@@ -2,11 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-23,threatfox,URL,https://heatherkiln.top/router/trace-core,"js.smartapesg, url",n/a
-2026-07-23,threatfox,URL,https://heatherkiln.top/router/identity-request.js,"js.smartapesg, url",n/a
-2026-07-23,threatfox,URL,https://galaxyvestibule.top/router/trace-core,"js.smartapesg, url",n/a
-2026-07-23,threatfox,URL,https://galaxyvestibule.top/router/identity-request.js,"js.smartapesg, url",n/a
-2026-07-23,threatfox,URL,http://hairkeratin.net:4959,"win.remus, url",n/a
 2026-07-23,threatfox,URL,https://dev.merahsm188.top/,"win.vidar, url",n/a
 2026-07-23,threatfox,URL,http://105.184.28.228:59307/Mozi.a,"elf.mozi, url",n/a
 2026-07-23,threatfox,URL,http://153.117.6.49:50145/Mozi.m,"elf.mozi, url",n/a
@@ -535,10 +530,6 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,URL,http://125.45.57.193:59157/Mozi.m,"elf.mozi, url",n/a
 2026-07-30,threatfox,URL,http://72.255.33.15:59765/Mozi.m,"elf.mozi, url",n/a
 2026-07-30,threatfox,URL,https://laurelcloister.top/role/logout-header.js,"js.smartapesg, url",n/a
-2026-07-23,threatfox,DOMAIN,qsou.brentwoodautoupholstery.com,"js.clearfake, domain",n/a
-2026-07-23,threatfox,DOMAIN,brentwoodautoupholstery.com,"js.clearfake, domain",n/a
-2026-07-23,threatfox,DOMAIN,heatherkiln.top,"js.smartapesg, domain",n/a
-2026-07-23,threatfox,DOMAIN,galaxyvestibule.top,"js.smartapesg, domain",n/a
 2026-07-23,threatfox,DOMAIN,dc10varl.rsudtarutung.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,ljgw.bangla-mart.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,panel.munchyyyyyscpann.live,"unknown, domain",n/a
@@ -4593,14 +4584,6 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,DOMAIN,uvzfxyz.thewildbrow.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,thewildbrow.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,ug0o21g1.phoenixfactory.org,"js.clearfake, domain",n/a
-2026-07-23,tweetfeed,URL,https://safeguard829102.icu/verification.html,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,URL,http://65.21.208.199/Rj6hPQQOhiLf9Qci,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,URL,https://pub-cc9d5dea66b0416b9dea589e3bdd8f2e.r2.dev/Safe-1.zip,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,URL,http://135.181.127.216/94rwryy7-6vyvayjx-hw6uuu6v-6dgkme2r/Safe-1.zip,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,URL,http://65.21.208.199,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,URL,http://135.181.127.216,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,URL,http://162.250.190.225,n/a,https://x.com/smica83/status/2080278040689435060
-2026-07-23,tweetfeed,URL,http://weekly-up.online,n/a,https://x.com/moonlock_lab/status/2080283120226406697
 2026-07-23,tweetfeed,URL,http://2el6bpoz2ely34iqcmxsiicpdmzp37jjtsggxwukbk5jx6x6bdxbh3ad.onion,ransomware,https://x.com/fbgwls245/status/2080297574075101693
 2026-07-23,tweetfeed,URL,https://helpdesk.catapulto.tech,ClickFix,https://x.com/Malwarehunterr/status/2080303722727629142
 2026-07-23,tweetfeed,URL,https://helpdesk.catapulto.tech/portal/?id=<ID>&tag=psping,ClickFix,https://x.com/Malwarehunterr/status/2080303722727629142
@@ -7591,9 +7574,6 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,URL,http://beiduobing.top/login,phishing,https://x.com/masaomi346/status/2082818772575085042
 2026-07-30,tweetfeed,URL,http://172.245.12.92:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,n/a,https://x.com/smica83/status/2082819651096957108
 2026-07-30,tweetfeed,URL,http://babyy2.com,n/a,https://x.com/smica83/status/2082820991462375664
-2026-07-23,tweetfeed,DOMAIN,safeguard829102.icu,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,DOMAIN,pub-cc9d5dea66b0416b9dea589e3bdd8f2e.r2.dev,"ClickFix, malware",https://x.com/Malwarehunterr/status/2080276380986872284
-2026-07-23,tweetfeed,DOMAIN,weekly-up.online,n/a,https://x.com/moonlock_lab/status/2080283120226406697
 2026-07-23,tweetfeed,DOMAIN,2el6bpoz2ely34iqcmxsiicpdmzp37jjtsggxwukbk5jx6x6bdxbh3ad.onion,ransomware,https://x.com/fbgwls245/status/2080297574075101693
 2026-07-23,tweetfeed,DOMAIN,sdfgryu.omvhq.xyz,"malware, phishing",https://x.com/masaomi346/status/2080298019124396255
 2026-07-23,tweetfeed,DOMAIN,helpdesk.catapulto.tech,ClickFix,https://x.com/Malwarehunterr/status/2080303722727629142
@@ -9499,3 +9479,23 @@ date,user,type,ioc,tags,context
 2026-07-27,tweetfeed,DOMAIN,applesecurityserveraustralia.com,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,DOMAIN,keystonequillsigningagent.com,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,DOMAIN,robox.se,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,mi-paciente.com,n/a,https://x.com/chum1ng0/status/2081769683187909068
+2026-07-27,tweetfeed,DOMAIN,contactquest.com,phishing,https://x.com/skocherhan/status/2081774329419759806
+2026-07-27,tweetfeed,DOMAIN,mvuuf.screenconnect.com,phishing,https://x.com/skocherhan/status/2081774329419759806
+2026-07-27,tweetfeed,DOMAIN,vermillion-flan-23049b.netlify.app,n/a,https://x.com/volrant136/status/2081780918750990336
+2026-07-27,tweetfeed,DOMAIN,amazon-ae-relay.apps.prov.cx,phishing,https://x.com/phishunt_io/status/2081786895034396768
+2026-07-27,tweetfeed,DOMAIN,tremorcrest.click,"APT, malware",https://x.com/phatomcandle/status/2081801814488580442
+2026-07-27,tweetfeed,DOMAIN,spfc-punjab-govpk.xyz,n/a,https://x.com/volrant136/status/2081805669175370115
+2026-07-27,tweetfeed,DOMAIN,bascofinefood.cfd,n/a,https://x.com/skocherhan/status/2081821791287144740
+2026-07-27,tweetfeed,DOMAIN,shopdoseletroportateis.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2081829119944183952
+2026-07-27,threatfox,HASH_MD5,6afcaa8ef95e2867087f41d30b3e3e1b,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fe1f23de8bd1e84ad1a33939638144ee,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,068fe402eb8cdbb0fe21f972ac4a23fa,"elf.orbit, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8a5bc9290195e29bfc9214ffa8e13126,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,cc00c3d0b5b43385fca3378c5b86d62f,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,148d43b07def3619cf07a1d440892e6f,"py.creal_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f090a25b25faae55a0a11648a890b12e,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6a68ab6943313c4d3a38803d5a8220f9,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ee9b4e39dc11f3d69fcaa4cadb4d5877,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,00dbca757e6417308d3fc080010a6ff3,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,97e69b9ef7bdb56475e676ab9b81b0e2,"win.vidar, md5_hash",n/a
