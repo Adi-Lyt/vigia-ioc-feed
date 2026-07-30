@@ -1,9 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-29,threatfox,URL,https://ironwoodrotunda.top/metrics/api-transpiler,"js.smartapesg, url",n/a
-2026-07-29,threatfox,URL,https://ironwoodrotunda.top/metrics/signin-fetch.js,"js.smartapesg, url",n/a
-2026-07-29,threatfox,URL,http://103.181.160.201:37308/Mozi.m,"elf.mozi, url",n/a
-2026-07-29,threatfox,URL,http://115.51.43.20:46643/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,https://ziegler-partner.eu/,"unknown, url",n/a
 2026-07-29,threatfox,URL,http://greenns.biz:2930,"win.remus, url",n/a
 2026-07-29,threatfox,URL,http://strmer.top:5292,"win.remus, url",n/a
@@ -34,14 +30,9 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,URL,http://185.233.164.187:1337/debug_send,"unknown, url",n/a
 2026-07-30,threatfox,URL,https://chestnutstanza.top/realm/health-service,"js.smartapesg, url",n/a
 2026-07-30,threatfox,URL,https://chestnutstanza.top/realm/acl-controller.js,"js.smartapesg, url",n/a
-2026-07-29,threatfox,DOMAIN,stdirhh.westpacifichomefashions.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,ironwoodrotunda.top,"js.smartapesg, domain",n/a
-2026-07-29,threatfox,DOMAIN,jomcc8wd.abcdbro.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,vfmvcd.vivaan-sharma.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,y4ihhq2f.lollipupspetgrooming.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,t4mrfbgj.liberty--token.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,lollipupspetgrooming.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,8qiew2ns.en-bizopp.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,URL,http://125.45.57.193:59157/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,http://72.255.33.15:59765/Mozi.m,"elf.mozi, url",n/a
+2026-07-30,threatfox,URL,https://laurelcloister.top/role/logout-header.js,"js.smartapesg, url",n/a
 2026-07-29,threatfox,DOMAIN,blebxzj.wing88.net,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,telemetryworks.pro,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,waihzc.phoenixdistnc.com,"js.clearfake, domain",n/a
@@ -838,9 +829,11 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,DOMAIN,teamchaosky.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,kwjvdq.street-flex.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,street-flex.com,"js.clearfake, domain",n/a
-2026-07-29,tweetfeed,URL,http://mailshare.it,n/a,https://x.com/skocherhan/status/2082431012521263605
-2026-07-29,tweetfeed,URL,http://api.0tokens.xyz,n/a,https://x.com/skocherhan/status/2082432490279420395
-2026-07-29,tweetfeed,URL,http://cn-steampowered.com.cn,phishing,https://x.com/phishunt_io/status/2082436221607858298
+2026-07-30,threatfox,DOMAIN,nkejzz.sultan88.link,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,sultan88.link,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,wczgexs.termeroseo.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,termeroseo.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,resolve.mint-screen.xyz,"win.revstealer, domain",n/a
 2026-07-29,tweetfeed,URL,http://msfconfig.icu,ClickFix,https://x.com/CriminalIP_US/status/2082451082878328961
 2026-07-29,tweetfeed,URL,http://217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,URL,http://litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
@@ -1007,9 +1000,16 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,HASH_SHA256,ff6cf37c6e15581194528898ba09f8e59ecaf40f8eb9ded217092961c6521d4b,"win.salatstealer, sha256_hash",n/a
 2026-07-30,threatfox,HASH_SHA256,0654bae7cd7c16a4ebebc4aeeef6dec0dfe5f6247416593ec33c507db14c2348,"win.salatstealer, sha256_hash",n/a
 2026-07-30,threatfox,HASH_SHA256,273c96eb5d64f3a07e8e741ac70c64dfb375f73e478bdf751508f033a9a36f3b,"win.wannacryptor, sha256_hash",n/a
-2026-07-29,tweetfeed,DOMAIN,mailshare.it,n/a,https://x.com/skocherhan/status/2082431012521263605
-2026-07-29,tweetfeed,DOMAIN,api.0tokens.xyz,n/a,https://x.com/skocherhan/status/2082432490279420395
-2026-07-29,tweetfeed,DOMAIN,cn-steampowered.com.cn,phishing,https://x.com/phishunt_io/status/2082436221607858298
+2026-07-30,tweetfeed,URL,http://customersrespondedpositively.com/Complete_Unboxing_And_Damage_Inspection.mp4/views/PqsTVwXyZatii,n/a,https://x.com/tdatwja/status/2082761360321200396
+2026-07-30,tweetfeed,URL,http://dhlexpress-nl-en-track-trace-sign10.weebly.com,phishing,https://x.com/phishunt_io/status/2082798579727352013
+2026-07-30,tweetfeed,URL,https://kaiwyrey.eu.cc/d/bdc9637e70c2,n/a,https://x.com/bomccss/status/2082799469251399863
+2026-07-30,tweetfeed,URL,http://20260730141517.zip,n/a,https://x.com/bomccss/status/2082799469251399863
+2026-07-30,tweetfeed,URL,http://118.107.0.196:7800,n/a,https://x.com/bomccss/status/2082799472397123703
+2026-07-30,tweetfeed,URL,http://118.107.0.196:7811,n/a,https://x.com/bomccss/status/2082799472397123703
+2026-07-30,tweetfeed,URL,https://customersrespondedpositively.com/Complete_Unboxing_And_Damage_Inspection.mp4/views/PqsTVwXyZatii,n/a,https://x.com/bomccss/status/2082800858207830436
+2026-07-30,tweetfeed,URL,http://trump2.1368.lol:56001,n/a,https://x.com/bomccss/status/2082800860321779795
+2026-07-30,tweetfeed,URL,http://15.235.174.203:56001,n/a,https://x.com/bomccss/status/2082800860321779795
+2026-07-30,tweetfeed,URL,https://panel.b2brouter-secure.com,n/a,https://x.com/malwrhunterteam/status/2082806454692515863
 2026-07-29,tweetfeed,DOMAIN,msfconfig.icu,ClickFix,https://x.com/CriminalIP_US/status/2082451082878328961
 2026-07-29,tweetfeed,DOMAIN,litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,DOMAIN,fedexxl.deliverys.online,phishing,https://x.com/phishunt_io/status/2082511685240184885
@@ -1170,8 +1170,11 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,HASH_MD5,8ec604690d3a8417ad32918c0c8a7270,"win.salatstealer, md5_hash",n/a
 2026-07-30,threatfox,HASH_MD5,c68ce967bc43a30fd83b0a70ba36eb93,"win.salatstealer, md5_hash",n/a
 2026-07-30,threatfox,HASH_MD5,41a65a494ba9b729e6fbf744644004a6,"win.wannacryptor, md5_hash",n/a
-2026-07-29,tweetfeed,IP,174.138.33.139,"C2, stealer",https://x.com/Fact_Finder03/status/2082434920929271898
-2026-07-29,tweetfeed,IP,154.201.171.13,phishing,https://x.com/phishunt_io/status/2082436221607858298
+2026-07-30,tweetfeed,DOMAIN,customersrespondedpositively.com,n/a,https://x.com/tdatwja/status/2082761360321200396
+2026-07-30,tweetfeed,DOMAIN,dhlexpress-nl-en-track-trace-sign10.weebly.com,phishing,https://x.com/phishunt_io/status/2082798579727352013
+2026-07-30,tweetfeed,DOMAIN,20260730141517.zip,n/a,https://x.com/bomccss/status/2082799469251399863
+2026-07-30,tweetfeed,DOMAIN,trump2.1368.lol,n/a,https://x.com/bomccss/status/2082800860321779795
+2026-07-30,tweetfeed,DOMAIN,panel.b2brouter-secure.com,n/a,https://x.com/malwrhunterteam/status/2082806454692515863
 2026-07-29,tweetfeed,IP,217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,HASH_SHA256,4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,IP,1.117.77.166,n/a,https://x.com/teamcymru_S2/status/2082500314125451750
@@ -1211,7 +1214,11 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,IP,146.103.126.213,n/a,https://x.com/solostalking/status/2082786243046527337
 2026-07-30,tweetfeed,IP,146.103.106.67,n/a,https://x.com/solostalking/status/2082786243046527337
 2026-07-30,tweetfeed,HASH_SHA256,ab4d75510a9385c878db258079a4b81d2e27998e7d5c97dc081b49dc84eb1219,n/a,https://x.com/smica83/status/2082793276684288096
-2026-07-29,tweetfeed,HASH_MD5,7f47d5ea49f77b99e25ca2918cea8920,AgentTesla,https://x.com/skocherhan/status/2082432953041265016
+2026-07-30,tweetfeed,HASH_SHA256,69e8a73e215114989a0d9c5c9c666587057e2bcf1c29b1fb7d45e1cb38a715de,n/a,https://x.com/smica83/status/2082793926855946363
+2026-07-30,tweetfeed,IP,118.107.0.196,n/a,https://x.com/bomccss/status/2082799472397123703
+2026-07-30,tweetfeed,HASH_SHA256,b856a8d469bae6f192b89f05c09a91b89682688a99a6c2bb8381d7d7cd28aab6,n/a,https://x.com/bomccss/status/2082799472397123703
+2026-07-30,tweetfeed,IP,15.235.174.203,n/a,https://x.com/bomccss/status/2082800860321779795
+2026-07-30,tweetfeed,HASH_SHA256,a50dcea028a1bfcea55f2aa612c3bc0ffe354fd6a938eb5f1df07f676723df26,n/a,https://x.com/bomccss/status/2082800860321779795
 2026-07-29,tweetfeed,HASH_MD5,62c335a4c4ab14bbc85eb1c026db2f8a,n/a,https://x.com/Now_on_VT/status/2082455350331007315
 2026-07-30,tweetfeed,HASH_MD5,99ddd4f40eac2cec7fcdfc74c63a2480,n/a,https://x.com/skocherhan/status/2082658080278339723
 2026-07-30,tweetfeed,HASH_MD5,527729054da74abbc65749de14008236,n/a,https://x.com/skocherhan/status/2082658080278339723
