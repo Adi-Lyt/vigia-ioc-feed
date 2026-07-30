@@ -534,6 +534,8 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,URL,https://trueconnectives.com/,"unknown, url",n/a
 2026-07-30,threatfox,URL,http://185.233.164.187:1337/send,"unknown, url",n/a
 2026-07-30,threatfox,URL,http://185.233.164.187:1337/debug_send,"unknown, url",n/a
+2026-07-30,threatfox,URL,https://chestnutstanza.top/realm/health-service,"js.smartapesg, url",n/a
+2026-07-30,threatfox,URL,https://chestnutstanza.top/realm/acl-controller.js,"js.smartapesg, url",n/a
 2026-07-23,threatfox,DOMAIN,gswa.bettertalentadvisors.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,bettertalentadvisors.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,rxqy.brain-bright.net,"js.clearfake, domain",n/a
@@ -4597,6 +4599,17 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,DOMAIN,swirlscinnamonrolls.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,4zmg28xb.napolipizzaweymouth.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,azuremods.cc,"unknown, domain",n/a
+2026-07-30,threatfox,DOMAIN,iypuztg.tashabeautystore.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,zewaplus.club,"js.iclickfix, domain",n/a
+2026-07-30,threatfox,DOMAIN,securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion,"unknown, domain",n/a
+2026-07-30,threatfox,DOMAIN,3jpdqv73qlweoytmfinj6ce5hwfblx55poomhfjkqmybdnlktljitbad.onion,"unknown, domain",n/a
+2026-07-30,threatfox,DOMAIN,burunduktracker.xyz,"js.iclickfix, domain",n/a
+2026-07-30,threatfox,DOMAIN,chestnutstanza.top,"js.smartapesg, domain",n/a
+2026-07-30,threatfox,DOMAIN,shlwsw.stmariapharmacy.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,stmariapharmacy.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,nbcfchw.tamajailroster.org,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,tamajailroster.org,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,switchspineprint.com,"js.clearfake, domain",n/a
 2026-07-23,tweetfeed,URL,http://telegram-6.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246999094288800
 2026-07-23,tweetfeed,URL,http://microsoftmailsupports.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246932400713880
 2026-07-23,tweetfeed,URL,http://paypal-refund.com,"phishing, scam",https://x.com/c9lab_soc/status/2080247179852108241
@@ -7545,6 +7558,9 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,URL,http://kaiwyrey.eu.cc/d/bdc9637e70c2,n/a,https://x.com/tdatwja/status/2082759599690788980
 2026-07-30,tweetfeed,URL,http://20260730023139.zip,n/a,https://x.com/tdatwja/status/2082759599690788980
 2026-07-30,tweetfeed,URL,http://auk218.club,n/a,https://x.com/tdatwja/status/2082759599690788980
+2026-07-30,tweetfeed,URL,http://online-casino-free-spins-no-deposit-india.dpboss.maharashtra.gov.in,n/a,https://x.com/d1v35hresearch/status/2082766597975073001
+2026-07-30,tweetfeed,URL,http://yono.dpboss.maharashtra.gov.in/ludo-earn-paytm-cash/,n/a,https://x.com/d1v35hresearch/status/2082766597975073001
+2026-07-30,tweetfeed,URL,http://railway-ken-temp-stuart.trycloudflare.com,opendir,https://x.com/d1v35hresearch/status/2082775178367680641
 2026-07-23,tweetfeed,DOMAIN,telegram-6.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246999094288800
 2026-07-23,tweetfeed,DOMAIN,microsoftmailsupports.com,"phishing, scam",https://x.com/c9lab_soc/status/2080246932400713880
 2026-07-23,tweetfeed,DOMAIN,paypal-refund.com,"phishing, scam",https://x.com/c9lab_soc/status/2080247179852108241
@@ -9483,19 +9499,3 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,HASH_MD5,a3db22547419f693905d3dd045ee9f84,"win.cobalt_strike, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,3549f1fba922f40330aaa081ce71fed2,"win.prometei, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,7696f9286237810feb2fcdce7eb6b953,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,5f31264fd0ff12d16e2bdc00ca1aa9bb,"win.prometei, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,c037ac52a26a18e7b2e911415e85a080,"win.luca_stealer, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,1e613dec8beebebd6baaea91998a628e,"win.prometei, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,d2577b85f5a29ef579bfdfdb64cfa874,"win.prometei, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,bd11a6b7c86bfe4e0fd407b0be2554e9,"win.prometei, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,81c226154c7663bb3f1b0df208dcf664,"win.prometei, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,258b98ded097462bc668ee1ca8e56c60,"win.phorpiex, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,0cade3a07d296e0e228a45df3657311a,"win.phorpiex, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,72990e94e0316066e2fc625b64fa0626,"win.hijackloader, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,deac2af8f25970ebdf88d617037f6b56,"win.stealc, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,bd37be6c711b63c2ef91a37259d4563f,"win.asyncrat, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,c04a9778333a061ce8b2f3fee16d8cbb,"win.socks5_systemz, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,653498f67781d06904988a7c36d7097e,"py.venus_stealer, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,d71b2f14528e27c87ecf8b786c252d57,"elf.kuiper, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,2643d603d7ab8745978cd1ee44f18a39,"win.asyncrat, md5_hash",n/a
-2026-07-27,threatfox,HASH_MD5,49272795f5841c4b742e247cfa9d2bc0,"win.wannacryptor, md5_hash",n/a
