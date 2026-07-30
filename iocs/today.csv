@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-29,threatfox,URL,http://greenns.biz:2930,"win.remus, url",n/a
 2026-07-29,threatfox,URL,http://strmer.top:5292,"win.remus, url",n/a
 2026-07-29,threatfox,URL,https://sietefarma.com/,"unknown, url",n/a
 2026-07-29,threatfox,URL,https://griffihhs.click/api/v1/status,"js.kongtuke, url",n/a
@@ -32,16 +31,6 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,URL,http://125.45.57.193:59157/Mozi.m,"elf.mozi, url",n/a
 2026-07-30,threatfox,URL,http://72.255.33.15:59765/Mozi.m,"elf.mozi, url",n/a
 2026-07-30,threatfox,URL,https://laurelcloister.top/role/logout-header.js,"js.smartapesg, url",n/a
-2026-07-29,threatfox,DOMAIN,sc-api.abuarerestaurant.net,"js.fakeupdates, domain",n/a
-2026-07-29,threatfox,DOMAIN,2hzfeoep.crownconnectpk.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wwjgeu.phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wupvgbt.prairiefurnitureshop.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,prairiefurnitureshop.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,cbrldu.phoenixfactory.org,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,lgteexx.witchwatchchapters.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,phoenixfactory.org,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,vrzslhe.wisconsinriveroutfitters.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,evyahvhbwbsxufviky.energyrefundhelpline.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,energyrefundhelpline.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,zapas-xoga-cig.cc,"js.clearfake, domain",n/a
@@ -830,8 +819,15 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,DOMAIN,uvzfxyz.thewildbrow.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,thewildbrow.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,ug0o21g1.phoenixfactory.org,"js.clearfake, domain",n/a
-2026-07-29,tweetfeed,URL,http://217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
-2026-07-29,tweetfeed,URL,http://litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
+2026-07-30,threatfox,DOMAIN,ylujyst.thunderbirda.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,thunderbirda.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,pdjhra.thechocobite.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,thechocobite.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,nyitbg.thebutlerspantrykitchenandhome.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,qypefu.thebutlerspantrykitchenandhome.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,5aovmzuq.phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,thebutlerspantrykitchenandhome.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,pkdehbp.the-xbitcoinclub.com,"js.clearfake, domain",n/a
 2026-07-29,tweetfeed,URL,http://fedexxl.deliverys.online,phishing,https://x.com/phishunt_io/status/2082511685240184885
 2026-07-29,tweetfeed,URL,https://forumdeenergias.com.br/futuremastics/11.php/,phishing,https://x.com/patialavii/status/2082515718353158461
 2026-07-29,tweetfeed,URL,https://secure-document-review-c3l30u.pagefile.workers.dev/app,phishing,https://x.com/patialavii/status/2082515718353158461
@@ -1010,7 +1006,6 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,URL,http://beiduobing.top/login,phishing,https://x.com/masaomi346/status/2082818772575085042
 2026-07-30,tweetfeed,URL,http://172.245.12.92:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest,n/a,https://x.com/smica83/status/2082819651096957108
 2026-07-30,tweetfeed,URL,http://babyy2.com,n/a,https://x.com/smica83/status/2082820991462375664
-2026-07-29,tweetfeed,DOMAIN,litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,DOMAIN,fedexxl.deliverys.online,phishing,https://x.com/phishunt_io/status/2082511685240184885
 2026-07-29,tweetfeed,DOMAIN,forumdeenergias.com.br,phishing,https://x.com/patialavii/status/2082515718353158461
 2026-07-29,tweetfeed,DOMAIN,secure-document-review-c3l30u.pagefile.workers.dev,phishing,https://x.com/patialavii/status/2082515718353158461
@@ -1176,8 +1171,6 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,DOMAIN,panel.b2brouter-secure.com,n/a,https://x.com/malwrhunterteam/status/2082806454692515863
 2026-07-30,tweetfeed,DOMAIN,beiduobing.top,phishing,https://x.com/masaomi346/status/2082818772575085042
 2026-07-30,tweetfeed,DOMAIN,babyy2.com,n/a,https://x.com/smica83/status/2082820991462375664
-2026-07-29,tweetfeed,IP,217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
-2026-07-29,tweetfeed,HASH_SHA256,4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,IP,1.117.77.166,n/a,https://x.com/teamcymru_S2/status/2082500314125451750
 2026-07-29,tweetfeed,IP,1.14.103.5,n/a,https://x.com/teamcymru_S2/status/2082500314125451750
 2026-07-29,tweetfeed,IP,1.14.126.124,n/a,https://x.com/teamcymru_S2/status/2082500314125451750
@@ -1257,6 +1250,9 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,IP,183.250.89.44,n/a,https://x.com/teamcymru_S2/status/2082823983141916889
 2026-07-30,tweetfeed,IP,38.148.249.2,n/a,https://x.com/teamcymru_S2/status/2082823983141916889
 2026-07-30,tweetfeed,IP,45.145.228.130,n/a,https://x.com/teamcymru_S2/status/2082823983141916889
+2026-07-30,tweetfeed,IP,1.6.1.1,n/a,https://x.com/onodera460/status/2081999884790460857
+2026-07-30,tweetfeed,IP,1.11.3.1,n/a,https://x.com/onodera460/status/2081999884790460857
+2026-07-30,tweetfeed,IP,2.1.11.3,n/a,https://x.com/onodera460/status/2081999884790460857
 2026-07-30,tweetfeed,HASH_MD5,99ddd4f40eac2cec7fcdfc74c63a2480,n/a,https://x.com/skocherhan/status/2082658080278339723
 2026-07-30,tweetfeed,HASH_MD5,527729054da74abbc65749de14008236,n/a,https://x.com/skocherhan/status/2082658080278339723
 2026-07-30,tweetfeed,HASH_MD5,25ae6fd1317fa572ecea835fd402f497,"WsgiDAV, opendir",https://x.com/d1v35hresearch/status/2082717809445056582
@@ -1266,3 +1262,4 @@ date,user,type,ioc,tags,context
 2026-07-30,"threatfox,tweetfeed",HASH_MD5,2c36a2a36a747ee8e1393724c2558b14,"malware, ransomware",https://x.com/RakeshKrish12/status/2082765277687923010
 2026-07-30,tweetfeed,HASH_MD5,56ca1f783a38a29a0832b9c670321d54,n/a,https://x.com/suyog41/status/2082809289983525059
 2026-07-30,tweetfeed,HASH_MD5,29a3049aef43fd2baceeee1388bf891b,n/a,https://x.com/suyog41/status/2082809289983525059
+2026-07-30,tweetfeed,HASH_MD5,58bc88866bbfe902f7116e4ec3b67e58,stealer,https://x.com/suyog41/status/2082824520524775696
