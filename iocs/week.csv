@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-23,threatfox,URL,https://axes.endl.site/adv2.php,"unknown, url",n/a
 2026-07-23,threatfox,URL,https://www.capitolosfera.it/,"unknown, url",n/a
 2026-07-23,threatfox,URL,https://calacosta.com/,"unknown, url",n/a
 2026-07-23,threatfox,URL,http://158.180.49.41/Empire-usage.zip,"win.empire_downloader, url",n/a
@@ -541,13 +540,6 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,URL,https://88.212.109.208.host.secureserver.net/?/reel/,"unknown, url",n/a
 2026-07-30,threatfox,URL,https://goo.su/xls7375d,"unknown, url",n/a
 2026-07-30,threatfox,URL,https://trueconnectives.com/,"unknown, url",n/a
-2026-07-23,threatfox,DOMAIN,bryk.telegrarn.fun,"unknown, domain",n/a
-2026-07-23,threatfox,DOMAIN,aeiq.becoffeecompany.com,"js.clearfake, domain",n/a
-2026-07-23,threatfox,DOMAIN,lkka.blackwaterpaintandbodyllc.com,"js.clearfake, domain",n/a
-2026-07-23,threatfox,DOMAIN,becoffeecompany.com,"js.clearfake, domain",n/a
-2026-07-23,threatfox,DOMAIN,blackwaterpaintandbodyllc.com,"js.clearfake, domain",n/a
-2026-07-23,threatfox,DOMAIN,sxid.basicwhitegirlforgunrights.com,"js.clearfake, domain",n/a
-2026-07-23,threatfox,DOMAIN,basicwhitegirlforgunrights.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,dvhg.bestbusinessvoice.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,bestbusinessvoice.com,"js.clearfake, domain",n/a
 2026-07-23,threatfox,DOMAIN,blueexorcistchapters.com,"js.clearfake, domain",n/a
@@ -4072,8 +4064,6 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,DOMAIN,sunservicedryice.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,trueconnectives.com,"unknown, domain",n/a
 2026-07-30,threatfox,DOMAIN,88.212.109.208.host.secureserver.net,"unknown, domain",n/a
-2026-07-23,tweetfeed,URL,https://mqebv.com/9tI7La5n/,phishing,https://x.com/masaomi346/status/2080172153748759023
-2026-07-23,tweetfeed,URL,http://axes.endl.site/adv2.php,n/a,https://x.com/abuse_ch/status/2080182533447184651
 2026-07-23,tweetfeed,URL,https://invitparrties.top,phishing,https://x.com/patialavii/status/2080171347448352794
 2026-07-23,tweetfeed,URL,https://raw.githubusercontent.com/sean100496/bnb/refs/heads/main/ScreenConnect.ClientSetup.exe,phishing,https://x.com/patialavii/status/2080171347448352794
 2026-07-23,tweetfeed,URL,https://github.com/sean100496,phishing,https://x.com/patialavii/status/2080171347448352794
@@ -7020,8 +7010,6 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,URL,http://jreseivce.jiwlec.cn,phishing,https://x.com/skocherhan/status/2082636123281457467
 2026-07-30,tweetfeed,URL,https://www.absquaredr.com/fgmodx/,phishing,https://x.com/masaomi346/status/2082637793545888037
 2026-07-30,tweetfeed,URL,http://validacaoexpirado.click,"phishing, scam",https://x.com/Coolcarlos17/status/2082645803810635948
-2026-07-23,tweetfeed,DOMAIN,mqebv.com,phishing,https://x.com/masaomi346/status/2080172153748759023
-2026-07-23,"threatfox,tweetfeed",DOMAIN,axes.endl.site,n/a,https://x.com/abuse_ch/status/2080182533447184651
 2026-07-23,tweetfeed,DOMAIN,punchbowl.cyou,phishing,https://x.com/patialavii/status/2080172844450037916
 2026-07-23,tweetfeed,DOMAIN,invitparrties.top,phishing,https://x.com/skocherhan/status/2080200885024518241
 2026-07-23,tweetfeed,DOMAIN,cdn.secure-data.nl,phishing,https://x.com/skocherhan/status/2080210313945776615
@@ -9499,3 +9487,15 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,junction-equation-kodak-counseling.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082201328172888396
 2026-07-28,tweetfeed,DOMAIN,events-seek-metallica-something.trycloudflare.com,opendir,https://x.com/smica83/status/2082203053533364565
 2026-07-28,tweetfeed,DOMAIN,controls-happens-consultancy-kinase.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082203472687243536
+2026-07-28,tweetfeed,DOMAIN,kingston-coding-rely-fourth.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082203911960604938
+2026-07-28,tweetfeed,DOMAIN,var-prohibited-strike-seventh.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082204354392531145
+2026-07-28,tweetfeed,DOMAIN,azale1980.duckdns.org,"WsgiDAV, opendir",https://x.com/skocherhan/status/2082204771331575833
+2026-07-28,tweetfeed,DOMAIN,hvnjune8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,xwjun7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,robvbs8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,sepvio1982.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,apri1982om.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,octhnv8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,sep8787hvn.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,hvnjuly8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,asyaugusth5858.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
