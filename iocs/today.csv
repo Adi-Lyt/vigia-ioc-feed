@@ -1,6 +1,4 @@
 date,user,type,ioc,tags,context
-2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-29,threatfox,URL,http://123.172.77.129:59541/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,https://roperotivo.pro/,"unknown, url",n/a
 2026-07-30,threatfox,URL,http://31.56.209.153/bins.sh,"unknown, url",n/a
 2026-07-30,threatfox,URL,http://103.196.163.73:52527/Mozi.m,"elf.mozi, url",n/a
@@ -29,14 +27,12 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,URL,https://tom-rr.top/f,"js.kongtuke, url",n/a
 2026-07-30,threatfox,URL,https://thebookkeepingcomp.org/,"win.vidar, url",n/a
 2026-07-30,threatfox,URL,https://mattressbd.com/,"win.vidar, url",n/a
-2026-07-29,threatfox,DOMAIN,reynoldsbrothersconstruction.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,phfifdv.rentechglobalsolutions.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,rentechglobalsolutions.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,kbtmm8vw.redcanoerealestate.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,gfodqo.pradanailsspakaty.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,pradanailsspakaty.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,exvgbus.reliablelogisticsltd.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,reliablelogisticsltd.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,URL,http://160.119.69.4/hima_data/index.php,"unknown, url",n/a
+2026-07-30,threatfox,URL,https://aware-cr1.com/api/gate,"win.vidar, url",n/a
+2026-07-30,threatfox,URL,https://bpo.akasia988.net,"win.vidar, url",n/a
+2026-07-30,threatfox,URL,https://t.me/gk6p2s,"win.vidar, url",n/a
+2026-07-30,threatfox,URL,http://45.95.147.178/hima_data/index.php,"unknown, url",n/a
+2026-07-30,threatfox,URL,https://mabuhayasianstore.fo/,"win.vidar, url",n/a
 2026-07-29,threatfox,DOMAIN,jereqk.rochandmadeholiday.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,rochandmadeholiday.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,eveyclq.scrummyafterscandyshoppe.com,"js.clearfake, domain",n/a
@@ -754,17 +750,21 @@ date,user,type,ioc,tags,context
 2026-07-30,threatfox,DOMAIN,llufxf.thepunsify.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,thepunsify.com,"js.clearfake, domain",n/a
 2026-07-30,threatfox,DOMAIN,xkq88jyy.rochandmadeholiday.com,"js.clearfake, domain",n/a
-2026-07-29,tweetfeed,URL,https://matakwan.com/ngx(2)/ngx(2)/ngx(2)/ngx(1)/ngx/,phishing,https://x.com/patialavii/status/2082512086132044251
-2026-07-29,tweetfeed,URL,https://nath-c.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2082512086132044251
-2026-07-29,tweetfeed,URL,https://eventomepartae.top,phishing,https://x.com/patialavii/status/2082514603842609347
-2026-07-29,tweetfeed,URL,https://raw.githubusercontent.com/sean1004960/bgf/refs/heads/main/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2082514603842609347
-2026-07-29,tweetfeed,URL,https://sakamoti.me/idan/,phishing,https://x.com/patialavii/status/2082518947874865158
-2026-07-29,tweetfeed,URL,https://pub-7018b3240dea4c67b01648963fcbc60a.r2.dev/setup_Assigned.msi,phishing,https://x.com/patialavii/status/2082518947874865158
-2026-07-29,tweetfeed,URL,https://pdf.adodefile.cam,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
-2026-07-29,tweetfeed,URL,https://pdf.adodefile.cam/windows/,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
-2026-07-29,tweetfeed,URL,https://pdf.adodefile.cam/windows/pop.html,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
-2026-07-29,tweetfeed,URL,https://cleanascanbee.com.au/atoincomestatement/download.html,"malware, phishing",https://x.com/Malwarehunterr/status/2082546128348983544
-2026-07-29,tweetfeed,URL,https://cleanascanbee.com.au/atoincomestatement/complete.php,"malware, phishing",https://x.com/Malwarehunterr/status/2082546128348983544
+2026-07-30,threatfox,DOMAIN,byjm6x7s.liberty--token.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,zope.putinduehost399.com,"win.pure_rat, domain",n/a
+2026-07-30,threatfox,DOMAIN,voucher-01-static.com,"win.purelogs, domain",n/a
+2026-07-30,threatfox,DOMAIN,relay-01-static.com,"win.purelogs, domain",n/a
+2026-07-30,threatfox,DOMAIN,relay-02-static.com,"win.purelogs, domain",n/a
+2026-07-30,threatfox,DOMAIN,strang-02-static.com,"win.purelogs, domain",n/a
+2026-07-30,threatfox,DOMAIN,adobeartsia.com,"win.purelogs, domain",n/a
+2026-07-30,threatfox,DOMAIN,boltiviersoul.com,"win.purelogs, domain",n/a
+2026-07-30,threatfox,DOMAIN,relaxation-seed.xyz,"unknown_loader, domain",n/a
+2026-07-30,threatfox,DOMAIN,trackelevenmag.com,"unknown, domain",n/a
+2026-07-30,threatfox,DOMAIN,culifrk.trucktrailersparts.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,trucktrailersparts.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,ty53sr9w.abcdbro.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,joodwh.theroyalpizza.com,"js.clearfake, domain",n/a
+2026-07-30,threatfox,DOMAIN,theroyalpizza.com,"js.clearfake, domain",n/a
 2026-07-29,tweetfeed,URL,http://159.198.64.83,"malware, phishing",https://x.com/Malwarehunterr/status/2082551030458519602
 2026-07-29,tweetfeed,URL,http://vira.aidigitalcenter.com,"malware, phishing",https://x.com/Malwarehunterr/status/2082551030458519602
 2026-07-29,tweetfeed,URL,http://79.141.166.211/windows/,"malware, phishing",https://x.com/Malwarehunterr/status/2082553262008627502
@@ -940,13 +940,14 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,URL,http://dae-mul-18.com,phishing,https://x.com/scanmalware/status/2082871353061814756
 2026-07-30,tweetfeed,URL,http://mail.support-icloudmyjhhs.info/fl26,phishing,https://x.com/phishunt_io/status/2082874094953881859
 2026-07-30,tweetfeed,URL,http://softwareupdatenews.com,"APT, malware",https://x.com/phatomcandle/status/2082888976302768453
-2026-07-29,tweetfeed,DOMAIN,matakwan.com,phishing,https://x.com/patialavii/status/2082512086132044251
-2026-07-29,tweetfeed,DOMAIN,nath-c.screenconnect.com,phishing,https://x.com/patialavii/status/2082512086132044251
-2026-07-29,tweetfeed,DOMAIN,eventomepartae.top,phishing,https://x.com/patialavii/status/2082514603842609347
-2026-07-29,tweetfeed,DOMAIN,sakamoti.me,phishing,https://x.com/patialavii/status/2082518947874865158
-2026-07-29,tweetfeed,DOMAIN,pub-7018b3240dea4c67b01648963fcbc60a.r2.dev,phishing,https://x.com/patialavii/status/2082518947874865158
-2026-07-29,tweetfeed,DOMAIN,pdf.adodefile.cam,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
-2026-07-29,tweetfeed,DOMAIN,cleanascanbee.com.au,"malware, phishing",https://x.com/Malwarehunterr/status/2082546128348983544
+2026-07-30,tweetfeed,URL,http://waplusoficial.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,URL,http://wapluz.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,URL,http://whatplusapp.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,URL,http://wats-aldhahabi.pro,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,URL,http://watsapgold.pro,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,URL,http://wapluz.pro,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,URL,http://waplusofficial.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,URL,http://whatsappplus.org,n/a,https://x.com/stop_spammerz/status/2082903186696806606
 2026-07-29,tweetfeed,DOMAIN,vira.aidigitalcenter.com,"malware, phishing",https://x.com/Malwarehunterr/status/2082551030458519602
 2026-07-29,tweetfeed,DOMAIN,grupohenry1.com,Xworm,https://x.com/0x_Olympus/status/2082558686535311864
 2026-07-29,tweetfeed,DOMAIN,tridus.vu,phishing,https://x.com/patialavii/status/2082506605049118883
@@ -1113,10 +1114,14 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,DOMAIN,dae-mul-18.com,phishing,https://x.com/scanmalware/status/2082871353061814756
 2026-07-30,tweetfeed,DOMAIN,mail.support-icloudmyjhhs.info,phishing,https://x.com/phishunt_io/status/2082874094953881859
 2026-07-30,tweetfeed,DOMAIN,softwareupdatenews.com,"APT, malware",https://x.com/phatomcandle/status/2082888976302768453
-2026-07-29,tweetfeed,HASH_SHA256,932411f7f4e8ef04a4963736cc6bb20e0432f4aab5b8d15d99103b3ca3df3908,phishing,https://x.com/patialavii/status/2082512086132044251
-2026-07-29,tweetfeed,HASH_SHA256,2656759aabeed21c9d5fb5ae20c8f9272b79811e6d7238f27ee1f3847414715c,phishing,https://x.com/patialavii/status/2082514603842609347
-2026-07-29,tweetfeed,HASH_SHA256,0d78110067a6ce8a760aea252ded09fba7efac62fd5155ea804d0309ecd8b100,phishing,https://x.com/patialavii/status/2082518947874865158
-2026-07-29,tweetfeed,HASH_SHA256,6dcda2d781f5f8fe3b2ca80e0b233809954aacec8773d98c213e75ed1d1063c0,"malware, phishing",https://x.com/Malwarehunterr/status/2082539180803129551
+2026-07-30,tweetfeed,DOMAIN,waplusoficial.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,DOMAIN,wapluz.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,DOMAIN,whatplusapp.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,DOMAIN,wats-aldhahabi.pro,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,DOMAIN,watsapgold.pro,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,DOMAIN,wapluz.pro,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,DOMAIN,waplusofficial.com,n/a,https://x.com/stop_spammerz/status/2082903186696806606
+2026-07-30,tweetfeed,DOMAIN,whatsappplus.org,n/a,https://x.com/stop_spammerz/status/2082903186696806606
 2026-07-29,tweetfeed,IP,159.198.64.83,"malware, phishing",https://x.com/Malwarehunterr/status/2082551030458519602
 2026-07-29,tweetfeed,IP,79.141.166.211,"malware, phishing",https://x.com/Malwarehunterr/status/2082553262008627502
 2026-07-29,tweetfeed,IP,31.40.204.237,Xworm,https://x.com/0x_Olympus/status/2082558686535311864
@@ -1188,6 +1193,7 @@ date,user,type,ioc,tags,context
 2026-07-30,tweetfeed,IP,2.1.11.3,n/a,https://x.com/onodera460/status/2081999884790460857
 2026-07-30,tweetfeed,IP,96.125.163.17,phishing,https://x.com/phishunt_io/status/2082874094953881859
 2026-07-30,tweetfeed,HASH_SHA256,09b02692523576627b14e7510125bb99732891efed079439218a69396482e72b,n/a,https://x.com/smica83/status/2082895689307009433
+2026-07-30,tweetfeed,IP,196.251.121.49,n/a,https://x.com/stop_spammerz/status/2082896460329193927
 2026-07-30,tweetfeed,HASH_MD5,99ddd4f40eac2cec7fcdfc74c63a2480,n/a,https://x.com/skocherhan/status/2082658080278339723
 2026-07-30,tweetfeed,HASH_MD5,527729054da74abbc65749de14008236,n/a,https://x.com/skocherhan/status/2082658080278339723
 2026-07-30,tweetfeed,HASH_MD5,25ae6fd1317fa572ecea835fd402f497,"WsgiDAV, opendir",https://x.com/d1v35hresearch/status/2082717809445056582
