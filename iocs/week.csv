@@ -2,9 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-24,threatfox,URL,https://codingnplay.co.kr/,"unknown, url",n/a
-2026-07-24,threatfox,URL,https://chessco.co.za/,"unknown, url",n/a
-2026-07-24,threatfox,URL,https://fwf.merahsm188.top/,"win.vidar, url",n/a
 2026-07-24,threatfox,URL,https://sup.808skor.org/,"win.vidar, url",n/a
 2026-07-24,threatfox,URL,https://farma-kalal.cz/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://execucarearc.net/,"unknown, url",n/a
@@ -398,19 +395,13 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,URL,http://117.217.230.14:43596/Mozi.m,"elf.mozi, url",n/a
 2026-07-31,threatfox,URL,https://pewtercanto.top/user/acl-dom,"js.smartapesg, url",n/a
 2026-07-31,threatfox,URL,https://pewtercanto.top/user/version-deploy.js,"js.smartapesg, url",n/a
-2026-07-24,threatfox,DOMAIN,gdvi.janatcosmetics.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,lhsq.janatcosmetics.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,janatcosmetics.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,jtgj.interventionalpainmanagement.net,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,getamericanglass.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,interventionalpainmanagement.net,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,bcmsc.deckico.bet,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,cfuuzz.deckico.bet,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,gentletouchchiropracticclinicauroracol.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,79ccfm8.deckico.bet,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,fwf.merahsm188.top,"win.vidar, domain",n/a
-2026-07-24,threatfox,DOMAIN,ifnj.intellectualgroupie.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,intellectualgroupie.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,URL,https://qyvbm.fun/api/command,"unknown, url",n/a
+2026-07-31,threatfox,URL,https://asterismchisel.top/user/acl-dom,"js.smartapesg, url",n/a
+2026-07-31,threatfox,URL,https://asterismchisel.top/user/version-deploy.js,"js.smartapesg, url",n/a
+2026-07-31,threatfox,URL,https://pawsockenjoyer.site/api/hwid,"unknown_stealer, url",n/a
+2026-07-31,threatfox,URL,https://pawsockenjoyer.site/v1/stats,"unknown_stealer, url",n/a
+2026-07-31,threatfox,URL,https://pawsockenjoyer.site/v1/webhook,"unknown_stealer, url",n/a
+2026-07-31,threatfox,URL,https://pawsockenjoyer.site/v1/poll,"unknown_stealer, url",n/a
 2026-07-24,threatfox,DOMAIN,307xq.braveclo.bet,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,glensautoparts.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,keldraal.braveclo.bet,"js.clearfake, domain",n/a
@@ -5289,6 +5280,14 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,DOMAIN,www.contratoscliente.online,"unknown, domain",n/a
 2026-07-31,threatfox,DOMAIN,nqgikft.chevyrepairhuntingtonbeach.com,"js.clearfake, domain",n/a
 2026-07-31,threatfox,DOMAIN,chevyrepairhuntingtonbeach.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,elsfpng.classicpontiac.org,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,classicpontiac.org,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,bxzpts.aurinebeverly.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,qyvbm.fun,"unknown, domain",n/a
+2026-07-31,threatfox,DOMAIN,pawsockenjoyer.site,"unknown_stealer, domain",n/a
+2026-07-31,threatfox,DOMAIN,asterismchisel.top,"js.smartapesg, domain",n/a
+2026-07-31,threatfox,DOMAIN,videogeo.ru,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,aurinebeverly.com,"js.clearfake, domain",n/a
 2026-07-24,tweetfeed,URL,https://cds.aiservices.workers.dev,n/a,https://x.com/malwrhunterteam/status/2080607632415408313
 2026-07-24,tweetfeed,URL,http://deme.stanford.edu/static/filedocument/2026/07/23/,n/a,https://x.com/malwrhunterteam/status/2080624443647299878
 2026-07-24,tweetfeed,URL,http://vapeauroz.com,n/a,https://x.com/malwrhunterteam/status/2080626563977011542
@@ -7687,6 +7686,8 @@ date,user,type,ioc,tags,context
 2026-07-31,tweetfeed,URL,http://enter-code-cdn.info/7z,"ClickFix, FakeCaptcha, malware",https://x.com/Malwarehunterr/status/2083127371347964234
 2026-07-31,tweetfeed,URL,http://enter-code-cdn.info/0dabb7343f4a179b30de698b474ee7ae3b21d17f78cb6086c47cf00140e630f7,"ClickFix, FakeCaptcha, malware",https://x.com/Malwarehunterr/status/2083127371347964234
 2026-07-31,tweetfeed,URL,http://enter-code-cdn.info/p/0dabb7343f4a179b30de698b474ee7ae3b21d17f78cb6086c47cf00140e630f7,"ClickFix, FakeCaptcha, malware",https://x.com/Malwarehunterr/status/2083127371347964234
+2026-07-31,tweetfeed,URL,http://23x32x3x2.pages.dev,phishing,https://x.com/skocherhan/status/2083140267175997546
+2026-07-31,tweetfeed,URL,http://truexarchetypalkz-f5h0d2f3g8hgegef.z03.azurefd.net,phishing,https://x.com/skocherhan/status/2083140688233783377
 2026-07-24,tweetfeed,DOMAIN,cds.aiservices.workers.dev,n/a,https://x.com/malwrhunterteam/status/2080607632415408313
 2026-07-24,tweetfeed,DOMAIN,deme.stanford.edu,n/a,https://x.com/malwrhunterteam/status/2080624443647299878
 2026-07-24,tweetfeed,DOMAIN,vapeauroz.com,n/a,https://x.com/malwrhunterteam/status/2080626563977011542
@@ -9498,4 +9499,3 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,pasastesintagetc.top,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,pasastesintageuc.top,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,pasastesintagevc.top,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,pasastesintagewc.top,phishing,https://x.com/tial_cl/status/2082150910101225915
