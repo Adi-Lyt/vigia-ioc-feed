@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-24,threatfox,URL,https://bbinvinoveritas.com/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://fwf.808skor.org/,"win.vidar, url",n/a
 2026-07-24,threatfox,URL,https://codingnplay.co.kr/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://chessco.co.za/,"unknown, url",n/a
@@ -398,10 +397,8 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,URL,https://v-k.com.ua/reportv.php,"unknown, url",n/a
 2026-07-31,threatfox,URL,https://viewphotodocument.com/api/init/,"unknown, url",n/a
 2026-07-31,threatfox,URL,http://117.217.230.14:43596/Mozi.m,"elf.mozi, url",n/a
-2026-07-24,threatfox,DOMAIN,vitalamb.reptbot.bet,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,4tom-pulse.reptbot.bet,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,chammaautosales.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,upkx.infinityjoespizzaclearwater.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,URL,https://pewtercanto.top/user/acl-dom,"js.smartapesg, url",n/a
+2026-07-31,threatfox,URL,https://pewtercanto.top/user/version-deploy.js,"js.smartapesg, url",n/a
 2026-07-24,threatfox,DOMAIN,stabimodule.deckico.bet,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,geigersjobs.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,uocqxlqf.sendrat.bet,"js.clearfake, domain",n/a
@@ -5280,438 +5277,17 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,DOMAIN,www.cotcsc.org,"js.iclickfix, domain",n/a
 2026-07-31,threatfox,DOMAIN,www.craniosacraltotnes.co.uk,"js.iclickfix, domain",n/a
 2026-07-31,threatfox,DOMAIN,www.cs-lab.it,"js.iclickfix, domain",n/a
-2026-07-24,tweetfeed,URL,http://privote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votesurf.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votetlc.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votelyte.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://centvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votehaus.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votecx.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://voteway.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://voteflyer.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votesynch.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://voteli.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://primavote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://provoting.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votelement.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votegy.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votellc.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votepub.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votequests.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://wellsvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votesens.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votarly.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://hublyvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votecycle.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votecat.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votestudio.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votecente.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votedigitals.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://centivote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://optivote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votecentral.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votesh.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votelite.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://voteguest.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://thevotehost.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://thevotex.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://podvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://voxlypod.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votecastly.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votesocial.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://guestvoter.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votepodcast.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votersbase.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://votebase.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://guestpod.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,URL,http://groendj.nl/info/,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://aidlifempowerment.com/r/irstranscripviewer,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://edmond-ntakpe.com/irstranscripviewer/,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://ctfbff.com.br/Rogers_insurance/portal/,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://solunaenterprises.org/Manuel.Rico/portal/download.html,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://core-ksa.com/earthfinance/portal/,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://tradexexpertfxcourse.com/irstranscripviewer/,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://quantumstraderslink.com/portal/,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://canovaelectric.com/fed/irstranscripviewer/,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,URL,http://36derece.com/Diebold/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://3vg.de/sfvds/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://abdulind.com/Gde/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://accessdoc.top,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://acrobat-adobe-cloud-document.pages.dev,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://adivaskitchen.com/advancedoc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://admfdcf85.server.shfoxllc.com/schoeppnerinc/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://adobe-acrobat-installer.pages.dev,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://adobe-documentpotgo.top,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://adpagro.com/kkdpc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://afaktv.com/summerwood/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://aftabparsian.co/otaoni/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://agbaxter.com/Ontario/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://agipk.com/gphaincdaa/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://agrogugeler.net.br/doc/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ahmedfitness.com.pk/wpo-cache/config/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ahurahotel.com/Adobereader/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://airt.com.br/pdf/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://aisafood.co.id/wp-includes/log/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://al-farakhind.com/proactiontransport/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://aldibiki.com/madison/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://alex-campbell.secured-file.online/download.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://alhakikapress.com/michelle/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://allianceglobal.com.tr/ocomfort/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://allstarpavingconstruction.com/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://altadesk.com.br/orangeproperties/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://americanmovingco.org/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://amlar2026.com/nextlevel-auto/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,"http://anavip.com.br/Kitchen_and_Bath_Beyond,_Inc/",phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://anunciobd.com/clarkconstructioncompany/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://apexecotech.com/birklawfirm/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://application.msection.com/earleylawgroup/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://armmgos.org/greatlakesbeer/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://arsitisac.com/Billieshepard/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://arysportswear.com/wp-content/4Sphere_Solutions_LLC/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://asianmomo.us/schrr/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://askmeforsure.info/ad/i/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://asphaltunlimited.com/Millersexpress/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://astrodiwagaran.com/Intervention/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://atlascapitalsolutions.sg/Crewsinsure/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://avocatsabrinaene.ro/wp/invoice/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://awasqahandbags.com/alfredoins/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://azirksa.com/PNW_Home_LLC/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://azuriu.com/crosslake/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://balconyresidences.com.br/A64ybzU6h2ndxvVzRdE0wrhclick/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://bananaplantsforsale.com/adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://beachandcountrytowing.com/adobe-acrobat-dev/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://bellezasdecostarica.com/llatechnologies/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://bervano.vu/pdf/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://bhavitrabd.com/Blessin/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://bigbearbuilds7.com/wp-admin/Wallace_Performance_Solutions/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://biovetaquad.com/zoomersrv/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://blinderapp.com.br/Prairie_Hill_Home_Care/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://blissidols.com/oiu/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://blueatlastesting.com/slonearchitects/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://blueconcept.ae/Adobesharefile/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://blueconcept.ae/Adobesharefile/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://brentpetersonlaw.com/artsappliance/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,"http://brucecornblumlaw.com/wp-admin/AngioDynamics,_Inc/",phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://buletsatrading.co.za/apexfab/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://buzzsphere.org/durhammedical/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://camaradecomercioush.com.ar/gghnvd/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://capsulux.ca/wp-content/Farney's_Home_&_Building_Center/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://careandsupportfoundation.org/pdf/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://careconx.com/adobe/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://carolinahomesandcondos.com/lesido/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cartermobilmadiun.com/callmss/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cartermobilmadiun.com/yessolarsolution/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://casadaluzvermelha.com.br/collision-invoice/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ceihmedicalcenter.com.br/adobe/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://celinevds.be/winn/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cencam.com/wp-admin/North_Park_Management_Company/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cencam.com/wp-admin/Travel_Designers_Inc/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://centrarpsicologia.com.br/tpbacci/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cenwul.space/adobesync/doc/index.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ceram-part.com/vets/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cetelcoetdh.com/buckingmasters/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://chemtechbd.net/forrest101.ak/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ciephysics.net/tim.k/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cloud04reader.com/auth/file/adobe/cloudspace/campaign/Creativecloud/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cloudadreader.com/auth/creativecloud/adobe/campaign/.,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://colegiojohndewey.org/wp-admin/Parkreation_Inc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://colegiojohndewey.org/wp-admin/Parkreation_Inc/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://construccionesenmetalramos.com/strong-rock/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cooperttran.com.br/Adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cost.ru.com/PlainsArtMuseum/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cpciservicesnh.com/Adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://crac.live/magnolia-dental/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://cranbourneberwicktaxi.com.au/AdobeAcrobat/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://dadayhappy.com/Ecallan/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://dardsaaz.com/ino/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://dealoffr.com/xollo/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://devambuly.com/ino/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://dhakagroup.com/apngroup/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://dhakagroup.com/tsherk/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://docucheck.info/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://document-cloud-acrobat-adobe.pages.dev,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://document.adobepdf.cam/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://docusign.pdf-adobe.us/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://docusignmsteamsmeeting.com/adobepdf/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://dou-jai.com/law/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://download-adobeinstaller.com/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://draanaclaudianeurologista.com/rob/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://drag-al.com.br/Transitionsfvs/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://drevos.ro/thrffe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://drnissan57.com/greenvalleyvet.net/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://efiledownloadsonlinesync.com/Adobe-digital-exe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://elamanella.com/acedoc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://elatrapanoticias.com/Adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://elitecharterjets.com/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://endustriyelkececi.com/ire/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://envolcomunicacao.com.br/grandpa/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://eqew.life/lufkinrealestate/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://erudite.consulting/daycoconcrete/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://erudite.consulting/eastsideconstruction/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://esmcpatna.com/MyChart/Adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://evitefriends.one/ad/i/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://fertilityacu.net/adobe.digital.exe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://file.pdf-docuadobe.cam/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://filebridge.xtructionx.online/download.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://filezzview.cyxipixerly.online,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://fiorenzapaes.com.br/court/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://fitco.com.br/creatiohj/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://fontem.org/wp-admin/Advisor_Share_Wealth_Management/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://foodchainsystem.com/Law/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://foodchainsystem.com/cpas/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://freeholdwebdesign.com/TTUCORP/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://frigosur.com.pe/adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://fusoforte.com.br/svhnm_file/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://fussschmerzenade.de/Craig/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://fussschmerzenade.de/Crescenta/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://futbolt.com.ar/resume/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://gaheempreendimentos.com/gtynnd/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ghaffariindgroup.com/Selcotime/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ghorarshop.com/amos/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://gl.pqubw.org/Myshowerdoor/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://glamoureaxdrapes.co/danielsdiscountt/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://glamoureaxdrapes.co/danielsdiscountt/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://glmopv.com/adobe/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://goeverhappytours.com/lawoffice/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://gundam.technology/urgfem/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://hattanpublishers.com/cdphospital/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://hausmeister38.de/edwardhopwooddmd/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://healthcareforexpats.com/d-f-plumbing/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://hikmvn.com/pop/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://hikmvn.com/pop/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://hm-investsport.dz/courcellelaw/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://honeypotget.top,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://horizonteconsult.com.br/adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ht-links.de/Express/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://htogroup.co.in/AdobeReader/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://humcorp.com/nakopenda/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://huzur.de/profinishplumbing/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://iglarchiv.de/kolkmanncourtbuilder/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ilimecorp.com/starktruss/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://illedelab.com.br/ebiconsulting/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://illedelab.com.br/kandmcomm/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://imajinandfusion.com/iafp/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://imisedu.com/Documetshared/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://imisedu.com/info/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://imountsecurity.co.nz/hansonagy/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://insider1x2.net/Adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://instant-as-built.de/hydraulic/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://instaprintsac.com.pe/peakscientific/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://instructionalcoaching.us/wp-admin/Law_Office_of_Roxie_W_Cluck/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://instructionalcoaching.us/wp-admin/Law_Office_of_Roxie_W_Cluck/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://iooshosting.com/noth/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://istockrf.com/Documetshared/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://istockrf.com/Documetshared/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://itmaintenance.my/smiles/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://iwd154.icu/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://janataintgroup.com/lisacompany/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://jatn.digital/bonzysbdd/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://jobenation.co.za/AdobeExtra/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://jobenation.co.za/AdobeExtra/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://john-aichach.de/MassMindCenter/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://jonily.com/wp-admin/Brookline_Doorworks/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://jonily.com/wp-admin/Brookline_Doorworks/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://joshidiagnosticcentre.com/Secured28/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://joshidiagnosticcentre.com/securedaccess/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kautharcollege.org/thesurcharge/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kgv-schoener-fleck.de/Hettena/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kh3a.de/downeynursery/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kh3a.de/internationalmicro/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kh3a.de/internationalmicro/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kh3a.de/thomaspestsolutions/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kiekesrin.de/fasterhouse/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kigalifinder.com/hopeandhealing/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kinorot.co.il/noblelawfirmpa/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://klausfhepp.com/ino/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ksaservicesarl.com/JASPERPLASTICS/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ksaservicesarl.com/edenalt/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ksaservicesarl.com/hobbs-potts/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ksaservicesarl.com/t2.net/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ksaservicesarl.com/visionrealtymgt/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kuliba.icu/von/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://kv.lirdlfq.com/adobe/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://leads.marke-ter.online/Adob22e.Activit1/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://lemaxgcc.com/422homes/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://letjavinvestments.com/carrie.gomora/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://lh.gecnnrl.com/NeemaHospitalityManagement/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://lopradodeportes.cl/wp-includes/css/bassam/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://lopradodeportes.cl/wp-includes/css/doc/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://lopradodeportes.cl/wp-includes/css/doc/index.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ls-labsolutions.de/Dawkins/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://luvmelove.com/cori/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://luvmelove.com/leh/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://luvmelove.com/leh/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://luvmelove.com/lop/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://maakmaghdouche.org/av-intel-order/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://maakmaghdouche.org/barscoreece/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://maakmaghdouche.org/fxpay/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://magicdalarna.se/file/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mahbub24.com/nvoad/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://makharza.ps/lehnpainting/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://makharza.ps/shieldcare/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://manobrowser.com.br/AdobeAcrobatReader/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://manpowerindia.co.in/backpaintexarkana/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mararibeachparadise.com/Adobereaderfile/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://martincristal.com.ar/wp-admin/JCP/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://matrixprivateschool.org/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://me-security.ae/Elliott/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://medidenti.com/Adobe.digital.exe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://meppla.com/bassettassociates/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://meppla.com/beachrealtycapecod/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://meppla.com/grandpa/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://meppla.com/paula/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mes-pk.com/Blacklaw/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://metinvltess.com/adobe_pdf/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mtx.com.pk/Vedda_Printing/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mummyweberp.com/Allen.dong/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mummyweberp.com/kloi/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mwreese.de/madridsteam/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mx-flow.de/pdipromos/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://myaden.net/langstonlawyers/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mycnblog.com/Adobe-digital-exe/tmp/PTXODoOK/s3yrctG7/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mydocuhelper.com.es/docpreview/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://mympni.org/ham/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://nabellacouture.com/duersoncor/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://neighborhood-renovations.com/bless/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ni.adobe.uilris.com/en/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://nitol.life/Amazing/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://noah-scheurer.de/BradySandahl/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://nomad-lubricants.com/Whs/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://nvdesigns.us/Adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://obrapia.com/Adobe/en_Installer/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://officepoint.co.ke/dspm/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://omkaragritech.com/Inc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pafoved.net/noblefs/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pagos-accounting.co,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://paleti.eu/wp-admin/inv/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://paleti.eu/wp-content/inv/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pandoraconstruction.com/artcraftmanagement/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pandoraconstruction.com/artcraftmanagement/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://paramotores-sierramadre.com/wp-admin/E4P_Consulting_Engineering_pllc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://parivarthanabschool.in/wp-adobe/bnd/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pawanenterprises.in/sportsimports/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pdf-file.viewadobe.us/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pdf.acrobat-viewadobe.us/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pdf.adobefile.cam/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pdf.adobeview.us/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pdf.docu-adobefile.cam/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://pelosfilhos.com.br/real/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://perpika.com/oakville/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://petercastellano.net/docz/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ppghsuerj.pro.br/Gmp/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://promisehospitals.com/winnn/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://proudofboxer.com.br/Adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://purchasevalley.com/wenkegreenhouses/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://qevorix.icu/invitation/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://quattroambienti.com/pinnaclesconverting/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://radhakrishanparivar.com/jslawgroup/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rafikhaririuniversity.org/SVW_Fabrication/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rakteam.xyz/dobinainsurance/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://raphaelaguilar.matmcc.org/netsource/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rczun.com/leagueofhistoric-americantheatres/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://recruitmentagencyindonesia.com/Lordknw/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://review.amrogn.com/appleton/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rezemon.biz/fabmgt/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rf.fiedleroae.net/CMO/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ricfra.de/Documetshared/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://richnfresh.com/kusona/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rmbnagpur.com/ncr/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rsznqwpy.xyz/opi/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://rusafewa.com/Adobe-digital-exe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sacp.algoma.it/accessfile/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sacp.algoma.it/hub/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://satccu.com.gh/younglawfirm/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://satvikfoodandbeverages.com/mcarrlaw/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://schandrasekaran.com/regulusgroup/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://science-economics-mentor.de/dawnaborg/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://selffashion.shop/Pes/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://serkandemirci.com/scapesincokc/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://serkandemirci.com/ysh/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sewaghar.com/basslake/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sewaghar.com/playboxthe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sewingshedstroud.co.uk/ace/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sgpepl.com/contte/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sheriwins.com/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://shoshituktukrestaurant.com/wp-admin/Vista_Legal_Services/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://shreebiharijiexport.com/magicmomentss/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://silavo.icu/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://skillbeeacademy.com/admin/adobe/index.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://smartspaceenterprise.com/buytsi/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://smca.info/mwhips-invoice/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://smstechnology.in/Inn/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sngastro.in/donconkey/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://solokadagrobiz.com/bnscb/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://spctt.org/darmangroup/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://springboardpools.com/wp-content/McCarthy_Holdings_Inc/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sprisemunnar.com/readymedspharmacy/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://starintl.co/crestwooddental/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://starintl.co/reevesandgoff/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://stilles-oertchen.de/HomeWell/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://stilles-oertchen.de/capraasset/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://stpetersburgtutoring.com/pssupplies/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://strewbia.com/fiabila_invoice/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://strewbia.com/inn5th_docu/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://studio10inc.com/health/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://studio10inc.com/health/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://studio10inc.com/miracle/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://studio10inc.com/vance/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sudcos.com/firefigherdoc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sujaypowertrans.com/bobllc/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sujaypowertrans.com/util/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://swiftcargologis.com/adobe.digital.exe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://sz.tkzkky.net/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://tabassum.shop/Underwood/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://taqwahajjumrah.com/bierihearing/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://teamgon.com/newspace/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://tecote.com/liopa_home/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://terrazzomastersug.com/images/pub/index.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://tesentia.de/Atelierstoneage/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://tesentia.de/Atelierstoneage/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://testing.adobefile.site/download.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,"http://therightflight.org/wp-content/MORSCO,_Inc/download.html",phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://thesoarcenter.com/apfismn/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://thesoarcenter.com/apfismn/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://three-gates.com/rovin/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://tieoneonforless.com/wp-admin/LAW_OFFICES_OF_ELIZABETH_KAUFMAN/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://tradexexpertfxcourse.com/fed/irstranscripviewer/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://tradexexpertfxcourse.com/wages/irstranscripviewer/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://trailblazer-ent.com/rater/index.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://trakkascreenprints.com.au/wp-content/2026_Q1_Accounting_Reconciliation/download...,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://uc.rhbataf.net/rick/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ufauc.com/bhlg/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ujevig.cfd/docx/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ukcert.co.uk/LewisAdams%26Associates/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://uniabjpoliticalsciencejournals.com.ng/mein-emmental/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://uniaogaspar.com.br/876566/index.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://unitedonlinepaymintl.com/authaccess/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://uv.rosabw.com/Adobe_en/Install_Adobe_en/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://varq.org/wp-admin/Empire_Digital_Products/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://varq.org/wp-admin/Serpico_Legal/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://velmoravows.com/mjslandscapingservices/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://verifyd0cs.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://vickyadin.co.nz/mazzellacompanies/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://view.secured-file.online/download.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://viewdocument.hadobe.cam/windows/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://vineyardofgrace.org/5live/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://virtualansweringservice.com/netsalesrep/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://visaxpert.org/wp-content/Evento_Plus/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://visaxpert.org/wp-content/SECI_Energia/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://votingonline.co.in/Adobereader/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://vp-cpd.net/puretekdoc/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://warely.sg/remfryer/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://wattever.com/klenzac/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://wiizgood.com/vazquez/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://win-acrobat-instruction.web.app,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://wingsproducts.com/opay/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://wintro.vu/secure/date/Adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://wsbv.lat/sdvosbmaterials/denied.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://ximenafukuda.com/adobe/Windows/checking.php,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://yadacorp.tv/AMber/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://younv.com.br/vfb/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://zinemind.com/cmd/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://zioncreationcheongsam.shop/hopeservices4u/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://zippotehran.com/adobe/,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,URL,http://zoom-webinar.vu/_wildcard_.zoom-webinar.vu/adobe/download.html,phishing,https://x.com/skocherhan/status/2080572519006773555
+2026-07-31,threatfox,DOMAIN,pewtercanto.top,"js.smartapesg, domain",n/a
+2026-07-31,threatfox,DOMAIN,dhatfu.apmlandscaping.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,apmlandscaping.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,iwffn03j.eastonfootandanklecenter.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,eastonfootandanklecenter.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,lbsmduw.certifiedairbalanceinlosangelesca.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,certifiedairbalanceinlosangelesca.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,zsupeg.angelnailsphenix.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,angelnailsphenix.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,fosterandfunnel.com,"unknown, domain",n/a
+2026-07-31,threatfox,DOMAIN,awantunai.co.id,"unknown, domain",n/a
 2026-07-24,tweetfeed,URL,https://vckvjn.asia/login,phishing,https://x.com/masaomi346/status/2080581787856916973
 2026-07-24,tweetfeed,URL,https://apresfrom.space/ndjb79,"phishing, scam",https://x.com/illegalFawn/status/2080583594196467798
 2026-07-24,tweetfeed,URL,http://dezined.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
@@ -8127,368 +7703,7 @@ date,user,type,ioc,tags,context
 2026-07-31,tweetfeed,URL,https://linglingmiao.top/jp,phishing,https://x.com/masaomi346/status/2083062540943475154
 2026-07-31,tweetfeed,URL,http://meta-facebook-pro.blogspot.com,phishing,https://x.com/phishunt_io/status/2083085459006091521
 2026-07-31,threatfox,HASH_SHA256,1b3defa83a236edc7a4d1dc7547e2ae519c5d1de8c848f24da2aa903972da291,"unknown, sha256_hash",n/a
-2026-07-24,tweetfeed,DOMAIN,privote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votesurf.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votetlc.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votelyte.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,centvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votehaus.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votecx.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,voteway.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,voteflyer.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votesynch.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,voteli.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,primavote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,provoting.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votelement.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votegy.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votellc.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votepub.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votequests.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,wellsvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votesens.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votarly.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,hublyvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votecycle.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votecat.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votestudio.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votecente.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votedigitals.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,centivote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,optivote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votecentral.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votesh.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votelite.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,voteguest.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,thevotehost.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,thevotex.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,podvote.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,voxlypod.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votecastly.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votesocial.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,guestvoter.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votepodcast.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votersbase.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,votebase.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,guestpod.org,phishing,https://x.com/skocherhan/status/2080560047629697270
-2026-07-24,tweetfeed,DOMAIN,groendj.nl,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,DOMAIN,edmond-ntakpe.com,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,DOMAIN,ctfbff.com.br,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,DOMAIN,solunaenterprises.org,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,DOMAIN,core-ksa.com,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,DOMAIN,tradexexpertfxcourse.com,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,DOMAIN,canovaelectric.com,phishing,https://x.com/skocherhan/status/2080564730188460514
-2026-07-24,tweetfeed,DOMAIN,36derece.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,3vg.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,abdulind.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,accessdoc.top,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,acrobat-adobe-cloud-document.pages.dev,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,adivaskitchen.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,admfdcf85.server.shfoxllc.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,adobe-acrobat-installer.pages.dev,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,adobe-documentpotgo.top,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,adpagro.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,afaktv.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,aftabparsian.co,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,agbaxter.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,agipk.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,agrogugeler.net.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ahmedfitness.com.pk,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ahurahotel.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,airt.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,aisafood.co.id,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,al-farakhind.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,aldibiki.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,alex-campbell.secured-file.online,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,alhakikapress.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,allianceglobal.com.tr,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,allstarpavingconstruction.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,altadesk.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,amlar2026.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,anavip.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,anunciobd.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,apexecotech.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,application.msection.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,armmgos.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,arsitisac.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,arysportswear.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,asianmomo.us,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,askmeforsure.info,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,asphaltunlimited.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,astrodiwagaran.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,atlascapitalsolutions.sg,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,avocatsabrinaene.ro,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,awasqahandbags.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,azirksa.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,azuriu.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,balconyresidences.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,bananaplantsforsale.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,beachandcountrytowing.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,bellezasdecostarica.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,bervano.vu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,bhavitrabd.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,bigbearbuilds7.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,biovetaquad.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,blinderapp.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,blissidols.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,blueatlastesting.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,blueconcept.ae,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,brentpetersonlaw.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,brucecornblumlaw.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,buzzsphere.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,camaradecomercioush.com.ar,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,capsulux.ca,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,careandsupportfoundation.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,careconx.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,carolinahomesandcondos.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cartermobilmadiun.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,casadaluzvermelha.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ceihmedicalcenter.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,celinevds.be,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cencam.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,centrarpsicologia.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cenwul.space,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ceram-part.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cetelcoetdh.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,chemtechbd.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ciephysics.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cloud04reader.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cloudadreader.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,colegiojohndewey.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,construccionesenmetalramos.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cooperttran.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cost.ru.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cpciservicesnh.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,crac.live,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,cranbourneberwicktaxi.com.au,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,dadayhappy.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,dealoffr.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,devambuly.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,dhakagroup.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,docucheck.info,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,document-cloud-acrobat-adobe.pages.dev,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,document.adobepdf.cam,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,docusign.pdf-adobe.us,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,docusignmsteamsmeeting.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,dou-jai.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,download-adobeinstaller.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,draanaclaudianeurologista.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,drag-al.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,drevos.ro,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,drnissan57.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,efiledownloadsonlinesync.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,elamanella.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,elatrapanoticias.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,elitecharterjets.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,endustriyelkececi.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,envolcomunicacao.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,eqew.life,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,esmcpatna.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,evitefriends.one,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,fertilityacu.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,file.pdf-docuadobe.cam,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,filebridge.xtructionx.online,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,filezzview.cyxipixerly.online,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,fiorenzapaes.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,fitco.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,fontem.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,foodchainsystem.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,freeholdwebdesign.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,frigosur.com.pe,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,fusoforte.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,fussschmerzenade.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,futbolt.com.ar,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,gaheempreendimentos.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ghaffariindgroup.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ghorarshop.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,gl.pqubw.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,glamoureaxdrapes.co,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,glmopv.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,hattanpublishers.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,hausmeister38.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,healthcareforexpats.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,hikmvn.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,hm-investsport.dz,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,honeypotget.top,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,horizonteconsult.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ht-links.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,htogroup.co.in,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,humcorp.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,huzur.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,iglarchiv.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ilimecorp.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,illedelab.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,imisedu.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,imountsecurity.co.nz,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,insider1x2.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,instant-as-built.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,instaprintsac.com.pe,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,instructionalcoaching.us,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,iooshosting.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,istockrf.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,itmaintenance.my,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,iwd154.icu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,janataintgroup.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,jatn.digital,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,jobenation.co.za,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,john-aichach.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,jonily.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,joshidiagnosticcentre.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kautharcollege.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kgv-schoener-fleck.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kh3a.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kiekesrin.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kigalifinder.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kinorot.co.il,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,klausfhepp.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ksaservicesarl.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kuliba.icu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,kv.lirdlfq.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,leads.marke-ter.online,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,lemaxgcc.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,letjavinvestments.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,lh.gecnnrl.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,lopradodeportes.cl,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ls-labsolutions.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,luvmelove.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,maakmaghdouche.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,magicdalarna.se,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mahbub24.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,makharza.ps,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,manobrowser.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mararibeachparadise.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,matrixprivateschool.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,me-security.ae,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,medidenti.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,meppla.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mes-pk.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,metinvltess.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mtx.com.pk,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mummyweberp.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mwreese.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mx-flow.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,myaden.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mycnblog.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mydocuhelper.com.es,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,mympni.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,nabellacouture.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,neighborhood-renovations.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ni.adobe.uilris.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,nitol.life,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,nomad-lubricants.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,nvdesigns.us,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,obrapia.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,officepoint.co.ke,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,omkaragritech.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pafoved.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pagos-accounting.co,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,paleti.eu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pandoraconstruction.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,paramotores-sierramadre.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,parivarthanabschool.in,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pawanenterprises.in,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pdf-file.viewadobe.us,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pdf.acrobat-viewadobe.us,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pdf.adobeview.us,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pdf.docu-adobefile.cam,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,pelosfilhos.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,perpika.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,petercastellano.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ppghsuerj.pro.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,promisehospitals.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,proudofboxer.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,purchasevalley.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,qevorix.icu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,quattroambienti.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,radhakrishanparivar.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rafikhaririuniversity.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rakteam.xyz,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,raphaelaguilar.matmcc.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rczun.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,recruitmentagencyindonesia.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,review.amrogn.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rezemon.biz,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rf.fiedleroae.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ricfra.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,richnfresh.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rmbnagpur.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rsznqwpy.xyz,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,rusafewa.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,satccu.com.gh,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,satvikfoodandbeverages.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,schandrasekaran.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,science-economics-mentor.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,selffashion.shop,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,serkandemirci.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sewaghar.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sewingshedstroud.co.uk,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sgpepl.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sheriwins.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,shoshituktukrestaurant.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,shreebiharijiexport.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,silavo.icu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,skillbeeacademy.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,smartspaceenterprise.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,smca.info,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,smstechnology.in,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sngastro.in,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,solokadagrobiz.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,spctt.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,springboardpools.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sprisemunnar.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,starintl.co,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,stpetersburgtutoring.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,strewbia.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,studio10inc.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sudcos.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sujaypowertrans.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,swiftcargologis.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,sz.tkzkky.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,tabassum.shop,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,taqwahajjumrah.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,teamgon.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,tecote.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,terrazzomastersug.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,tesentia.de,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,testing.adobefile.site,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,therightflight.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,thesoarcenter.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,three-gates.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,tieoneonforless.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,trailblazer-ent.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,trakkascreenprints.com.au,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,uc.rhbataf.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ujevig.cfd,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ukcert.co.uk,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,uniabjpoliticalsciencejournals.com.ng,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,uniaogaspar.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,unitedonlinepaymintl.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,uv.rosabw.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,varq.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,velmoravows.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,verifyd0cs.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,vickyadin.co.nz,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,view.secured-file.online,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,viewdocument.hadobe.cam,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,vineyardofgrace.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,virtualansweringservice.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,visaxpert.org,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,votingonline.co.in,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,vp-cpd.net,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,warely.sg,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,wattever.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,wiizgood.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,win-acrobat-instruction.web.app,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,wingsproducts.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,wintro.vu,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,wsbv.lat,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,ximenafukuda.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,yadacorp.tv,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,younv.com.br,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,zinemind.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,zioncreationcheongsam.shop,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,zippotehran.com,phishing,https://x.com/skocherhan/status/2080572519006773555
-2026-07-24,tweetfeed,DOMAIN,zoom-webinar.vu,phishing,https://x.com/skocherhan/status/2080572519006773555
+2026-07-31,tweetfeed,URL,https://aosibo.top/login,phishing,https://x.com/masaomi346/status/2083110432987140449
 2026-07-24,tweetfeed,DOMAIN,vckvjn.asia,phishing,https://x.com/masaomi346/status/2080581787856916973
 2026-07-24,tweetfeed,DOMAIN,apresfrom.space,"phishing, scam",https://x.com/illegalFawn/status/2080583594196467798
 2026-07-24,tweetfeed,DOMAIN,dezined.ct.ws,phishing,https://x.com/skocherhan/status/2080588110094532696
@@ -9499,3 +8714,788 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,HASH_MD5,a545e4ac2b59b5f5fb3aa14203f82d8e,"win.agendacrypt, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,7e3c8e6b6e28de7dd4e75ff8329c5da9,"win.agendacrypt, md5_hash",n/a
 2026-07-27,threatfox,HASH_MD5,7e23f2323298ebd280e3fd2dea5fdab5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,bf262e47207abca33fdb2d15d060f3f4,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,73956053fde7be9fe1c63b45630692a2,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,769d03cf11445b268306bf569d15ae29,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5db84e4f84411c882bdc1a05601c85f0,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,34ca41e2af54953fd9c219bcb001f891,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,40cbef44d0ac78fae7c23803b0873cbe,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f1d2ea4574b06f39efcd2affba001567,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ef2e75f7e2d6ace02ab61cb6e8c79bcd,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,dcaac89539ff0f6313d8a48ce72a1e07,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f9b3f122b831b7d2bd4464b98c8b21b5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,dfb3f9e4a0565e6f4328e3876a04f019,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d7a4fac9c5fe0171f319a5f1a546d031,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d4924474fc65b01338656b91ca02291f,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a0b1e68fd092dab3358444d5afff911c,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3c02d8fafecba1452ef04b571a84c9b8,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,38df25c00eaa64e15523f54ecb8b70c5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9f85c8fceddfcebe29f4097697bc56b0,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,611d407375352bb91da1e3558db8c0a1,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8dcacca487b7a59431cf774dff3077b4,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f8e82ec9f5fec8779e43e955f67b28ea,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9e97a5673945badf4154608c6f460673,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8d641acb5d43017a27c9006d5b7ea739,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fa29ba375745ef6c0d1423cf38a83d71,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,05792dae1b220b46ea144d9e6700c5c5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0070ac173a50201adae1dd3fc74d778d,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a48afa85b0b03c4765f32f4df0bf2ee7,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7a71a5475cbfb7d5a5557dddb18159bf,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,591385ba84ebccb6b904410d5fb74871,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,45366c289b05f2838d20a7f38dbd23a7,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a26818e34f35f4ee648f013982f368d0,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9047bb218a5a60ca81e76acd719979d3,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,de13453b63073710dfd952b1e3305ed4,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6a051dcfaa8308563535490b74f43345,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d4e044151a7c099f397c6c48af0a5ee3,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,95b2fcc982f7e28ea3e6fda09ebda0b5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,68accaad382aebd9a6c9f755511dc123,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6c21fc02f62b16b4a8d8b40b8b3459fb,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a15b1c2d6bb62de217644f47cba8ccbb,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6238e3fb2619f467c76f5d14e674c702,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,794eff0e5409fe96d267eb6fc597fd2f,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5c0d9b54c6275941cd2d04b21dbd8e42,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,25ae620019c38a0607a09cc82b03373d,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,58d529bfaf7209b27c9b920e412fc140,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2eab996cb50b6d48697256518088fb0a,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8a33c9c6ffdc7a24457639723c167353,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,565d028fe1b9f12181da991741bb5578,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e53da097f370175511c2a8c7734cfd37,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,11631ccafb1aa5224c86af421170028e,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d0692bd690c992740cd43ed7b48e6a92,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f1e78b13e21371ecfec02e6ca8fd5344,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,bc8e8210e20a8dfeb04e8ad9ccc6fe9b,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9fa75d1ae8ba3a2c8c150cf4005c76b5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,eb913e273a6c623dec5d21405f2c559f,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ae5b3856ce4c1cfe8d84f0449e19af98,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,dfe1d52de0ab556d89bb292c8040f49a,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c8d43c18b4b451e1722ebb0adbd924b5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7ba4c93c6142fd6b1b0c34f92deda07a,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a74c5f1022edb72d1cb39381664809b5,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e4814c8dc3d6d83ecb0ed32bf1d6f593,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,daec53d5a033d22b522d9fa3973ece16,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b109053a8ad8c696f75f66f07a8de618,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c7e0541aece15b22683869fe25f2893f,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ac8b9ad5dbb09bde6d9df0a3b724f6f0,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fafd5cc8363ceb4f0d8ffae09ffecd36,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fd298cc6e4828b95473ed6f5d2af3113,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6f7bb2814d31f9d91b3fa08b154fab84,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d96b417144fc484cdb1e6430e6884b08,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0b58f36ecbdaf37a7669a9a52d363849,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1b41cdb5d2a98222bf33e36255b5169f,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,119856ec134acc86ef76044cbf291f54,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f8459cec16c4c15d2ea9aee99c398f73,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9ebd4482171000ba6d4a2da22200c40d,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e8cd96c3d7f5a99f2ed2c39e23f8355b,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0d70b3825647082d779987f2772bd219,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9394e505be0e7a274cd7431abd53aef1,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f1dbe4e70de07fd3368915a29b376d1d,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1c0cb55d3a8d544ab0bd7d81d2985089,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,deba77ce237a412331cda6c87cf62cdc,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9e4bb27199b9f8ef1c9efebe78703e06,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b9cb30b2bfc0618c676e998ea9430102,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,227f14f4c3aa35b9fb279f52c73b2e1e,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,22f86cec9a2f32d43673ffb8156eee4f,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c1b97db9b6cced29fcc4d75f342e9be4,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,80dabe87dee2818816c1b8f79ddac79c,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,586cea3284fe4763fa80fdf66a0ebfd6,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a5d8608c6bb4874880db60edcd90bbc6,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f3b531e3c02bf043db87ee26b1fdd6cd,"win.agendacrypt, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e94148c2688de4f86df961d7ee2e8b18,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2178e0b2e5c6058b6e39486249292f5f,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4ca3438f72d0ee6fc2c0c572db9fa866,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,687483f9b58e995b87af9ab3590333ed,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0d68a310f4265821900249bec89364c2,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,53c8a4f0497929de4a5039b2c14bf426,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,670fe8faaede4e2e033311fb662d2a4a,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f982da00c547913fd0ae7d0da0fc77e7,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9ea321b6a0f069caab7092cfe1cbbde0,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2f76a29d4e4292d7f29a29345717812c,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,826a8e8c05983aa3a884d7abcfa473ac,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5862f9fc9c9a0d766eba29eb4945f619,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8ca5c9745e8a0e18167a9b932821645a,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3158a3849ea2695d6ec5aea6512fd030,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,24a8fcd08d9e40d32929b57de9b15385,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,996c394d0f6d6967df9542c52f6f4661,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,420a2c53386678396f972f09cc7f3a5c,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5cffa3126b9effc279d32b2cf4ef2278,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,348b0ce6af4698061678c8e92b4b2675,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,144183a4217ae0914ba0c865858d07cd,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6f893b1cc5cf534c59eabe932c1bf21e,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b4a6152514919a637c22a58bea316fc7,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a7ab0969bf6641cd0c7228ae95f6d217,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e4c1add9f7606e3fa57976b908b4b375,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2674ad25fabe97a9eb10dcdbd32e4c9d,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,eb8cbf0dfc4d5c9f6a9a92e3f9f64327,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4171f567e0b1f60ab6bb82c85c391fc4,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6bef16999793f151cfb6012c34ca951c,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c716ff8dbcaf477aa386e4843fd79635,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5d9b5e2e48c3d32993a28526d99daa0e,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,44b610e323a470613649bb183e7a4250,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a4247610f7194abfe4639868a2f7a446,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,aeace70c1d26d699c0221e9acd0a43b2,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8f946e4b90e434e2865449c212fe70c6,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,dd475afd948cc22caa2a0f934d0aec52,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a9eaddd0ca6b06ff6c44b02ca9be1936,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d6e7547ad7dfd1fbc62e8282aebcc391,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f588802958c35fe18eb87bc36651a3d1,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6fc6164b3a08669992acad3764fb1922,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d309e3d77ed6a336eb3ad263ddf9db90,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,575b26c1cc06609722f98e2beaed6a8a,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a6302fdb63e2244c1246a73a7d65d09e,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1bde76f3197123dcc2ecd0bfef567484,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ea1f8794c73b26724314e5356f1f4128,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9befad1d56d2bd8195813aea1f37f921,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9f510626c7327a7c2328bc5131726638,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,19ff6488a259d750ec18902fe75a713b,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,08a2405cd32f044a69737e77454ee2da,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fdc6848dad660414bed9ad1b381cf6e3,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4ea8adecc5bd45a76cc61430c560924f,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,417ad60624345ef85e648038e18902ab,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e01776ec67b9f1ae780c3e24ecc4bf06,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,64a590760fdbb84356544cc90ac3d50f,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,bed0f34673cc93560c17e3ab04ea5d19,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4a3f22021e4415e8211633fb3735a046,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1c4bea81c0da22badd9b7eab574c51cd,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2020979e080d7ac9c0403172573c7de8,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ab05a1925fee8334a2114811d5283364,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,11d795baafa44b73766e850d13b8e254,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,88630916b0c6633ca28c8896416a93ee,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,dd42c3e017889c107a81da78d87dc8af,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3b10127e65fa3e215d21e0a2e7fd32be,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,88bb86494cb9411a9692f9c8e67ed32c,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,37155f0bca29ccd6b6d4f5b2bc42eb4d,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,964c13b68dc6b6b918b66a9a10469d2a,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d1c331c17ddd4abe0d53755461c1ec9a,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a7e7d00d531cb7ca27d0f3bee448573f,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2bb209ccfc5103eccab523c875050cfa,"elf.qilin, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,59d756280b06cf113ca43abc0050edd5,"win.troystealer, md5_hash",n/a
+2026-07-27,tweetfeed,DOMAIN,trustwallet.com-two-factor-authentication12.ao.yesixrq.com,phishing,https://x.com/phishunt_io/status/2081635921301021084
+2026-07-27,tweetfeed,DOMAIN,withered-lake-8596.krzakanna172.workers.dev,n/a,https://x.com/tdatwja/status/2081650901660647436
+2026-07-27,tweetfeed,DOMAIN,J-A20260727022544.zip,n/a,https://x.com/tdatwja/status/2081650901660647436
+2026-07-27,tweetfeed,DOMAIN,paypal.dashboard-manage.net,phishing,https://x.com/tobersotski/status/2081697149935407175
+2026-07-27,tweetfeed,DOMAIN,Government.dc.crsorgi.gov.in-crs.live,APT,https://x.com/skocherhan/status/2081699497915150741
+2026-07-27,tweetfeed,DOMAIN,backhappymann.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,backhappylove.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,sanjayred.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,sanjayrajweb.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,sanjayrajweb.ddnsgeek.com,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,ddnsgeek.overgainweb.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,overgaainweb.ddnsgeek.overgainweb.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,kumarrajweb.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,sandeepkumar.ddnsgeek.com,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,newhopereddif.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,hopenewrediff.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,newhoperediff.ddnsgeek.com,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,overgainweb.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,overgaainweb.ddnsgeek.com,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,rajkumarred.ddnsgeek.com,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,rajkumarred.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,unoparatodosytodospara123.duckdns.org,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,finalmundial202620262026mesiii.dynuddns.com,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,windowsdefenderupdate004993004343.dynuddns.net,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,mundialmexicotransmision20262026.1cooldns.com,"AsyncRAT, Xworm",https://x.com/skocherhan/status/2081702139940745306
+2026-07-27,tweetfeed,DOMAIN,uafsoftware.in,n/a,https://x.com/skocherhan/status/2081703303151264245
+2026-07-27,tweetfeed,DOMAIN,gameoflovewb.gleeze.com,Xworm,https://x.com/skocherhan/status/2081704943946228161
+2026-07-27,tweetfeed,DOMAIN,gameofloveweb.duckdns.org,Xworm,https://x.com/skocherhan/status/2081704943946228161
+2026-07-27,tweetfeed,DOMAIN,facebooksignuplogin.blogspot.com,phishing,https://x.com/phishunt_io/status/2081711388280389776
+2026-07-27,tweetfeed,DOMAIN,acquilarssb.top,"malware, phishing",https://x.com/Malwarehunterr/status/2081711332471222723
+2026-07-27,tweetfeed,DOMAIN,kixoro.cfd,"malware, phishing",https://x.com/Malwarehunterr/status/2081711332471222723
+2026-07-27,tweetfeed,DOMAIN,nestlemills31.screenconnect.com,"malware, phishing",https://x.com/Malwarehunterr/status/2081711332471222723
+2026-07-27,tweetfeed,DOMAIN,doocummenvb.top,"malware, phishing",https://x.com/Malwarehunterr/status/2081717832950354299
+2026-07-27,threatfox,HASH_MD5,69d0de9e78ec99497182dcb635a1c610,"win.njrat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,44202a668f470eea6af3bec1bf9400c9,"win.asyncrat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,93dfe7280fc32b16336d6c981421049a,"win.xworm, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,64579d8e3eef742369f43b5b99988adb,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d6d3bf3ffcb43ecf26ac0a5319aa75b7,"elf.elevator, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,bfe122e52e61f9f83c32cd079e60e3a4,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,dbe604a519a46c1d97c48853b7666886,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4ae6397d898c18b1356dedcbe225e639,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9cca1ed778b5b2450d7010cb1a024535,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6399e481bee00f73cf825b0dce1fc30b,"win.valley_rat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f3b3d37c7861b4d63bc2b1b966efdedb,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3f577fe3546869bd9ea1f185c6646544,"elf.elevator, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,205d7d91b72d06246a647c3290403280,"elf.elevator, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,24909335a110650fbd9b5633b3855534,"elf.elevator, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1b7b5a050a3c834448c925de7e33633b,"win.luca_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ba47ab37b1b099e3df4d38ecf868e55f,"elf.elevator, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ce67f463c3459693c3934737bdcce0f7,"elf.elevator, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b990a1f4505ebf24ca3161556ee81f8f,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ddb831195cd126a623071a57cb419a7f,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3bfcbc6d80962f4d6313d9102e4ff3d3,"win.stealc, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d5254b68ad505660d433d8eed93c371f,"win.acr_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4a8a5fdf5feb574213c53bca1cb9688a,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,42264ef4d8637bc58d406e5e96622c8f,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0c4ad644cc7c5715a31e1b5aff752672,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2626817c354412174fc4937efd1ad539,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2b60ddaa02a5fec2ec3151f6f84dc5c8,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a21b839850fda4b533d973af7b230c14,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b49afca85545ff5db04d08360274b5ed,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6a0a275f424bd2dd34701768c384e900,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,eff12246e40f22f87be90b4d27b2daa5,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,cb3416ca351652997b09bc64c62e5531,"win.acr_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2ef7a8539ffd93b31ac86add92a3df0e,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,19e84ca8fa5f649584b7baebd8d01f1d,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,af584b28ceda51c7d4ea86910078646a,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a6054e9828a4aa09e7469c589afc6fce,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,14fce87cf261a710c1cebcc8a4f4e9da,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3464135169dd3733163a502f959014ad,"win.acr_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,636a4a206e84c88baeba66425e33ee16,"apk.clipper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,58ef78c52ac325ae64968eadc5496250,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5e269369facd09a383f21d3e599091b1,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,31cf950bc1322291ecb5a3a13c3b96b8,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,23a9a402c5192b3c687cc59c40049929,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f9979541d2af1afa4339b737f42f5b8a,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e70e3254dbab0a39f52dd81cb82123d3,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e684ae1e3bf3994c4f68e84faa73f806,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f4d4e4242b6344f5e54b36fa8e882f36,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,faa1ec6c4f2ee779a599ab56481a1a47,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a26e56e773729e2927dab324996948cf,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1cc9617281fc4505af569a4915e42a08,"apk.clipper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,eafb10f6fb3732229b64d5cddfc7540f,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,87873d4cb6d2c05ffdacb2da3400a033,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0d618238e35254bcad69d184ef94a8e9,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3ac8576f45bb73244f12a00976fefbae,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d7ae17502be4db7ddac2dedaf98404d5,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b1b109827296c243ffc9e4583b9fd738,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,81729e5e6c1936b27f016a20897d30f1,"apk.clipper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,357b903fbfc7c4bc6590a92f3e07aaf4,"win.blustealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7cf591c9fd2aed0286ffb519f12da683,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ea2b5a00e49d3a09f38eadfda23df277,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fa928a93d7521a60e5ced8454d0120fd,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7b229cd58d97751c907b89d5d5612b18,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e63172525926f847841634253c9534ac,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b25fd6814be7f03c56bfb669d8587844,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b9b9e94e807a98caa367cf2b4b995eeb,"win.asyncrat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b40c04705635d82de166087f3ff19874,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7d3b80cea19400db61de4bc0d888678a,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,474856aa1c293807bf2d2362b82d7291,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d62739dd92c54d194150ef0638c01895,"win.formbook, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0ef492da421b72a19541d1ae856efdff,"win.vipkeylogger, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,404f0d36fcbe5c4643e821403a4827eb,"py.creal_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2519e7b005a0bd8e444eafa32d41141c,"win.phantom_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,825820fc81056e0cb65b2ef0dbffac08,"win.formbook, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,e704650185db924cde0393601a50146c,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4583b63955175bba51746443acbf0e74,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c086246a14362e356f3413615b778079,"win.formbook, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7e542902d164df31090dfdb93c7f7486,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d71e0b1a9aa1135597d6e70f02e8b738,"win.valley_rat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4bf11589985675d20577e3a8e1b84819,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9d609843241b0cfaa6f79ef17f862862,"win.valley_rat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,9d2434089e612f0f39432c61a23af837,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c1739f5534af72d63d41e0867713ee5c,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c966e728f948667972f3e54eb839b50a,"win.formbook, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,bcd7e1a3a1341a04aa7ec824d94ea351,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,adf16430b4c278fcf6c9c71fec17c75d,"win.formbook, md5_hash",n/a
+2026-07-27,tweetfeed,DOMAIN,v76bdil3v7hczufr7kwk75eq6oks27d3qwj6v5ajj6v6rubbvwhcq2qd.onion,n/a,https://x.com/fbgwls245/status/2081738540657037718
+2026-07-27,tweetfeed,DOMAIN,agoras.hopto.org,n/a,https://x.com/skocherhan/status/2081740805962637573
+2026-07-27,tweetfeed,DOMAIN,shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion,ransomware,https://x.com/fbgwls245/status/2081741166484271519
+2026-07-27,tweetfeed,DOMAIN,chat-whatsapp.net,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,cnweb-whatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,ef-whatsappdf.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,help-whatsapp.org,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,whats-app.love,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,whtsapp-assist.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,1-800-495-2277-scotiabank.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,info-scotiabank.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,scotia-reset.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,scotiabanksecurityhelp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,supports-appleid.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,support-apple.top,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,findmap-icloud.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,microsfot.live,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,microsoft365businessbasic.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,shareonedrive.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,rablox.ltd,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,roblos.org,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,robloxprize.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,tiktokmall.ink,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,tiktokshopcn.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,descontos-tiktok.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,booking-confirmation178368app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,booking-confirmation179428app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,getlinkedinhelp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,invoicing-linkedln.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,banoret.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,bbvalim.bond,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,auth-coinbase.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,719314-binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,faqcebook.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,fortnitetournament.pro,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,instagramrecoveraccount.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,pagosmaprfe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,prestamosfacilnequi.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,login-konto-pay-pal.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,temucoupons.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,ubisoftgearbrand.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,walmartuso.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,microsoftoffice365login.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,microsoftonline-outlook.live,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,mysharepointpersonalfile.vip,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,e-mailmicrosoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,logmein-microsoftonline.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,microsoft-online.tech,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,microsoft23.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,microsoftonline.space,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,offices65.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,ban-orte.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,banarte.us,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,banorate.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,banorate.us,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,banorote.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,movistari.top,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,facturacionesmovistar.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,movistas.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,movistaz.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,recaudosmovistarepayco.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,flowtiktok.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,tik-tok.sale,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,tiktok19.win,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,tiktokaicreator.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,docucloudadobe.org,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,everythingsecurebyadobeacrobat.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,everythingsecurebyadobeacrobat.online,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,amazonde-play.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,amazonoaws.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,purchasing-amazon.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,appleid-applesecureco.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,findmyimaps.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,myphones-icloud.help,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,doc-sign.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,docu-signs.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,docusigndesktop.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,app-facebook.online,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,facebookadminservices.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,faceboolk.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,robloxx.icu,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,robloxx.tech,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,deltarobloxru.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,wb-whatsappsh.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,wuhatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,wyhatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,674512binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,674552binance.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,instagramaccount.info,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,instagranrm.info,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,mercadopagol.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,merc-pago-play.site,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,milecraft.shop,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,robuxileminecraftskin.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,pichincha-encuestapago.lat,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,pichinchaencuestapago.sbs,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,temucashback.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,temuonliner.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,privatezoommeeting.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,privatezoommeeting.online,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,weblbbvanetcashrperu.online,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,booking-confirmation170728app.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,new-red5gclaro-pe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,discordsetupbot.xyz,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,emaildropbox.net,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,entelmovil.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,free-fire.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,googlemeet.lat,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,interbankswitch.info,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,itaumilhas.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,northfaceshrvatska.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,parastesintago.club,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,pagoluzygasrepsol.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,validatescotiabankclient.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,sharepointdocument.online,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,dlai-telegrem.org,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,freefire.today,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverdl.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverdl.net,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverx.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,freefireadvanceserverx.net,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,bancofalabella.help,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,falabellacmr.info,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,falabellausuario.info,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,helpsecurity-microsoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,securityhelp-microsoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,securityhelpmicrosoft.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,liveadobe.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,applesecurityserveraustralia.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,keystonequillsigningagent.com,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,robox.se,phishing,https://x.com/tial_cl/status/2081760527257149767
+2026-07-27,tweetfeed,DOMAIN,mi-paciente.com,n/a,https://x.com/chum1ng0/status/2081769683187909068
+2026-07-27,tweetfeed,DOMAIN,contactquest.com,phishing,https://x.com/skocherhan/status/2081774329419759806
+2026-07-27,tweetfeed,DOMAIN,mvuuf.screenconnect.com,phishing,https://x.com/skocherhan/status/2081774329419759806
+2026-07-27,tweetfeed,DOMAIN,vermillion-flan-23049b.netlify.app,n/a,https://x.com/volrant136/status/2081780918750990336
+2026-07-27,tweetfeed,DOMAIN,amazon-ae-relay.apps.prov.cx,phishing,https://x.com/phishunt_io/status/2081786895034396768
+2026-07-27,tweetfeed,DOMAIN,tremorcrest.click,"APT, malware",https://x.com/phatomcandle/status/2081801814488580442
+2026-07-27,tweetfeed,DOMAIN,spfc-punjab-govpk.xyz,n/a,https://x.com/volrant136/status/2081805669175370115
+2026-07-27,tweetfeed,DOMAIN,bascofinefood.cfd,n/a,https://x.com/skocherhan/status/2081821791287144740
+2026-07-27,tweetfeed,DOMAIN,shopdoseletroportateis.com.br,"phishing, scam",https://x.com/Coolcarlos17/status/2081829119944183952
+2026-07-27,threatfox,HASH_MD5,6afcaa8ef95e2867087f41d30b3e3e1b,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,fe1f23de8bd1e84ad1a33939638144ee,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,068fe402eb8cdbb0fe21f972ac4a23fa,"elf.orbit, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8a5bc9290195e29bfc9214ffa8e13126,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,cc00c3d0b5b43385fca3378c5b86d62f,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,148d43b07def3619cf07a1d440892e6f,"py.creal_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f090a25b25faae55a0a11648a890b12e,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6a68ab6943313c4d3a38803d5a8220f9,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,ee9b4e39dc11f3d69fcaa4cadb4d5877,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,00dbca757e6417308d3fc080010a6ff3,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,97e69b9ef7bdb56475e676ab9b81b0e2,"win.vidar, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1625da7558b52226c5fbd151f8b96c3d,"win.asyncrat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a3db22547419f693905d3dd045ee9f84,"win.cobalt_strike, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,3549f1fba922f40330aaa081ce71fed2,"win.prometei, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,7696f9286237810feb2fcdce7eb6b953,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5f31264fd0ff12d16e2bdc00ca1aa9bb,"win.prometei, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c037ac52a26a18e7b2e911415e85a080,"win.luca_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,1e613dec8beebebd6baaea91998a628e,"win.prometei, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d2577b85f5a29ef579bfdfdb64cfa874,"win.prometei, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,bd11a6b7c86bfe4e0fd407b0be2554e9,"win.prometei, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,81c226154c7663bb3f1b0df208dcf664,"win.prometei, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,258b98ded097462bc668ee1ca8e56c60,"win.phorpiex, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,0cade3a07d296e0e228a45df3657311a,"win.phorpiex, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,72990e94e0316066e2fc625b64fa0626,"win.hijackloader, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,deac2af8f25970ebdf88d617037f6b56,"win.stealc, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,bd37be6c711b63c2ef91a37259d4563f,"win.asyncrat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,c04a9778333a061ce8b2f3fee16d8cbb,"win.socks5_systemz, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,653498f67781d06904988a7c36d7097e,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,d71b2f14528e27c87ecf8b786c252d57,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,2643d603d7ab8745978cd1ee44f18a39,"win.asyncrat, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,49272795f5841c4b742e247cfa9d2bc0,"win.wannacryptor, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,73c4a1248e4fb6bb8430872a61ea76ea,"win.coinminer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b909d08eaab5ebd97e5ee9af79d9952a,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,5fae196b68afca48ce650acc79e25126,"win.luca_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,39763d60e7122f64bd38797e83ef7977,"py.venus_stealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,a0995e073911c897ff2b5652a8bad3a8,"win.formbook, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,17005c9a5f2a9a57fe71ced46712c688,"win.hijackloader, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,cffac6c24519fd656a99ddfe63611a27,"win.salatstealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,8347c0d21537e847ab3572dd45ba17d5,"win.phorpiex, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4f7a468bdcf482f08bd014ae52db5299,"win.phorpiex, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,80bd4cf388f4109cbf2ec1433a1813aa,"elf.kuiper, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,f27c7e9e44efa74a367eff0200584d01,"win.salatstealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,b9974299de794e9b5e30ec95f7849e97,"win.salatstealer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,6159d556244d9b3bdf4db6c7ea971cd5,"win.coinminer, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,00dee4b7bc493f6c89e9e5dc9467f892,"win.phorpiex, md5_hash",n/a
+2026-07-27,threatfox,HASH_MD5,4124a167cef576ccae119247431709f6,"win.supper, md5_hash",n/a
+2026-07-28,tweetfeed,DOMAIN,intesa.banca-rs.com,phishing,https://x.com/skocherhan/status/2081898579820445714
+2026-07-28,tweetfeed,DOMAIN,stcokspmj.com,phishing,https://x.com/skocherhan/status/2081913916188225702
+2026-07-28,tweetfeed,DOMAIN,bgsgjzdbfgcrdx.top,phishing,https://x.com/skocherhan/status/2081913916188225702
+2026-07-28,tweetfeed,DOMAIN,fnxxcl.com,phishing,https://x.com/skocherhan/status/2081916596226830553
+2026-07-28,tweetfeed,DOMAIN,manyishw.com,phishing,https://x.com/skocherhan/status/2081916596226830553
+2026-07-28,tweetfeed,DOMAIN,appleid-assitance-support.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,sms-appleid.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,applepaysupplies.berlin,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-apple.org,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-idevice.info,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-maps.online,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmylcloud.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmymap.live,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,ic9-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,icloud-find-sms.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,inside-findmy.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,kx5-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,noreply-findmy.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,py5-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazonglobal1.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazonglobal6.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazonsg.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazonshopping7.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazonshopping8.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazonshopping9.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,paypalx.bond,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,paypalx.cfd,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,paypalx.sbs,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,whatappp.site,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,whatsaip.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,whatsapp-go.icu,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,instagrarn.help,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,safetyinstagreview.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,movistarr.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,movistarz.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,qoblox.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,robloxsummerevent.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,tiktokshop421.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,titokshop.online,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,pichincha.life,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,banorte-mx.pro,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,732814-binance.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,facebookshop24.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,microsoft.berlin,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,scotiabankadminvalidation.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,apple-id-alert.live,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,appleid-assitance-support.net,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,myappleid-support.help,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,mail-supportfindmydevicesid.live,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,appleid.berlin,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,supporticloud.online,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-cloudi0s.lat,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-cloudi0s.site,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,apple-device.org,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,apple-findmy.org,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,by-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,device-findmy.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-locate.live,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-locator.live,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,findmy-tracking.org,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,icloud-find-help.info,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,icloud-imaps.help,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,il7-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,ip2-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,kc2-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,lcloud-findmydevicesid.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,lcloud-findmydevicesid.net,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,location-apple.org,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,my-iclouds.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,nh4-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,noreply-icloud.app,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,noreplyfindmy.support,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,sms-myicloud.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,tc4-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,verifyitapple.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,vy8-icloud.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,wwwicloud-find.xyz,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,metawhatsapp.berlin,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,nows-whatappop.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,toub-whatappop.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,web-whatappop.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,what-s-app-uz.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,whataspp-cz.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,whatsapp-go.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,wzhatsapp.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,wwwfacebookcom-share-v-1e7.video,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,facebok.berlin,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,facebook-shopping.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,facebookp.club,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,metafacebook.berlin,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,instagranrm.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,instagranrm.online,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,premio-instagram.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,saque-instagram.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,saqueinstagram.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,deltaroblox.app,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,koblox.xyz,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,roblox-xeno.info,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,robloxcheats.fun,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,robloxxxgameafaaedses.club,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,194483coinbase.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,195739coinbase.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,489182binance.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,fortnitecrossnationals.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,fortniteprize.org,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,fortnitextfcnationals.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,tiktokshop6531.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,akses-tiktak.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,tiktokcash.live,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazon789.ink,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,amazonservice03.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,bbvalim.autos,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,bbvalim.boats,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,analisis-dropibox.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,flowdropox.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,mercadolivreoferta-app.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,mercadolivrepremios.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,mercado-pagol.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,merca-pago-cl.site,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,dcminecraftworld.online,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,finecraft.site,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,liquidacionesmovistar.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,movistars.top,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,itau.pro,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,banort-1.icu,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,nueva-red5gclarope.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,promocionesfalabella.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,beneficiosfalabellamx.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,interbankswitch.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,appnequi.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,800-495-2277-scotiaonline-scotiabank.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,snapchat-security-check.help,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,telegam-zh.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,uspto-notice.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,interbank.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,boa-online2fa.com,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,facebookchat.xyz,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,falabella-2025.shop,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,dlai-telegrem.tel,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,zoom-security.berlin,phishing,https://x.com/tial_cl/status/2081913334111035722
+2026-07-28,tweetfeed,DOMAIN,cvnjlox.com,n/a,https://x.com/skocherhan/status/2081914778134393140
+2026-07-28,tweetfeed,DOMAIN,zdkteam.com,n/a,https://x.com/skocherhan/status/2081915563836645671
+2026-07-28,tweetfeed,DOMAIN,aeon.pehfkmt.cn,phishing,https://x.com/Metemcyber/status/2081927822344626181
+2026-07-28,tweetfeed,DOMAIN,xcllgnb.cn,phishing,https://x.com/masaomi346/status/2081932660130361358
+2026-07-28,tweetfeed,DOMAIN,urlshort-linkmrrwjc0kdzql.esu2n5lwqi.workers.dev,ransomware,https://x.com/scanmalware/status/2081960736574550439
+2026-07-28,tweetfeed,DOMAIN,mzrtkb.cfd,phishing,https://x.com/Metemcyber/status/2081987170244669652
+2026-07-28,tweetfeed,DOMAIN,kalorexivakena.net,phishing,https://x.com/masaomi346/status/2081999693152940507
+2026-07-28,tweetfeed,DOMAIN,pick.storewebzone.net,n/a,https://x.com/blackorbird/status/2082028695909449873
+2026-07-28,tweetfeed,DOMAIN,ad43-nxs.com,n/a,https://x.com/blackorbird/status/2082028695909449873
+2026-07-28,tweetfeed,DOMAIN,drive.careernetwork.co.nz,n/a,https://x.com/tdatwja/status/2082010812324131039
+2026-07-28,tweetfeed,DOMAIN,ing-seguridad-es-clientes.lulufa.ro,phishing,https://x.com/skocherhan/status/2082046245317534127
+2026-07-28,tweetfeed,DOMAIN,winupdatehelper.online,n/a,https://x.com/500mk500/status/2081106662207705380
+2026-07-28,tweetfeed,DOMAIN,illportaledelautomobilista.org,n/a,https://x.com/AgidCert/status/2082064135181791433
+2026-07-28,tweetfeed,DOMAIN,dfsjfisafosdikfos.info,n/a,https://x.com/suyog41/status/2082067382848364784
+2026-07-28,tweetfeed,DOMAIN,lewokodwqko.icu,n/a,https://x.com/suyog41/status/2082067382848364784
+2026-07-28,tweetfeed,DOMAIN,shopguoerve.pro,n/a,https://x.com/suyog41/status/2082067382848364784
+2026-07-28,tweetfeed,DOMAIN,sqllq.com,n/a,https://x.com/webamon_search/status/2082078185466761414
+2026-07-28,tweetfeed,DOMAIN,hashedsolver.icu,n/a,https://x.com/webamon_search/status/2082078185466761414
+2026-07-28,tweetfeed,DOMAIN,1thirty.com,n/a,https://x.com/webamon_search/status/2082078185466761414
+2026-07-28,tweetfeed,DOMAIN,26television.com,n/a,https://x.com/webamon_search/status/2082078185466761414
+2026-07-28,tweetfeed,DOMAIN,truth-mag.org,n/a,https://x.com/malwrhunterteam/status/2082080091786313891
+2026-07-28,tweetfeed,DOMAIN,walmartamp.com,"phishing, scam",https://x.com/c9lab_soc/status/2082081969660186934
+2026-07-28,tweetfeed,DOMAIN,cn-microsoft.com,"phishing, scam",https://x.com/c9lab_soc/status/2082081909656396117
+2026-07-28,tweetfeed,DOMAIN,salesforcecertification.net,"phishing, scam",https://x.com/c9lab_soc/status/2082082983092121680
+2026-07-28,tweetfeed,DOMAIN,kinonetflix.ru,"phishing, scam",https://x.com/c9lab_soc/status/2082082940876398681
+2026-07-28,tweetfeed,DOMAIN,soravikenaxira.com,phishing,https://x.com/harugasumi/status/2082107898151453100
+2026-07-28,tweetfeed,DOMAIN,pmdc.gov.pk-hq.cc,n/a,https://x.com/skocherhan/status/2082121070585283062
+2026-07-28,tweetfeed,DOMAIN,web.n26portale.com,n/a,https://x.com/skocherhan/status/2082131676612669499
+2026-07-28,tweetfeed,DOMAIN,ab-whatsappdf.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,ak-whatsappsh.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapp-11.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapp-12.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappac.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappcq.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappllc.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapppq.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappweb.store,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappy.online,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whattapp.icu,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whtsapp-assist.help,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whtsapp.icu,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,731832-binance.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,819302-binance.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,830125coinbase.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,https-robiox.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robloxplyss.sbs,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robloxrobux.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,acceso-santander.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,atualizacaosantanderpj.digital,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,identidad-santander.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,aliexpress-loginn028378223423.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,aliexpress-luckyspin0283423423.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,amazonprimeusa.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,sellercentroamazon.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,microsofts.net,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,shein-sp.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,sheinai.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,tiktokshop64.shop,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,tiktokshop76.shop,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,29831-icloud.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,banorte.store,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,bbvabanco.info,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,thecallofduty.shop,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,sssinstagram.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,linkedinweb.live,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,desbloqueiomercadolivre.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,norton-activate.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,paypal.baby,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,steamcommunity.blog,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,movst4r-pagos.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,mvstr-pagos.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,mvstr-pags.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,mvstr-recau.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,pagos-movst4r.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,pagos-mvstr.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,pags-mvstr.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,recau-movst4r.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,movistar-ar.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,movistard.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,movister.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,movst4r.site,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robloxx.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,promo-lrobloxl.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,roblax.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,roblox2026event.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robloxact.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robloxlforall.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robloxo.cam,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,rodlox.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,rolox.online,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,rolox.store,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,beibeicloud.cfd,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,beibeicloud.cyou,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,find-my-iphone.us,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,find-my-location.app,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,findmymx-info.help,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,icloud-fotos.help,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,icloud-photo.app,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,icloud4k.sbs,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,icloudfi.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,hk-whatsapp.one,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapp-10.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapp-5.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapp-6.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapp-7.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsapp-9.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappgroupp.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappqu.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,amazon-slot-ca.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,amazonfreeslots.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,amazongamegrey.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,amazonslotstoday.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,playamazon-red.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,playamazon.online,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,ramazon.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,ntflx-pago.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,casinonetflix.org,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,netflix-casinos.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,one-paypl.club,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,one-paypl.lol,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,uspaypal.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,scotiabank-pin.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,scotiareset.app,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,scotia.info,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,sheinclaim.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,shein-wk.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,sheinworkvip.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,retiropaytiktokbonu.win,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,tiktokshop72.shop,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,tiktok-promo.fun,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,aliexpress.college,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,aliexpressonline.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,docusign-access.icu,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,docusign.media,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,fortnite-games.net,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,fortnitelocker.lol,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,onedrivebymicrosoft.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,microsoft63.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,ripley-serial.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,ripleyperu.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,ad0bedcumentsharingreview.online,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,boa-support.us,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,bbvamensajesweb.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,chileatiendegob.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,nuevared-5gclaro-pe.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,discordboost.info,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,facebook-invst.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,mlibrepagofull.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,paypayvip.bond,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,surasoatseguro.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,telegram-org-doanload.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,valorantacc.ru,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,globalwalmart.xyz,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,wechatonay.shop,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappweb.blog,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappweb.fyi,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappweb.llc,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappweb.lol,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,whatsappweb.now,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,amazonslot1.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,apple-id.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,coinbasebackoffice.exchange,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,mercadopagosupport.org,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,microsoftteams24.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,valorantacc.online,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,wechat888.com,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,rablox.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robblox.click,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,robloxcon.top,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,ripley.app,phishing,https://x.com/tial_cl/status/2082151080973201598
+2026-07-28,tweetfeed,DOMAIN,teleegram-app.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,telegramm-app.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,telegramq-app.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,telegranm-app.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,telegrram-app.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,telepram.life,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,teltegram-app.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazon-tech.ru,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazonenterprise3.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,amazony.club,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,fileamazoncloud.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,fileamazonhub.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,ak-whatsappsh.top,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,shop-whatapp.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,what-sapp.cyou,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,whatsapp188.com,phishing,https://x.com/tial_cl/status/2082150910101225915
