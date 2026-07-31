@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-24,threatfox,URL,https://reflexologie-79.com/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://intricateart.com/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://saundersstudios.com/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://globalwebchile.com/,"unknown, url",n/a
@@ -378,8 +377,9 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,URL,http://163.223.136.58:54559/Mozi.m,"elf.mozi, url",n/a
 2026-07-31,threatfox,URL,https://dbm.akasia988.net/,"win.vidar, url",n/a
 2026-07-31,threatfox,URL,https://vog.akasia988.net/,"win.vidar, url",n/a
-2026-07-24,threatfox,DOMAIN,rnebxdjkvhaglgjlj.gabriellekwilson.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,qixqzsvwgvhrwiouw.futuremillionaire.net,"js.clearfake, domain",n/a
+2026-07-31,threatfox,URL,http://124.29.214.162:51383/Mozi.m,"elf.mozi, url",n/a
+2026-07-31,threatfox,URL,http://179.49.213.85:54579/Mozi.m,"elf.mozi, url",n/a
+2026-07-31,threatfox,URL,http://72.255.32.51:57334/Mozi.m,"elf.mozi, url",n/a
 2026-07-24,threatfox,DOMAIN,zzhjiutfakhcwqbeb.geigersjobs.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,dpz2qwwa.brucedickinsontour2025.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,yrhunctoistirsebq.geigersjobs.com,"js.clearfake, domain",n/a
@@ -5276,6 +5276,12 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,DOMAIN,arxjmuy.crownconnectpk.com,"js.clearfake, domain",n/a
 2026-07-31,threatfox,DOMAIN,ekvozx.elpatronrestaurantbar.com,"js.clearfake, domain",n/a
 2026-07-31,threatfox,DOMAIN,elpatronrestaurantbar.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,dosahousehealthy.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,ifbjtm.entrepot-demarque.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,62am4zti.rugsofus.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,pbzqq2v4.tashabeautystore.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,nvsybmf.ecryptobits.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,qwnvfv.elcornerderaulmorote.com,"js.clearfake, domain",n/a
 2026-07-24,tweetfeed,URL,http://gstatic-analysis.beijing-cn1.oo0.be,CobaltStrike,https://x.com/skocherhan/status/2080761455234720245
 2026-07-24,tweetfeed,URL,http://deckerh.cyou,Lumma,https://x.com/skocherhan/status/2080768637040730375
 2026-07-24,tweetfeed,URL,http://matchny.cyou,Lumma,https://x.com/skocherhan/status/2080768637040730375
@@ -9493,9 +9499,3 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,roblox-xeno.com,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,roblox-xeno.net,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,adobe-documents.site,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,adobe-documentscloud.site,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,131559coinbase.com,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,385855coinbase.com,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,microsoftsupport.cfd,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,microsoftteam.info,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,one-paypl.biz,phishing,https://x.com/tial_cl/status/2082150910101225915
