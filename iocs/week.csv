@@ -2,8 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-24,threatfox,URL,https://muliakaryaprima.com/,"unknown, url",n/a
-2026-07-24,threatfox,URL,https://nitochsa.com/,"unknown, url",n/a
 2026-07-24,threatfox,URL,https://only.my.id/,"unknown, url",n/a
 2026-07-24,threatfox,URL,http://103.80.135.19:8880/getinstall64,"win.valley_rat, url",n/a
 2026-07-24,threatfox,URL,https://mk-carstyle.com/,"unknown, url",n/a
@@ -384,9 +382,6 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,URL,http://163.223.136.58:54559/Mozi.m,"elf.mozi, url",n/a
 2026-07-31,threatfox,URL,https://dbm.akasia988.net/,"win.vidar, url",n/a
 2026-07-31,threatfox,URL,https://vog.akasia988.net/,"win.vidar, url",n/a
-2026-07-24,threatfox,DOMAIN,carmirrorparts.com,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,buwlufiffmvphqsimp.focus-logistics.net,"js.clearfake, domain",n/a
-2026-07-24,threatfox,DOMAIN,jyhgpvvuctpbssvdyr.brentwoodautoupholstery.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,ismokoimdwyfowgtz.fourseasonsmansion.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,bonfwldgaovmxvvza.footstepsdaycare.com,"js.clearfake, domain",n/a
 2026-07-24,threatfox,DOMAIN,ultwbuekzzjgbxyxfg.footstepsdaycare.com,"js.clearfake, domain",n/a
@@ -5279,7 +5274,12 @@ date,user,type,ioc,tags,context
 2026-07-31,threatfox,DOMAIN,erdekhaber.com,"js.clearfake, domain",n/a
 2026-07-31,threatfox,DOMAIN,vog.akasia988.net,"win.vidar, domain",n/a
 2026-07-31,threatfox,DOMAIN,oxkvzq.elcornerderaulmorote.com,"js.clearfake, domain",n/a
-2026-07-24,tweetfeed,URL,https://dcsafrica.kebabiya.top/kshg9m/,phishing,https://x.com/patialavii/status/2080711094755336308
+2026-07-31,threatfox,DOMAIN,obparso.eventmanagementindia.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,eventmanagementindia.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,eyieoz.ellynailsspaarden.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,ellynailsspaarden.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,0ijrzsc4.liberty--token.com,"js.clearfake, domain",n/a
+2026-07-31,threatfox,DOMAIN,stczzen.evellboutique.com,"js.clearfake, domain",n/a
 2026-07-24,tweetfeed,URL,http://oilpetro.duckdns.org,n/a,https://x.com/skocherhan/status/2080721469089181981
 2026-07-24,tweetfeed,URL,http://isensys.duckdns.org,n/a,https://x.com/skocherhan/status/2080721469089181981
 2026-07-24,tweetfeed,URL,http://corepack.org,n/a,https://x.com/SocketSecurity/status/2080721955913597086
@@ -7739,7 +7739,10 @@ date,user,type,ioc,tags,context
 2026-07-31,tweetfeed,URL,https://md.qihqob.com/ngx(2)/ngx(2)/ngx(2)/ngx(2)/ngx(1)/ngx/,phishing,https://x.com/patialavii/status/2083234341552021853
 2026-07-31,tweetfeed,URL,https://moldinspectionservice.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi,phishing,https://x.com/patialavii/status/2083234341552021853
 2026-07-31,tweetfeed,URL,http://office365.statichost.page,phishing,https://x.com/phishunt_io/status/2083236461562712497
-2026-07-24,tweetfeed,DOMAIN,dcsafrica.kebabiya.top,phishing,https://x.com/patialavii/status/2080711094755336308
+2026-07-31,tweetfeed,URL,https://fortuneventures.net.in/za/income/,phishing,https://x.com/patialavii/status/2083236220252123403
+2026-07-31,tweetfeed,URL,https://fortuneventures.net.in/za/income/download.php,phishing,https://x.com/patialavii/status/2083236220252123403
+2026-07-31,tweetfeed,URL,http://login-bankofengland.com,n/a,https://x.com/webamon_search/status/2083239762882683222
+2026-07-31,tweetfeed,URL,http://bnk-england.com,n/a,https://x.com/webamon_search/status/2083239762882683222
 2026-07-24,tweetfeed,DOMAIN,oilpetro.duckdns.org,n/a,https://x.com/skocherhan/status/2080721469089181981
 2026-07-24,tweetfeed,DOMAIN,isensys.duckdns.org,n/a,https://x.com/skocherhan/status/2080721469089181981
 2026-07-24,tweetfeed,DOMAIN,corepack.org,n/a,https://x.com/SocketSecurity/status/2080721955913597086
@@ -9496,6 +9499,3 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,findmyapple.top,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,macosapplesecure.com,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,mz8-icloud.top,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,modrobloxapk.com,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,roblox-xeno.com,phishing,https://x.com/tial_cl/status/2082150910101225915
-2026-07-28,tweetfeed,DOMAIN,roblox-xeno.net,phishing,https://x.com/tial_cl/status/2082150910101225915
