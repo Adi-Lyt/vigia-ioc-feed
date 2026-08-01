@@ -17,10 +17,6 @@ date,user,type,ioc,tags,context
 2026-08-01,threatfox,URL,http://puresthomes.com:5282,"win.remus, url",n/a
 2026-08-01,threatfox,URL,http://riserma.biz:8768,"win.remus, url",n/a
 2026-08-01,threatfox,URL,http://toeday.click:5326,"win.remus, url",n/a
-2026-07-31,threatfox,DOMAIN,forbiddenpantsshop.com,"js.clearfake, domain",n/a
-2026-07-31,threatfox,DOMAIN,ccxcdrm.ferkrueda.com,"js.clearfake, domain",n/a
-2026-07-31,threatfox,DOMAIN,ferkrueda.com,"js.clearfake, domain",n/a
-2026-07-31,threatfox,DOMAIN,ldistf.foodpapajobs.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,72mv6y0m.twinglassca.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,ycazjth.fishersace.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,fishersace.com,"js.clearfake, domain",n/a
@@ -229,6 +225,10 @@ date,user,type,ioc,tags,context
 2026-08-01,threatfox,DOMAIN,fpuuve.howtomovies.biz,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,idyllicbeachhouse.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,howtomovies.biz,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,wdohlma.international-airports.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,international-airports.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,wpsfpo.gregoryschreiercabinetmaker.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,yaim8oaz.franklintowing.net,"js.clearfake, domain",n/a
 2026-08-01,tweetfeed,URL,https://mu-hiqwnkesad.com/pc_0010021312/sp_001239u1923/login/loginUsername,phishing,https://x.com/kubotaa3/status/2083367233183715611
 2026-08-01,tweetfeed,URL,http://eliece.vip,scam,https://x.com/Azzzzng71/status/2083405583823126654
 2026-08-01,tweetfeed,URL,https://am.zzusxwjp018.shop/7ZVIj1,phishing,https://x.com/masaomi346/status/2083411892882837950
@@ -318,6 +318,7 @@ date,user,type,ioc,tags,context
 2026-08-01,tweetfeed,URL,http://619sky.com,phishing,https://x.com/skocherhan/status/2083622534369390745
 2026-08-01,tweetfeed,URL,http://tv-leisu-sports.com,phishing,https://x.com/skocherhan/status/2083622534369390745
 2026-08-01,tweetfeed,URL,http://wjm1987.com,phishing,https://x.com/skocherhan/status/2083622534369390745
+2026-08-01,tweetfeed,URL,http://logixgreed.info,n/a,https://x.com/skocherhan/status/2083685010087755983
 2026-08-01,tweetfeed,DOMAIN,mu-hiqwnkesad.com,phishing,https://x.com/kubotaa3/status/2083367233183715611
 2026-08-01,tweetfeed,DOMAIN,eliece.vip,scam,https://x.com/Azzzzng71/status/2083405583823126654
 2026-08-01,tweetfeed,DOMAIN,am.zzusxwjp018.shop,phishing,https://x.com/masaomi346/status/2083411892882837950
@@ -406,6 +407,7 @@ date,user,type,ioc,tags,context
 2026-08-01,tweetfeed,DOMAIN,619sky.com,phishing,https://x.com/skocherhan/status/2083622534369390745
 2026-08-01,tweetfeed,DOMAIN,tv-leisu-sports.com,phishing,https://x.com/skocherhan/status/2083622534369390745
 2026-08-01,tweetfeed,DOMAIN,wjm1987.com,phishing,https://x.com/skocherhan/status/2083622534369390745
+2026-08-01,tweetfeed,DOMAIN,logixgreed.info,n/a,https://x.com/skocherhan/status/2083685010087755983
 2026-08-01,tweetfeed,IP,192.238.160.133,phishing,https://x.com/kubotaa3/status/2083367233183715611
 2026-08-01,tweetfeed,HASH_SHA256,be99857449d2856dd5a84e21c8a3d5e0e01456adb44062ddec5a6b4970d8d42c,malware,https://x.com/UK_Daniel_Card/status/2083414792220348665
 2026-08-01,tweetfeed,HASH_SHA256,918fa52ae45ed60ba7cc8bdc99c3cbe9ab92e0375ec31fc05d0d4513be11c593,malware,https://x.com/UK_Daniel_Card/status/2083414792220348665
@@ -417,3 +419,6 @@ date,user,type,ioc,tags,context
 2026-08-01,tweetfeed,IP,107.163.56.231,n/a,https://x.com/skocherhan/status/2083591312498987518
 2026-08-01,tweetfeed,IP,107.163.56.232,n/a,https://x.com/skocherhan/status/2083591312498987518
 2026-08-01,tweetfeed,IP,107.163.56.251,n/a,https://x.com/skocherhan/status/2083591312498987518
+2026-08-01,tweetfeed,HASH_MD5,3daacc31392d6cb0d7739adca64935f8,n/a,https://x.com/skocherhan/status/2083680159081648540
+2026-08-01,tweetfeed,HASH_MD5,19bdc0ac73466a30ec0ba39756c4ae52,n/a,https://x.com/skocherhan/status/2083680159081648540
+2026-08-01,tweetfeed,HASH_MD5,3c0b80d2eb6be9b301259d0eeb0c4342,n/a,https://x.com/skocherhan/status/2083680159081648540
