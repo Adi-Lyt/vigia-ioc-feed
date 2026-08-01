@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-25,threatfox,URL,https://appelt.me/,"unknown, url",n/a
 2026-07-25,threatfox,URL,http://117.251.194.217:34712/Mozi.a,"elf.mozi, url",n/a
 2026-07-25,threatfox,URL,https://silenttunnelzone.top/token/token-controller.js,"js.smartapesg, url",n/a
 2026-07-25,threatfox,URL,https://contextio.one/trfbvzqmny/assets/js/script.php,"unknown, url",n/a
@@ -336,9 +335,6 @@ date,user,type,ioc,tags,context
 2026-08-01,threatfox,URL,https://irahook.best/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
 2026-08-01,threatfox,URL,https://irahook.best/mods/api/log-download,"unknown_rat, url",n/a
 2026-08-01,threatfox,URL,https://irahook.best/?p=,"unknown_rat, url",n/a
-2026-07-25,threatfox,DOMAIN,felicitatgs.cc,"unknown, domain",n/a
-2026-07-25,threatfox,DOMAIN,prowastevalet.com,"js.clearfake, domain",n/a
-2026-07-25,threatfox,DOMAIN,kupubedding.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,gadumehgshipzmoknsb.lapalmaqassim.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,lapalmaqassim.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,lantanaoftx.com,"js.clearfake, domain",n/a
@@ -5278,28 +5274,9 @@ date,user,type,ioc,tags,context
 2026-08-01,threatfox,DOMAIN,mbbzfh.grannygshemporium.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,khrugme.halcyonhempltd.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,ufphxl.gorbio-echos.com,"js.clearfake, domain",n/a
-2026-07-25,tweetfeed,URL,http://renfe.my.id/bSqKolWKCF,phishing,https://x.com/skocherhan/status/2081007005339185360
-2026-07-25,tweetfeed,URL,http://193.108.112.175,phishing,https://x.com/skocherhan/status/2081007005339185360
-2026-07-25,tweetfeed,URL,http://posta-rs.cyou,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,URL,http://gls-slovensko.shop,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,URL,http://unipark.icu,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,URL,http://grecc-gov.xyz,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,URL,http://gls-sv.shop,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,URL,http://dpd-pt-gov.click,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://ansr.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://ritazaf.sbs,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://bonuspoints.homes,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://prijava.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://dao-as-dk.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://srbposta.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://points-shop.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://go-cr.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://anipost.qpon,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://es-seur.icu,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://punts.shop,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://tigo-sv.cyou,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://putevi-srbije.cyou,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,URL,http://etoro-es.shop,phishing,https://x.com/skocherhan/status/2081009097416012104
+2026-08-01,threatfox,DOMAIN,padpoh.graphicstabletreviews.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,spobnte.hallmarkcarpets.net,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,5a3s97ps.fitprotracker-campaign.com,"js.clearfake, domain",n/a
 2026-07-25,tweetfeed,URL,http://telemetry-conf.com,malware,https://x.com/knight0x07/status/2081013717651616138
 2026-07-25,tweetfeed,URL,http://64.95.12.130,malware,https://x.com/knight0x07/status/2081013717651616138
 2026-07-25,tweetfeed,URL,http://remote-fileviewer.com,malware,https://x.com/knight0x07/status/2081013717651616138
@@ -7662,27 +7639,8 @@ date,user,type,ioc,tags,context
 2026-08-01,tweetfeed,URL,http://ransomw.com,ransomware,https://x.com/shadowcatLabs/status/2083508438978470079
 2026-08-01,tweetfeed,URL,https://zhengxin55.com/eP-1-Us-jp-jp/,phishing,https://x.com/masaomi346/status/2083521817025851403
 2026-08-01,tweetfeed,URL,http://114.104.171.202:48951/Mozi.m,n/a,https://x.com/sicehice/status/2083531399491891337
-2026-07-25,tweetfeed,DOMAIN,renfe.my.id,phishing,https://x.com/skocherhan/status/2081007005339185360
-2026-07-25,tweetfeed,DOMAIN,posta-rs.cyou,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,DOMAIN,gls-slovensko.shop,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,DOMAIN,unipark.icu,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,DOMAIN,grecc-gov.xyz,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,DOMAIN,gls-sv.shop,n/a,https://x.com/skocherhan/status/2081008246437867844
-2026-07-25,tweetfeed,DOMAIN,dpd-pt-gov.click,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,ansr.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,ritazaf.sbs,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,bonuspoints.homes,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,prijava.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,dao-as-dk.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,srbposta.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,points-shop.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,go-cr.top,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,anipost.qpon,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,es-seur.icu,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,punts.shop,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,tigo-sv.cyou,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,putevi-srbije.cyou,phishing,https://x.com/skocherhan/status/2081009097416012104
-2026-07-25,tweetfeed,DOMAIN,etoro-es.shop,phishing,https://x.com/skocherhan/status/2081009097416012104
+2026-08-01,tweetfeed,URL,https://apreciaciones.com/~netcentrixco/intesasanpaolo/login-,phishing,https://x.com/AddressIntel/status/2083543287227453574
+2026-08-01,tweetfeed,URL,https://baddiehub.com.co/~netcentrixco/intesasanpaolo/login,phishing,https://x.com/AddressIntel/status/2083548317389086733
 2026-07-25,tweetfeed,DOMAIN,telemetry-conf.com,malware,https://x.com/knight0x07/status/2081013717651616138
 2026-07-25,tweetfeed,DOMAIN,remote-fileviewer.com,malware,https://x.com/knight0x07/status/2081013717651616138
 2026-07-25,tweetfeed,DOMAIN,upicash.xyz,"phishing, scam",https://x.com/Malwarehunterr/status/2081043029318869401
@@ -9499,3 +9457,45 @@ date,user,type,ioc,tags,context
 2026-07-28,tweetfeed,DOMAIN,katakjptiktok.site,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,garena79ku.life,phishing,https://x.com/tial_cl/status/2082150910101225915
 2026-07-28,tweetfeed,DOMAIN,tellegram-web.com,phishing,https://x.com/tial_cl/status/2082150910101225915
+2026-07-28,tweetfeed,DOMAIN,ecliptera.info,"APT, C2, malware",https://x.com/skocherhan/status/2082164540410576948
+2026-07-28,tweetfeed,DOMAIN,aplgareana-lienquan.com,phishing,https://x.com/PhishStats/status/2082168288822407304
+2026-07-28,tweetfeed,DOMAIN,dns1.p02.nsone.net,phishing,https://x.com/TeamDreier/status/2082180625432223744
+2026-07-28,tweetfeed,DOMAIN,1d2ef215ce65986951fe48e70c16d6d4.r2.cloudflarestorage.com,n/a,https://x.com/smica83/status/2082188998210887885
+2026-07-28,tweetfeed,DOMAIN,windowsupd.to,n/a,https://x.com/skocherhan/status/2082190914093539765
+2026-07-28,tweetfeed,DOMAIN,junction-equation-kodak-counseling.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082201328172888396
+2026-07-28,tweetfeed,DOMAIN,events-seek-metallica-something.trycloudflare.com,opendir,https://x.com/smica83/status/2082203053533364565
+2026-07-28,tweetfeed,DOMAIN,controls-happens-consultancy-kinase.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082203472687243536
+2026-07-28,tweetfeed,DOMAIN,kingston-coding-rely-fourth.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082203911960604938
+2026-07-28,tweetfeed,DOMAIN,var-prohibited-strike-seventh.trycloudflare.com,"WsgiDAV, opendir",https://x.com/smica83/status/2082204354392531145
+2026-07-28,tweetfeed,DOMAIN,azale1980.duckdns.org,"WsgiDAV, opendir",https://x.com/skocherhan/status/2082204771331575833
+2026-07-28,tweetfeed,DOMAIN,hvnjune8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,xwjun7250.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,robvbs8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,sepvio1982.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,apri1982om.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,octhnv8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,sep8787hvn.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,hvnjuly8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,asyaugusth5858.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,asyjuly5858.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,recfebnew8100.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,jul5050quasaf.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,asyn5858july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,asy5858d.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,voilt1984may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,marc5858asy2n.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,marc5858asy4n.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,xwr9402may.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,xwom9402a.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,hnvapri8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,xrwo9402maynew.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,xrw9402july.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,marc5858asyn.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,marcc9402xrwo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,phvnmarch8787.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,marccc9402xrw.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,dec9402xwoo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,dec9402xwo.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,dec9402xwor.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,phvnc8500.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
+2026-07-28,tweetfeed,DOMAIN,novxwor9402.duckdns.org,n/a,https://x.com/skocherhan/status/2082207113011724298
