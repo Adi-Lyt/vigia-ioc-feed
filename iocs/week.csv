@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-25,threatfox,URL,https://pol.1000boger.com/,"unknown, url",n/a
 2026-07-25,threatfox,URL,https://sagearcade.top/alias/router-fetch.js,"js.smartapesg, url",n/a
 2026-07-25,threatfox,URL,https://marshalh.icu/api/v1/session,"js.kongtuke, url",n/a
 2026-07-25,threatfox,URL,https://marshalh.icu/api/v1/verify,"js.kongtuke, url",n/a
@@ -359,11 +358,8 @@ date,user,type,ioc,tags,context
 2026-08-01,threatfox,URL,http://slyfogx.shop:5776,"win.remus, url",n/a
 2026-08-01,threatfox,URL,http://sahalexchange.com:9504,"win.remus, url",n/a
 2026-08-01,threatfox,URL,http://72.255.59.114:49386/Mozi.m,"elf.mozi, url",n/a
-2026-07-25,threatfox,DOMAIN,hibridgedispensary.com,"js.clearfake, domain",n/a
-2026-07-25,threatfox,DOMAIN,papilawdns.duckdns.org,"win.remcos, domain",n/a
-2026-07-25,threatfox,DOMAIN,eu959ilm.eandrconstructionllc.com,"js.clearfake, domain",n/a
-2026-07-25,threatfox,DOMAIN,itpysxfajhrtpnfwacr.herbscutsandolives.com,"js.clearfake, domain",n/a
-2026-07-25,threatfox,DOMAIN,herbscutsandolives.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,URL,http://kinderplow.com:5782,"win.remus, url",n/a
+2026-08-01,threatfox,URL,http://staxta.click:5627,"win.remus, url",n/a
 2026-07-25,threatfox,DOMAIN,nqixxkzxfwilzlsrtuh.hoerster-law.com,"js.clearfake, domain",n/a
 2026-07-25,threatfox,DOMAIN,driveponsphoto.info,"js.tonrat, domain",n/a
 2026-07-25,threatfox,DOMAIN,hoerster-law.com,"js.clearfake, domain",n/a
@@ -5353,6 +5349,10 @@ date,user,type,ioc,tags,context
 2026-08-01,threatfox,DOMAIN,balmoria.com,"js.iclickfix, domain",n/a
 2026-08-01,threatfox,DOMAIN,baylakecottages.com,"js.iclickfix, domain",n/a
 2026-08-01,threatfox,DOMAIN,enter-press-cdn.info,"unknown_loader, domain",n/a
+2026-08-01,threatfox,DOMAIN,ee0xfh5z.certifiedairbalanceinlosangelesca.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,ojbsqt.german-uboats.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,xxhxsl.german-uboats.com,"js.clearfake, domain",n/a
+2026-08-01,threatfox,DOMAIN,iftuxuh.fencescapeinc.com,"js.clearfake, domain",n/a
 2026-07-25,tweetfeed,URL,https://semprecardsecure.com/variants/variant_01.apk,Android,https://x.com/JAMESWT_WT/status/2080959018067984492
 2026-07-25,tweetfeed,URL,https://semprecardsecure.com/variants/variant_20.apk,Android,https://x.com/JAMESWT_WT/status/2080959018067984492
 2026-07-25,tweetfeed,URL,http://154.29.74.158,n/a,https://x.com/skocherhan/status/2080981156929953809
