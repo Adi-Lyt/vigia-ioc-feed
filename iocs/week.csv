@@ -316,14 +316,6 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,URL,https://exovision.cc/,"unknown_rat, url",n/a
 2026-08-02,threatfox,URL,http://175.107.221.144:37393/Mozi.m,"elf.mozi, url",n/a
 2026-08-02,threatfox,URL,http://153.117.15.67:54002/Mozi.m,"elf.mozi, url",n/a
-2026-07-26,threatfox,DOMAIN,mabqig.proznth.com,"js.clearfake, domain",n/a
-2026-07-26,threatfox,DOMAIN,proznth.com,"js.clearfake, domain",n/a
-2026-07-26,threatfox,DOMAIN,tue-partner-03.cfd,"unknown, domain",n/a
-2026-07-26,threatfox,DOMAIN,zaciszewbobrzy.pl,"win.vidar, domain",n/a
-2026-07-26,threatfox,DOMAIN,evaldoservicos.com.br,"win.vidar, domain",n/a
-2026-07-26,threatfox,DOMAIN,ciemaster.com,"win.vidar, domain",n/a
-2026-07-26,threatfox,DOMAIN,apaearaxa.org.br,"win.vidar, domain",n/a
-2026-07-26,threatfox,DOMAIN,wpteamcdn.beer,"unknown, domain",n/a
 2026-07-26,threatfox,DOMAIN,dns1.dreamls.com,"win.cobalt_strike, domain",n/a
 2026-07-26,threatfox,DOMAIN,dns2.dreamls.com,"win.cobalt_strike, domain",n/a
 2026-07-26,threatfox,DOMAIN,mboxao.lipoviveofficials.com,"js.clearfake, domain",n/a
@@ -1163,7 +1155,7 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,DOMAIN,redrockscoach.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,adxvwa.us-en-us-bizopp.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,us-en-us-bizopp.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,haochisadnka.cc,"win.valley_rat, domain",n/a
+2026-07-27,"threatfox,tweetfeed",DOMAIN,haochisadnka.cc,"win.valley_rat, domain",n/a
 2026-07-27,threatfox,DOMAIN,akabespokejewellers.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,weddenvoetbaltips.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,conectarglobal.org,"js.clearfake, domain",n/a
@@ -5122,9 +5114,11 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,DOMAIN,covenantnewmd.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,j4j759y5.akabespokejewellers.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,kaptureprefab.com,"js.clearfake, domain",n/a
-2026-07-26,tweetfeed,URL,https://inbio.me/EE,phishing,https://x.com/PhishStats/status/2081470588741153122
-2026-07-26,tweetfeed,URL,http://o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion,n/a,https://x.com/JRoosen/status/2081475549231284729
-2026-07-26,tweetfeed,URL,https://mzrst.com,malware,https://x.com/ppeepuppy/status/2081481756172238960
+2026-08-02,threatfox,DOMAIN,izxeqac.kendallfit.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,kendallfit.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,xgfxfq.k-optic.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,k-optic.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,wh9d0q5b.havenchurchraleigh.com,"js.clearfake, domain",n/a
 2026-07-26,tweetfeed,URL,http://175.107.237.163:37596/Mozi.m,n/a,https://x.com/sicehice/status/2081498504455733515
 2026-07-26,tweetfeed,URL,http://58.37.101.152:39822/Mozi.m,n/a,https://x.com/sicehice/status/2081498755753296147
 2026-07-26,tweetfeed,URL,http://login-appleid.com,phishing,https://x.com/tial_cl/status/2081509814073446538
@@ -7360,9 +7354,11 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,URL,http://certcheck.online,"APT, malware",https://x.com/phatomcandle/status/2083976136669974980
 2026-08-02,tweetfeed,URL,http://43.224.224.66:1234,C2,https://x.com/skocherhan/status/2083996009072394706
 2026-08-02,tweetfeed,URL,http://112.121.183.130:1234,C2,https://x.com/skocherhan/status/2083996009072394706
-2026-07-26,tweetfeed,DOMAIN,inbio.me,phishing,https://x.com/PhishStats/status/2081470588741153122
-2026-07-26,tweetfeed,DOMAIN,o5lsqyar7ox25z734k6zaxt2vf7bsyi4q5rturi5iyxzqo3ica7bjsad.onion,n/a,https://x.com/JRoosen/status/2081475549231284729
-2026-07-26,tweetfeed,DOMAIN,mzrst.com,malware,https://x.com/ppeepuppy/status/2081481756172238960
+2026-08-02,tweetfeed,URL,http://43.157.204.73:8888,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-02,tweetfeed,URL,http://c2.ashveil.org:8888,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-02,tweetfeed,URL,http://10.160.197.88:1521,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-02,tweetfeed,URL,http://10.160.197.88:7575,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-02,tweetfeed,URL,http://github.com/serverops-admin/sliver,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
 2026-07-26,tweetfeed,DOMAIN,login-appleid.com,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,DOMAIN,appleids.bond,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,DOMAIN,appleidv.cfd,phishing,https://x.com/tial_cl/status/2081509814073446538
@@ -9496,6 +9492,10 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,HASH_MD5,9562334dd9a47ec1239a8667ddc1f01c,"win.netwire, md5_hash",n/a
 2026-08-02,tweetfeed,DOMAIN,metamaskextensionnn.gitbook.io,phishing,https://x.com/phishunt_io/status/2083961168041816072
 2026-08-02,tweetfeed,DOMAIN,certcheck.online,"APT, malware",https://x.com/phatomcandle/status/2083976136669974980
-2026-07-26,tweetfeed,HASH_SHA256,41986e5a10e7d708d74a8758a0dfc543fcaae48fe238a4b82194da0292338c14,n/a,https://x.com/smica83/status/2081468595528217014
-2026-07-26,tweetfeed,IP,199.36.158.100,phishing,https://x.com/PhishStats/status/2081470588741153122
+2026-08-02,tweetfeed,DOMAIN,logs.uvexio.com,n/a,https://x.com/bomccss/status/2082043061908259296
+2026-08-02,tweetfeed,DOMAIN,tea.vexexo.com,n/a,https://x.com/bomccss/status/2082043061908259296
+2026-08-02,tweetfeed,DOMAIN,c2.ashveil.org,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
 2026-07-26,tweetfeed,IP,175.107.237.163,n/a,https://x.com/sicehice/status/2081498504455733515
+2026-07-26,tweetfeed,IP,58.37.101.152,n/a,https://x.com/sicehice/status/2081498755753296147
+2026-07-27,tweetfeed,IP,202.69.74.130,phishing,https://x.com/romonlyht/status/2081556616793747848
+2026-07-27,tweetfeed,IP,8.211.153.128,phishing,https://x.com/romonlyht/status/2080530740153024563
