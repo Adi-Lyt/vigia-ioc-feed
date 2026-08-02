@@ -21,14 +21,6 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,URL,https://exovision.cc/,"unknown_rat, url",n/a
 2026-08-02,threatfox,URL,http://175.107.221.144:37393/Mozi.m,"elf.mozi, url",n/a
 2026-08-02,threatfox,URL,http://153.117.15.67:54002/Mozi.m,"elf.mozi, url",n/a
-2026-08-01,threatfox,DOMAIN,bntxjno.indiancreektreefarmpa.com,"js.clearfake, domain",n/a
-2026-08-01,threatfox,DOMAIN,indiancreektreefarmpa.com,"js.clearfake, domain",n/a
-2026-08-01,threatfox,DOMAIN,awzhaf.hypnosisinstitute.net,"js.clearfake, domain",n/a
-2026-08-01,threatfox,DOMAIN,hypnosisinstitute.net,"js.clearfake, domain",n/a
-2026-08-01,threatfox,DOMAIN,rnlpkfl.idyllicbeachhouse.com,"js.clearfake, domain",n/a
-2026-08-01,threatfox,DOMAIN,fpuuve.howtomovies.biz,"js.clearfake, domain",n/a
-2026-08-01,threatfox,DOMAIN,idyllicbeachhouse.com,"js.clearfake, domain",n/a
-2026-08-01,threatfox,DOMAIN,howtomovies.biz,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,wdohlma.international-airports.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,international-airports.com,"js.clearfake, domain",n/a
 2026-08-01,threatfox,DOMAIN,wpsfpo.gregoryschreiercabinetmaker.com,"js.clearfake, domain",n/a
@@ -269,6 +261,10 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,DOMAIN,xgfxfq.k-optic.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,k-optic.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,wh9d0q5b.havenchurchraleigh.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,mjmdcdg.kfsteels.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,kfsteels.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,hlemxe.kzoomenofpurpose.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,kzoomenofpurpose.com,"js.clearfake, domain",n/a
 2026-08-01,tweetfeed,URL,http://logixgreed.info,n/a,https://x.com/skocherhan/status/2083685010087755983
 2026-08-02,tweetfeed,URL,http://instgram-account-ginxl9n.netlify.app,"malware, phishing",https://x.com/scanmalware/status/2083719845783237113
 2026-08-02,tweetfeed,URL,http://178.17.61.110,opendir,https://x.com/SomeTestLeper/status/2083732061949686250
@@ -384,6 +380,11 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,URL,http://10.160.197.88:1521,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
 2026-08-02,tweetfeed,URL,http://10.160.197.88:7575,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
 2026-08-02,tweetfeed,URL,http://github.com/serverops-admin/sliver,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-02,tweetfeed,URL,http://151.241.99.233,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://158.62.198.182,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://192.142.10.99,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://139.28.37.250,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://194.213.18.137,n/a,https://x.com/skocherhan/status/2084028650567922142
 2026-08-01,tweetfeed,DOMAIN,logixgreed.info,n/a,https://x.com/skocherhan/status/2083685010087755983
 2026-08-02,tweetfeed,DOMAIN,instgram-account-ginxl9n.netlify.app,"malware, phishing",https://x.com/scanmalware/status/2083719845783237113
 2026-08-02,tweetfeed,DOMAIN,mg-euwqnasnd.com,phishing,https://x.com/kubotaa3/status/2083746267960840662
@@ -510,6 +511,14 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,IP,112.121.183.130,C2,https://x.com/skocherhan/status/2083996009072394706
 2026-08-02,tweetfeed,HASH_SHA256,915ea4f614150d2228d248a1af6086bdb0b40a71c6c8baaa86cdccf0f6f4095e,n/a,https://x.com/mbrg0/status/2083998721755193764
 2026-08-02,tweetfeed,IP,43.157.204.73,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-02,tweetfeed,HASH_SHA256,370e4d4ffbed3835c515ba94454b3d3002a007bfc7e11eb275081209878146cd,malware,https://x.com/LxlxIxlxlxL/status/2084025714391781673
+2026-08-02,tweetfeed,IP,151.241.99.207,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,IP,151.241.99.233,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,IP,158.62.198.182,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,IP,192.142.10.99,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,IP,139.28.37.250,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,IP,194.213.18.137,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,HASH_SHA256,7d34857b0a94471e80fe578443f4dbce05a5d6d5c3d949f9933c66e89854ebc2,n/a,https://x.com/userlolxxl/status/2084028728049340538
 2026-08-01,tweetfeed,HASH_MD5,3daacc31392d6cb0d7739adca64935f8,n/a,https://x.com/skocherhan/status/2083680159081648540
 2026-08-01,tweetfeed,HASH_MD5,19bdc0ac73466a30ec0ba39756c4ae52,n/a,https://x.com/skocherhan/status/2083680159081648540
 2026-08-01,tweetfeed,HASH_MD5,3c0b80d2eb6be9b301259d0eeb0c4342,n/a,https://x.com/skocherhan/status/2083680159081648540
