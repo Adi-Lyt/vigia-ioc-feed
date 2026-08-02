@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-26,threatfox,URL,https://landlordsolutions.uk/,"unknown, url",n/a
 2026-07-27,threatfox,URL,http://47.239.127.71/lib/xxx,"elf.mirai, url",n/a
 2026-07-27,threatfox,URL,http://103.170.85.16:43635/Mozi.m,"elf.mozi, url",n/a
 2026-07-27,threatfox,URL,https://moon.attorneycover.com,"win.stealc, url",n/a
@@ -316,12 +315,6 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,URL,https://exovision.cc/,"unknown_rat, url",n/a
 2026-08-02,threatfox,URL,http://175.107.221.144:37393/Mozi.m,"elf.mozi, url",n/a
 2026-08-02,threatfox,URL,http://153.117.15.67:54002/Mozi.m,"elf.mozi, url",n/a
-2026-07-26,threatfox,DOMAIN,dns1.dreamls.com,"win.cobalt_strike, domain",n/a
-2026-07-26,threatfox,DOMAIN,dns2.dreamls.com,"win.cobalt_strike, domain",n/a
-2026-07-26,threatfox,DOMAIN,mboxao.lipoviveofficials.com,"js.clearfake, domain",n/a
-2026-07-26,threatfox,DOMAIN,mainstreetcarpetsc.com,"js.clearfake, domain",n/a
-2026-07-26,threatfox,DOMAIN,lowfeesrealtors.com,"js.clearfake, domain",n/a
-2026-07-26,threatfox,DOMAIN,m1brakes.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,wfupkm.lippogummy.com,"js.clearfake, domain",n/a
 2026-07-26,threatfox,DOMAIN,mamaspizzansubsmenu.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,bidd0t2b.enus-tupitea.com,"js.clearfake, domain",n/a
@@ -5119,8 +5112,10 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,DOMAIN,xgfxfq.k-optic.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,k-optic.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,wh9d0q5b.havenchurchraleigh.com,"js.clearfake, domain",n/a
-2026-07-26,tweetfeed,URL,http://175.107.237.163:37596/Mozi.m,n/a,https://x.com/sicehice/status/2081498504455733515
-2026-07-26,tweetfeed,URL,http://58.37.101.152:39822/Mozi.m,n/a,https://x.com/sicehice/status/2081498755753296147
+2026-08-02,threatfox,DOMAIN,mjmdcdg.kfsteels.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,kfsteels.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,hlemxe.kzoomenofpurpose.com,"js.clearfake, domain",n/a
+2026-08-02,threatfox,DOMAIN,kzoomenofpurpose.com,"js.clearfake, domain",n/a
 2026-07-26,tweetfeed,URL,http://login-appleid.com,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,URL,http://appleids.bond,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,URL,http://appleidv.cfd,phishing,https://x.com/tial_cl/status/2081509814073446538
@@ -5830,7 +5825,7 @@ date,user,type,ioc,tags,context
 2026-07-27,threatfox,HASH_SHA256,6f941dfcffe99df17e9f8a5052127d0b42ae5ed6e4636a7e4ffe0b89161acbb8,"win.phorpiex, sha256_hash",n/a
 2026-07-27,threatfox,HASH_SHA256,ef56d1386af7c97a5cd0b70c261de7e87f6c00894e3f30856adfc750a7b73b3b,"win.hijackloader, sha256_hash",n/a
 2026-07-27,threatfox,HASH_SHA256,17d5023a4778003af6f2d2a02d9e8b3719b9a3c78e314a25b5652e965e95906c,"win.stealc, sha256_hash",n/a
-2026-07-27,threatfox,HASH_SHA256,2945c9a7bdcd541372a883eed3a1e045ff39078c5bfec708aee3e5e1b5b80311,"win.asyncrat, sha256_hash",n/a
+2026-07-27,"threatfox,tweetfeed",HASH_SHA256,2945c9a7bdcd541372a883eed3a1e045ff39078c5bfec708aee3e5e1b5b80311,"win.asyncrat, sha256_hash",n/a
 2026-07-27,threatfox,HASH_SHA256,45f16a66c72637fc6b473f23896e73b7a8a3e88d564ab1541a7ee39a5b41e441,"win.socks5_systemz, sha256_hash",n/a
 2026-07-27,threatfox,HASH_SHA256,600cf8533d43cc3b073ab18ed728cb4c9c037870c53ab8f0eb66bf225a3ac7e3,"py.venus_stealer, sha256_hash",n/a
 2026-07-27,threatfox,HASH_SHA256,a006492687681003d32393ccdd5b050340342672a29698d3cc399e4e2471bcf5,"elf.kuiper, sha256_hash",n/a
@@ -7359,6 +7354,11 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,URL,http://10.160.197.88:1521,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
 2026-08-02,tweetfeed,URL,http://10.160.197.88:7575,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
 2026-08-02,tweetfeed,URL,http://github.com/serverops-admin/sliver,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-02,tweetfeed,URL,http://151.241.99.233,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://158.62.198.182,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://192.142.10.99,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://139.28.37.250,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-02,tweetfeed,URL,http://194.213.18.137,n/a,https://x.com/skocherhan/status/2084028650567922142
 2026-07-26,tweetfeed,DOMAIN,login-appleid.com,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,DOMAIN,appleids.bond,phishing,https://x.com/tial_cl/status/2081509814073446538
 2026-07-26,tweetfeed,DOMAIN,appleidv.cfd,phishing,https://x.com/tial_cl/status/2081509814073446538
@@ -9495,7 +9495,7 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,DOMAIN,logs.uvexio.com,n/a,https://x.com/bomccss/status/2082043061908259296
 2026-08-02,tweetfeed,DOMAIN,tea.vexexo.com,n/a,https://x.com/bomccss/status/2082043061908259296
 2026-08-02,tweetfeed,DOMAIN,c2.ashveil.org,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
-2026-07-26,tweetfeed,IP,175.107.237.163,n/a,https://x.com/sicehice/status/2081498504455733515
-2026-07-26,tweetfeed,IP,58.37.101.152,n/a,https://x.com/sicehice/status/2081498755753296147
 2026-07-27,tweetfeed,IP,202.69.74.130,phishing,https://x.com/romonlyht/status/2081556616793747848
 2026-07-27,tweetfeed,IP,8.211.153.128,phishing,https://x.com/romonlyht/status/2080530740153024563
+2026-07-27,tweetfeed,IP,176.65.148.145,n/a,https://x.com/RussianPanda9xx/status/2081577120657006724
+2026-07-27,tweetfeed,IP,77.68.5.178,phishing,https://x.com/phishunt_io/status/2081635921301021084
