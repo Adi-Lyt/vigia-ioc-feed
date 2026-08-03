@@ -2,15 +2,6 @@ date,user,type,ioc,tags,context
 2026-07-27,cisa_kev,CVE,CVE-2025-68686,"Fortinet FortiOS, kev","Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-10"
 2026-07-27,cisa_kev,CVE,CVE-2026-16812,"Arista VeloCloud Orchestrator, kev","Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-07-30"
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
-2026-07-27,threatfox,URL,http://easeal.top:5291,"win.remus, url",n/a
-2026-07-27,threatfox,URL,https://bauabach.lol/api/v1/status,"js.kongtuke, url",n/a
-2026-07-27,threatfox,URL,https://globalupdate6711.com/update/package,"js.kongtuke, url",n/a
-2026-07-27,threatfox,URL,https://acaciaearthwork.top/private/session-util.js,"js.smartapesg, url",n/a
-2026-07-27,threatfox,URL,https://acaciaearthwork.top/private/login-dom,"js.smartapesg, url",n/a
-2026-07-27,threatfox,URL,https://acaciaearthwork.top/private/health-header.js,"js.smartapesg, url",n/a
-2026-07-27,threatfox,URL,https://492102.us22.myftpupload.com/,"unknown, url",n/a
-2026-07-27,threatfox,URL,https://tbhadvisors.com/,"win.vidar, url",n/a
-2026-07-27,threatfox,URL,https://bigredbook.com/,"win.vidar, url",n/a
 2026-07-27,threatfox,URL,https://omarakitchencabinets.genxe.pk/,"unknown, url",n/a
 2026-07-27,threatfox,URL,https://clocktowerhighered.com/,"unknown, url",n/a
 2026-07-27,threatfox,URL,https://bss.edu.pk/,"unknown, url",n/a
@@ -315,16 +306,7 @@ date,user,type,ioc,tags,context
 2026-08-03,threatfox,URL,http://43.230.94.187:42391/Mozi.m,"elf.mozi, url",n/a
 2026-08-03,threatfox,URL,http://voihxd.xyz:7528,"win.remus, url",n/a
 2026-08-03,threatfox,URL,https://ivyprologue.top/legacy/throttle-theme.js,"js.smartapesg, url",n/a
-2026-07-27,threatfox,DOMAIN,pro-d63a.protexweer.workers.dev,"unknown, domain",n/a
-2026-07-27,threatfox,DOMAIN,still-snow-667e.protexweer.workers.dev,"unknown, domain",n/a
-2026-07-27,threatfox,DOMAIN,pro-2734.protexweer.workers.dev,"unknown, domain",n/a
-2026-07-27,threatfox,DOMAIN,protexweer.workers.dev,"unknown, domain",n/a
-2026-07-27,threatfox,DOMAIN,globalupdate6711.com,"js.kongtuke, domain",n/a
-2026-07-27,threatfox,DOMAIN,acaciaearthwork.top,"js.smartapesg, domain",n/a
-2026-07-27,threatfox,DOMAIN,app-api.starfoodmart.net,"js.fakeupdates, domain",n/a
-2026-07-27,threatfox,DOMAIN,7gnetonl.futuremillionaire.net,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,lpf0cwi4.shop-metabodrops.com,"js.clearfake, domain",n/a
-2026-07-27,threatfox,DOMAIN,jfjhdq.en-us-en-pegasus.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,URL,http://zokrie.click:4536,"win.remus, url",n/a
 2026-07-27,threatfox,DOMAIN,ovq3ncff.eachway-multiplier.com,"js.clearfake, domain",n/a
 2026-07-27,threatfox,DOMAIN,tzpx.courses,"win.remus, domain",n/a
 2026-07-27,threatfox,DOMAIN,wertexnew.com,"win.remus, domain",n/a
@@ -4362,23 +4344,11 @@ date,user,type,ioc,tags,context
 2026-08-03,threatfox,DOMAIN,letterboxedsolved.com,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,nxpdrg.lashextensionsdowney.com,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,lashextensionsdowney.com,"js.clearfake, domain",n/a
-2026-07-27,tweetfeed,URL,http://v76bdil3v7hczufr7kwk75eq6oks27d3qwj6v5ajj6v6rubbvwhcq2qd.onion,n/a,https://x.com/fbgwls245/status/2081738540657037718
-2026-07-27,tweetfeed,URL,http://agoras.hopto.org,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.0.133,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.1.18,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.3.204,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.3.14,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.1.14,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.3.223,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.3.70,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.0.39,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.1.66,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.1.58,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.0.103,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.3.222,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.1.152,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://211.4.1.47,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,URL,http://shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion,ransomware,https://x.com/fbgwls245/status/2081741166484271519
+2026-08-03,threatfox,DOMAIN,prod5.data-square.click,"win.revstealer, domain",n/a
+2026-08-03,threatfox,DOMAIN,krvryy.laurelgrovepv.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,oywkxgw.massage-spa-zulyacquavitaespa.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,massage-spa-zulyacquavitaespa.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,laurelgrovepv.com,"js.clearfake, domain",n/a
 2026-07-27,tweetfeed,URL,http://chat-whatsapp.net,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,URL,http://cnweb-whatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,URL,http://ef-whatsappdf.com,phishing,https://x.com/tial_cl/status/2081760527257149767
@@ -6163,9 +6133,7 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,URL,https://rdwksm.cfd/Ek41lT,phishing,https://x.com/harugasumi/status/2084268916185223556
 2026-08-03,tweetfeed,URL,https://jankfree.com/page/gqeyuipbid,phishing,https://x.com/harugasumi/status/2084275223243936173
 2026-08-03,tweetfeed,URL,https://messigoat.top/jp,phishing,https://x.com/harugasumi/status/2084275223243936173
-2026-07-27,tweetfeed,DOMAIN,v76bdil3v7hczufr7kwk75eq6oks27d3qwj6v5ajj6v6rubbvwhcq2qd.onion,n/a,https://x.com/fbgwls245/status/2081738540657037718
-2026-07-27,tweetfeed,DOMAIN,agoras.hopto.org,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,DOMAIN,shibaitobajtr6yctvrijfitnugfulkmprrqbmu2ysk3zyzx2ufe3yqd.onion,ransomware,https://x.com/fbgwls245/status/2081741166484271519
+2026-08-03,tweetfeed,URL,http://67.175.236.120:9090,opendir,https://x.com/ThantZin_Ron/status/2084286049321398555
 2026-07-27,tweetfeed,DOMAIN,chat-whatsapp.net,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,DOMAIN,cnweb-whatsapp.com,phishing,https://x.com/tial_cl/status/2081760527257149767
 2026-07-27,tweetfeed,DOMAIN,ef-whatsappdf.com,phishing,https://x.com/tial_cl/status/2081760527257149767
@@ -7556,23 +7524,6 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,DOMAIN,rdwksm.cfd,phishing,https://x.com/harugasumi/status/2084268916185223556
 2026-08-03,tweetfeed,DOMAIN,jankfree.com,phishing,https://x.com/harugasumi/status/2084275223243936173
 2026-08-03,tweetfeed,DOMAIN,messigoat.top,phishing,https://x.com/harugasumi/status/2084275223243936173
-2026-07-27,tweetfeed,HASH_SHA256,9130d7d2271e9cb118dd83907d9865cba547304a1f6c72743973efd59813df18,n/a,https://x.com/nextronresearch/status/2081738627613114590
-2026-07-27,tweetfeed,HASH_SHA256,0bae4acd83015b8447e90aec97efa2e81d136bfd512a69301d6187fed2e45c74,n/a,https://x.com/nextronresearch/status/2081738627613114590
-2026-07-27,tweetfeed,IP,211.4.0.133,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.1.18,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.3.204,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.3.14,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.1.14,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.3.223,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.3.70,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.0.39,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.1.66,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.1.58,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.0.103,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.3.222,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.1.152,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,IP,211.4.1.47,n/a,https://x.com/skocherhan/status/2081740805962637573
-2026-07-27,tweetfeed,HASH_SHA256,1c5dd7caaf5627303c3032f3ec6a4480a6c253db6a861a1e3f34b05cd4968c21,n/a,https://x.com/skocherhan/status/2081739557557371326
 2026-07-27,tweetfeed,HASH_SHA256,0da0e50360469d64558e6de818b57f966126400d0b1e4b50cd50acd6cde86ae1,n/a,https://x.com/ShadowOpCode/status/2081764112648884246
 2026-07-27,tweetfeed,HASH_SHA256,5cae7777da045d7c7d9b921e83a92e3703e39c0d489204564d037c3634170537,n/a,https://x.com/ShadowOpCode/status/2081764112648884246
 2026-07-27,tweetfeed,IP,204.44.93.88,n/a,https://x.com/skocherhan/status/2081764707321385003
@@ -7846,6 +7797,7 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,IP,45.87.249.21,n/a,https://x.com/teamcymru_S2/status/2084277001536319745
 2026-08-03,tweetfeed,IP,77.90.185.9,n/a,https://x.com/teamcymru_S2/status/2084277001536319745
 2026-08-03,tweetfeed,IP,38.180.83.90,n/a,https://x.com/teamcymru_S2/status/2084277001536319745
+2026-08-03,tweetfeed,IP,67.175.236.120,opendir,https://x.com/ThantZin_Ron/status/2084286049321398555
 2026-07-27,tweetfeed,HASH_MD5,7c3296f411c190404154aa89904a61b1,AsyncRAT,https://x.com/skocherhan/status/2081768436120662266
 2026-07-28,tweetfeed,HASH_MD5,598b222fe1d12453639dc14b390b3fa9,"malware, ransomware",https://x.com/RakeshKrish12/status/2081976599256371286
 2026-07-28,tweetfeed,HASH_MD5,698a96701561254ffa1bac9a7b4a7600,"malware, stealer",https://x.com/bsforvt727/status/2082025156487295050
