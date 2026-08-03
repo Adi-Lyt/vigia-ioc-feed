@@ -1,5 +1,4 @@
 date,user,type,ioc,tags,context
-2026-08-02,threatfox,URL,http://anglecv.surf:7688,"win.remus, url",n/a
 2026-08-02,threatfox,URL,http://sxarth.click:3276,"win.remus, url",n/a
 2026-08-02,threatfox,URL,https://professional.baby/get/config,"unknown_rat, url",n/a
 2026-08-02,threatfox,URL,https://professional.baby/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
@@ -21,12 +20,6 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,URL,https://exovision.cc/,"unknown_rat, url",n/a
 2026-08-02,threatfox,URL,http://175.107.221.144:37393/Mozi.m,"elf.mozi, url",n/a
 2026-08-02,threatfox,URL,http://153.117.15.67:54002/Mozi.m,"elf.mozi, url",n/a
-2026-08-02,threatfox,DOMAIN,cs.rainbowrain.top,"win.cobalt_strike, domain",n/a
-2026-08-02,threatfox,DOMAIN,bwvlejk.iranicc.org,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,iranicc.org,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,mbqhhu.gtacauto.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,5jnq4l13.elcornerderaulmorote.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,r45ny1cp.selladorasgovi.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,qcpbzpl.finkfamilyautomotive.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,zyrivu.halcyonhempltd.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,oitavwl.dusanperisicmd.com,"js.clearfake, domain",n/a
@@ -267,6 +260,11 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,DOMAIN,kindredmanitowoc.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,kptawr.lacavamexicancocina.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,lacavamexicancocina.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,akdsoev.eachway-multiplier.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,ewybru.jackpot88.de.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,xqfowhk.kingsranchministries.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,kingsranchministries.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,xlwkuu.lacocina-taqueria.com,"js.clearfake, domain",n/a
 2026-08-02,tweetfeed,URL,http://instgram-account-ginxl9n.netlify.app,"malware, phishing",https://x.com/scanmalware/status/2083719845783237113
 2026-08-02,tweetfeed,URL,http://178.17.61.110,opendir,https://x.com/SomeTestLeper/status/2083732061949686250
 2026-08-02,tweetfeed,URL,http://91.92.241.160,opendir,https://x.com/SomeTestLeper/status/2083732061949686250
@@ -386,6 +384,7 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,URL,http://192.142.10.99,n/a,https://x.com/skocherhan/status/2084028650567922142
 2026-08-02,tweetfeed,URL,http://139.28.37.250,n/a,https://x.com/skocherhan/status/2084028650567922142
 2026-08-02,tweetfeed,URL,http://194.213.18.137,n/a,https://x.com/skocherhan/status/2084028650567922142
+2026-08-03,tweetfeed,URL,http://mheusa04.xyz,NetSupport,https://x.com/skocherhan/status/2084069083952091636
 2026-08-02,tweetfeed,DOMAIN,instgram-account-ginxl9n.netlify.app,"malware, phishing",https://x.com/scanmalware/status/2083719845783237113
 2026-08-02,tweetfeed,DOMAIN,mg-euwqnasnd.com,phishing,https://x.com/kubotaa3/status/2083746267960840662
 2026-08-02,tweetfeed,DOMAIN,lynx-trading.org,scam,https://x.com/Azzzzng71/status/2083749221908303908
@@ -460,6 +459,7 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,DOMAIN,logs.uvexio.com,n/a,https://x.com/bomccss/status/2082043061908259296
 2026-08-02,tweetfeed,DOMAIN,tea.vexexo.com,n/a,https://x.com/bomccss/status/2082043061908259296
 2026-08-02,tweetfeed,DOMAIN,c2.ashveil.org,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
+2026-08-03,tweetfeed,DOMAIN,mheusa04.xyz,NetSupport,https://x.com/skocherhan/status/2084069083952091636
 2026-08-02,tweetfeed,IP,178.17.61.110,opendir,https://x.com/SomeTestLeper/status/2083732061949686250
 2026-08-02,tweetfeed,IP,91.92.241.160,opendir,https://x.com/SomeTestLeper/status/2083732061949686250
 2026-08-02,tweetfeed,IP,64.89.161.147,phishing,https://x.com/PhishStats/status/2083799280570044916
@@ -519,9 +519,6 @@ date,user,type,ioc,tags,context
 2026-08-02,tweetfeed,IP,139.28.37.250,n/a,https://x.com/skocherhan/status/2084028650567922142
 2026-08-02,tweetfeed,IP,194.213.18.137,n/a,https://x.com/skocherhan/status/2084028650567922142
 2026-08-02,tweetfeed,HASH_SHA256,7d34857b0a94471e80fe578443f4dbce05a5d6d5c3d949f9933c66e89854ebc2,n/a,https://x.com/userlolxxl/status/2084028728049340538
-2026-08-02,tweetfeed,HASH_MD5,3958c391df0cbc56cc79ef21f6e63267,stealer,https://x.com/skocherhan/status/2083696922271879306
-2026-08-02,tweetfeed,HASH_MD5,be62450e7e95c5ab7c8a09b23fedbed7,stealer,https://x.com/skocherhan/status/2083696922271879306
-2026-08-02,tweetfeed,HASH_MD5,d66979fe4a9b1983da6213e0aeefef67,stealer,https://x.com/skocherhan/status/2083696922271879306
 2026-08-02,tweetfeed,HASH_MD5,6bd742f693e7350b27de5ec9fde0712c,opendir,https://x.com/SomeTestLeper/status/2083732061949686250
 2026-08-02,tweetfeed,HASH_MD5,f1d8c9cd33b7da9356615a650cfd2d7e,n/a,https://x.com/skocherhan/status/2083879416866685122
 2026-08-02,tweetfeed,HASH_MD5,ca88a6c055a96e1a6fa47e2586d41d2a,n/a,https://x.com/skocherhan/status/2083879416866685122
