@@ -20,12 +20,6 @@ date,user,type,ioc,tags,context
 2026-08-02,threatfox,URL,http://175.107.221.144:37393/Mozi.m,"elf.mozi, url",n/a
 2026-08-02,threatfox,URL,http://153.117.15.67:54002/Mozi.m,"elf.mozi, url",n/a
 2026-08-03,threatfox,URL,http://uiccvbk.click:8839,"win.remus, url",n/a
-2026-08-02,threatfox,DOMAIN,yfwlzm.healthfoodzone.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,jjvfpmq.graphicstabletreviews.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,cxsxdqzx.rsfoodproducts.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,hjynlx3f.highmileauto.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,sg03wupc.brexcavatingllc.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,rhbowb.havenchurchraleigh.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,pcebmt.hectortm-plumbing.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,tvogirr.greaternewzionbc.org,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,dmart-ny.com,"unknown, domain",n/a
@@ -264,6 +258,8 @@ date,user,type,ioc,tags,context
 2026-08-03,threatfox,DOMAIN,akdczp.jackyleeschinesecuisine.com,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,yubvuzk.jackpot77.de.com,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,fmbuzp.josephmichaelnh.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,raerazl.abcdbro.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,msnwgu.josetreeservice.net,"js.clearfake, domain",n/a
 2026-08-02,tweetfeed,URL,https://email-social.com,phishing,https://x.com/PhishStats/status/2083799280570044916
 2026-08-02,threatfox,HASH_SHA256,453e775ba32c43699a47bbfb2f0c9675f523d2a90c903a0e069086658d76485c,"win.remcos, sha256_hash",n/a
 2026-08-02,threatfox,HASH_SHA256,4be24ba6132ddc47ae55ee91183e7982394827b6d334e559fd24d5d056ae12a5,"win.remcos, sha256_hash",n/a
@@ -388,6 +384,9 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,URL,https://hongchalinsh.com/entry/djL5EQMShH,phishing,https://x.com/romonlyht/status/2084099333583216733
 2026-08-03,tweetfeed,URL,https://dlshouxian.com/content/zxmsQuLU5B,phishing,https://x.com/romonlyht/status/2084099603671179413
 2026-08-03,tweetfeed,URL,https://casualk.com/fm8s,phishing,https://x.com/romonlyht/status/2084099603671179413
+2026-08-03,tweetfeed,URL,http://108.61.180.237,n/a,https://x.com/masaomi346/status/2084134507226321363
+2026-08-03,tweetfeed,URL,https://ntt-fin.com/r/fr9i,n/a,https://x.com/KesaGataMe0/status/2084132130242908454
+2026-08-03,tweetfeed,URL,https://ntt-fin.com/w/finance-se?rid=fr9i,n/a,https://x.com/KesaGataMe0/status/2084132130242908454
 2026-08-02,tweetfeed,DOMAIN,email-social.com,phishing,https://x.com/PhishStats/status/2083799280570044916
 2026-08-02,tweetfeed,DOMAIN,notepadreleased.com,n/a,https://x.com/skocherhan/status/2083879416866685122
 2026-08-02,tweetfeed,DOMAIN,vpnvl.one-two.online,n/a,https://x.com/skocherhan/status/2083879416866685122
@@ -471,6 +470,7 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,DOMAIN,hongchalinsh.com,phishing,https://x.com/romonlyht/status/2084099333583216733
 2026-08-03,tweetfeed,DOMAIN,dlshouxian.com,phishing,https://x.com/romonlyht/status/2084099603671179413
 2026-08-03,tweetfeed,DOMAIN,casualk.com,phishing,https://x.com/romonlyht/status/2084099603671179413
+2026-08-03,tweetfeed,DOMAIN,ntt-fin.com,n/a,https://x.com/KesaGataMe0/status/2084132130242908454
 2026-08-02,tweetfeed,IP,64.89.161.147,phishing,https://x.com/PhishStats/status/2083799280570044916
 2026-08-02,tweetfeed,IP,217.60.195.192,opendir,https://x.com/Kostastsale/status/2083814480232984653
 2026-08-02,tweetfeed,HASH_SHA256,ef436a36b3b42525f06b3839d5e3f50f6ff217549c8f25d88dfe6f24385ed161,malware,https://x.com/LxlxIxlxlxL/status/2083815805242970509
@@ -536,6 +536,8 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,IP,136.108.51.179,phishing,https://x.com/romonlyht/status/2084099333583216733
 2026-08-03,tweetfeed,IP,43.164.0.55,phishing,https://x.com/romonlyht/status/2084099333583216733
 2026-08-03,tweetfeed,IP,43.165.186.242,phishing,https://x.com/romonlyht/status/2084099603671179413
+2026-08-03,tweetfeed,IP,108.61.180.237,n/a,https://x.com/masaomi346/status/2084134507226321363
+2026-08-03,tweetfeed,HASH_SHA256,cb065e8ece7482cc625561c92c4e31ae3ec61a8259b0725a4f59b291154e6f0e,n/a,https://x.com/Now_on_VT/status/2084141208461566104
 2026-08-02,tweetfeed,HASH_MD5,f1d8c9cd33b7da9356615a650cfd2d7e,n/a,https://x.com/skocherhan/status/2083879416866685122
 2026-08-02,tweetfeed,HASH_MD5,ca88a6c055a96e1a6fa47e2586d41d2a,n/a,https://x.com/skocherhan/status/2083879416866685122
 2026-08-02,tweetfeed,HASH_MD5,e51f36a8d0462a7019973199907487d3,n/a,https://x.com/skocherhan/status/2083879416866685122
