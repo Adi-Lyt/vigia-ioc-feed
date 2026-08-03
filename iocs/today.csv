@@ -1,4 +1,5 @@
 date,user,type,ioc,tags,context
+2026-08-03,cisa_kev,CVE,CVE-2026-18577,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-06"
 2026-08-02,threatfox,URL,https://exovision.cc/,"unknown_rat, url",n/a
 2026-08-02,threatfox,URL,http://175.107.221.144:37393/Mozi.m,"elf.mozi, url",n/a
 2026-08-02,threatfox,URL,http://153.117.15.67:54002/Mozi.m,"elf.mozi, url",n/a
@@ -101,12 +102,6 @@ date,user,type,ioc,tags,context
 2026-08-03,threatfox,URL,http://autumn-mountain-e855.erinbraumbachlianebl.workers.dev/,"win.valley_rat, url",n/a
 2026-08-03,threatfox,URL,http://icy-mountain-13d6.hazukashi4816.workers.dev/,"win.valley_rat, url",n/a
 2026-08-03,threatfox,URL,https://nonobody123.com,"win.stealc, url",n/a
-2026-08-02,threatfox,DOMAIN,iyxadrf.jbgkito21.xyz,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,huscms.kanganjeweller.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,pool8.reefapp.lol,"win.revstealer, domain",n/a
-2026-08-02,threatfox,DOMAIN,kanganjeweller.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,602kigvy.hanovereyephotography.com,"js.clearfake, domain",n/a
-2026-08-02,threatfox,DOMAIN,uzyjmjoqveovvvbfxo.gamestwists.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,dexvckz.keepitgnarly.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,keepitgnarly.com,"js.clearfake, domain",n/a
 2026-08-02,threatfox,DOMAIN,qjqxrz.kkslot777.click,"js.clearfake, domain",n/a
@@ -261,6 +256,10 @@ date,user,type,ioc,tags,context
 2026-08-03,threatfox,DOMAIN,ljautorepairshop.com,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,akyv188.club,"win.valley_rat, domain",n/a
 2026-08-03,threatfox,DOMAIN,txpfproxy.vip,"win.valley_rat, domain",n/a
+2026-08-03,threatfox,DOMAIN,sdxore.lnlmotoring.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,qamwmsl.metropropertygrp.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,metropropertygrp.com,"js.clearfake, domain",n/a
+2026-08-03,threatfox,DOMAIN,lnlmotoring.com,"js.clearfake, domain",n/a
 2026-08-02,tweetfeed,URL,http://43.224.224.66:1234,C2,https://x.com/skocherhan/status/2083996009072394706
 2026-08-02,tweetfeed,URL,http://112.121.183.130:1234,C2,https://x.com/skocherhan/status/2083996009072394706
 2026-08-02,tweetfeed,URL,http://43.157.204.73:8888,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
@@ -375,6 +374,7 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,URL,http://wtechnote.org,APT,https://x.com/500mk500/status/2084332045791072370
 2026-08-03,tweetfeed,URL,http://49.232.169.67:8084,n/a,https://x.com/Threatlabz/status/2084337299094196440
 2026-08-03,tweetfeed,URL,http://rvxlan.online,"APT, malware",https://x.com/phatomcandle/status/2084338523260510410
+2026-08-03,tweetfeed,URL,http://usfcu.com,malware,https://x.com/scanmalware/status/2084351831380000870
 2026-08-02,tweetfeed,DOMAIN,logs.uvexio.com,n/a,https://x.com/bomccss/status/2082043061908259296
 2026-08-02,tweetfeed,DOMAIN,tea.vexexo.com,n/a,https://x.com/bomccss/status/2082043061908259296
 2026-08-02,tweetfeed,DOMAIN,c2.ashveil.org,"C2, Sliver",https://x.com/Yusufcancakiir/status/2083983566405595560
@@ -452,7 +452,7 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,DOMAIN,ljewmte.org,APT,https://x.com/500mk500/status/2084332045791072370
 2026-08-03,tweetfeed,DOMAIN,tickimmazy.org,APT,https://x.com/500mk500/status/2084332045791072370
 2026-08-03,tweetfeed,DOMAIN,rvxlan.online,"APT, malware",https://x.com/phatomcandle/status/2084338523260510410
-2026-08-02,tweetfeed,HASH_SHA256,8c9b6542f73c5c7fe455b52f5101314407da4f65ff48e7ebf6896605e607c8d0,n/a,https://x.com/Now_on_VT/status/2083990447844712816
+2026-08-03,tweetfeed,DOMAIN,usfcu.com,malware,https://x.com/scanmalware/status/2084351831380000870
 2026-08-02,tweetfeed,IP,43.224.224.66,C2,https://x.com/skocherhan/status/2083996009072394706
 2026-08-02,tweetfeed,IP,112.121.183.130,C2,https://x.com/skocherhan/status/2083996009072394706
 2026-08-02,tweetfeed,HASH_SHA256,915ea4f614150d2228d248a1af6086bdb0b40a71c6c8baaa86cdccf0f6f4095e,n/a,https://x.com/mbrg0/status/2083998721755193764
@@ -511,9 +511,6 @@ date,user,type,ioc,tags,context
 2026-08-03,tweetfeed,IP,172.236.33.134,n/a,https://x.com/500mk500/status/2084328041656836341
 2026-08-03,tweetfeed,IP,67.219.107.181,n/a,https://x.com/500mk500/status/2084328041656836341
 2026-08-03,tweetfeed,IP,49.232.169.67,n/a,https://x.com/Threatlabz/status/2084337299094196440
-2026-08-02,tweetfeed,HASH_MD5,72a8eb805e026accc0a5805847db978f,n/a,https://x.com/skocherhan/status/2083992688081227987
-2026-08-02,tweetfeed,HASH_MD5,2be35d810600c2787137b667e4c5eeb2,n/a,https://x.com/skocherhan/status/2083993495526682839
-2026-08-02,tweetfeed,HASH_MD5,488d725ba40b140f12a867babd0d3fa6,n/a,https://x.com/skocherhan/status/2083993495526682839
 2026-08-02,tweetfeed,HASH_MD5,315bda377beafb746f1c2f4fba430867,C2,https://x.com/skocherhan/status/2083996009072394706
 2026-08-03,tweetfeed,HASH_MD5,cae7e1192eb824214833bb1e8ac092b8,n/a,https://x.com/tdatwja/status/2084211031522627987
 2026-08-03,tweetfeed,HASH_MD5,395e1873839dd3be5d02e4d1d574f9d0,n/a,https://x.com/tdatwja/status/2084211031522627987
