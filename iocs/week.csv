@@ -1,10 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
 2026-08-03,cisa_kev,CVE,CVE-2026-18577,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-06"
-2026-07-28,threatfox,URL,https://griffihhs.click/api/v1/session,"js.kongtuke, url",n/a
-2026-07-28,threatfox,URL,https://griffihhs.click/api/v1/verify,"js.kongtuke, url",n/a
-2026-07-28,threatfox,URL,https://novacupola.top/role/handler-deploy,"js.smartapesg, url",n/a
-2026-07-28,threatfox,URL,https://novacupola.top/role/rate-layout.js,"js.smartapesg, url",n/a
 2026-07-28,threatfox,URL,https://frontlinemakechange.com/,"win.vidar, url",n/a
 2026-07-28,threatfox,URL,https://genungsfishcamp.com/,"win.vidar, url",n/a
 2026-07-28,threatfox,URL,http://95.164.123.77:5506/ton.vbs,"js.iclickfix, url",n/a
@@ -349,13 +345,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,URL,https://fot.sinism188.top/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,http://119.157.76.43:44379/Mozi.a,"elf.mozi, url",n/a
 2026-08-04,threatfox,URL,https://ma-pdffiller.lat/h/estagio1.php,"unknown, url",n/a
-2026-07-28,threatfox,DOMAIN,cosaques.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,griffihhs.click,"js.kongtuke, domain",n/a
-2026-07-28,threatfox,DOMAIN,novacupola.top,"js.smartapesg, domain",n/a
-2026-07-28,threatfox,DOMAIN,zuvofzppp.hoehnacura.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,hoehnacura.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,snssqb.cheznevine.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,mon-banana-03.cfd,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,rurheeejl.sushilandanglet.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,sushilandanglet.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,zvmyzw.hotspringsvillagepeople.com,"js.clearfake, domain",n/a
@@ -3907,7 +3896,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,DOMAIN,officefagbo.duckdns.org,"win.remcos, domain",n/a
 2026-08-04,threatfox,DOMAIN,icingwater.duckdns.org,"win.remcos, domain",n/a
 2026-08-04,threatfox,DOMAIN,ftp.gebzekamlok.com,"win.agent_tesla, domain",n/a
-2026-07-28,tweetfeed,URL,https://construnovaatacado.com,"phishing, scam",https://x.com/Coolcarlos17/status/2082094546037465233
 2026-07-28,tweetfeed,URL,https://soravikenaxira.com/page/hfvfegkqrn,phishing,https://x.com/harugasumi/status/2082107898151453100
 2026-07-28,tweetfeed,URL,http://www.pmdc.gov.pk-hq.cc,n/a,https://x.com/skocherhan/status/2082121070585283062
 2026-07-28,tweetfeed,URL,https://web.n26portale.com,n/a,https://x.com/skocherhan/status/2082131676612669499
