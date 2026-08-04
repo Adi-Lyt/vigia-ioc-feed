@@ -1,8 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
 2026-08-03,cisa_kev,CVE,CVE-2026-18577,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-06"
-2026-07-28,threatfox,URL,https://frontlinemakechange.com/,"win.vidar, url",n/a
-2026-07-28,threatfox,URL,https://genungsfishcamp.com/,"win.vidar, url",n/a
 2026-07-28,threatfox,URL,http://95.164.123.77:5506/ton.vbs,"js.iclickfix, url",n/a
 2026-07-28,threatfox,URL,http://85.209.129.37:5504/ld.bat,"js.iclickfix, url",n/a
 2026-07-28,threatfox,URL,http://87.120.126.100/0o1.wav,"js.iclickfix, url",n/a
@@ -350,14 +348,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,URL,https://indusrocktool.co.in/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://ferncurrent14.com/curl/a7ec41c89a3dc6bf3de47264b4a3013134c7273dd1aa379859c2149b7517f0b2,"unknown, url",n/a
 2026-08-04,threatfox,URL,https://sot.tbo88men.top,"win.vidar, url",n/a
-2026-07-28,threatfox,DOMAIN,txirniuhx.untangle.tv,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,untangle.tv,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,ymepnq.nicholasandsharonbottart.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,09pqwdqh.rsudtarutung.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,nicholasandsharonbottart.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,57ikdje6.en-us-us-lipogummy.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,mb86k2nu.metaboddrops.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,en-us-us-lipogummy.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,lnxrtusxx.yourheavensbest.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,yourheavensbest.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,unubrc.ontariorestaurantowners.com,"js.clearfake, domain",n/a
@@ -3894,9 +3884,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,DOMAIN,yljorhr.pepperstrail.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,pepperstrail.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,finterd.xyz,"unknown, domain",n/a
-2026-07-28,tweetfeed,URL,https://web.n26portale.com,n/a,https://x.com/skocherhan/status/2082131676612669499
-2026-07-28,tweetfeed,URL,http://web.n26portale.com,n/a,https://x.com/skocherhan/status/2082131676612669499
-2026-07-28,tweetfeed,URL,https://www.nbcchicago.com/consumer/caught-on-camera-woman-records-possible-donation-scam-that-left-chicago-residents-out-thousands/3964946/,scam,https://x.com/onlyrosevelvet/status/2082133869986271475
 2026-07-28,tweetfeed,URL,http://37.148.161.44,n/a,https://x.com/AndreaDraghetti/status/2082143167478976593
 2026-07-28,tweetfeed,URL,http://ab-whatsappdf.com,phishing,https://x.com/tial_cl/status/2082151080973201598
 2026-07-28,tweetfeed,URL,http://ak-whatsappsh.com,phishing,https://x.com/tial_cl/status/2082151080973201598
@@ -5597,7 +5584,6 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,URL,http://148.224.63.123,n/a,https://x.com/0xhido/status/2084669788572246287
 2026-08-04,tweetfeed,URL,http://195.160.221.203:8080,n/a,https://x.com/0xhido/status/2084669788572246287
 2026-08-04,tweetfeed,URL,http://milllitelecom.netlify.app,phishing,https://x.com/volrant136/status/2084677130965901540
-2026-07-28,tweetfeed,DOMAIN,web.n26portale.com,n/a,https://x.com/skocherhan/status/2082131676612669499
 2026-07-28,tweetfeed,DOMAIN,ab-whatsappdf.com,phishing,https://x.com/tial_cl/status/2082151080973201598
 2026-07-28,tweetfeed,DOMAIN,ak-whatsappsh.com,phishing,https://x.com/tial_cl/status/2082151080973201598
 2026-07-28,tweetfeed,DOMAIN,whatsapp-11.com,phishing,https://x.com/tial_cl/status/2082151080973201598
@@ -6915,7 +6901,6 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,DOMAIN,97eee.locaz.icu,phishing,https://x.com/skocherhan/status/2084658252525060466
 2026-08-04,tweetfeed,DOMAIN,coinbase.solghost.shop,phishing,https://x.com/skocherhan/status/2084658252525060466
 2026-08-04,tweetfeed,DOMAIN,milllitelecom.netlify.app,phishing,https://x.com/volrant136/status/2084677130965901540
-2026-07-28,tweetfeed,HASH_SHA256,b5f4e1c142b5bcb472b30ab4428de4c891a7192c9687c471dabb93e85473b9fe,n/a,https://x.com/Dixit_404/status/2082133556068044934
 2026-07-28,tweetfeed,IP,37.148.161.44,n/a,https://x.com/AndreaDraghetti/status/2082143167478976593
 2026-07-28,tweetfeed,HASH_SHA256,885e45a141aaba366ed919fae0aef40f465a1703fe8d657b12d3b3acd70bb62a,n/a,https://x.com/k3dg3/status/2082171417567924227
 2026-07-28,tweetfeed,HASH_SHA256,309373483b37a15cf1f6372a918418681c4fbc549cc128429c672e8d837dbf88,n/a,https://x.com/smica83/status/2082188998210887885
