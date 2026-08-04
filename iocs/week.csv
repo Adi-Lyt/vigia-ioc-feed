@@ -1,10 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
 2026-08-03,cisa_kev,CVE,CVE-2026-18577,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-06"
-2026-07-28,threatfox,URL,https://193.111.117.131,"win.vidar, url",n/a
-2026-07-28,threatfox,URL,https://ucjuriquilla.mx/,"unknown, url",n/a
-2026-07-28,threatfox,URL,https://thecolorofcharacter.com/,"unknown, url",n/a
-2026-07-28,threatfox,URL,https://www.aureliaboutique.com.au/,"unknown, url",n/a
 2026-07-28,threatfox,URL,http://cekorpafnkc.com/index.php,"win.smokeloader, url",n/a
 2026-07-28,threatfox,URL,https://www.metropolisconsorzio.it/,"unknown, url",n/a
 2026-07-28,threatfox,URL,https://laurelcloister.top/role/handler-deploy,"js.smartapesg, url",n/a
@@ -345,16 +341,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,URL,http://94.26.106.195:5555,"win.xmrig, url",n/a
 2026-08-04,threatfox,URL,http://94.26.106.195:80,"win.xmrig, url",n/a
 2026-08-04,threatfox,URL,http://57.129.119.218:13333,"win.xmrig, url",n/a
-2026-07-28,threatfox,DOMAIN,borny51221.icu,"unknown, domain",n/a
-2026-07-28,threatfox,DOMAIN,vzsccjmct.publiccatering.co.uk,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,publiccatering.co.uk,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,fgxtdo.adminfg777.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,proploop.co.uk,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,adminfg777.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,uvtpqo.unitedpropertiesltd.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,wailciry9911.icu,"unknown, domain",n/a
-2026-07-28,threatfox,DOMAIN,extranet-helpdesk16.com,"js.tonrat, domain",n/a
-2026-07-28,threatfox,DOMAIN,tp1mpkvn.usa-lipogummy.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,vyujwwlgw.dinosrestaurant.co.uk,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,dinosrestaurant.co.uk,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,pjlycr.adminkks777.com,"js.clearfake, domain",n/a
@@ -6447,8 +6433,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,HASH_MD5,1ef19373aae940002a980a984f25555b,"unknown, md5_hash",n/a
 2026-08-04,threatfox,HASH_MD5,ea3f9230bb76deb18dedfaea490fd687,"unknown, md5_hash",n/a
 2026-08-04,tweetfeed,DOMAIN,2.ccew.cc,APT,https://x.com/skocherhan/status/2084551226763391417
-2026-07-28,tweetfeed,IP,67.217.228.244,C2,https://x.com/Fact_Finder03/status/2082005637161267472
-2026-07-28,tweetfeed,IP,108.165.12.143,"C2, RAT",https://x.com/Fact_Finder03/status/2082009663051051327
 2026-07-28,tweetfeed,IP,185.151.31.111,n/a,https://x.com/blackorbird/status/2082028695909449873
 2026-07-28,tweetfeed,IP,217.217.97.111,AdaptixC2,https://x.com/Fact_Finder03/status/2082038603861872694
 2026-07-28,tweetfeed,IP,193.26.115.118,n/a,https://x.com/bomccss/status/2082043061908259296
