@@ -3832,6 +3832,13 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,DOMAIN,paquetitoexpressny.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,wifcimg.planksbiergarten.site,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,planksbiergarten.site,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,kozjbl.partyboxlovely.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,partyboxlovely.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,health.sigmacoast.one,"win.revstealer, domain",n/a
+2026-08-04,threatfox,DOMAIN,keofokd.pureplatinumdancers.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,pureplatinumdancers.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,cdyyhe.parma-delikatessen.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,parma-delikatessen.com,"js.clearfake, domain",n/a
 2026-07-28,tweetfeed,URL,http://dns1.p02.nsone.net,phishing,https://x.com/TeamDreier/status/2082180625432223744
 2026-07-28,tweetfeed,URL,https://1d2ef215ce65986951fe48e70c16d6d4.r2.cloudflarestorage.com/my-files/5.msi?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6483d30e4e635518dc3375a0d3ab56a6/20260727/auto/s3/aws4_request&X-Amz-Date=20260727T191829Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a9992d87e82deb0062b4299448b1050236e325aeaef616a16debb9690a8ca832,n/a,https://x.com/smica83/status/2082188998210887885
 2026-07-28,tweetfeed,URL,http://103.193.173.83/login,n/a,https://x.com/malwrhunterteam/status/2082189466999890380
@@ -5232,6 +5239,11 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,URL,http://boostgridz.info,"APT, C2, malware",https://x.com/phatomcandle/status/2084700913772724334
 2026-08-04,tweetfeed,URL,http://状態と接続数と帯域をJSON形式でlogin.trees4sale.net,n/a,https://x.com/skocherhan/status/2084701210259382291
 2026-08-04,tweetfeed,URL,http://実行時にプロセス名をlibdalvikengine.so,n/a,https://x.com/skocherhan/status/2084701210259382291
+2026-08-04,tweetfeed,URL,https://hcnlskdfkxcvsdfjp.pages.dev,n/a,https://x.com/bomccss/status/2084716742778274090
+2026-08-04,tweetfeed,URL,https://hijndil-ownguen.pages.dev,n/a,https://x.com/bomccss/status/2084716944834584984
+2026-08-04,tweetfeed,URL,http://A2026804002105.zip,n/a,https://x.com/bomccss/status/2084716944834584984
+2026-08-04,tweetfeed,URL,http://204.194.50.231/9856.png,n/a,https://x.com/bomccss/status/2084717137046962259
+2026-08-04,tweetfeed,URL,http://204.194.50.231:449,n/a,https://x.com/bomccss/status/2084717137046962259
 2026-07-28,tweetfeed,DOMAIN,dns1.p02.nsone.net,phishing,https://x.com/TeamDreier/status/2082180625432223744
 2026-07-28,tweetfeed,DOMAIN,1d2ef215ce65986951fe48e70c16d6d4.r2.cloudflarestorage.com,n/a,https://x.com/smica83/status/2082188998210887885
 2026-07-28,tweetfeed,DOMAIN,windowsupd.to,n/a,https://x.com/skocherhan/status/2082190914093539765
@@ -6248,6 +6260,7 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,HASH_MD5,78ea9434eb06f6069346be4dc920e706,"win.netwire, md5_hash",n/a
 2026-08-04,threatfox,HASH_MD5,2bb1b024135ef7b0af3141d389530d82,"win.xworm, md5_hash",n/a
 2026-08-04,tweetfeed,DOMAIN,boostgridz.info,"APT, C2, malware",https://x.com/phatomcandle/status/2084700913772724334
+2026-08-04,tweetfeed,DOMAIN,a2026804002105.zip,n/a,https://x.com/bomccss/status/2084716944834584984
 2026-07-28,tweetfeed,HASH_SHA256,309373483b37a15cf1f6372a918418681c4fbc549cc128429c672e8d837dbf88,n/a,https://x.com/smica83/status/2082188998210887885
 2026-07-28,tweetfeed,HASH_SHA256,606f4256012f37e7e120966888e6a7bad12abb004e135c4f663bc73e124699ea,n/a,https://x.com/smica83/status/2082188998210887885
 2026-07-28,tweetfeed,IP,103.193.173.83,n/a,https://x.com/malwrhunterteam/status/2082189466999890380
@@ -6534,6 +6547,9 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,IP,195.160.221.203,n/a,https://x.com/0xhido/status/2084669788572246287
 2026-08-04,tweetfeed,IP,112.175.185.138,phishing,https://x.com/phishunt_io/status/2084685951112994980
 2026-08-04,tweetfeed,HASH_SHA256,37b485ed8d150d022c41e5e307b8c54c34ef806625b44d0c940b18be7d5b29ce,n/a,https://x.com/Now_on_VT/status/2084705203996033371
+2026-08-04,tweetfeed,HASH_SHA256,eabb84ee06b664ae393b28e2847c1778fd875199c4b53d05f7c1cbf3443fb671,n/a,https://x.com/bomccss/status/2084716744942506199
+2026-08-04,tweetfeed,HASH_SHA256,194845853f864088bc9fae5c0b2f692f6d6b1564f41111041247b3f86d356f30,n/a,https://x.com/bomccss/status/2084716947237998944
+2026-08-04,tweetfeed,HASH_SHA256,098944076200e38a2c97dd2cde6041e766fa8506d80a6c5ff9fbc90b2cdbf82b,n/a,https://x.com/bomccss/status/2084717134735986912
 2026-07-28,tweetfeed,HASH_MD5,4a7218afd537e38e9ed62c7cbe0e1cf8,n/a,https://x.com/skocherhan/status/2082216236868383010
 2026-07-29,tweetfeed,HASH_MD5,5bcdf2811f6a0cd1b93ed9a6cc7ce2dc,malware,https://x.com/d1v35hresearch/status/2082389300243779685
 2026-07-29,tweetfeed,HASH_MD5,a751ea8a6607d2922493d25509477157,n/a,https://x.com/Now_on_VT/status/2082410791106379840
