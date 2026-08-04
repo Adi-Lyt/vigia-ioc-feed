@@ -1,6 +1,5 @@
 date,user,type,ioc,tags,context
 2026-08-03,cisa_kev,CVE,CVE-2026-18577,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-06"
-2026-08-03,threatfox,URL,http://zokrie.click:4536,"win.remus, url",n/a
 2026-08-03,threatfox,URL,https://tdfhdser-1433552157.cos.ap-hongkong.myqcloud.com/20260729213603.zip,"win.valley_rat, url",n/a
 2026-08-03,threatfox,URL,https://twilight-shadow-df0c.piecestrengthen3327.workers.dev/,"win.valley_rat, url",n/a
 2026-08-03,threatfox,URL,https://withered-lake-8596.krzakanna172.workers.dev/,"win.valley_rat, url",n/a
@@ -75,11 +74,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,URL,https://com.y8slot.net/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://com.sinism188.top/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://indusrocktool.co.in/,"win.vidar, url",n/a
-2026-08-03,threatfox,DOMAIN,prod5.data-square.click,"win.revstealer, domain",n/a
-2026-08-03,threatfox,DOMAIN,krvryy.laurelgrovepv.com,"js.clearfake, domain",n/a
-2026-08-03,threatfox,DOMAIN,oywkxgw.massage-spa-zulyacquavitaespa.com,"js.clearfake, domain",n/a
-2026-08-03,threatfox,DOMAIN,massage-spa-zulyacquavitaespa.com,"js.clearfake, domain",n/a
-2026-08-03,threatfox,DOMAIN,laurelgrovepv.com,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,thu-ipad-03.cfd,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,nrraqhs.maxwellhouse.store,"js.clearfake, domain",n/a
 2026-08-03,threatfox,DOMAIN,maxwellhouse.store,"js.clearfake, domain",n/a
@@ -279,7 +273,12 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,DOMAIN,ospreyyfx.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,zhrmhqs.patrickschrader.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,patrickschrader.com,"js.clearfake, domain",n/a
-2026-08-03,tweetfeed,URL,http://67.175.236.120:9090,opendir,https://x.com/ThantZin_Ron/status/2084286049321398555
+2026-08-04,threatfox,DOMAIN,rlnmfj.paginaespumaflex.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,paginaespumaflex.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,wdagbwd.peacockhomes.net,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,peacockhomes.net,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,osnmbk.overtheitgirl.com,"js.clearfake, domain",n/a
+2026-08-04,threatfox,DOMAIN,snrmizb.peacefulacrestx.com,"js.clearfake, domain",n/a
 2026-08-03,tweetfeed,URL,http://139.135.59.131:54898/Mozi.m,n/a,https://x.com/sicehice/status/2084321631057412457
 2026-08-03,tweetfeed,URL,https://cookiespace.hu/error/docusign/,phishing,https://x.com/patialavii/status/2084323106483822909
 2026-08-03,tweetfeed,URL,https://cookiespace.hu/error/docusign/Windows/oo-syspectr-setupf83f403f-d1f1-429f-bf63-0f7a3cbf1696.exe,phishing,https://x.com/patialavii/status/2084323106483822909
@@ -554,6 +553,22 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,URL,http://194.26.192.66:8080/p/m29lrjwb,n/a,https://x.com/byrne_emmy12099/status/2084643299617554543
 2026-08-04,tweetfeed,URL,http://relay.intexxxxmanifold.com,n/a,https://x.com/skocherhan/status/2084644719963840597
 2026-08-04,tweetfeed,URL,http://intexxxxmanifold.com,n/a,https://x.com/skocherhan/status/2084644719963840597
+2026-08-04,tweetfeed,URL,http://e1.cdnresolver.com,stealer,https://x.com/suyog41/status/2084651748468326817
+2026-08-04,tweetfeed,URL,http://a2.cdnresolver.com,stealer,https://x.com/suyog41/status/2084651748468326817
+2026-08-04,tweetfeed,URL,http://217.60.7.218,APT,https://x.com/byrne_emmy12099/status/2084653107355791689
+2026-08-04,tweetfeed,URL,http://omnbvcdsx.eu.org,APT,https://x.com/skocherhan/status/2084654318242705711
+2026-08-04,tweetfeed,URL,http://97ee4.catex.at/cnbcard/web_sms_activate.php,phishing,https://x.com/skocherhan/status/2084656534462546033
+2026-08-04,tweetfeed,URL,http://61ben.proxer.cc/bs/info/,phishing,https://x.com/skocherhan/status/2084656801803350287
+2026-08-04,tweetfeed,URL,http://97ee9.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97ee8.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97ee7.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97ee6.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97ee5.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97ee4.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97ee3.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97ee2.catex.at/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://97eee.locaz.icu/cnbcard/,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,URL,http://coinbase.solghost.shop,phishing,https://x.com/skocherhan/status/2084658252525060466
 2026-08-03,tweetfeed,DOMAIN,cookiespace.hu,phishing,https://x.com/patialavii/status/2084323106483822909
 2026-08-03,tweetfeed,DOMAIN,coldcardteamnews.com,n/a,https://x.com/threatinsight/status/2084328573871985018
 2026-08-03,tweetfeed,DOMAIN,coldcardcompliance.com,n/a,https://x.com/threatinsight/status/2084328573871985018
@@ -818,7 +833,19 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,DOMAIN,ns7y6bxawualjj5rpo5num6syejd7hgaowrndk3r4duxu2iyinzv6hid.onion,ransomware,https://x.com/fbgwls245/status/2084638533348913417
 2026-08-04,tweetfeed,DOMAIN,relay.intexxxxmanifold.com,n/a,https://x.com/skocherhan/status/2084644719963840597
 2026-08-04,tweetfeed,DOMAIN,intexxxxmanifold.com,n/a,https://x.com/skocherhan/status/2084644719963840597
-2026-08-03,tweetfeed,IP,67.175.236.120,opendir,https://x.com/ThantZin_Ron/status/2084286049321398555
+2026-08-04,tweetfeed,DOMAIN,e1.cdnresolver.com,stealer,https://x.com/suyog41/status/2084651748468326817
+2026-08-04,tweetfeed,DOMAIN,a2.cdnresolver.com,stealer,https://x.com/suyog41/status/2084651748468326817
+2026-08-04,tweetfeed,DOMAIN,omnbvcdsx.eu.org,APT,https://x.com/skocherhan/status/2084654318242705711
+2026-08-04,tweetfeed,DOMAIN,97ee4.catex.at,phishing,https://x.com/skocherhan/status/2084656534462546033
+2026-08-04,tweetfeed,DOMAIN,61ben.proxer.cc,phishing,https://x.com/skocherhan/status/2084656801803350287
+2026-08-04,tweetfeed,DOMAIN,97ee9.catex.at,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,DOMAIN,97ee8.catex.at,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,DOMAIN,97ee7.catex.at,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,DOMAIN,97ee6.catex.at,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,DOMAIN,97ee3.catex.at,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,DOMAIN,97ee2.catex.at,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,DOMAIN,97eee.locaz.icu,phishing,https://x.com/skocherhan/status/2084658252525060466
+2026-08-04,tweetfeed,DOMAIN,coinbase.solghost.shop,phishing,https://x.com/skocherhan/status/2084658252525060466
 2026-08-03,tweetfeed,IP,139.135.59.131,n/a,https://x.com/sicehice/status/2084321631057412457
 2026-08-03,tweetfeed,HASH_SHA256,e9a902cb380eda3d3b4e4153c3f8c637a650bd51d299f3a75dce4c0007a64985,phishing,https://x.com/patialavii/status/2084323106483822909
 2026-08-03,tweetfeed,IP,172.236.33.134,n/a,https://x.com/500mk500/status/2084328041656836341
@@ -854,6 +881,9 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,HASH_SHA256,5397e96e590d5274bdbdb353c651d0c7087c848c640f5199c62a00720050b9a4,malware,https://x.com/ishivtripathi/status/2084636620138180741
 2026-08-04,tweetfeed,IP,194.26.192.66,n/a,https://x.com/byrne_emmy12099/status/2084643299617554543
 2026-08-04,tweetfeed,HASH_SHA256,42a2cf195bb257a0ba01cc167063950042e6cbd8d4c97fe62bdd8abae0103440,n/a,https://x.com/byrne_emmy12099/status/2084646880194252992
+2026-08-04,tweetfeed,IP,217.60.7.218,APT,https://x.com/byrne_emmy12099/status/2084653107355791689
+2026-08-04,tweetfeed,IP,198.105.127.210,DPRK,https://x.com/MichalKoczwara/status/2084665483832254821
+2026-08-04,tweetfeed,IP,23.27.20.187,DPRK,https://x.com/MichalKoczwara/status/2084665483832254821
 2026-08-03,tweetfeed,HASH_MD5,0e51138ef195ac755f052babb761a1e7,n/a,https://x.com/skocherhan/status/2084337326981869950
 2026-08-03,tweetfeed,HASH_MD5,21f5c39665ad9fcbaa173084ed1ce966,n/a,https://x.com/Threatlabz/status/2084337299094196440
 2026-08-03,tweetfeed,HASH_MD5,37a6bfa17f600445df6abb9f26bc29ed,n/a,https://x.com/Threatlabz/status/2084337299094196440
@@ -869,3 +899,4 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,HASH_MD5,9348c849bb1b45599e3347ca45326446,n/a,https://x.com/skocherhan/status/2084567975810461850
 2026-08-04,tweetfeed,HASH_MD5,34a66ffab5b2b2e82f4aeed24e2e570a,n/a,https://x.com/skocherhan/status/2084571676914622598
 2026-08-04,tweetfeed,HASH_MD5,f811e9e0704c16c8f3ba6201c72be556,ransomware,https://x.com/suyog41/status/2084608375489548767
+2026-08-04,tweetfeed,HASH_MD5,3390b960af5dd1933289b916af3ecce9,stealer,https://x.com/suyog41/status/2084651748468326817
