@@ -1,7 +1,6 @@
 date,user,type,ioc,tags,context
 2026-07-29,cisa_kev,CVE,CVE-2026-20316,"Cisco Secure Firewall Management Center (FMC), kev","Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-01"
 2026-08-03,cisa_kev,CVE,CVE-2026-18577,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-06"
-2026-07-28,threatfox,URL,http://cekorpafnkc.com/index.php,"win.smokeloader, url",n/a
 2026-07-28,threatfox,URL,https://www.metropolisconsorzio.it/,"unknown, url",n/a
 2026-07-28,threatfox,URL,https://laurelcloister.top/role/handler-deploy,"js.smartapesg, url",n/a
 2026-07-28,threatfox,URL,https://laurelcloister.top/role/rate-layout.js,"js.smartapesg, url",n/a
@@ -347,13 +346,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,URL,http://196.251.107.186/svbia/post.php,"win.svcstealer, url",n/a
 2026-08-04,threatfox,URL,http://62.60.226.232/zpzp/get.php,"win.svcstealer, url",n/a
 2026-08-04,threatfox,URL,https://doc.nfe-online.com/h/estagio1.php,"unknown, url",n/a
-2026-07-28,threatfox,DOMAIN,carinocafe.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,jvfmoapeo.disnakerkopjambikota.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,2iuso53h.usa-lipogummy.us,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,disnakerkopjambikota.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,usa-lipogummy.us,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,cvdhcp.amesburyforeignauto.com,"js.clearfake, domain",n/a
-2026-07-28,threatfox,DOMAIN,amesburyforeignauto.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,wgdwmi.carouselauto.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,carouselauto.com,"js.clearfake, domain",n/a
 2026-07-28,threatfox,DOMAIN,qlczenyon.gdcpemasaranbekasi.com,"js.clearfake, domain",n/a
@@ -3901,12 +3893,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,DOMAIN,now-we-wait.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,naldoricketts.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,khtlqekj.lamournails.net,"js.clearfake, domain",n/a
-2026-07-28,tweetfeed,URL,http://drive.careernetwork.co.nz/download.php/,n/a,https://x.com/tdatwja/status/2082010812324131039
-2026-07-28,tweetfeed,URL,https://logs.uvexio.com:8443,n/a,https://x.com/bomccss/status/2082043061908259296
-2026-07-28,tweetfeed,URL,http://193.26.115.118:8443,n/a,https://x.com/bomccss/status/2082043061908259296
-2026-07-28,tweetfeed,URL,http://tea.vexexo.com:56001,n/a,https://x.com/bomccss/status/2082043061908259296
-2026-07-28,tweetfeed,URL,http://185.139.214.102:56001,n/a,https://x.com/bomccss/status/2082043061908259296
-2026-07-28,tweetfeed,URL,http://ing-seguridad-es-clientes.lulufa.ro/es/servicio-8920-0000183/auth/login.php,phishing,https://x.com/skocherhan/status/2082046245317534127
 2026-07-28,tweetfeed,URL,http://winupdatehelper.online,n/a,https://x.com/500mk500/status/2081106662207705380
 2026-07-28,tweetfeed,URL,http://illportaledelautomobilista.org,n/a,https://x.com/AgidCert/status/2082064135181791433
 2026-07-28,tweetfeed,URL,http://196.251.107.171:3000/api/agent/download,n/a,https://x.com/suyog41/status/2082067382848364784
@@ -5594,8 +5580,6 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,URL,http://hcnlskdfkxcvsdfjp.pages.dev,n/a,https://x.com/tdatwja/status/2084585961686749531
 2026-08-04,tweetfeed,URL,http://202608045201545111.zip,n/a,https://x.com/tdatwja/status/2084585961686749531
 2026-08-04,tweetfeed,URL,https://www.npmjs.com/package/keyv/v/6.0.0,n/a,https://x.com/skocherhan/status/2084588920948289653
-2026-07-28,tweetfeed,DOMAIN,drive.careernetwork.co.nz,n/a,https://x.com/tdatwja/status/2082010812324131039
-2026-07-28,tweetfeed,DOMAIN,ing-seguridad-es-clientes.lulufa.ro,phishing,https://x.com/skocherhan/status/2082046245317534127
 2026-07-28,tweetfeed,DOMAIN,winupdatehelper.online,n/a,https://x.com/500mk500/status/2081106662207705380
 2026-07-28,tweetfeed,DOMAIN,illportaledelautomobilista.org,n/a,https://x.com/AgidCert/status/2082064135181791433
 2026-07-28,tweetfeed,DOMAIN,dfsjfisafosdikfos.info,n/a,https://x.com/suyog41/status/2082067382848364784
@@ -6900,9 +6884,6 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,DOMAIN,snap.profile-redirect.com,phishing,https://x.com/skocherhan/status/2084585127754027327
 2026-08-04,tweetfeed,DOMAIN,hcnlskdfkxcvsdfjp.pages.dev,n/a,https://x.com/tdatwja/status/2084585961686749531
 2026-08-04,tweetfeed,DOMAIN,202608045201545111.zip,n/a,https://x.com/tdatwja/status/2084585961686749531
-2026-07-28,tweetfeed,IP,217.217.97.111,AdaptixC2,https://x.com/Fact_Finder03/status/2082038603861872694
-2026-07-28,tweetfeed,IP,193.26.115.118,n/a,https://x.com/bomccss/status/2082043061908259296
-2026-07-28,tweetfeed,IP,185.139.214.102,n/a,https://x.com/bomccss/status/2082043061908259296
 2026-07-28,tweetfeed,HASH_SHA256,1618d761d9062db463e372b5bde1c595e13c701b881ccaa4fa6c26a409bc26cb,n/a,https://x.com/500mk500/status/2081106662207705380
 2026-07-28,tweetfeed,HASH_SHA256,41dfa4fbcc8c68d98a2e773bb2de3df0b136ee9b608351290738d953ccbcc309,n/a,https://x.com/smica83/status/2082074224890466595
 2026-07-28,"threatfox,tweetfeed",HASH_SHA256,624ac3ad002bf57ad104a1153a4196e24d954086091348bcf7a0b57b38998dbc,n/a,https://x.com/BlinkzSec/status/2082076588544303332
@@ -7168,7 +7149,6 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,HASH_SHA256,2ef07222dc1eaeab1f507f4c701926e0672808c9673e4a3f4df868cf1ce1283c,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
 2026-08-04,tweetfeed,HASH_SHA256,181349b08b8da309823b3b6a670ce13581ff82af7b03db71ba60c705d0620261,phishing,https://x.com/skocherhan/status/2084564653015757266
 2026-08-04,tweetfeed,HASH_SHA256,3f72767b211c84a7e35cdf397b228b22f2156984ea1c8cc4380b73a516c49ab8,malware,https://x.com/OpcodeIntel/status/2084576476629020986
-2026-07-28,tweetfeed,HASH_MD5,141280bc97444f90d665a64ce5f9facc,n/a,https://x.com/skocherhan/status/2082050241881137154
 2026-07-28,tweetfeed,HASH_MD5,33016cc9ff0f4bbf257a83c4b895a466,n/a,https://x.com/skocherhan/status/2082056089890148710
 2026-07-28,tweetfeed,HASH_MD5,027787110fdb39777198b0eacf42b85b,n/a,https://x.com/suyog41/status/2082067382848364784
 2026-07-28,tweetfeed,HASH_MD5,31301dff04089b138e613078ffb3cd35,n/a,https://x.com/suyog41/status/2082067382848364784
