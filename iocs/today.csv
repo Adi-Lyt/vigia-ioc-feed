@@ -2,9 +2,6 @@ date,user,type,ioc,tags,context
 2026-08-04,cisa_kev,CVE,CVE-2026-18556,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-34486,"Apache Tomcat, kev","Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-9198,"IBM Langflow, kev","Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
-2026-08-04,threatfox,URL,http://94.26.106.195:5555,"win.xmrig, url",n/a
-2026-08-04,threatfox,URL,http://94.26.106.195:80,"win.xmrig, url",n/a
-2026-08-04,threatfox,URL,http://57.129.119.218:13333,"win.xmrig, url",n/a
 2026-08-04,threatfox,URL,https://netframework.top/,"unknown, url",n/a
 2026-08-04,threatfox,URL,https://netframework.top/api/config/client,"unknown, url",n/a
 2026-08-04,threatfox,URL,https://netframework.top/api/remote/beacon,"unknown, url",n/a
@@ -53,22 +50,8 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,URL,https://bendesin.com/babayla/zor/yarisirlar/,"unknown_rat, url",n/a
 2026-08-05,threatfox,URL,https://bendesin.com/ws,"unknown_rat, url",n/a
 2026-08-05,threatfox,URL,https://bendesin.com/mods/api/log-download,"unknown_rat, url",n/a
-2026-08-04,threatfox,DOMAIN,nh-construction.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,lake-butler.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,crownhillrdymix.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,nailxpohuberheights.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,newnanfoodbank.org,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,jackpot123.de.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,cr88.de.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,nailhousechicago.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,nesplowell.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,myboutiqswitch.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,ftp.ambikaexportsindia.com,"win.phantom_stealer, domain",n/a
-2026-08-04,threatfox,DOMAIN,enter-press-cdn.com,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,stv4ec5.shop,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,stati-fy.sbs,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,ravenstonekeep.top,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,voidravenwatch.com,"unknown, domain",n/a
+2026-08-05,threatfox,URL,https://route.techquarter.xyz/pipe,"unknown, url",n/a
+2026-08-05,threatfox,URL,https://build.netbazaar.lol/collect,"unknown, url",n/a
 2026-08-04,threatfox,DOMAIN,iewtfyd.novemberstar.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,novemberstar.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,belzvc.nakliyemistanbul.com,"js.clearfake, domain",n/a
@@ -260,8 +243,17 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,DOMAIN,bendesin.com,"unknown_rat, domain",n/a
 2026-08-05,threatfox,DOMAIN,edxkbtc.partyboxlovely.com,"js.clearfake, domain",n/a
 2026-08-05,threatfox,DOMAIN,my.thispc.net,"win.loda, domain",n/a
-2026-08-04,tweetfeed,URL,http://204.194.50.231,APT,https://x.com/Thisism23567356/status/2084545110058877205
-2026-08-04,tweetfeed,URL,http://2.ccew.cc:6666,APT,https://x.com/skocherhan/status/2084551226763391417
+2026-08-05,threatfox,DOMAIN,9w2m3u8y.foodpapajobs.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,bapak178.org,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,kyvqgkidufinrkdprb.oakdalerodeogrounds.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,oakdalerodeogrounds.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,ftp.zetrocom.my,"win.agent_tesla, domain",n/a
+2026-08-05,threatfox,DOMAIN,yyqfta.pureglamlb.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,ihlnvrv.abcdbro.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,zlxxlr.federationofpbos.org,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,route.techquarter.xyz,"unknown, domain",n/a
+2026-08-05,threatfox,DOMAIN,netbazaar.lol,"unknown, domain",n/a
+2026-08-05,threatfox,DOMAIN,build.netbazaar.lol,"unknown, domain",n/a
 2026-08-04,tweetfeed,URL,http://192.210.178.167,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
 2026-08-04,tweetfeed,URL,http://telegram.recipes,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
 2026-08-04,tweetfeed,URL,http://3x.wgnlmq.org,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
@@ -778,7 +770,13 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,HASH_SHA256,4c48cbbd55ff2b63a1fca862b8bb8ff00eec90050b2a2608140bbb3b2ad03f54,"unknown, sha256_hash",n/a
 2026-08-05,tweetfeed,URL,http://129.2.4.2,n/a,https://x.com/userlolxxl/status/2084883907141325273
 2026-08-05,tweetfeed,URL,http://facebooksetup.blogspot.com,phishing,https://x.com/phishunt_io/status/2084897362883846621
-2026-08-04,tweetfeed,DOMAIN,2.ccew.cc,APT,https://x.com/skocherhan/status/2084551226763391417
+2026-08-05,tweetfeed,URL,https://logkit-tau.vercel.app/debugCheck,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,URL,http://66.45.225.94:1244/s/APRGIP100,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,URL,http://66.45.225.94:1246/keys,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,URL,http://66.45.225.94:1246/j/AAERVR00,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,URL,http://66.45.225.94:1246/p,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,URL,http://logkit-tau.vercel.app,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,URL,http://66.45.225.94,n/a,https://x.com/ishivtripathi/status/2084907438243991883
 2026-08-04,tweetfeed,DOMAIN,telegram.recipes,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
 2026-08-04,tweetfeed,DOMAIN,3x.wgnlmq.org,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
 2026-08-04,tweetfeed,DOMAIN,00hou.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
@@ -1271,7 +1269,7 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,DOMAIN,dnf.nfexmlfiscal.com.br,opendir,https://x.com/JAMESWT_WT/status/2084885576503681157
 2026-08-05,tweetfeed,DOMAIN,dokument-pdf.lat,opendir,https://x.com/JAMESWT_WT/status/2084885576503681157
 2026-08-05,tweetfeed,DOMAIN,facebooksetup.blogspot.com,phishing,https://x.com/phishunt_io/status/2084897362883846621
-2026-08-04,tweetfeed,IP,204.194.50.231,APT,https://x.com/Thisism23567356/status/2084545110058877205
+2026-08-05,tweetfeed,DOMAIN,logkit-tau.vercel.app,n/a,https://x.com/ishivtripathi/status/2084907438243991883
 2026-08-04,tweetfeed,HASH_SHA256,d90e686ddc1d288e29c1bceb68ffedccb3285f83be7eef4f50c45144f025a12d,n/a,https://x.com/Dixit_404/status/2084521229571289351
 2026-08-04,tweetfeed,IP,192.210.178.167,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
 2026-08-04,tweetfeed,HASH_SHA256,2ef07222dc1eaeab1f507f4c701926e0672808c9673e4a3f4df868cf1ce1283c,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
@@ -1317,9 +1315,9 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,IP,156.251.16.29,n/a,https://x.com/skocherhan/status/2084777554628456913
 2026-08-05,tweetfeed,HASH_SHA256,8d96249aa92bee27d9ac8ffa8e32e3f8dd3a5c77cbe541b1d0cc97f37e962a1e,GuLoader,https://x.com/bomccss/status/2084815944866816356
 2026-08-05,tweetfeed,IP,129.2.4.2,n/a,https://x.com/userlolxxl/status/2084883907141325273
-2026-08-04,tweetfeed,HASH_MD5,0574d29601bbc751f2664333288b75a8,APT,https://x.com/Thisism23567356/status/2084545110058877205
-2026-08-04,tweetfeed,HASH_MD5,3a092bdaa2079ff14c7acb4c72afc6e9,APT,https://x.com/Thisism23567356/status/2084545110058877205
-2026-08-04,tweetfeed,HASH_MD5,dd84762605e60ce9ed16857eca592a6a,APT,https://x.com/Thisism23567356/status/2084545110058877205
+2026-08-05,tweetfeed,IP,66.45.225.94,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,HASH_SHA256,ab65cef60fc097c2a9fb03a7855c9c03dfe3ccc874080720f0e631c6ee2c3e51,n/a,https://x.com/ishivtripathi/status/2084907438243991883
+2026-08-05,tweetfeed,IP,107.161.90.180,C2,https://x.com/Fact_Finder03/status/2084917608244289956
 2026-08-04,tweetfeed,HASH_MD5,aa8e9ade9a86a50e55479f1978c30527,n/a,https://x.com/skocherhan/status/2084567975810461850
 2026-08-04,tweetfeed,HASH_MD5,9348c849bb1b45599e3347ca45326446,n/a,https://x.com/skocherhan/status/2084567975810461850
 2026-08-04,tweetfeed,HASH_MD5,34a66ffab5b2b2e82f4aeed24e2e570a,n/a,https://x.com/skocherhan/status/2084571676914622598
