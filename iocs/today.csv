@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-08-04,cisa_kev,CVE,CVE-2026-18556,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-34486,"Apache Tomcat, kev","Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-9198,"IBM Langflow, kev","Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
-2026-08-04,threatfox,URL,https://synergytms.com/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,http://glentraverse.com/kos,"js.smartapesg, url",n/a
 2026-08-04,threatfox,URL,http://94.154.43.231:3001/install.sh,"unknown, url",n/a
 2026-08-04,threatfox,URL,https://tricerat.website/download/GlobalProtect_Installer.vhd,"unknown, url",n/a
@@ -43,10 +42,6 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,URL,https://stfrancisvilla.com/,"win.vidar, url",n/a
 2026-08-05,threatfox,URL,https://ham.y8slot.net/,"win.vidar, url",n/a
 2026-08-05,threatfox,URL,https://23.88.47.9/,"win.vidar, url",n/a
-2026-08-04,threatfox,DOMAIN,eaqbbco.jimmieleeautosales.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,resjtt.rsfoodproducts.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,edixil2z.healthfoodzone.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,sammkop.jadoou.lat,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,pazona.shop,"win.remus, domain",n/a
 2026-08-04,threatfox,DOMAIN,5748asheve.gooning.st,"elf.mirai, domain",n/a
 2026-08-04,threatfox,DOMAIN,iloveboats.st,"elf.mirai, domain",n/a
@@ -262,6 +257,9 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,DOMAIN,cultureballclub.com,"js.clearfake, domain",n/a
 2026-08-05,threatfox,DOMAIN,dgjxatg.jimmieleeautosales.com,"js.clearfake, domain",n/a
 2026-08-05,threatfox,DOMAIN,balyek.rsfoodproducts.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,sgepxhg.qualitycounselingcenter.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,oumuxj.pshealthcare.net,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,nuevaera2026202620262026.duckdns.org,"win.asyncrat, domain",n/a
 2026-08-04,tweetfeed,URL,http://RKM-20260709-1514.zip,n/a,https://x.com/bomccss/status/2084508786782585333
 2026-08-04,tweetfeed,URL,http://192.252.180.45:6666,n/a,https://x.com/bomccss/status/2084508789261443177
 2026-08-04,tweetfeed,URL,http://204.194.50.231,APT,https://x.com/Thisism23567356/status/2084545110058877205
