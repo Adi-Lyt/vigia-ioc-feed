@@ -2,12 +2,6 @@ date,user,type,ioc,tags,context
 2026-08-04,cisa_kev,CVE,CVE-2026-18556,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-34486,"Apache Tomcat, kev","Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-9198,"IBM Langflow, kev","Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
-2026-08-04,threatfox,URL,https://netframework.top/,"unknown, url",n/a
-2026-08-04,threatfox,URL,https://netframework.top/api/config/client,"unknown, url",n/a
-2026-08-04,threatfox,URL,https://netframework.top/api/remote/beacon,"unknown, url",n/a
-2026-08-04,threatfox,URL,http://196.251.107.186/svbia/post.php,"win.svcstealer, url",n/a
-2026-08-04,threatfox,URL,http://62.60.226.232/zpzp/get.php,"win.svcstealer, url",n/a
-2026-08-04,threatfox,URL,https://doc.nfe-online.com/h/estagio1.php,"unknown, url",n/a
 2026-08-04,threatfox,URL,https://fot.y8slot.net/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://fot.xlslot.org/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://fot.cau777.org/,"win.vidar, url",n/a
@@ -52,34 +46,7 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,URL,https://bendesin.com/mods/api/log-download,"unknown_rat, url",n/a
 2026-08-05,threatfox,URL,https://route.techquarter.xyz/pipe,"unknown, url",n/a
 2026-08-05,threatfox,URL,https://build.netbazaar.lol/collect,"unknown, url",n/a
-2026-08-04,threatfox,DOMAIN,iewtfyd.novemberstar.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,novemberstar.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,belzvc.nakliyemistanbul.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,nakliyemistanbul.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,catground1957.casacam.net,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,netframework.top,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,ftp.darlenemarino.cyou,"win.agent_tesla, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.jahstandclassprojectbackup3.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.jahstandclassproject.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.jahstandclassprojectbackup.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.jahstandclassprojectbackup1.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.jahstandclassprojectbackup2.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.ikukuomaproject.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.ikukuomaprojectbackup.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.ikukuomaprojectbackup1.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,www.ikukuomaprojectbackup2.com,"win.remcos, domain",n/a
-2026-08-04,threatfox,DOMAIN,ftp.lodenrandmarines.com,"win.agent_tesla, domain",n/a
-2026-08-04,threatfox,DOMAIN,ftp.raxclopent.info,"win.agent_tesla, domain",n/a
-2026-08-04,threatfox,DOMAIN,zoiitac.nobodydenied.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,aydlee.nairmess.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,nobodydenied.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,nairmess.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,synergytms.com,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,ubiqueags.org,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,thetayf.com,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,js5po212.kaarenorge.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,doc.nfiscais.com,"unknown, domain",n/a
-2026-08-04,threatfox,DOMAIN,doc.nfe-online.com,"unknown, domain",n/a
+2026-08-05,threatfox,URL,https://bioformula.cl/,"win.vidar, url",n/a
 2026-08-04,threatfox,DOMAIN,general-sample.space,"unknown, domain",n/a
 2026-08-04,threatfox,DOMAIN,nxvuavg.now-we-wait.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,gzdlal.naldoricketts.com,"js.clearfake, domain",n/a
@@ -254,211 +221,14 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,DOMAIN,route.techquarter.xyz,"unknown, domain",n/a
 2026-08-05,threatfox,DOMAIN,netbazaar.lol,"unknown, domain",n/a
 2026-08-05,threatfox,DOMAIN,build.netbazaar.lol,"unknown, domain",n/a
-2026-08-04,tweetfeed,URL,http://192.210.178.167,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
-2026-08-04,tweetfeed,URL,http://telegram.recipes,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
-2026-08-04,tweetfeed,URL,http://3x.wgnlmq.org,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
-2026-08-04,tweetfeed,URL,http://00hou.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://8jd03l7y.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://accountkiller.app,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://accountsale.space,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://ai-pay.online,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://alexcalls.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://alitel.lwcloud.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://app-telegrme.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://app.pinlix.ru,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://apps-google-google.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://assorg.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://bankr.sale,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://boost-t.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://calypso.qpon,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://cn-telegram-web.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://cn.fi-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://cn.telegrampcam.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://cn.telegrampropc.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://cn.telegramtghg.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://codeby.academy,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://coinyas.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://dianbaoo.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://dinbao-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://eazymoney.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://eta.389838.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://fairground.network,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://fc2.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://fei-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://feijit-m.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://fi-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://fortelegram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://geowo.website,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://hello-4xs.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://hkk.598316.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://ip.bj89.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://ipcece.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://ipcheck.bbu.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://ipcheck.mushan.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://ipck.iiiii.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://iplist.bouvier.live,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://iplist.opencck.org,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://jnj.239421.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://kl-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://kyrgra.website,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://l.badpanda.ink,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://l.mrxx.space,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://lanmei.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://login.stel.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://madebysaira.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://my.kitoftorvpn.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://nft.fragment.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://nn-electrik.ru,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://og-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://oneitv.site,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://persikmarket.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://pl-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://prodanova.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://proxy-to-t-me.mtf-xyn-bdxyn.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://qcy33.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://re-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://regstr.qpon,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://rg-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://safeparis.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://sicherewette.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://skygateaccount.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://smartgptautomations.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://snoozethis.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://srortmoney.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://t-meapp.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tejlegram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://teldegram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telefeed.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telefgram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://teleg-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegam-zh-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://teleggrram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-7.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-8.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-cnzh.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-garm.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-gr.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-net.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-net.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-te.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-yi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-yi.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram-zh-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram.ariesed.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram.banka.gg,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegram.m-haghighat13.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramamg.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramappaa.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramcn86.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramcnweb.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramencrypted.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrameram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramgn.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramgra.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramgrm.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramin-cni.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramip.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrammessage-7wk.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrammessage.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramnr.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramo.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramoin-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramom.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramon.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramoott.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramop.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramorg-cn.co,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramorg-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrampc-apps.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrampczh.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrampm.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramppo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrampropc.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramte.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtg.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgan.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgappc.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgda.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgdi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgei.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgen.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgfa.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgfo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgge.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtggu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtghe.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtghg.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtghu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgju.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgka.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgke.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgku.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgla.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgle.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgli.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtglo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtglu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtglv.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgmi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgoo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgqi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgre.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgse.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgta.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgtt.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramtgyes.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramut.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramv.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramvip.net,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramxi.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramzhcn.org,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramzhongwen.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegramzhtg.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrgam.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telegrrram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telergam-a.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telergam-b.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telergam-c.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telergam-cdn71386.aa9977rt.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telergam-cdn83124.aa9977rt.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://telergam-cdn99471.aa9977rt.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tg-me.sbs,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tgkit.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tgr-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tgtchina.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tgtelegramre.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tgxnh.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://thetex.top,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tme-proxy.alex-074.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://ttttttttt.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://tvwikiz.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://venomsmoke.flaskmime.net,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://vipforexaccademy.glinetechmedia.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://vpnbot.tech,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://web.tegevo.top,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://wesmessage.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://wesmessage.net,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://wv-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://xiaciyiding.co,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://xiacyiding.co,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://yoium.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zerohex.ir,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zh.tc-telegram.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeiji-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-mo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-nu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-nv.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-po.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-pu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-qu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-ru.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-si.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-tu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-wo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-wu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-xu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-yo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,URL,http://zhifeijipc-yu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
+2026-08-05,threatfox,DOMAIN,rxasoj.reconciliationintl.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,reconciliationintl.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,pjbozbf.rootconsole.net,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,rootconsole.net,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,kqwmmz.realmanpath.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,kggzmtp.romeroautodetails.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,romeroautodetails.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,rodspressurewash.com,"js.clearfake, domain",n/a
 2026-08-04,tweetfeed,URL,http://alert-bh.com,n/a,https://x.com/500mk500/status/2084581039100321987
 2026-08-04,tweetfeed,URL,http://alertbh.info,n/a,https://x.com/500mk500/status/2084581039100321987
 2026-08-04,tweetfeed,URL,http://beneficiary-survey.info,n/a,https://x.com/500mk500/status/2084581039100321987
@@ -777,210 +547,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,URL,http://66.45.225.94:1246/p,n/a,https://x.com/ishivtripathi/status/2084907438243991883
 2026-08-05,tweetfeed,URL,http://logkit-tau.vercel.app,n/a,https://x.com/ishivtripathi/status/2084907438243991883
 2026-08-05,tweetfeed,URL,http://66.45.225.94,n/a,https://x.com/ishivtripathi/status/2084907438243991883
-2026-08-04,tweetfeed,DOMAIN,telegram.recipes,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
-2026-08-04,tweetfeed,DOMAIN,3x.wgnlmq.org,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
-2026-08-04,tweetfeed,DOMAIN,00hou.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,8jd03l7y.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,accountkiller.app,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,accountsale.space,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,ai-pay.online,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,alexcalls.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,alitel.lwcloud.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,app-telegrme.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,app.pinlix.ru,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,apps-google-google.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,assorg.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,bankr.sale,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,boost-t.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,calypso.qpon,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,cn-telegram-web.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,cn.fi-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,cn.telegrampcam.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,cn.telegrampropc.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,cn.telegramtghg.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,codeby.academy,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,coinyas.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,dianbaoo.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,dinbao-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,eazymoney.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,eta.389838.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,fairground.network,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,fc2.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,fei-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,feijit-m.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,fi-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,fortelegram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,geowo.website,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,hello-4xs.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,hkk.598316.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,ip.bj89.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,ipcece.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,ipcheck.bbu.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,ipcheck.mushan.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,ipck.iiiii.cc.cd,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,iplist.bouvier.live,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,iplist.opencck.org,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,jnj.239421.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,kl-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,kyrgra.website,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,l.badpanda.ink,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,l.mrxx.space,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,lanmei.xyz,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,login.stel.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,madebysaira.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,my.kitoftorvpn.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,nft.fragment.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,nn-electrik.ru,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,og-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,oneitv.site,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,persikmarket.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,pl-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,prodanova.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,proxy-to-t-me.mtf-xyn-bdxyn.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,qcy33.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,re-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,regstr.qpon,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,rg-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,safeparis.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,sicherewette.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,skygateaccount.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,smartgptautomations.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,snoozethis.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,srortmoney.fun,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,t-meapp.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tejlegram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,teldegram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telefeed.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telefgram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,teleg-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegam-zh-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,teleggrram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-7.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-8.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-cnzh.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-garm.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-gr.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-net.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-net.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-te.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-yi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-yi.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram-zh-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram.ariesed.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram.banka.gg,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegram.m-haghighat13.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramamg.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramappaa.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramcn86.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramcnweb.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramencrypted.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrameram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramgn.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramgra.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramgrm.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramin-cni.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramip.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrammessage-7wk.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrammessage.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramnr.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramo.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramoin-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramom.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramon.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramoott.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramop.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramorg-cn.co,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramorg-cn.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrampc-apps.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrampczh.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrampm.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramppo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrampropc.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramte.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtg.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgan.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgappc.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgda.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgdi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgei.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgen.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgfa.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgfo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgge.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtggu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtghe.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtghg.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtghu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgju.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgka.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgke.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgku.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgla.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgle.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgli.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtglo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtglu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtglv.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgmi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgoo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgqi.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgre.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgse.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgta.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgtt.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramtgyes.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramut.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramv.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramvip.net,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramxi.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramzhcn.org,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramzhongwen.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegramzhtg.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrgam.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telegrrram.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telergam-a.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telergam-b.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telergam-c.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telergam-cdn71386.aa9977rt.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telergam-cdn83124.aa9977rt.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,telergam-cdn99471.aa9977rt.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tg-me.sbs,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tgkit.pages.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tgr-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tgtchina.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tgtelegramre.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tgxnh.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,thetex.top,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tme-proxy.alex-074.workers.dev,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,ttttttttt.me,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,tvwikiz.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,venomsmoke.flaskmime.net,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,vipforexaccademy.glinetechmedia.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,vpnbot.tech,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,web.tegevo.top,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,wesmessage.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,wesmessage.net,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,wv-telegram.hl.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,xiaciyiding.co,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,xiacyiding.co,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,yoium.com,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zerohex.ir,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zh.tc-telegram.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeiji-telegram.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-mo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-nu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-nv.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-po.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-pu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-qu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-ru.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-si.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-tu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-wo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-wu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-xu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-yo.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
-2026-08-04,tweetfeed,DOMAIN,zhifeijipc-yu.com.cn,phishing,https://x.com/skocherhan/status/2084564653015757266
 2026-08-04,tweetfeed,DOMAIN,alert-bh.com,n/a,https://x.com/500mk500/status/2084581039100321987
 2026-08-04,tweetfeed,DOMAIN,alertbh.info,n/a,https://x.com/500mk500/status/2084581039100321987
 2026-08-04,tweetfeed,DOMAIN,beneficiary-survey.info,n/a,https://x.com/500mk500/status/2084581039100321987
@@ -1270,10 +836,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,DOMAIN,dokument-pdf.lat,opendir,https://x.com/JAMESWT_WT/status/2084885576503681157
 2026-08-05,tweetfeed,DOMAIN,facebooksetup.blogspot.com,phishing,https://x.com/phishunt_io/status/2084897362883846621
 2026-08-05,tweetfeed,DOMAIN,logkit-tau.vercel.app,n/a,https://x.com/ishivtripathi/status/2084907438243991883
-2026-08-04,tweetfeed,HASH_SHA256,d90e686ddc1d288e29c1bceb68ffedccb3285f83be7eef4f50c45144f025a12d,n/a,https://x.com/Dixit_404/status/2084521229571289351
-2026-08-04,tweetfeed,IP,192.210.178.167,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
-2026-08-04,tweetfeed,HASH_SHA256,2ef07222dc1eaeab1f507f4c701926e0672808c9673e4a3f4df868cf1ce1283c,phishing,https://x.com/ThantZin_Ron/status/2084556669028360425
-2026-08-04,tweetfeed,HASH_SHA256,181349b08b8da309823b3b6a670ce13581ff82af7b03db71ba60c705d0620261,phishing,https://x.com/skocherhan/status/2084564653015757266
 2026-08-04,tweetfeed,HASH_SHA256,3f72767b211c84a7e35cdf397b228b22f2156984ea1c8cc4380b73a516c49ab8,malware,https://x.com/OpcodeIntel/status/2084576476629020986
 2026-08-04,tweetfeed,HASH_SHA256,fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb,n/a,https://x.com/nextronresearch/status/2084599046878974164
 2026-08-04,tweetfeed,HASH_SHA256,54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668,n/a,https://x.com/nextronresearch/status/2084599046878974164
@@ -1318,9 +880,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,IP,66.45.225.94,n/a,https://x.com/ishivtripathi/status/2084907438243991883
 2026-08-05,tweetfeed,HASH_SHA256,ab65cef60fc097c2a9fb03a7855c9c03dfe3ccc874080720f0e631c6ee2c3e51,n/a,https://x.com/ishivtripathi/status/2084907438243991883
 2026-08-05,tweetfeed,IP,107.161.90.180,C2,https://x.com/Fact_Finder03/status/2084917608244289956
-2026-08-04,tweetfeed,HASH_MD5,aa8e9ade9a86a50e55479f1978c30527,n/a,https://x.com/skocherhan/status/2084567975810461850
-2026-08-04,tweetfeed,HASH_MD5,9348c849bb1b45599e3347ca45326446,n/a,https://x.com/skocherhan/status/2084567975810461850
-2026-08-04,tweetfeed,HASH_MD5,34a66ffab5b2b2e82f4aeed24e2e570a,n/a,https://x.com/skocherhan/status/2084571676914622598
 2026-08-04,tweetfeed,HASH_MD5,f811e9e0704c16c8f3ba6201c72be556,ransomware,https://x.com/suyog41/status/2084608375489548767
 2026-08-04,tweetfeed,HASH_MD5,3390b960af5dd1933289b916af3ecce9,stealer,https://x.com/suyog41/status/2084651748468326817
 2026-08-04,tweetfeed,HASH_MD5,9bdb0c756eb6e4af9a58c0bdbb0099fb,n/a,https://x.com/Now_on_VT/status/2084735373738172605
