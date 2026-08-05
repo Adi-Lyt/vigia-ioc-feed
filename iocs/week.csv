@@ -4,8 +4,6 @@ date,user,type,ioc,tags,context
 2026-08-04,cisa_kev,CVE,CVE-2026-18556,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-34486,"Apache Tomcat, kev","Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-9198,"IBM Langflow, kev","Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
-2026-07-29,threatfox,URL,https://www.guvenceliotoelektrik.com/,"unknown, url",n/a
-2026-07-29,threatfox,URL,http://brigne.top:7673,"win.remus, url",n/a
 2026-07-29,threatfox,URL,http://103.174.243.204:39667/Mozi.m,"elf.mozi, url",n/a
 2026-07-29,threatfox,URL,https://novacupola.top/role/logout-header.js,"js.smartapesg, url",n/a
 2026-07-29,threatfox,URL,http://124.29.247.76:57576/Mozi.m,"elf.mozi, url",n/a
@@ -321,25 +319,6 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,URL,http://113.236.100.208:54189/Mozi.m,"elf.mozi, url",n/a
 2026-08-05,threatfox,URL,https://62.238.60.47,"win.vidar, url",n/a
 2026-08-05,threatfox,URL,http://217.60.7.218/mort.php,"win.kimsuky, url",n/a
-2026-07-29,threatfox,DOMAIN,epnoyy.viveheadspa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,viveheadspa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,iivwka.vivaan-sharma.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,ljqwjle.wisconsinriveroutfitters.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,vivaan-sharma.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wisconsinriveroutfitters.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wwlhzmx.wing88.net,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,djdfav.villas-restaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wing88.net,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,gepskmb.wildwingpreservepoa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,i1s4s2bo.disnakerkopjambikota.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,xfktqi.villas-restaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,villas-restaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,inzngil.wildwingpreservepoa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wildwingpreservepoa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,aotkjl.petgroomercoralsprings.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,petgroomercoralsprings.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,pamsribbonsandroses.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,nqvtmc.parkwayheightsptsa.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,oldmon56121.icu,"js.iclickfix, domain",n/a
 2026-07-29,threatfox,DOMAIN,analyze-me3.buzz,"js.iclickfix, domain",n/a
 2026-07-29,threatfox,DOMAIN,trokorypi451.icu,"js.iclickfix, domain",n/a
@@ -3851,9 +3830,6 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,DOMAIN,tpvyfp.razonewane.com,"js.clearfake, domain",n/a
 2026-08-05,threatfox,DOMAIN,yibormy.parma-delikatessen.com,"js.clearfake, domain",n/a
 2026-08-05,threatfox,DOMAIN,vnukdf.purefunsurfboards.com,"js.clearfake, domain",n/a
-2026-07-29,tweetfeed,URL,https://thedigitalvibe.com/page/agbqxryteq,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,URL,https://uggxposclps.top/jp,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,URL,https://czaldeylkrn.top/jp,phishing,https://x.com/Metemcyber/status/2082348112287596849
 2026-07-29,tweetfeed,URL,http://paypal.myproccesing.com,phishing,https://x.com/phishunt_io/status/2082360660860547152
 2026-07-29,tweetfeed,URL,https://ppz0y9a6grw3veoqwz.live,phishing,https://x.com/masaomi346/status/2082360914251280693
 2026-07-29,threatfox,HASH_SHA256,a8ab5c112f0e6f7f2762b0f96fd16da312af98820d46a79f58689abdb679d561,"unknown, sha256_hash",n/a
@@ -5325,9 +5301,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,URL,https://dokument-pdf.lat/files/,opendir,https://x.com/JAMESWT_WT/status/2084885576503681157
 2026-08-05,threatfox,HASH_SHA256,04b8d6f7158689a311b22200c4c0fb5186a6751a422b5510b5a5fbf1c2a9cd5f,"unknown, sha256_hash",n/a
 2026-08-05,threatfox,HASH_SHA256,4c48cbbd55ff2b63a1fca862b8bb8ff00eec90050b2a2608140bbb3b2ad03f54,"unknown, sha256_hash",n/a
-2026-07-29,tweetfeed,DOMAIN,thedigitalvibe.com,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,DOMAIN,uggxposclps.top,phishing,https://x.com/harugasumi/status/2082341548466008501
-2026-07-29,tweetfeed,DOMAIN,czaldeylkrn.top,phishing,https://x.com/Metemcyber/status/2082348112287596849
 2026-07-29,tweetfeed,DOMAIN,paypal.myproccesing.com,phishing,https://x.com/phishunt_io/status/2082360660860547152
 2026-07-29,tweetfeed,DOMAIN,ppz0y9a6grw3veoqwz.live,phishing,https://x.com/masaomi346/status/2082360914251280693
 2026-07-29,threatfox,HASH_MD5,71549eced18fa532dc060d19cae80549,"unknown, md5_hash",n/a
