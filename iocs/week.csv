@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-08-04,cisa_kev,CVE,CVE-2026-18556,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-34486,"Apache Tomcat, kev","Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-9198,"IBM Langflow, kev","Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
-2026-07-29,threatfox,URL,http://greenns.biz:2930,"win.remus, url",n/a
 2026-07-29,threatfox,URL,http://strmer.top:5292,"win.remus, url",n/a
 2026-07-29,threatfox,URL,https://sietefarma.com/,"unknown, url",n/a
 2026-07-29,threatfox,URL,https://griffihhs.click/api/v1/status,"js.kongtuke, url",n/a
@@ -312,16 +311,6 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,URL,https://mua.y8slot.net/,"win.vidar, url",n/a
 2026-08-05,threatfox,URL,https://hornbeamcairn.top/endpoint/handler-stylesheet.js,"js.smartapesg, url",n/a
 2026-08-05,threatfox,URL,https://morenarestaurant.com.au/,"win.vidar, url",n/a
-2026-07-29,threatfox,DOMAIN,sc-api.abuarerestaurant.net,"js.fakeupdates, domain",n/a
-2026-07-29,threatfox,DOMAIN,2hzfeoep.crownconnectpk.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wwjgeu.phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,wupvgbt.prairiefurnitureshop.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,prairiefurnitureshop.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,cbrldu.phoenixfactory.org,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,lgteexx.witchwatchchapters.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,phoenixfactory.org,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,vrzslhe.wisconsinriveroutfitters.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,evyahvhbwbsxufviky.energyrefundhelpline.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,energyrefundhelpline.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,zapas-xoga-cig.cc,"js.clearfake, domain",n/a
@@ -3164,8 +3153,6 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,DOMAIN,vivaldinotabot.com,"unknown, domain",n/a
 2026-08-05,threatfox,DOMAIN,cqylt.net,"unknown, domain",n/a
 2026-08-05,threatfox,DOMAIN,zuodx.com,"unknown, domain",n/a
-2026-07-29,tweetfeed,URL,http://217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
-2026-07-29,tweetfeed,URL,http://litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,URL,http://fedexxl.deliverys.online,phishing,https://x.com/phishunt_io/status/2082511685240184885
 2026-07-29,tweetfeed,URL,https://forumdeenergias.com.br/futuremastics/11.php/,phishing,https://x.com/patialavii/status/2082515718353158461
 2026-07-29,tweetfeed,URL,https://secure-document-review-c3l30u.pagefile.workers.dev/app,phishing,https://x.com/patialavii/status/2082515718353158461
@@ -4345,7 +4332,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,URL,http://0055xing.com,n/a,https://x.com/webamon_search/status/2084996888487469305
 2026-08-05,tweetfeed,URL,http://202.141.32.16:45833/Mozi.m,n/a,https://x.com/sicehice/status/2085002128553091466
 2026-08-05,tweetfeed,URL,http://196.251.121.142/a3f8d2/dlink.sh,n/a,https://x.com/sicehice/status/2085002114619572696
-2026-07-29,tweetfeed,DOMAIN,litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,DOMAIN,fedexxl.deliverys.online,phishing,https://x.com/phishunt_io/status/2082511685240184885
 2026-07-29,tweetfeed,DOMAIN,forumdeenergias.com.br,phishing,https://x.com/patialavii/status/2082515718353158461
 2026-07-29,tweetfeed,DOMAIN,secure-document-review-c3l30u.pagefile.workers.dev,phishing,https://x.com/patialavii/status/2082515718353158461
@@ -5379,8 +5365,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,DOMAIN,multidevs.com,n/a,https://x.com/KseProso/status/2084984281785389166
 2026-08-05,tweetfeed,DOMAIN,darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion,ransomware,https://x.com/fbgwls245/status/2084995091895349616
 2026-08-05,tweetfeed,DOMAIN,0055xing.com,n/a,https://x.com/webamon_search/status/2084996888487469305
-2026-07-29,tweetfeed,IP,217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
-2026-07-29,tweetfeed,HASH_SHA256,4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,IP,1.117.77.166,n/a,https://x.com/teamcymru_S2/status/2082500314125451750
 2026-07-29,tweetfeed,IP,1.14.103.5,n/a,https://x.com/teamcymru_S2/status/2082500314125451750
 2026-07-29,tweetfeed,IP,1.14.126.124,n/a,https://x.com/teamcymru_S2/status/2082500314125451750
