@@ -2,7 +2,6 @@ date,user,type,ioc,tags,context
 2026-08-04,cisa_kev,CVE,CVE-2026-18556,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-34486,"Apache Tomcat, kev","Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-9198,"IBM Langflow, kev","Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
-2026-08-04,threatfox,URL,https://lexingtoncancerfoundation.org/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://slu.popi999.net/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://determinedresults.com/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://muhammedmuheisen.com/,"win.vidar, url",n/a
@@ -50,8 +49,6 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,URL,https://psk.y8slot.net/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,https://psk.sinism188.top/,"win.vidar, url",n/a
 2026-08-04,threatfox,URL,http://mainserver.com/gate.php,"win.pony, url",n/a
-2026-08-04,threatfox,DOMAIN,opnugp.littlehousetees.com,"js.clearfake, domain",n/a
-2026-08-04,threatfox,DOMAIN,enter-pverif-code.info,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,slu.popi999.net,"win.vidar, domain",n/a
 2026-08-04,threatfox,DOMAIN,phpxta.lnlmotoring.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,rnxsvbb.grannygshemporium.com,"js.clearfake, domain",n/a
@@ -265,6 +262,11 @@ date,user,type,ioc,tags,context
 2026-08-04,threatfox,DOMAIN,purefunsurfboards.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,qiybelm.razonewane.com,"js.clearfake, domain",n/a
 2026-08-04,threatfox,DOMAIN,razonewane.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,kjjhdkx.abcdbro.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,zoihkb.pureglamlb.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,pureglamlb.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,xxziiqx.realmanpath.com,"js.clearfake, domain",n/a
+2026-08-05,threatfox,DOMAIN,realmanpath.com,"js.clearfake, domain",n/a
 2026-08-04,tweetfeed,URL,http://txpfproxy.vip,n/a,https://x.com/skocherhan/status/2084445425428484357
 2026-08-04,tweetfeed,URL,http://sun-rat.com,n/a,https://x.com/skocherhan/status/2084447588259143996
 2026-08-04,tweetfeed,URL,https://akitastonet.com/yyeomy/,phishing,https://x.com/masaomi346/status/2084450145870254413
@@ -781,6 +783,7 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,URL,http://zzhgdop-baidu2026730z.014901490149z.com,n/a,https://x.com/skocherhan/status/2084771538969002414
 2026-08-04,tweetfeed,URL,http://156.251.16.29/789.png,n/a,https://x.com/skocherhan/status/2084777554628456913
 2026-08-04,tweetfeed,URL,http://prep-phones-aqua-addition.trycloudflare.com,n/a,https://x.com/skocherhan/status/2084783077826371854
+2026-08-05,tweetfeed,URL,https://login.raaglpfplzp.top/login,phishing,https://x.com/masaomi346/status/2084801945295098263
 2026-08-04,tweetfeed,DOMAIN,sun-rat.com,n/a,https://x.com/skocherhan/status/2084447588259143996
 2026-08-04,tweetfeed,DOMAIN,akitastonet.com,phishing,https://x.com/masaomi346/status/2084450145870254413
 2026-08-04,tweetfeed,DOMAIN,europe-pian.com,phishing,https://x.com/masaomi346/status/2084450145870254413
@@ -1279,6 +1282,7 @@ date,user,type,ioc,tags,context
 2026-08-04,tweetfeed,DOMAIN,zzhgdop-baidu2026730z.014901490149y.com,n/a,https://x.com/skocherhan/status/2084771538969002414
 2026-08-04,tweetfeed,DOMAIN,zzhgdop-baidu2026730z.014901490149z.com,n/a,https://x.com/skocherhan/status/2084771538969002414
 2026-08-04,tweetfeed,DOMAIN,prep-phones-aqua-addition.trycloudflare.com,n/a,https://x.com/skocherhan/status/2084783077826371854
+2026-08-05,tweetfeed,DOMAIN,login.raaglpfplzp.top,phishing,https://x.com/masaomi346/status/2084801945295098263
 2026-08-04,tweetfeed,HASH_SHA256,93df03d7db7df23317ee87ebe3946ddff4364e45de5217b0c90c7925b22c8f04,n/a,https://x.com/bomccss/status/2084508786782585333
 2026-08-04,tweetfeed,IP,204.194.50.231,APT,https://x.com/Thisism23567356/status/2084545110058877205
 2026-08-04,tweetfeed,HASH_SHA256,d90e686ddc1d288e29c1bceb68ffedccb3285f83be7eef4f50c45144f025a12d,n/a,https://x.com/Dixit_404/status/2084521229571289351
