@@ -4,7 +4,6 @@ date,user,type,ioc,tags,context
 2026-08-04,cisa_kev,CVE,CVE-2026-18556,"N-able N-central, kev","N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-34486,"Apache Tomcat, kev","Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
 2026-08-04,cisa_kev,CVE,CVE-2026-9198,"IBM Langflow, kev","Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments. Action: Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines. Due: 2026-08-07"
-2026-07-29,threatfox,URL,https://ziegler-partner.eu/,"unknown, url",n/a
 2026-07-29,threatfox,URL,http://greenns.biz:2930,"win.remus, url",n/a
 2026-07-29,threatfox,URL,http://strmer.top:5292,"win.remus, url",n/a
 2026-07-29,threatfox,URL,https://sietefarma.com/,"unknown, url",n/a
@@ -313,16 +312,6 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,URL,https://mua.y8slot.net/,"win.vidar, url",n/a
 2026-08-05,threatfox,URL,https://hornbeamcairn.top/endpoint/handler-stylesheet.js,"js.smartapesg, url",n/a
 2026-08-05,threatfox,URL,https://morenarestaurant.com.au/,"win.vidar, url",n/a
-2026-07-29,threatfox,DOMAIN,blebxzj.wing88.net,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,telemetryworks.pro,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,waihzc.phoenixdistnc.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,phoenixdistnc.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,bs-deliver-e817.61d8f0e6ac62c139abd08ba5.workers.dev,"unknown, domain",n/a
-2026-07-29,threatfox,DOMAIN,mexproudhipping.com,"unknown, domain",n/a
-2026-07-29,threatfox,DOMAIN,yellow-smoke-3d0d.yellow-smoke.workers.dev,"unknown, domain",n/a
-2026-07-29,threatfox,DOMAIN,vjdvle.wasteoilparts.net,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,qjadqgu.wildwingpreservepoa.com,"js.clearfake, domain",n/a
-2026-07-29,threatfox,DOMAIN,uocoxj.viveheadspa.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,sc-api.abuarerestaurant.net,"js.fakeupdates, domain",n/a
 2026-07-29,threatfox,DOMAIN,2hzfeoep.crownconnectpk.com,"js.clearfake, domain",n/a
 2026-07-29,threatfox,DOMAIN,wwjgeu.phomaivietnameserestaurant.com,"js.clearfake, domain",n/a
@@ -3164,7 +3153,6 @@ date,user,type,ioc,tags,context
 2026-08-05,threatfox,DOMAIN,slccac.rhillsmotorsport.com,"js.clearfake, domain",n/a
 2026-08-05,threatfox,DOMAIN,rhillsmotorsport.com,"js.clearfake, domain",n/a
 2026-08-05,threatfox,DOMAIN,gxnroradpdvvwchhyi.oasisoutdoorliving.store,"js.clearfake, domain",n/a
-2026-07-29,tweetfeed,URL,http://msfconfig.icu,ClickFix,https://x.com/CriminalIP_US/status/2082451082878328961
 2026-07-29,tweetfeed,URL,http://217.60.77.63,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,URL,http://litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,URL,http://fedexxl.deliverys.online,phishing,https://x.com/phishunt_io/status/2082511685240184885
@@ -4343,7 +4331,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,URL,http://blackskydev.org,n/a,https://x.com/KseProso/status/2084984281785389166
 2026-08-05,tweetfeed,URL,http://multidevs.com,n/a,https://x.com/KseProso/status/2084984281785389166
 2026-08-05,tweetfeed,URL,http://darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion,ransomware,https://x.com/fbgwls245/status/2084995091895349616
-2026-07-29,tweetfeed,DOMAIN,msfconfig.icu,ClickFix,https://x.com/CriminalIP_US/status/2082451082878328961
 2026-07-29,tweetfeed,DOMAIN,litterbox.catbox.moe,n/a,https://x.com/nextronresearch/status/2082465509560266820
 2026-07-29,tweetfeed,DOMAIN,fedexxl.deliverys.online,phishing,https://x.com/phishunt_io/status/2082511685240184885
 2026-07-29,tweetfeed,DOMAIN,forumdeenergias.com.br,phishing,https://x.com/patialavii/status/2082515718353158461
@@ -5670,7 +5657,6 @@ date,user,type,ioc,tags,context
 2026-08-05,tweetfeed,IP,51.89.204.24,"C2, stealer",https://x.com/Fact_Finder03/status/2084980488868180334
 2026-08-05,tweetfeed,HASH_SHA256,1f7ab5418d489fdd2fb392ada3accc77c13586f94f059ee8e5cc83c0974b614b,n/a,https://x.com/James_inthe_box/status/2084987299738317301
 2026-08-05,tweetfeed,HASH_SHA256,b20f39fc00d242e706b6c30367ad811c676e0575050a4ec2f30104b696944b49,n/a,https://x.com/nextronresearch/status/2084991108006781059
-2026-07-29,tweetfeed,HASH_MD5,62c335a4c4ab14bbc85eb1c026db2f8a,n/a,https://x.com/Now_on_VT/status/2082455350331007315
 2026-07-30,tweetfeed,HASH_MD5,99ddd4f40eac2cec7fcdfc74c63a2480,n/a,https://x.com/skocherhan/status/2082658080278339723
 2026-07-30,tweetfeed,HASH_MD5,527729054da74abbc65749de14008236,n/a,https://x.com/skocherhan/status/2082658080278339723
 2026-07-30,tweetfeed,HASH_MD5,25ae6fd1317fa572ecea835fd402f497,"WsgiDAV, opendir",https://x.com/d1v35hresearch/status/2082717809445056582
